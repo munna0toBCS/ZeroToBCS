@@ -6,6 +6,7 @@ import StudyPlanner from "./pages/StudyPlanner";
 import MCQ from "./pages/MCQ";
 import Mentor from "./pages/Mentor";
 import Analytics from "./pages/Analytics";
+import Sidebar from "./components/Sidebar";
 const stats = [
   { title: "Today's Study", value: "0 min" },
   { title: "XP", value: "0" },
@@ -24,35 +25,7 @@ export default function App() {
   return (
     <div className="app">
 
-      <aside className="sidebar">
-
-        <h2>🚀 ZeroToBCS</h2>
-
-        <button onClick={() => setPage("dashboard")}>
-          Dashboard
-        </button>
-
-        <button onClick={() => setPage("syllabus")}>
-          Syllabus
-        </button>
-
-        <button onClick={() => setPage("planner")}>
-          Study Planner
-        </button>
-
-        <button onClick={() => setPage("mcq")}>
-          MCQ Exam
-        </button>
-
-        <button onClick={() => setPage("mentor")}>
-          AI Mentor
-        </button>
-
-        <button onClick={() => setPage("analytics")}>
-          Analytics
-        </button>
-
-      </aside>
+<Sidebar setPage={setPage} />
 
       <main className="content">
 
