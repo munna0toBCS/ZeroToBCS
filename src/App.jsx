@@ -124,11 +124,104 @@ export default function App() {
   </>
 )}
 
-        {page === "planner" && <h1>Study Planner</h1>}
+  {page === "planner" && (
+  <>
+    <h1>Study Planner</h1>
 
-        {page === "mcq" && <h1>MCQ Exam</h1>}
+    <div className="cards">
 
-        {page === "mentor" && <h1>AI Mentor</h1>}
+      <div className="card">
+        <h3>Today's Target</h3>
+        <h2>8 Hours</h2>
+      </div>
+
+      <div className="card">
+        <h3>Completed</h3>
+        <h2>2 Hours</h2>
+      </div>
+
+      <div className="card">
+        <h3>Remaining</h3>
+        <h2>6 Hours</h2>
+      </div>
+
+    </div>
+
+    <div className="card" style={{ marginTop: "20px" }}>
+      <h3>Today's Routine</h3>
+
+      <p>🕗 8:00 AM - English</p>
+      <p>🕙 10:00 AM - Bangladesh Affairs</p>
+      <p>🕐 1:00 PM - Mathematics</p>
+      <p>🕓 4:00 PM - ICT</p>
+      <p>🕖 7:00 PM - MCQ Practice</p>
+
+    </div>
+
+  </>
+)}
+
+{page === "mcq" && (
+  <>
+    <h1>MCQ Exam</h1>
+
+    <div className="cards">
+
+      <div className="card">
+        <h3>Total Questions</h3>
+        <h2>200</h2>
+      </div>
+
+      <div className="card">
+        <h3>Completed</h3>
+        <h2>35</h2>
+      </div>
+
+      <div className="card">
+        <h3>Accuracy</h3>
+        <h2>82%</h2>
+      </div>
+
+    </div>
+
+    <div className="card" style={{ marginTop: "20px" }}>
+      <h2>Start Today's MCQ Test</h2>
+
+      <button style={{ marginTop: "15px" }}>
+        🚀 Start Exam
+      </button>
+    </div>
+
+  </>
+)}
+
+{page === "mentor" && (
+  <>
+    <h1>AI Mentor</h1>
+
+    <div className="card">
+      <h2>Ask Your Mentor</h2>
+
+      <textarea
+        rows="6"
+        placeholder="Ask any BCS related question..."
+        style={{
+          width: "100%",
+          marginTop: "20px",
+          padding: "15px",
+          borderRadius: "10px",
+          background: "#0b1f4d",
+          color: "white",
+          border: "none"
+        }}
+      />
+
+      <button style={{ marginTop: "20px" }}>
+        🤖 Ask AI
+      </button>
+    </div>
+  </>
+)}
 
         {page === "analytics" && <h1>Analytics</h1>}
 
