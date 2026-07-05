@@ -1,51 +1,58 @@
+import { useState } from "react";
 import "./App.css";
 
-function App() {
+export default function App() {
+  const [page, setPage] = useState("dashboard");
+
   return (
     <div className="app">
-      <aside className="sidebar">
-        <h2>🚀 ZeroToBCS</h2>
-        <p>From Zero to Cadre</p>
 
-        <button>Dashboard</button>
-        <button>Syllabus</button>
-        <button>Study Planner</button>
-        <button>MCQ Exam</button>
-        <button>AI Mentor</button>
-        <button>Analytics</button>
+      <aside className="sidebar">
+
+        <h2>🚀 ZeroToBCS</h2>
+
+        <button onClick={() => setPage("dashboard")}>
+          Dashboard
+        </button>
+
+        <button onClick={() => setPage("syllabus")}>
+          Syllabus
+        </button>
+
+        <button onClick={() => setPage("planner")}>
+          Study Planner
+        </button>
+
+        <button onClick={() => setPage("mcq")}>
+          MCQ Exam
+        </button>
+
+        <button onClick={() => setPage("mentor")}>
+          AI Mentor
+        </button>
+
+        <button onClick={() => setPage("analytics")}>
+          Analytics
+        </button>
+
       </aside>
 
-      <main className="main">
-        <section className="hero">
-          <p className="badge">Private Alpha</p>
-          <h1>Welcome back, Munna</h1>
-          <p>Your mission: BCS Police Cadre preparation with AI.</p>
-        </section>
+      <main className="content">
 
-        <section className="cards">
-          <div className="card">
-            <h3>Today’s Study</h3>
-            <h2>0 min</h2>
-          </div>
+        {page === "dashboard" && <h1>Dashboard</h1>}
 
-          <div className="card">
-            <h3>XP</h3>
-            <h2>0</h2>
-          </div>
+        {page === "syllabus" && <h1>BCS Syllabus</h1>}
 
-          <div className="card">
-            <h3>Level</h3>
-            <h2>Cadet</h2>
-          </div>
+        {page === "planner" && <h1>Study Planner</h1>}
 
-          <div className="card">
-            <h3>Accuracy</h3>
-            <h2>0%</h2>
-          </div>
-        </section>
+        {page === "mcq" && <h1>MCQ Exam</h1>}
+
+        {page === "mentor" && <h1>AI Mentor</h1>}
+
+        {page === "analytics" && <h1>Analytics</h1>}
+
       </main>
+
     </div>
   );
 }
-
-export default App;
