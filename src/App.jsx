@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import "./App.css";
 import Dashboard from "./pages/Dashboard";
 import Syllabus from "./pages/Syllabus";
@@ -7,6 +7,8 @@ import MCQ from "./pages/MCQ";
 import Mentor from "./pages/Mentor";
 import Analytics from "./pages/Analytics";
 import Auth from "./pages/Auth";
+import { onAuthStateChanged } from "firebase/auth";
+import { auth } from "./firebase";
 import Sidebar from "./components/Sidebar";
 const stats = [
   { title: "Today's Study", value: "0 min" },
@@ -23,6 +25,17 @@ const missions = [
 const progress = 25;
 export default function App() {
 const [page, setPage] = useState("auth");
+useEffect(() => {
+  const unsubscribe = onAuthStateChanged(auth, (user) => {
+    if (user) {
+      setPage("dashboard");
+    } else {
+      setPage("auth");
+    }
+  });
+
+  return () => unsubscribe();
+}, []);
   return (
     <div className="app">
 

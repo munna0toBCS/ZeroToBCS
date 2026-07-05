@@ -1,6 +1,18 @@
-export default function Dashboard() {
+import { signOut } from "firebase/auth";
+import { auth } from "../firebase";
+export default function Dashboard({ setPage }) {
+    const handleLogout = async () => {
+  await signOut(auth);
+  setPage("auth");
+};
   return (
     <>
+    <button
+onClick={handleLogout}
+  style={{ marginBottom: "20px" }}
+>
+  🚪 Logout
+</button>
       <section className="hero">
         <span className="badge">Private Alpha</span>
 
