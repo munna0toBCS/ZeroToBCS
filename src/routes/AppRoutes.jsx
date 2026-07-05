@@ -7,7 +7,7 @@ import StudyPlanner from "../pages/StudyPlanner";
 import MCQ from "../pages/MCQ";
 import Mentor from "../pages/Mentor";
 import Analytics from "../pages/Analytics";
-
+import Profile from "../pages/Profile";
 export default function AppRoutes() {
   return (
     <Routes>
@@ -19,6 +19,7 @@ export default function AppRoutes() {
       <Route path="/mcq" element={<MCQ />} />
       <Route path="/mentor" element={<Mentor />} />
       <Route path="/analytics" element={<Analytics />} />
+      <Route path="/profile" element={<Profile />} />
     </Routes>
   );
 }
