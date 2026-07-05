@@ -1,14 +1,33 @@
-export default function Sidebar({ setPage }) {
+import { Link } from "react-router-dom";
+
+export default function Sidebar() {
   return (
     <aside className="sidebar">
       <h2>🚀 ZeroToBCS</h2>
 
-      <button onClick={() => setPage("dashboard")}>Dashboard</button>
-      <button onClick={() => setPage("syllabus")}>Syllabus</button>
-      <button onClick={() => setPage("planner")}>Study Planner</button>
-      <button onClick={() => setPage("mcq")}>MCQ Exam</button>
-      <button onClick={() => setPage("mentor")}>AI Mentor</button>
-      <button onClick={() => setPage("analytics")}>Analytics</button>
+      <Link to="/dashboard">
+        <button>Dashboard</button>
+      </Link>
+
+      <Link to="/syllabus">
+        <button>Syllabus</button>
+      </Link>
+
+      <Link to="/planner">
+        <button>Study Planner</button>
+      </Link>
+
+      <Link to="/mcq">
+        <button>MCQ Exam</button>
+      </Link>
+
+      <Link to="/mentor">
+        <button>AI Mentor</button>
+      </Link>
+
+      <Link to="/analytics">
+        <button>Analytics</button>
+      </Link>
     </aside>
   );
 }
