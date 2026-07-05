@@ -6,6 +6,7 @@ import StudyPlanner from "./pages/StudyPlanner";
 import MCQ from "./pages/MCQ";
 import Mentor from "./pages/Mentor";
 import Analytics from "./pages/Analytics";
+import Auth from "./pages/Auth";
 import Sidebar from "./components/Sidebar";
 const stats = [
   { title: "Today's Study", value: "0 min" },
@@ -21,14 +22,14 @@ const missions = [
 ];
 const progress = 25;
 export default function App() {
-  const [page, setPage] = useState("dashboard");
+const [page, setPage] = useState("auth");
   return (
     <div className="app">
 
 <Sidebar setPage={setPage} />
 
       <main className="content">
-
+{page === "auth" && <Auth />}
 {page === "dashboard" && <Dashboard />}
 
 {page === "syllabus" && <Syllabus />}
