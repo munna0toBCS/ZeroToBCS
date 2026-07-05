@@ -29,7 +29,7 @@ const [page, setPage] = useState("auth");
 <Sidebar setPage={setPage} />
 
       <main className="content">
-{page === "auth" && <Auth />}
+{page === "auth" && <Auth setPage={setPage} />}
 {page === "dashboard" && <Dashboard />}
 
 {page === "syllabus" && <Syllabus />}
