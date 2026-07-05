@@ -1,5 +1,6 @@
 import { useState } from "react";
 import "./App.css";
+import Dashboard from "./pages/Dashboard";
 const stats = [
   { title: "Today's Study", value: "0 min" },
   { title: "XP", value: "0" },
@@ -50,51 +51,7 @@ export default function App() {
 
       <main className="content">
 
-{page === "dashboard" && (
-  <>
-    <section className="hero">
-      <span className="badge">Private Alpha</span>
-
-      <h1>Welcome back, Munna 👋</h1>
-
-      <p>
-        Your mission: Become a BCS Cadre through smart, consistent study.
-      </p>
-    </section>
-
-    <section className="cards">
-      {stats.map((item) => (
-        <div className="card" key={item.title}>
-          <h3>{item.title}</h3>
-          <h2>{item.value}</h2>
-        </div>
-      ))}
-    </section>
-    <section className="mission-card">
-  <h2>Today's Mission</h2>
-
-  <div className="mission-list">
-    {missions.map((mission) => (
-      <div className="mission-item" key={mission}>
-        ✅ {mission}
-      </div>
-    ))}
-  </div>
-</section>
-<section className="progress-card">
-  <h2>Overall Progress</h2>
-
-  <div className="progress-bar">
-    <div
-      className="progress-fill"
-      style={{ width: `${progress}%` }}
-    ></div>
-  </div>
-
-  <p>{progress}% Completed</p>
-</section>
-  </>
-)}
+{page === "dashboard" && <Dashboard />}
 
   {page === "syllabus" && (
   <>
