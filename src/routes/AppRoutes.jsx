@@ -12,7 +12,7 @@ import Exam from "../pages/Exam";
 import MistakeNotebook from "../pages/MistakeNotebook";
 import Admin from "../pages/Admin";
 import ProtectedRoute from "../components/ProtectedRoute";
-
+import AdminRoute from "../components/AdminRoute";
 export default function AppRoutes() {
   return (
     <Routes>
@@ -102,7 +102,9 @@ export default function AppRoutes() {
   path="/admin"
   element={
     <ProtectedRoute>
-      <Admin />
+      <AdminRoute>
+        <Admin />
+      </AdminRoute>
     </ProtectedRoute>
   }
 />

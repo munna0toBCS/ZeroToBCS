@@ -7,7 +7,7 @@ export default function App() {
     <div className="app">
       <Sidebar />
 
-      <main className="content">
+<main className="main">
         <AppRoutes />
       </main>
     </div>

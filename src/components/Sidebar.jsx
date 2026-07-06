@@ -1,39 +1,67 @@
-import { Link } from "react-router-dom";
+import { NavLink, useNavigate } from "react-router-dom";
+import { signOut } from "firebase/auth";
+import { auth } from "../firebase";
 
 export default function Sidebar() {
+  const navigate = useNavigate();
+
+  const handleLogout = async () => {
+    await signOut(auth);
+    navigate("/auth");
+  };
+
+  const menuItems = [
+    { path: "/dashboard", label: "🏠 Dashboard" },
+    { path: "/profile", label: "👤 Profile" },
+    { path: "/syllabus", label: "📚 Syllabus" },
+    { path: "/planner", label: "📅 Study Planner" },
+    { path: "/exam", label: "📝 Mock Exam" },
+    { path: "/mcq", label: "📖 Practice MCQ" },
+    { path: "/mistakes", label: "📒 Mistake Notebook" },
+    { path: "/mentor", label: "🤖 AI Mentor" },
+    { path: "/analytics", label: "📊 Analytics" },
+  ];
+
   return (
-    <aside className="sidebar">
-      <h2>🚀 ZeroToBCS</h2>
+    <aside
+      className="sidebar"
+      style={{
+        display: "flex",
+        flexDirection: "column",
+        minHeight: "100vh",
+      }}
+    >
+      <div>
+        <h2>🚀 ZeroToBCS</h2>
+        <p>Smart BCS Platform</p>
 
-      <Link to="/dashboard">
-        <button>Dashboard</button>
-      </Link>
+        {menuItems.map((item) => (
+          <NavLink key={item.path} to={item.path}>
+            {({ isActive }) => (
+              <button
+                style={{
+                  background: isActive ? "#3b82f6" : "#16284f",
+                  borderLeft: isActive
+                    ? "4px solid #ffffff"
+                    : "4px solid transparent",
+                }}
+              >
+                {item.label}
+              </button>
+            )}
+          </NavLink>
+        ))}
+      </div>
 
-      <Link to="/syllabus">
-        <button>Syllabus</button>
-      </Link>
-
-      <Link to="/planner">
-        <button>Study Planner</button>
-      </Link>
-
-      <Link to="/mcq">
-        <button>MCQ Exam</button>
-      </Link>
-
-      <Link to="/mentor">
-        <button>AI Mentor</button>
-      </Link>
-
-      <Link to="/analytics">
-        <button>Analytics</button>
-      </Link>
-      <Link to="/exam">
-  <button>📝 Mock Exam</button>
-</Link>
-<Link to="/mistakes">
-  <button>📒 Mistake Notebook</button>
-</Link>
+      <button
+        onClick={handleLogout}
+        style={{
+          marginTop: "auto",
+          background: "#ef4444",
+        }}
+      >
+        🚪 Logout
+      </button>
     </aside>
   );
 }

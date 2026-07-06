@@ -28,9 +28,7 @@ export default function Dashboard() {
 
   return (
     <div style={{ maxWidth: "1100px", margin: "0 auto" }}>
-      <button onClick={handleLogout} style={{ marginBottom: "20px" }}>
-        🚪 Logout
-      </button>
+
 
       <section className="hero">
         <span className="badge">ZeroToBCS V2</span>
