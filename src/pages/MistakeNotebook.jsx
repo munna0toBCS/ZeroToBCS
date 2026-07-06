@@ -8,7 +8,6 @@ export default function MistakeNotebook() {
   useEffect(() => {
     const loadMistakes = async () => {
       const user = auth.currentUser;
-
       if (!user) return;
 
       const mistakesRef = collection(db, "users", user.uid, "mistakes");
@@ -26,11 +25,11 @@ export default function MistakeNotebook() {
   }, []);
 
   return (
-    <div style={{ maxWidth: "900px", margin: "40px auto" }}>
+    <div style={{ maxWidth: "950px", margin: "40px auto" }}>
       <h1>📒 Mistake Notebook</h1>
 
       <p style={{ marginBottom: "25px" }}>
-        Review the questions you answered wrong.
+        Review your repeated wrong answers and improve weak topics.
       </p>
 
       {mistakes.length === 0 ? (
@@ -42,6 +41,12 @@ export default function MistakeNotebook() {
         mistakes.map((mistake, index) => (
           <div key={mistake.id} className="card" style={{ marginBottom: "20px" }}>
             <h3>Question {index + 1}</h3>
+
+            <p>📚 Subject: {mistake.subject}</p>
+            <p>📌 Topic: {mistake.topic}</p>
+            <p>🔁 Wrong Count: {mistake.wrongCount || 1}</p>
+
+            <hr style={{ margin: "15px 0" }} />
 
             <p>
               <strong>{mistake.question}</strong>
