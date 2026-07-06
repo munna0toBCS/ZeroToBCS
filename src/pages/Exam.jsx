@@ -1,6 +1,9 @@
 import { useMemo, useState } from "react";
 import { useNavigate } from "react-router-dom";
-
+import { auth } from "../firebase";
+import { addXP } from "../services/xpService";
+import { saveMistakes } from "../services/mistakeService";
+import { saveExamHistory } from "../services/examHistoryService";
 import examQuestions from "../data/examQuestions";
 
 import QuestionCard from "../components/exam/QuestionCard";
@@ -60,9 +63,50 @@ export default function Exam() {
     }));
   };
 
-  const handleSubmit = () => {
-    setSubmitted(true);
-  };
+const handleSubmit = async () => {
+  setSubmitted(true);
+
+  const user = auth.currentUser;
+
+  if (!user) return;
+
+  let xpReward = 20;
+
+  if (result.grade === "A+") xpReward += 50;
+  else if (result.grade === "A") xpReward += 30;
+  else if (result.grade === "B") xpReward += 15;
+
+  await addXP(user.uid, xpReward);
+const mistakes = examQuestions
+  .filter((question) => {
+    const userAnswer = answers[question.id];
+    return userAnswer !== undefined && userAnswer !== question.answer;
+  })
+  .map((question) => ({
+    questionId: question.id,
+    subject: question.subject,
+    topic: question.topic,
+    question: question.question,
+    options: question.options,
+    correctAnswer: question.answer,
+    userAnswer: answers[question.id],
+    explanation: question.explanation,
+  }));
+
+await saveMistakes(user.uid, mistakes);
+await saveExamHistory(user.uid, {
+  totalQuestions: examQuestions.length,
+  answered: answeredCount,
+  correct: result.correct,
+  wrong: result.wrong,
+  skipped: result.skipped,
+  score: result.score,
+  accuracy: result.accuracy,
+  grade: result.grade,
+  xpEarned: xpReward,
+});
+  alert(`⭐ ${xpReward} XP added!`);
+};
 
   const handleTimeUp = () => {
     setSubmitted(true);
