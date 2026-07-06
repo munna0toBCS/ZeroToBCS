@@ -12,6 +12,7 @@ import Exam from "../pages/Exam";
 import Practice from "../pages/Practice";
 import PracticeSession from "../pages/PracticeSession";
 import MistakeNotebook from "../pages/MistakeNotebook";
+import Curriculum from "../pages/Curriculum";
 import Admin from "../pages/Admin";
 import ProtectedRoute from "../components/ProtectedRoute";
 import AdminRoute from "../components/AdminRoute";
@@ -98,6 +99,14 @@ export default function AppRoutes() {
   element={
     <ProtectedRoute>
       <PracticeSession />
+    </ProtectedRoute>
+  }
+/>
+<Route
+  path="/curriculum"
+  element={
+    <ProtectedRoute>
+      <Curriculum />
     </ProtectedRoute>
   }
 />

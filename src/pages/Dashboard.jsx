@@ -11,7 +11,7 @@ import MissionSection from "../dashboard/MissionSection";
 import QuickActions from "../dashboard/QuickActions";
 import ProgressSection from "../dashboard/ProgressSection";
 import AchievementSection from "../dashboard/AchievementSection";
-
+import PriorityTopics from "../dashboard/PriorityTopics";
 export default function Dashboard() {
   const [profile, setProfile] = useState(null);
   const [tasks, setTasks] = useState([]);
@@ -82,7 +82,7 @@ export default function Dashboard() {
       <MissionSection tasks={tasks} />
 
       <QuickActions />
-
+<PriorityTopics />
       <ProgressSection
         completedTasks={completedTasks}
         totalTasks={tasks.length}

@@ -1,5 +1,6 @@
 import { useMemo, useState } from "react";
 import { useNavigate } from "react-router-dom";
+import { startPractice } from "../services/practiceService";
 import { bcsSyllabus } from "../data/bcsSyllabus";
 
 export default function Practice() {
@@ -123,19 +124,35 @@ export default function Practice() {
           </div>
 
           <button
-          onClick={() => {
+onClick={() => {
   if (!subject || !topic) {
     alert("Please select Subject and Topic.");
     return;
   }
 
+  const practice = startPractice({
+    exam,
+    subject,
+    topic,
+    difficulty,
+    count,
+  });
+
+  if (practice.totalQuestions === 0) {
+    alert("No questions found for this topic yet.");
+    return;
+  }
+
   navigate("/practice-session", {
     state: {
-      exam,
-      subject,
-      topic,
-      difficulty,
-      count,
+      settings: {
+        exam,
+        subject,
+        topic,
+        difficulty,
+        count,
+      },
+      questions: practice.questions,
     },
   });
 }}

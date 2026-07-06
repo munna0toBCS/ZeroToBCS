@@ -17,7 +17,7 @@ export default function Sidebar() {
     { path: "/planner", label: "🎯 Study Planner" },
     { path: "/exam", label: "📝 Mock Exam" },
     { path: "/practice", label: "🎯 Practice Mode" },
-  
+  { path: "/curriculum", label: "📚 Curriculum" },
     { path: "/mistakes", label: "📒 Mistake Notebook" },
     { path: "/mentor", label: "🤖 AI Mentor" },
     { path: "/analytics", label: "📊 Analytics" },

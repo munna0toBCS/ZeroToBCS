@@ -1,56 +1,135 @@
 import { useState } from "react";
+import { useLocation, useNavigate } from "react-router-dom";
 
 export default function PracticeSession() {
-  const [currentQuestion] = useState(1);
-  const [totalQuestions] = useState(20);
+  const location = useLocation();
+  const navigate = useNavigate();
 
-  const sampleQuestion = {
-    question: "Choose the correct sentence.",
-    options: [
-      "He go to school every day.",
-      "He goes to school every day.",
-      "He going to school every day.",
-      "He gone to school every day.",
-    ],
-    answer: 1,
+  const questions = location.state?.questions || [];
+  const settings = location.state?.settings;
+
+  const [currentIndex, setCurrentIndex] = useState(0);
+  const [selectedAnswers, setSelectedAnswers] = useState({});
+  const [submitted, setSubmitted] = useState(false);
+
+  if (questions.length === 0) {
+    return (
+      <div className="card" style={{ maxWidth: "700px", margin: "40px auto" }}>
+        <h2>No questions loaded.</h2>
+        <p>Please start again from Practice Mode.</p>
+        <button onClick={() => navigate("/practice")}>Back to Practice</button>
+      </div>
+    );
+  }
+
+  const currentQuestion = questions[currentIndex];
+  const selected = selectedAnswers[currentQuestion.id];
+
+  const result = questions.reduce(
+    (acc, question) => {
+      const userAnswer = selectedAnswers[question.id];
+
+      if (userAnswer === undefined) acc.skipped += 1;
+      else if (userAnswer === question.answer) acc.correct += 1;
+      else acc.wrong += 1;
+
+      return acc;
+    },
+    { correct: 0, wrong: 0, skipped: 0 }
+  );
+
+  const selectAnswer = (optionIndex) => {
+    if (submitted) return;
+
+    setSelectedAnswers({
+      ...selectedAnswers,
+      [currentQuestion.id]: optionIndex,
+    });
   };
 
-  const [selected, setSelected] = useState(null);
+  const goNext = () => {
+    if (currentIndex < questions.length - 1) {
+      setCurrentIndex(currentIndex + 1);
+    } else {
+      setSubmitted(true);
+    }
+  };
+
+  if (submitted) {
+    return (
+      <div style={{ maxWidth: "900px", margin: "40px auto" }}>
+        <div className="card">
+          <h1>📊 Practice Result</h1>
+
+          <p>✅ Correct: {result.correct}</p>
+          <p>❌ Wrong: {result.wrong}</p>
+          <p>⚪ Skipped: {result.skipped}</p>
+          <p>🏆 Score: {result.correct - result.wrong * 0.25}</p>
+
+          <hr style={{ margin: "20px 0" }} />
+
+          {questions.map((question, index) => {
+            const userAnswer = selectedAnswers[question.id];
+
+            return (
+              <div key={question.id} className="card" style={{ marginTop: "15px" }}>
+                <h3>Question {index + 1}</h3>
+                <p><strong>{question.question}</strong></p>
+
+                <p>
+                  Your Answer:{" "}
+                  {userAnswer === undefined
+                    ? "Skipped"
+                    : question.options[userAnswer]}
+                </p>
+
+                <p>Correct Answer: {question.options[question.answer]}</p>
+
+                <p>
+                  <strong>Explanation:</strong> {question.explanation}
+                </p>
+              </div>
+            );
+          })}
+
+          <button
+            onClick={() => navigate("/practice")}
+            style={{ marginTop: "25px", width: "100%" }}
+          >
+            Back to Practice
+          </button>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div style={{ maxWidth: "900px", margin: "40px auto" }}>
       <div className="card">
         <h2>
-          Question {currentQuestion} / {totalQuestions}
+          Question {currentIndex + 1} / {questions.length}
         </h2>
 
-        <div
-          className="progress-bar"
-          style={{ marginTop: "20px" }}
-        >
+        <p style={{ opacity: 0.8 }}>
+          {settings?.subject} • {settings?.topic} • {settings?.difficulty}
+        </p>
+
+        <div className="progress-bar" style={{ marginTop: "20px" }}>
           <div
             className="progress-fill"
             style={{
-              width: `${(currentQuestion / totalQuestions) * 100}%`,
+              width: `${((currentIndex + 1) / questions.length) * 100}%`,
             }}
           />
         </div>
 
-        <h3 style={{ marginTop: "30px" }}>
-          {sampleQuestion.question}
-        </h3>
+        <h3 style={{ marginTop: "30px" }}>{currentQuestion.question}</h3>
 
-        <div
-          style={{
-            display: "grid",
-            gap: "15px",
-            marginTop: "25px",
-          }}
-        >
-          {sampleQuestion.options.map((option, index) => (
+        <div style={{ display: "grid", gap: "15px", marginTop: "25px" }}>
+          {currentQuestion.options.map((option, index) => (
             <button
               key={index}
-              onClick={() => setSelected(index)}
+              onClick={() => selectAnswer(index)}
               style={{
                 padding: "16px",
                 borderRadius: "12px",
@@ -58,10 +137,7 @@ export default function PracticeSession() {
                   selected === index
                     ? "2px solid #3b82f6"
                     : "1px solid #2d4b7a",
-                background:
-                  selected === index
-                    ? "#2850b8"
-                    : "#16284f",
+                background: selected === index ? "#2850b8" : "#16284f",
                 color: "#fff",
                 cursor: "pointer",
                 textAlign: "left",
@@ -73,6 +149,7 @@ export default function PracticeSession() {
         </div>
 
         <button
+          onClick={goNext}
           style={{
             marginTop: "30px",
             width: "100%",
@@ -85,7 +162,9 @@ export default function PracticeSession() {
             cursor: "pointer",
           }}
         >
-          Next Question →
+          {currentIndex === questions.length - 1
+            ? "Finish Practice"
+            : "Next Question →"}
         </button>
       </div>
     </div>

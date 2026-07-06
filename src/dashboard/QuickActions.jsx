@@ -3,12 +3,12 @@ import { useNavigate } from "react-router-dom";
 export default function QuickActions() {
   const navigate = useNavigate();
 
-  const actions = [
-    { title: "Mock Exam", icon: "📝", path: "/exam" },
-    { title: "Study Planner", icon: "🎯", path: "/planner" },
-    { title: "Mistake Notebook", icon: "📒", path: "/mistakes" },
-    { title: "AI Mentor", icon: "🤖", path: "/mentor" },
-  ];
+const actions = [
+  { title: "Practice", icon: "🎯", path: "/practice" },
+  { title: "Mock Exam", icon: "📝", path: "/exam" },
+  { title: "Curriculum", icon: "📚", path: "/curriculum" },
+  { title: "AI Mentor", icon: "🤖", path: "/mentor" },
+];
 
   return (
     <section className="mission-card">
