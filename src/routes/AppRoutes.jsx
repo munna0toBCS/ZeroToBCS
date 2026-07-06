@@ -9,6 +9,7 @@ import Mentor from "../pages/Mentor";
 import Analytics from "../pages/Analytics";
 import Profile from "../pages/Profile";
 import Exam from "../pages/Exam";
+import MistakeNotebook from "../pages/MistakeNotebook";
 import ProtectedRoute from "../components/ProtectedRoute";
 
 export default function AppRoutes() {
@@ -85,6 +86,14 @@ export default function AppRoutes() {
   element={
     <ProtectedRoute>
       <Exam />
+    </ProtectedRoute>
+  }
+/>
+<Route
+  path="/mistakes"
+  element={
+    <ProtectedRoute>
+      <MistakeNotebook />
     </ProtectedRoute>
   }
 />

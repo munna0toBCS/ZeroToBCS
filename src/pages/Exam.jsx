@@ -8,6 +8,7 @@ import Timer from "../components/exam/Timer";
 import SubmitDialog from "../components/exam/SubmitDialog";
 
 export default function Exam() {
+  const [examStarted, setExamStarted] = useState(false);
   const [answers, setAnswers] = useState({});
   const [submitted, setSubmitted] = useState(false);
 
@@ -24,13 +25,9 @@ export default function Exam() {
     examQuestions.forEach((question) => {
       const answer = answers[question.id];
 
-      if (answer === undefined) {
-        skipped++;
-      } else if (answer === question.answer) {
-        correct++;
-      } else {
-        wrong++;
-      }
+      if (answer === undefined) skipped++;
+      else if (answer === question.answer) correct++;
+      else wrong++;
     });
 
     const score = correct - wrong * 0.25;
@@ -40,13 +37,7 @@ export default function Exam() {
         ? 0
         : ((correct / (correct + wrong)) * 100).toFixed(1);
 
-    return {
-      correct,
-      wrong,
-      skipped,
-      score,
-      accuracy,
-    };
+    return { correct, wrong, skipped, score, accuracy };
   }, [answers]);
 
   const handleSelectAnswer = (questionId, optionIndex) => {
@@ -66,6 +57,26 @@ export default function Exam() {
     setSubmitted(true);
   };
 
+  if (!examStarted) {
+    return (
+      <div className="card" style={{ maxWidth: "700px", margin: "40px auto" }}>
+        <h1>📝 BCS Mock Test</h1>
+
+        <p>Questions: {examQuestions.length}</p>
+        <p>Time: 50 Minutes</p>
+        <p>Negative Marking: 0.25</p>
+        <p>Mode: Full Exam Simulation</p>
+
+        <button
+          onClick={() => setExamStarted(true)}
+          style={{ marginTop: "25px", width: "100%", padding: "15px" }}
+        >
+          🚀 Start Exam
+        </button>
+      </div>
+    );
+  }
+
   return (
     <div
       style={{
@@ -76,7 +87,6 @@ export default function Exam() {
         gap: "20px",
       }}
     >
-      {/* Left Side */}
       <div
         style={{
           position: "sticky",
@@ -84,26 +94,21 @@ export default function Exam() {
           alignSelf: "start",
         }}
       >
-        <Timer
-          initialMinutes={50}
-          onTimeUp={handleTimeUp}
-        />
+        {!submitted && <Timer initialMinutes={50} onTimeUp={handleTimeUp} />}
 
         <div style={{ marginTop: "20px" }}>
-          <QuestionPalette
-            questions={examQuestions}
-            answers={answers}
-          />
+          <QuestionPalette questions={examQuestions} answers={answers} />
         </div>
 
-        <SubmitDialog
-          totalQuestions={examQuestions.length}
-          answeredQuestions={answeredCount}
-          onSubmit={handleSubmit}
-        />
+        {!submitted && (
+          <SubmitDialog
+            totalQuestions={examQuestions.length}
+            answeredQuestions={answeredCount}
+            onSubmit={handleSubmit}
+          />
+        )}
       </div>
 
-      {/* Right Side */}
       <div>
         <h1>BCS Mock Test</h1>
 
@@ -112,14 +117,14 @@ export default function Exam() {
         </p>
 
         {examQuestions.map((question, index) => (
-    <QuestionCard
-  key={question.id}
-  question={question}
-  questionNumber={index + 1}
-  selectedAnswer={answers[question.id]}
-  onSelectAnswer={handleSelectAnswer}
-  submitted={submitted}
-/>
+          <QuestionCard
+            key={question.id}
+            question={question}
+            questionNumber={index + 1}
+            selectedAnswer={answers[question.id]}
+            onSelectAnswer={handleSelectAnswer}
+            submitted={submitted}
+          />
         ))}
 
         {submitted && (
@@ -135,13 +140,9 @@ export default function Exam() {
             <hr style={{ margin: "20px 0" }} />
 
             <p>🏆 Score : {result.score}</p>
-
             <p>✅ Correct : {result.correct}</p>
-
             <p>❌ Wrong : {result.wrong}</p>
-
             <p>⚪ Skipped : {result.skipped}</p>
-
             <p>🎯 Accuracy : {result.accuracy}%</p>
           </div>
         )}

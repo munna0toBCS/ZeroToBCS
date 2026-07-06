@@ -31,6 +31,9 @@ export default function Sidebar() {
       <Link to="/exam">
   <button>📝 Mock Exam</button>
 </Link>
+<Link to="/mistakes">
+  <button>📒 Mistake Notebook</button>
+</Link>
     </aside>
   );
 }
