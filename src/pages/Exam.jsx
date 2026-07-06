@@ -35,9 +35,17 @@ export default function Exam() {
     const accuracy =
       correct + wrong === 0
         ? 0
-        : ((correct / (correct + wrong)) * 100).toFixed(1);
+        : Number(((correct / (correct + wrong)) * 100).toFixed(1));
 
-    return { correct, wrong, skipped, score, accuracy };
+    let grade = "Needs Improvement";
+
+    if (accuracy >= 95) grade = "A+";
+    else if (accuracy >= 90) grade = "A";
+    else if (accuracy >= 80) grade = "A-";
+    else if (accuracy >= 70) grade = "B";
+    else if (accuracy >= 60) grade = "C";
+
+    return { correct, wrong, skipped, score, accuracy, grade };
   }, [answers]);
 
   const handleSelectAnswer = (questionId, optionIndex) => {
@@ -128,17 +136,12 @@ export default function Exam() {
         ))}
 
         {submitted && (
-          <div
-            className="card"
-            style={{
-              marginTop: "30px",
-              marginBottom: "50px",
-            }}
-          >
+          <div className="card" style={{ marginTop: "30px", marginBottom: "50px" }}>
             <h2>📊 Exam Result</h2>
 
             <hr style={{ margin: "20px 0" }} />
 
+            <h1>🏅 Grade: {result.grade}</h1>
             <p>🏆 Score : {result.score}</p>
             <p>✅ Correct : {result.correct}</p>
             <p>❌ Wrong : {result.wrong}</p>
