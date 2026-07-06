@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
-import { signOut } from "firebase/auth";
 import { useNavigate } from "react-router-dom";
 import { auth } from "../firebase";
 import { getUserProfile } from "../services/userService";
+import StatCard from "../components/ui/StatCard";
 
 export default function Dashboard() {
   const navigate = useNavigate();
@@ -18,44 +18,31 @@ export default function Dashboard() {
     loadProfile();
   }, []);
 
-  const handleLogout = async () => {
-    await signOut(auth);
-    navigate("/auth");
-  };
-
   const displayName =
     profile?.name || profile?.email?.split("@")[0] || "Cadet";
 
+  const hour = new Date().getHours();
+  const greeting =
+    hour < 12 ? "Good Morning" : hour < 17 ? "Good Afternoon" : "Good Evening";
+
   return (
     <div style={{ maxWidth: "1100px", margin: "0 auto" }}>
-
-
       <section className="hero">
-        <span className="badge">ZeroToBCS V2</span>
-        <h1>👋 Good Morning, {displayName}</h1>
-        <p>🎯 Target: {profile?.targetCadre || "BCS Administration Cadre"}</p>
+        <span className="badge">ZeroToBCS V3</span>
+
+        <h1>👋 {greeting}, {displayName}</h1>
+
+        <p>🎯 Target: {profile?.examTarget || "BCS"} — {profile?.targetCadre || "Administration"}</p>
+        <p>🏫 University: {profile?.university || "Not set"}</p>
+        <p>🎓 Graduation Year: {profile?.graduationYear || "Not set"}</p>
+        <p>⏱️ Daily Goal: {profile?.dailyGoal || "2 Hours"}</p>
       </section>
 
       <section className="cards">
-        <div className="card">
-          <h3>⭐ XP</h3>
-          <h2>{profile?.xp ?? 0}</h2>
-        </div>
-
-        <div className="card">
-          <h3>🏅 Level</h3>
-          <h2>{profile?.level || "Cadet"}</h2>
-        </div>
-
-        <div className="card">
-          <h3>🔥 Streak</h3>
-          <h2>1 Day</h2>
-        </div>
-
-        <div className="card">
-          <h3>🏫 University</h3>
-          <h2>{profile?.university || "Not set"}</h2>
-        </div>
+        <StatCard icon="⭐" title="XP" value={profile?.xp ?? 0} />
+        <StatCard icon="🏅" title="Level" value={profile?.level || "Cadet"} />
+        <StatCard icon="🔥" title="Streak" value="1 Day" />
+        <StatCard icon="🎯" title="Accuracy" value="Coming Soon" />
       </section>
 
       <section className="mission-card">
@@ -81,11 +68,9 @@ export default function Dashboard() {
 
       <section className="progress-card">
         <h2>📊 Overall Progress</h2>
-
         <div className="progress-bar">
           <div className="progress-fill" style={{ width: "40%" }}></div>
         </div>
-
         <p>40% Completed</p>
       </section>
 
