@@ -67,7 +67,7 @@ export default function StudyPlanner() {
 
   return (
     <div style={{ maxWidth: "900px", margin: "40px auto" }}>
-      <h1>📅 Study Planner</h1>
+     <h1>🎯 Study Planner</h1>
 
       <div className="cards">
         <div className="card">

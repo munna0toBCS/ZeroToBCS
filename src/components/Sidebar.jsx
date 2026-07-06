@@ -14,7 +14,7 @@ export default function Sidebar() {
     { path: "/dashboard", label: "🏠 Dashboard" },
     { path: "/profile", label: "👤 Profile" },
     { path: "/syllabus", label: "📚 Syllabus" },
-    { path: "/planner", label: "📅 Study Planner" },
+    { path: "/planner", label: "🎯 Study Planner" },
     { path: "/exam", label: "📝 Mock Exam" },
     { path: "/mcq", label: "📖 Practice MCQ" },
     { path: "/mistakes", label: "📒 Mistake Notebook" },

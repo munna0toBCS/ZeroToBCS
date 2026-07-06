@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { auth } from "../firebase";
 import { getUserProfile } from "../services/userService";
+import { getPlannerTasks } from "../services/plannerService";
 import StatCard from "../components/ui/StatCard";
 
 const quotes = [
@@ -15,6 +16,7 @@ const quotes = [
 export default function Dashboard() {
   const navigate = useNavigate();
   const [profile, setProfile] = useState(null);
+  const [tasks, setTasks] = useState([]);
   const [loading, setLoading] = useState(true);
 
   const quote = useMemo(() => {
@@ -22,7 +24,7 @@ export default function Dashboard() {
   }, []);
 
   useEffect(() => {
-    const loadProfile = async () => {
+    const loadDashboard = async () => {
       const user = auth.currentUser;
 
       if (!user) {
@@ -30,18 +32,21 @@ export default function Dashboard() {
         return;
       }
 
-      const data = await getUserProfile(user.uid);
-      setProfile(data);
+      const profileData = await getUserProfile(user.uid);
+      const plannerTasks = await getPlannerTasks(user.uid);
+
+      setProfile(profileData);
+      setTasks(plannerTasks);
       setLoading(false);
     };
 
-    loadProfile();
+    loadDashboard();
   }, []);
 
   if (loading) {
     return (
       <div className="card" style={{ maxWidth: "600px", margin: "40px auto" }}>
-    <h2>Preparing your dashboard...</h2>
+        <h2>Preparing your dashboard...</h2>
       </div>
     );
   }
@@ -53,6 +58,8 @@ export default function Dashboard() {
   const greeting =
     hour < 12 ? "Good Morning" : hour < 17 ? "Good Afternoon" : "Good Evening";
 
+  const completedTasks = tasks.filter((task) => task.done).length;
+
   return (
     <div style={{ maxWidth: "1100px", margin: "0 auto" }}>
       <section className="hero">
@@ -60,7 +67,10 @@ export default function Dashboard() {
 
         <h1>👋 {greeting}, {displayName}</h1>
 
-        <p>🎯 Target: {profile?.examTarget || "BCS"} — {profile?.targetCadre || "Administration"}</p>
+        <p>
+          🎯 Target: {profile?.examTarget || "BCS"} —{" "}
+          {profile?.targetCadre || "Administration"}
+        </p>
         <p>🏫 University: {profile?.university || "Not set"}</p>
         <p>🎓 Graduation Year: {profile?.graduationYear || "Not set"}</p>
         <p>⏱️ Daily Goal: {profile?.dailyGoal || "2 Hours"}</p>
@@ -75,16 +85,22 @@ export default function Dashboard() {
         <StatCard icon="⭐" title="XP" value={profile?.xp ?? 0} />
         <StatCard icon="🏅" title="Level" value={profile?.level || "Cadet"} />
         <StatCard icon="🔥" title="Streak" value="1 Day" />
-        <StatCard icon="🎯" title="Accuracy" value="Coming Soon" />
+        <StatCard icon="✅" title="Tasks Done" value={`${completedTasks}/${tasks.length}`} />
       </section>
 
       <section className="mission-card">
         <h2>📅 Today's Mission</h2>
+
         <div className="mission-list">
-          <div className="mission-item">☐ Mathematics — 30 min</div>
-          <div className="mission-item">☐ English MCQ — 20 questions</div>
-          <div className="mission-item">☐ Bangladesh Affairs Revision</div>
-          <div className="mission-item">☐ Review Wrong Answers</div>
+          {tasks.length === 0 ? (
+            <p>No planner tasks yet. Add tasks from Study Planner.</p>
+          ) : (
+            tasks.slice(0, 5).map((task) => (
+              <div className="mission-item" key={task.id}>
+                {task.done ? "✅" : "☐"} {task.text}
+              </div>
+            ))
+          )}
         </div>
       </section>
 
@@ -93,18 +109,31 @@ export default function Dashboard() {
 
         <div className="cards">
           <button onClick={() => navigate("/exam")}>📝 Mock Exam</button>
-          <button onClick={() => navigate("/mcq")}>📚 Practice</button>
+          <button onClick={() => navigate("/planner")}>📅 Study Planner</button>
           <button onClick={() => navigate("/mistakes")}>📒 Mistake Notebook</button>
           <button onClick={() => navigate("/mentor")}>🤖 AI Mentor</button>
         </div>
       </section>
 
       <section className="progress-card">
-        <h2>📊 Overall Progress</h2>
+        <h2>📊 Planner Progress</h2>
+
         <div className="progress-bar">
-          <div className="progress-fill" style={{ width: "40%" }}></div>
+          <div
+            className="progress-fill"
+            style={{
+              width: tasks.length
+                ? `${Math.round((completedTasks / tasks.length) * 100)}%`
+                : "0%",
+            }}
+          ></div>
         </div>
-        <p>40% Completed</p>
+
+        <p>
+          {tasks.length
+            ? `${Math.round((completedTasks / tasks.length) * 100)}% Completed`
+            : "0% Completed"}
+        </p>
       </section>
 
       <section className="mission-card">
