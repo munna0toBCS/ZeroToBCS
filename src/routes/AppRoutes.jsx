@@ -4,11 +4,13 @@ import Auth from "../pages/Auth";
 import Dashboard from "../pages/Dashboard";
 import Syllabus from "../pages/Syllabus";
 import StudyPlanner from "../pages/StudyPlanner";
-import MCQ from "../pages/MCQ";
+
 import Mentor from "../pages/Mentor";
 import Analytics from "../pages/Analytics";
 import Profile from "../pages/Profile";
 import Exam from "../pages/Exam";
+import Practice from "../pages/Practice";
+import PracticeSession from "../pages/PracticeSession";
 import MistakeNotebook from "../pages/MistakeNotebook";
 import Admin from "../pages/Admin";
 import ProtectedRoute from "../components/ProtectedRoute";
@@ -56,14 +58,7 @@ export default function AppRoutes() {
         }
       />
 
-      <Route
-        path="/mcq"
-        element={
-          <ProtectedRoute>
-            <MCQ />
-          </ProtectedRoute>
-        }
-      />
+
 
       <Route
         path="/mentor"
@@ -87,6 +82,22 @@ export default function AppRoutes() {
   element={
     <ProtectedRoute>
       <Exam />
+    </ProtectedRoute>
+  }
+/>
+<Route
+  path="/practice"
+  element={
+    <ProtectedRoute>
+      <Practice />
+    </ProtectedRoute>
+  }
+/>
+<Route
+  path="/practice-session"
+  element={
+    <ProtectedRoute>
+      <PracticeSession />
     </ProtectedRoute>
   }
 />

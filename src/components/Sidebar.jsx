@@ -16,7 +16,8 @@ export default function Sidebar() {
     { path: "/syllabus", label: "📚 Syllabus" },
     { path: "/planner", label: "🎯 Study Planner" },
     { path: "/exam", label: "📝 Mock Exam" },
-    { path: "/mcq", label: "📖 Practice MCQ" },
+    { path: "/practice", label: "🎯 Practice Mode" },
+  
     { path: "/mistakes", label: "📒 Mistake Notebook" },
     { path: "/mentor", label: "🤖 AI Mentor" },
     { path: "/analytics", label: "📊 Analytics" },
