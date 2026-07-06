@@ -1,4 +1,5 @@
 import { useMemo, useState } from "react";
+import { useNavigate } from "react-router-dom";
 
 import examQuestions from "../data/examQuestions";
 
@@ -8,6 +9,8 @@ import Timer from "../components/exam/Timer";
 import SubmitDialog from "../components/exam/SubmitDialog";
 
 export default function Exam() {
+  const navigate = useNavigate();
+
   const [examStarted, setExamStarted] = useState(false);
   const [answers, setAnswers] = useState({});
   const [submitted, setSubmitted] = useState(false);
@@ -63,6 +66,12 @@ export default function Exam() {
 
   const handleTimeUp = () => {
     setSubmitted(true);
+  };
+
+  const handlePracticeRetake = () => {
+    setAnswers({});
+    setSubmitted(false);
+    window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
   if (!examStarted) {
@@ -147,6 +156,30 @@ export default function Exam() {
             <p>❌ Wrong : {result.wrong}</p>
             <p>⚪ Skipped : {result.skipped}</p>
             <p>🎯 Accuracy : {result.accuracy}%</p>
+
+            <hr style={{ margin: "20px 0" }} />
+
+            <button style={{ width: "100%", marginTop: "10px" }}>
+              📒 Review Wrong Answers
+            </button>
+
+            <button
+              onClick={handlePracticeRetake}
+              style={{ width: "100%", marginTop: "10px" }}
+            >
+              🔁 Practice Retake
+            </button>
+
+            <button disabled style={{ width: "100%", marginTop: "10px", opacity: 0.6 }}>
+              🏛️ Official Retake Tomorrow
+            </button>
+
+            <button
+              onClick={() => navigate("/dashboard")}
+              style={{ width: "100%", marginTop: "10px" }}
+            >
+              🏠 Back to Dashboard
+            </button>
           </div>
         )}
       </div>
