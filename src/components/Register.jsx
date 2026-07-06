@@ -1,28 +1,48 @@
 import { useState } from "react";
 import { createUserWithEmailAndPassword } from "firebase/auth";
-import { auth } from "../firebase";
+import { doc, setDoc } from "firebase/firestore";
+import { useNavigate } from "react-router-dom";
+import { auth, db } from "../firebase";
 
 export default function Register() {
-const handleRegister = async () => {
-  try {
-    await createUserWithEmailAndPassword(
-      auth,
-      email,
-      password
-    );
+  const navigate = useNavigate();
 
-alert("✅ Account Created Successfully!");
-
-setName("");
-setEmail("");
-setPassword("");
-  } catch (error) {
-    alert(error.message);
-  }
-};
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
+
+  const handleRegister = async () => {
+    try {
+      const userCredential = await createUserWithEmailAndPassword(
+        auth,
+        email,
+        password
+      );
+
+      const user = userCredential.user;
+
+      await setDoc(doc(db, "users", user.uid), {
+        name,
+        email: user.email,
+        university: "",
+        targetCadre: "",
+        examTarget: "BCS",
+        xp: 0,
+        level: "Cadet",
+        createdAt: new Date(),
+      });
+
+      alert("✅ Account Created Successfully!");
+
+      setName("");
+      setEmail("");
+      setPassword("");
+
+      navigate("/dashboard");
+    } catch (error) {
+      alert(error.message);
+    }
+  };
 
   return (
     <div className="card" style={{ maxWidth: "500px", margin: "40px auto" }}>
@@ -33,12 +53,7 @@ setPassword("");
         placeholder="Full Name"
         value={name}
         onChange={(e) => setName(e.target.value)}
-        style={{
-          width: "100%",
-          padding: "12px",
-          marginTop: "20px",
-          borderRadius: "10px",
-        }}
+        style={{ width: "100%", padding: "12px", marginTop: "20px", borderRadius: "10px" }}
       />
 
       <input
@@ -46,12 +61,7 @@ setPassword("");
         placeholder="Email"
         value={email}
         onChange={(e) => setEmail(e.target.value)}
-        style={{
-          width: "100%",
-          padding: "12px",
-          marginTop: "15px",
-          borderRadius: "10px",
-        }}
+        style={{ width: "100%", padding: "12px", marginTop: "15px", borderRadius: "10px" }}
       />
 
       <input
@@ -59,18 +69,10 @@ setPassword("");
         placeholder="Password"
         value={password}
         onChange={(e) => setPassword(e.target.value)}
-        style={{
-          width: "100%",
-          padding: "12px",
-          marginTop: "15px",
-          borderRadius: "10px",
-        }}
+        style={{ width: "100%", padding: "12px", marginTop: "15px", borderRadius: "10px" }}
       />
 
-  <button
-  onClick={handleRegister}
-  style={{ marginTop: "20px", width: "100%" }}
->
+      <button onClick={handleRegister} style={{ marginTop: "20px", width: "100%" }}>
         🚀 Create Account
       </button>
     </div>

@@ -1,0 +1,53 @@
+const examQuestions = [
+  {
+    id: 1,
+    subject: "Bangladesh Affairs",
+    topic: "Liberation War",
+    difficulty: "Easy",
+    year: 2023,
+    question: "In which year did Bangladesh gain independence?",
+    options: ["1969", "1970", "1971", "1972"],
+    answer: 2,
+    explanation: "Bangladesh gained independence in 1971.",
+    marks: 1,
+    negative: 0.25,
+  },
+  {
+    id: 2,
+    subject: "Bangla",
+    topic: "Literature",
+    difficulty: "Easy",
+    year: 2022,
+    question: "Who wrote Bidrohi?",
+    options: [
+      "Rabindranath Tagore",
+      "Kazi Nazrul Islam",
+      "Jasimuddin",
+      "Michael Madhusudan Dutt",
+    ],
+    answer: 1,
+    explanation: "Kazi Nazrul Islam wrote Bidrohi.",
+    marks: 1,
+    negative: 0.25,
+  },
+  {
+    id: 3,
+    subject: "English",
+    topic: "Grammar",
+    difficulty: "Medium",
+    year: 2021,
+    question: "Choose the correct sentence.",
+    options: [
+      "He don't like tea.",
+      "He doesn't likes tea.",
+      "He doesn't like tea.",
+      "He not like tea.",
+    ],
+    answer: 2,
+    explanation: "The correct form is 'He doesn't like tea.'",
+    marks: 1,
+    negative: 0.25,
+  },
+];
+
+export default examQuestions;

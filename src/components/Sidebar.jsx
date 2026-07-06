@@ -28,6 +28,9 @@ export default function Sidebar() {
       <Link to="/analytics">
         <button>Analytics</button>
       </Link>
+      <Link to="/exam">
+  <button>📝 Mock Exam</button>
+</Link>
     </aside>
   );
 }

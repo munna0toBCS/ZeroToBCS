@@ -8,18 +8,86 @@ import MCQ from "../pages/MCQ";
 import Mentor from "../pages/Mentor";
 import Analytics from "../pages/Analytics";
 import Profile from "../pages/Profile";
+import Exam from "../pages/Exam";
+import ProtectedRoute from "../components/ProtectedRoute";
+
 export default function AppRoutes() {
   return (
     <Routes>
-      <Route path="/" element={<Navigate to="/auth" />} />
+      <Route path="/" element={<Navigate to="/dashboard" />} />
+
       <Route path="/auth" element={<Auth />} />
-      <Route path="/dashboard" element={<Dashboard />} />
-      <Route path="/syllabus" element={<Syllabus />} />
-      <Route path="/planner" element={<StudyPlanner />} />
-      <Route path="/mcq" element={<MCQ />} />
-      <Route path="/mentor" element={<Mentor />} />
-      <Route path="/analytics" element={<Analytics />} />
-      <Route path="/profile" element={<Profile />} />
+
+      <Route
+        path="/dashboard"
+        element={
+          <ProtectedRoute>
+            <Dashboard />
+          </ProtectedRoute>
+        }
+      />
+
+      <Route
+        path="/profile"
+        element={
+          <ProtectedRoute>
+            <Profile />
+          </ProtectedRoute>
+        }
+      />
+
+      <Route
+        path="/syllabus"
+        element={
+          <ProtectedRoute>
+            <Syllabus />
+          </ProtectedRoute>
+        }
+      />
+
+      <Route
+        path="/planner"
+        element={
+          <ProtectedRoute>
+            <StudyPlanner />
+          </ProtectedRoute>
+        }
+      />
+
+      <Route
+        path="/mcq"
+        element={
+          <ProtectedRoute>
+            <MCQ />
+          </ProtectedRoute>
+        }
+      />
+
+      <Route
+        path="/mentor"
+        element={
+          <ProtectedRoute>
+            <Mentor />
+          </ProtectedRoute>
+        }
+      />
+
+      <Route
+        path="/analytics"
+        element={
+          <ProtectedRoute>
+            <Analytics />
+          </ProtectedRoute>
+        }
+      />
+      <Route
+  path="/exam"
+  element={
+    <ProtectedRoute>
+      <Exam />
+    </ProtectedRoute>
+  }
+/>
     </Routes>
   );
 }

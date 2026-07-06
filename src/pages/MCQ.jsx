@@ -1,60 +1,154 @@
+import { useState } from "react";
+import mcqs from "../data/mcqs";
+
 export default function MCQ() {
+  const [currentIndex, setCurrentIndex] = useState(0);
+  const [selectedAnswer, setSelectedAnswer] = useState(null);
+  const [isAnswered, setIsAnswered] = useState(false);
+
+  const currentQuestion = mcqs[currentIndex];
+
+  const handleAnswer = (option) => {
+    if (isAnswered) return;
+
+    setSelectedAnswer(option);
+    setIsAnswered(true);
+  };
+
+  const nextQuestion = () => {
+    if (currentIndex < mcqs.length - 1) {
+      setCurrentIndex(currentIndex + 1);
+    } else {
+      alert("🎉 You have completed this practice set!");
+      setCurrentIndex(0);
+    }
+
+    setSelectedAnswer(null);
+    setIsAnswered(false);
+  };
+
+  const getButtonStyle = (option) => {
+    if (!isAnswered) {
+      return {
+        width: "100%",
+        padding: "12px",
+        marginTop: "10px",
+        borderRadius: "10px",
+        cursor: "pointer",
+      };
+    }
+
+    // Correct Answer
+    if (option === currentQuestion.answer) {
+      return {
+        width: "100%",
+        padding: "12px",
+        marginTop: "10px",
+        borderRadius: "10px",
+        backgroundColor: "#22c55e",
+        color: "white",
+        fontWeight: "bold",
+        cursor: "not-allowed",
+      };
+    }
+
+    // Wrong Selected Answer
+    if (
+      option === selectedAnswer &&
+      selectedAnswer !== currentQuestion.answer
+    ) {
+      return {
+        width: "100%",
+        padding: "12px",
+        marginTop: "10px",
+        borderRadius: "10px",
+        backgroundColor: "#ef4444",
+        color: "white",
+        fontWeight: "bold",
+        cursor: "not-allowed",
+      };
+    }
+
+    // Other options
+    return {
+      width: "100%",
+      padding: "12px",
+      marginTop: "10px",
+      borderRadius: "10px",
+      opacity: 0.7,
+      cursor: "not-allowed",
+    };
+  };
+
   return (
-    <>
-      <h1>MCQ Exam</h1>
+    <div className="card" style={{ maxWidth: "700px", margin: "40px auto" }}>
+      <h1>MCQ Practice</h1>
 
-      <div className="cards">
-        <div className="card">
-          <h3>Total Questions</h3>
-          <h2>200</h2>
+      <p>
+        Question {currentIndex + 1} / {mcqs.length}
+      </p>
+
+      <hr />
+
+      <h3 style={{ marginTop: "20px" }}>{currentQuestion.subject}</h3>
+
+      <h2 style={{ marginTop: "15px" }}>{currentQuestion.question}</h2>
+
+      <div style={{ marginTop: "25px" }}>
+        {currentQuestion.options.map((option) => (
+          <button
+            key={option}
+            onClick={() => handleAnswer(option)}
+            disabled={isAnswered}
+            style={getButtonStyle(option)}
+          >
+            {option}
+          </button>
+        ))}
+      </div>
+
+      {isAnswered && (
+        <div
+          style={{
+            marginTop: "30px",
+            padding: "20px",
+            border: "1px solid #ddd",
+            borderRadius: "10px",
+          }}
+        >
+          {selectedAnswer === currentQuestion.answer ? (
+            <>
+              <h2 style={{ color: "green" }}>
+                ✅ Correct! +{currentQuestion.xp} XP
+              </h2>
+            </>
+          ) : (
+            <>
+              <h2 style={{ color: "red" }}>❌ Wrong Answer</h2>
+
+              <p>
+                <strong>Correct Answer:</strong> {currentQuestion.answer}
+              </p>
+            </>
+          )}
+
+          <p style={{ marginTop: "15px" }}>
+            <strong>Explanation:</strong> {currentQuestion.explanation}
+          </p>
+
+          <button
+            onClick={nextQuestion}
+            style={{
+              marginTop: "20px",
+              width: "100%",
+              padding: "12px",
+              borderRadius: "10px",
+            }}
+          >
+            Next Question →
+          </button>
         </div>
-
-        <div className="card">
-          <h3>Completed</h3>
-          <h2>35</h2>
-        </div>
-
-        <div className="card">
-          <h3>Accuracy</h3>
-          <h2>82%</h2>
-        </div>
-      </div>
-
-      <div className="card" style={{ marginTop: "20px" }}>
-        <h2>Start Today's MCQ Test</h2>
-
-        <button style={{ marginTop: "15px" }}>
-          🚀 Start Exam
-        </button>
-      </div>
-
-      <div className="card" style={{ gridColumn: "1 / -1" }}>
-        <h3>Practice Sets</h3>
-
-        <button style={{ margin: "10px" }}>Bangladesh Affairs Practice</button>
-        <button style={{ margin: "10px" }}>English Practice</button>
-        <button style={{ margin: "10px" }}>Mathematics Practice</button>
-        <button style={{ margin: "10px" }}>ICT Practice</button>
-        <button style={{ margin: "10px" }}>Full Mock Test</button>
-      </div>
-
-      <div className="card" style={{ gridColumn: "1 / -1", marginTop: "20px" }}>
-        <h3>Recent Results</h3>
-
-        <p>✅ Bangladesh Affairs - 18/20</p>
-        <p>✅ English - 16/20</p>
-        <p>✅ ICT - 19/20</p>
-        <p>⭐ Best Accuracy: 95%</p>
-      </div>
-
-      <div className="card" style={{ gridColumn: "1 / -1", marginTop: "20px" }}>
-        <h3>Performance Summary</h3>
-
-        <p>📚 Total Practice: 35 Sets</p>
-        <p>🎯 Average Accuracy: 82%</p>
-        <p>🔥 Current Streak: 7 Days</p>
-        <p>🏆 Highest Score: 96%</p>
-      </div>
-    </>
+      )}
+    </div>
   );
 }
