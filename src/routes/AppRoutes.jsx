@@ -10,6 +10,7 @@ import Analytics from "../pages/Analytics";
 import Profile from "../pages/Profile";
 import Exam from "../pages/Exam";
 import Practice from "../pages/Practice";
+import MockExam from "../pages/MockExam";
 import PracticeSession from "../pages/PracticeSession";
 import MistakeNotebook from "../pages/MistakeNotebook";
 import Curriculum from "../pages/Curriculum";
@@ -83,6 +84,14 @@ export default function AppRoutes() {
   element={
     <ProtectedRoute>
       <Exam />
+    </ProtectedRoute>
+  }
+/>
+<Route
+  path="/mock"
+  element={
+    <ProtectedRoute>
+      <MockExam />
     </ProtectedRoute>
   }
 />

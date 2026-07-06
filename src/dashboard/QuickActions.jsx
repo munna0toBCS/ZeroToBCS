@@ -5,8 +5,9 @@ export default function QuickActions() {
 
 const actions = [
   { title: "Practice", icon: "🎯", path: "/practice" },
-  { title: "Mock Exam", icon: "📝", path: "/exam" },
-  { title: "Curriculum", icon: "📚", path: "/curriculum" },
+  { title: "Mock Exam", icon: "📝", path: "/mock" },
+  { title: "Study Planner", icon: "📅", path: "/planner" },
+  { title: "Mistake Notebook", icon: "📒", path: "/mistakes" },
   { title: "AI Mentor", icon: "🤖", path: "/mentor" },
 ];
 

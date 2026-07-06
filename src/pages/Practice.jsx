@@ -23,7 +23,9 @@ export default function Practice() {
   const selectedSubject = useMemo(() => {
     return bcsSyllabus.find((item) => item.subject === subject);
   }, [subject]);
-
+const selectedTopicCount = selectedSubject
+  ? selectedSubject.topics.length
+  : 0;
   return (
     <div style={{ maxWidth: "900px", margin: "40px auto" }}>
       <div className="card">
