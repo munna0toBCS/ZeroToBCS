@@ -10,7 +10,7 @@ import QuestionCard from "../components/exam/QuestionCard";
 import QuestionPalette from "../components/exam/QuestionPalette";
 import Timer from "../components/exam/Timer";
 import SubmitDialog from "../components/exam/SubmitDialog";
-
+import Button from "../components/ui/Button";
 export default function Exam() {
   const navigate = useNavigate();
 
@@ -128,12 +128,11 @@ await saveExamHistory(user.uid, {
         <p>Negative Marking: 0.25</p>
         <p>Mode: Full Exam Simulation</p>
 
-        <button
-          onClick={() => setExamStarted(true)}
-          style={{ marginTop: "25px", width: "100%", padding: "15px" }}
-        >
-          🚀 Start Exam
-        </button>
+<div style={{ marginTop: "25px" }}>
+  <Button onClick={() => setExamStarted(true)}>
+    🚀 Start Exam
+  </Button>
+</div>
       </div>
     );
   }

@@ -1,0 +1,46 @@
+:root {
+  /* Colors */
+  --primary: #2563eb;
+  --primary-hover: #1d4ed8;
+
+  --success: #22c55e;
+  --danger: #ef4444;
+  --warning: #f59e0b;
+
+  --transition: 0.25s ease;
+}
+
+/* Reusable Card */
+.app-card {
+  background: #102349;
+  color: white;
+  border-radius: 18px;
+  padding: 25px;
+  transition: var(--transition);
+}
+
+.app-card:hover {
+  transform: translateY(-2px);
+}
+
+/* Reusable Button */
+.app-button {
+  width: 100%;
+  padding: 14px;
+  border: none;
+  border-radius: 12px;
+  background: #2563eb;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.app-button:hover:not(:disabled) {
+  background: #1d4ed8;
+}
+
+.app-button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
