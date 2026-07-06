@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { doc, setDoc } from "firebase/firestore";
 import { auth, db } from "../firebase";
-
+import { addXP } from "../services/xpService";
 export default function Profile() {
   const [university, setUniversity] = useState("");
   const [targetCadre, setTargetCadre] = useState("");
@@ -24,7 +24,7 @@ export default function Profile() {
       level: "Cadet",
       createdAt: new Date(),
     });
-
+await addXP(user.uid, 50);
     alert("✅ Profile saved successfully!");
   };
 
