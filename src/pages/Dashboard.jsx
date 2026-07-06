@@ -60,6 +60,13 @@ export default function Dashboard() {
 
   const completedTasks = tasks.filter((task) => task.done).length;
 
+  const quickActions = [
+    { title: "Mock Exam", icon: "📝", path: "/exam" },
+    { title: "Study Planner", icon: "🎯", path: "/planner" },
+    { title: "Mistake Notebook", icon: "📒", path: "/mistakes" },
+    { title: "AI Mentor", icon: "🤖", path: "/mentor" },
+  ];
+
   return (
     <div style={{ maxWidth: "1100px", margin: "0 auto" }}>
       <section className="hero">
@@ -107,11 +114,34 @@ export default function Dashboard() {
       <section className="mission-card">
         <h2>⚡ Quick Actions</h2>
 
-        <div className="cards">
-          <button onClick={() => navigate("/exam")}>📝 Mock Exam</button>
-          <button onClick={() => navigate("/planner")}>📅 Study Planner</button>
-          <button onClick={() => navigate("/mistakes")}>📒 Mistake Notebook</button>
-          <button onClick={() => navigate("/mentor")}>🤖 AI Mentor</button>
+        <div
+          style={{
+            display: "grid",
+            gridTemplateColumns: "repeat(4, 1fr)",
+            gap: "16px",
+            marginTop: "20px",
+          }}
+        >
+          {quickActions.map((action) => (
+            <button
+              key={action.path}
+              onClick={() => navigate(action.path)}
+              style={{
+                padding: "20px",
+                borderRadius: "18px",
+                border: "none",
+                background: "#16284f",
+                color: "white",
+                fontSize: "16px",
+                cursor: "pointer",
+              }}
+            >
+              <div style={{ fontSize: "28px", marginBottom: "10px" }}>
+                {action.icon}
+              </div>
+              <strong>{action.title}</strong>
+            </button>
+          ))}
         </div>
       </section>
 
