@@ -1,22 +1,50 @@
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { auth } from "../firebase";
 import { getUserProfile } from "../services/userService";
 import StatCard from "../components/ui/StatCard";
 
+const quotes = [
+  "Discipline beats motivation.",
+  "One mock exam today is better than ten plans tomorrow.",
+  "Small progress every day becomes big success.",
+  "Consistency is the real shortcut.",
+  "Your future cadre life starts with today’s effort.",
+];
+
 export default function Dashboard() {
   const navigate = useNavigate();
   const [profile, setProfile] = useState(null);
+  const [loading, setLoading] = useState(true);
+
+  const quote = useMemo(() => {
+    return quotes[Math.floor(Math.random() * quotes.length)];
+  }, []);
 
   useEffect(() => {
     const loadProfile = async () => {
       const user = auth.currentUser;
+
+      if (!user) {
+        setLoading(false);
+        return;
+      }
+
       const data = await getUserProfile(user.uid);
       setProfile(data);
+      setLoading(false);
     };
 
     loadProfile();
   }, []);
+
+  if (loading) {
+    return (
+      <div className="card" style={{ maxWidth: "600px", margin: "40px auto" }}>
+    <h2>Preparing your dashboard...</h2>
+      </div>
+    );
+  }
 
   const displayName =
     profile?.name || profile?.email?.split("@")[0] || "Cadet";
@@ -36,6 +64,11 @@ export default function Dashboard() {
         <p>🏫 University: {profile?.university || "Not set"}</p>
         <p>🎓 Graduation Year: {profile?.graduationYear || "Not set"}</p>
         <p>⏱️ Daily Goal: {profile?.dailyGoal || "2 Hours"}</p>
+
+        <div style={{ marginTop: "20px" }}>
+          <h3>💬 Quote of the Day</h3>
+          <p style={{ marginTop: "8px", fontStyle: "italic" }}>"{quote}"</p>
+        </div>
       </section>
 
       <section className="cards">
