@@ -10,6 +10,7 @@ import Analytics from "../pages/Analytics";
 import Profile from "../pages/Profile";
 import Exam from "../pages/Exam";
 import MistakeNotebook from "../pages/MistakeNotebook";
+import Admin from "../pages/Admin";
 import ProtectedRoute from "../components/ProtectedRoute";
 
 export default function AppRoutes() {
@@ -94,6 +95,14 @@ export default function AppRoutes() {
   element={
     <ProtectedRoute>
       <MistakeNotebook />
+    </ProtectedRoute>
+  }
+/>
+<Route
+  path="/admin"
+  element={
+    <ProtectedRoute>
+      <Admin />
     </ProtectedRoute>
   }
 />

@@ -129,9 +129,34 @@ export default function Exam() {
       <div>
         <h1>BCS Mock Test</h1>
 
-        <p style={{ marginBottom: "25px" }}>
-          Answered {answeredCount} / {examQuestions.length}
-        </p>
+<div style={{ marginBottom: "25px" }}>
+  <p>
+    Answered {answeredCount} / {examQuestions.length}
+  </p>
+
+  <div
+    style={{
+      width: "100%",
+      height: "14px",
+      background: "#e5e7eb",
+      borderRadius: "20px",
+      overflow: "hidden",
+      marginTop: "10px",
+    }}
+  >
+    <div
+      style={{
+        width: `${Math.round((answeredCount / examQuestions.length) * 100)}%`,
+        height: "100%",
+        background: "#22c55e",
+      }}
+    ></div>
+  </div>
+
+  <p style={{ marginTop: "8px" }}>
+    {Math.round((answeredCount / examQuestions.length) * 100)}% Completed
+  </p>
+</div>
 
         {examQuestions.map((question, index) => (
           <QuestionCard
