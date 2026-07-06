@@ -112,13 +112,14 @@ export default function Exam() {
         </p>
 
         {examQuestions.map((question, index) => (
-          <QuestionCard
-            key={question.id}
-            question={question}
-            questionNumber={index + 1}
-            selectedAnswer={answers[question.id]}
-            onSelectAnswer={handleSelectAnswer}
-          />
+    <QuestionCard
+  key={question.id}
+  question={question}
+  questionNumber={index + 1}
+  selectedAnswer={answers[question.id]}
+  onSelectAnswer={handleSelectAnswer}
+  submitted={submitted}
+/>
         ))}
 
         {submitted && (
