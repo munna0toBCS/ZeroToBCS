@@ -20,6 +20,7 @@ export default function Dashboard() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
+    
     const loadDashboard = async () => {
       const user = auth.currentUser;
 

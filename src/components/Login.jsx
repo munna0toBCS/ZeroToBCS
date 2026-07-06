@@ -2,7 +2,7 @@ import { useState } from "react";
 import { signInWithEmailAndPassword } from "firebase/auth";
 import { useNavigate } from "react-router-dom";
 import { auth } from "../firebase";
-
+import { getOrCreateSupabaseUserProfile } from "../services/supabaseUserService";
 export default function Login() {
   const navigate = useNavigate();
 
@@ -11,7 +11,9 @@ export default function Login() {
 
   const handleLogin = async () => {
     try {
-      await signInWithEmailAndPassword(auth, email, password);
+     const userCredential = await signInWithEmailAndPassword(auth, email, password);
+
+await getOrCreateSupabaseUserProfile(userCredential.user);
 
       alert("✅ Login Successful!");
 
