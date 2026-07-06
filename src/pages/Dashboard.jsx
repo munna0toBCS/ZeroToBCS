@@ -3,7 +3,9 @@ import { useNavigate } from "react-router-dom";
 import { auth } from "../firebase";
 import { getUserProfile } from "../services/userService";
 import { getPlannerTasks } from "../services/plannerService";
+import { updateDailyStreak } from "../services/streakService";
 import StatCard from "../components/ui/StatCard";
+import { getGreeting, getTodayDate } from "../utils/greeting";
 
 const quotes = [
   "Discipline beats motivation.",
@@ -17,6 +19,7 @@ export default function Dashboard() {
   const navigate = useNavigate();
   const [profile, setProfile] = useState(null);
   const [tasks, setTasks] = useState([]);
+  const [streak, setStreak] = useState(1);
   const [loading, setLoading] = useState(true);
 
   const quote = useMemo(() => {
@@ -32,9 +35,11 @@ export default function Dashboard() {
         return;
       }
 
+      const updatedStreak = await updateDailyStreak(user.uid);
       const profileData = await getUserProfile(user.uid);
       const plannerTasks = await getPlannerTasks(user.uid);
 
+      setStreak(updatedStreak);
       setProfile(profileData);
       setTasks(plannerTasks);
       setLoading(false);
@@ -54,9 +59,8 @@ export default function Dashboard() {
   const displayName =
     profile?.name || profile?.email?.split("@")[0] || "Cadet";
 
-  const hour = new Date().getHours();
-  const greeting =
-    hour < 12 ? "Good Morning" : hour < 17 ? "Good Afternoon" : "Good Evening";
+  const greeting = getGreeting();
+  const today = getTodayDate();
 
   const completedTasks = tasks.filter((task) => task.done).length;
 
@@ -73,6 +77,7 @@ export default function Dashboard() {
         <span className="badge">ZeroToBCS V3</span>
 
         <h1>👋 {greeting}, {displayName}</h1>
+        <p>Today • {today}</p>
 
         <p>
           🎯 Target: {profile?.examTarget || "BCS"} —{" "}
@@ -91,8 +96,12 @@ export default function Dashboard() {
       <section className="cards">
         <StatCard icon="⭐" title="XP" value={profile?.xp ?? 0} />
         <StatCard icon="🏅" title="Level" value={profile?.level || "Cadet"} />
-        <StatCard icon="🔥" title="Streak" value="1 Day" />
-        <StatCard icon="✅" title="Tasks Done" value={`${completedTasks}/${tasks.length}`} />
+        <StatCard icon="🔥" title="Streak" value={`${streak} Day`} />
+        <StatCard
+          icon="✅"
+          title="Tasks Done"
+          value={`${completedTasks}/${tasks.length}`}
+        />
       </section>
 
       <section className="mission-card">
