@@ -5,9 +5,35 @@
   font-family:Arial, Helvetica, sans-serif;
 }
 
+html{
+  scroll-behavior:smooth;
+}
+
 body{
   background:#071329;
   color:white;
+}
+
+button,input,select,textarea{
+  font-family:inherit;
+}
+
+button{
+  cursor:pointer;
+}
+
+input,select,textarea{
+  width:100%;
+  padding:12px;
+  margin-top:12px;
+  border-radius:10px;
+  border:1px solid #274472;
+  background:#0f1f3d;
+  color:white;
+}
+
+textarea{
+  min-height:100px;
 }
 
 .app{
@@ -19,6 +45,7 @@ body{
   width:260px;
   background:#0d1b38;
   padding:30px 20px;
+  flex-shrink:0;
 }
 
 .sidebar h2{
@@ -36,7 +63,6 @@ body{
   padding:12px;
   border:none;
   border-radius:10px;
-  cursor:pointer;
   background:#16284f;
   color:white;
   font-size:16px;
@@ -49,12 +75,13 @@ body{
 .main{
   flex:1;
   padding:40px;
+  min-width:0;
 }
 
-.hero{
+.hero,.card,.mission-card,.progress-card{
   background:#102349;
-  padding:30px;
   border-radius:18px;
+  padding:25px;
 }
 
 .badge{
@@ -73,87 +100,130 @@ body{
 .cards{
   margin-top:35px;
   display:grid;
-  grid-template-columns:repeat(4,1fr);
+  grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
   gap:20px;
-}
-
-.card{
-  background:#102349;
-  border-radius:18px;
-  padding:25px;
 }
 
 .card h2{
   margin-top:15px;
   font-size:32px;
 }
-.mission-card,
-.progress-card{
-  margin-top:25px;
-  background:#102349;
-  border-radius:18px;
-  padding:25px;
-}
 
-.mission-card h2,
-.progress-card h2{
-  margin-bottom:15px;
+.mission-card,.progress-card{
+  margin-top:25px;
 }
 
 .mission-list{
+  margin-top:15px;
   display:flex;
   flex-direction:column;
   gap:10px;
 }
 
 .mission-item{
-  font-size:18px;
+  font-size:17px;
 }
 
 .progress-bar{
   width:100%;
-  height:16px;
-  background:#1f3b75;
-  border-radius:30px;
+  height:18px;
+  background:#1c3d85;
+  border-radius:20px;
   overflow:hidden;
-  margin:15px 0;
+  margin:20px 0;
 }
 
 .progress-fill{
   height:100%;
-  width:25%;
-  background:#3b82f6;
-  border-radius:30px;
-}
-.mission-card,
-.progress-card {
-  background: #102c6b;
-  border-radius: 20px;
-  padding: 25px;
-  margin-top: 20px;
-  color: white;
+  background:linear-gradient(90deg,#00e676,#00c853);
+  border-radius:20px;
+  transition:width 0.3s ease;
 }
 
-.mission-list {
-  margin-top: 15px;
+table{
+  width:100%;
+  border-collapse:collapse;
 }
 
-.mission-item {
-  margin: 10px 0;
-  font-size: 17px;
+th,td{
+  padding:12px;
+  border-bottom:1px solid rgba(255,255,255,0.12);
+  text-align:left;
 }
 
-.progress-bar {
-  width: 100%;
-  height: 18px;
-  background: #1c3d85;
-  border-radius: 20px;
-  overflow: hidden;
-  margin: 20px 0;
+@media (max-width: 900px){
+  .app{
+    flex-direction:column;
+  }
+
+  .sidebar{
+    width:100%;
+    min-height:auto !important;
+    padding:18px;
+  }
+
+  .sidebar div{
+    display:flex;
+    gap:10px;
+    overflow-x:auto;
+    padding-bottom:8px;
+  }
+
+  .sidebar h2,
+  .sidebar p{
+    display:none;
+  }
+
+  .sidebar a{
+    flex:0 0 auto;
+  }
+
+  .sidebar button{
+    white-space:nowrap;
+    margin-bottom:0;
+  }
+
+  .main{
+    padding:22px;
+  }
+
+  .hero h1{
+    font-size:32px;
+  }
+
+  .card{
+    padding:20px;
+  }
 }
 
-.progress-fill {
-  height: 100%;
-  background: linear-gradient(90deg, #00e676, #00c853);
-  border-radius: 20px;
+@media (max-width: 600px){
+  .main{
+    padding:16px;
+  }
+
+  h1{
+    font-size:28px;
+  }
+
+  .hero h1{
+    font-size:28px;
+  }
+
+  .cards{
+    grid-template-columns:1fr;
+    gap:15px;
+  }
+
+  .card h2{
+    font-size:26px;
+  }
+
+  button{
+    min-height:44px;
+  }
+
+  th,td{
+    font-size:14px;
+    padding:10px;
+  }
 }

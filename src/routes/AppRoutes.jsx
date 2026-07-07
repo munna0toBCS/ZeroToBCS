@@ -11,6 +11,7 @@ import Profile from "../pages/Profile";
 import Exam from "../pages/Exam";
 import Practice from "../pages/Practice";
 import MockExam from "../pages/MockExam";
+import MockSession from "../pages/MockSession";
 import PracticeSession from "../pages/PracticeSession";
 import MistakeNotebook from "../pages/MistakeNotebook";
 import Curriculum from "../pages/Curriculum";
@@ -94,6 +95,14 @@ export default function AppRoutes() {
   element={
     <ProtectedRoute>
       <MockExam />
+    </ProtectedRoute>
+  }
+/>
+<Route
+  path="/mock-session"
+  element={
+    <ProtectedRoute>
+      <MockSession />
     </ProtectedRoute>
   }
 />

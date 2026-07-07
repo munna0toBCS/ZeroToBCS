@@ -1,33 +1,32 @@
 import { useEffect, useState } from "react";
 
-export default function Timer({
-  initialMinutes,
-  onTimeUp,
-}) {
-  const [secondsLeft, setSecondsLeft] = useState(
-    initialMinutes * 60
-  );
+export default function Timer({ initialSeconds = 1200, onTimeUp }) {
+  const safeSeconds = Number(initialSeconds) || 1200;
+  const [secondsLeft, setSecondsLeft] = useState(safeSeconds);
+
+  useEffect(() => {
+    setSecondsLeft(safeSeconds);
+  }, [safeSeconds]);
 
   useEffect(() => {
     if (secondsLeft <= 0) {
-      onTimeUp();
+      onTimeUp?.();
       return;
     }
 
-    const timer = setInterval(() => {
+    const timer = setTimeout(() => {
       setSecondsLeft((prev) => prev - 1);
     }, 1000);
 
-    return () => clearInterval(timer);
+    return () => clearTimeout(timer);
   }, [secondsLeft, onTimeUp]);
 
   const minutes = Math.floor(secondsLeft / 60);
   const seconds = secondsLeft % 60;
 
   return (
-    <div className="card">
-      <h3>⏱ Time Remaining</h3>
-
+    <div className="card" style={{ textAlign: "center" }}>
+      <h3>Time Remaining</h3>
       <h1>
         {String(minutes).padStart(2, "0")}:
         {String(seconds).padStart(2, "0")}

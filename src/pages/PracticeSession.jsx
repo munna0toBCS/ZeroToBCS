@@ -24,6 +24,7 @@ export default function PracticeSession() {
 
   const currentQuestion = questions[currentIndex];
   const selected = selectedAnswers[currentQuestion.id];
+  const answeredCount = Object.keys(selectedAnswers).length;
 
   const result = questions.reduce(
     (acc, question) => {
@@ -37,6 +38,8 @@ export default function PracticeSession() {
     },
     { correct: 0, wrong: 0, skipped: 0 }
   );
+
+  const score = Math.max(0, result.correct - result.wrong * 0.25).toFixed(2);
 
   const selectAnswer = (optionIndex) => {
     if (submitted) return;
@@ -55,16 +58,22 @@ export default function PracticeSession() {
     }
   };
 
+  const goPrevious = () => {
+    if (currentIndex > 0) {
+      setCurrentIndex(currentIndex - 1);
+    }
+  };
+
   if (submitted) {
     return (
       <div style={{ maxWidth: "900px", margin: "40px auto" }}>
         <div className="card">
-          <h1>📊 Practice Result</h1>
+          <h1>Practice Result</h1>
 
-          <p>✅ Correct: {result.correct}</p>
-          <p>❌ Wrong: {result.wrong}</p>
-          <p>⚪ Skipped: {result.skipped}</p>
-          <p>🏆 Score: {result.correct - result.wrong * 0.25}</p>
+          <p>Correct: {result.correct}</p>
+          <p>Wrong: {result.wrong}</p>
+          <p>Skipped: {result.skipped}</p>
+          <p>Score: {score}</p>
 
           <hr style={{ margin: "20px 0" }} />
 
@@ -78,24 +87,17 @@ export default function PracticeSession() {
 
                 <p>
                   Your Answer:{" "}
-                  {userAnswer === undefined
-                    ? "Skipped"
-                    : question.options[userAnswer]}
+                  {userAnswer === undefined ? "Skipped" : question.options[userAnswer]}
                 </p>
 
                 <p>Correct Answer: {question.options[question.answer]}</p>
 
-                <p>
-                  <strong>Explanation:</strong> {question.explanation}
-                </p>
+                <p><strong>Explanation:</strong> {question.explanation || "No explanation added yet."}</p>
               </div>
             );
           })}
 
-          <button
-            onClick={() => navigate("/practice")}
-            style={{ marginTop: "25px", width: "100%" }}
-          >
+          <button onClick={() => navigate("/practice")} style={{ marginTop: "25px", width: "100%" }}>
             Back to Practice
           </button>
         </div>
@@ -106,66 +108,84 @@ export default function PracticeSession() {
   return (
     <div style={{ maxWidth: "900px", margin: "40px auto" }}>
       <div className="card">
-        <h2>
-          Question {currentIndex + 1} / {questions.length}
-        </h2>
+        <h2>Question {currentIndex + 1} / {questions.length}</h2>
 
         <p style={{ opacity: 0.8 }}>
           {settings?.subject} • {settings?.topic} • {settings?.difficulty}
         </p>
 
+        <p style={{ opacity: 0.8 }}>Answered: {answeredCount} / {questions.length}</p>
+
         <div className="progress-bar" style={{ marginTop: "20px" }}>
           <div
             className="progress-fill"
-            style={{
-              width: `${((currentIndex + 1) / questions.length) * 100}%`,
-            }}
+            style={{ width: `${((currentIndex + 1) / questions.length) * 100}%` }}
           />
         </div>
 
         <h3 style={{ marginTop: "30px" }}>{currentQuestion.question}</h3>
 
         <div style={{ display: "grid", gap: "15px", marginTop: "25px" }}>
-          {currentQuestion.options.map((option, index) => (
-            <button
-              key={index}
-              onClick={() => selectAnswer(index)}
-              style={{
-                padding: "16px",
-                borderRadius: "12px",
-                border:
-                  selected === index
-                    ? "2px solid #3b82f6"
-                    : "1px solid #2d4b7a",
-                background: selected === index ? "#2850b8" : "#16284f",
-                color: "#fff",
-                cursor: "pointer",
-                textAlign: "left",
-              }}
-            >
-              {String.fromCharCode(65 + index)}. {option}
-            </button>
-          ))}
+          {currentQuestion.options.map((option, index) => {
+            const isSelected = selected === index;
+            const isCorrect = currentQuestion.answer === index;
+
+            let background = "#16284f";
+            let border = "1px solid #2d4b7a";
+
+            if (selected !== undefined && isCorrect) {
+              background = "#16a34a";
+              border = "2px solid #22c55e";
+            }
+
+            if (selected !== undefined && isSelected && !isCorrect) {
+              background = "#dc2626";
+              border = "2px solid #ef4444";
+            }
+
+            return (
+              <button
+                key={index}
+                onClick={() => selectAnswer(index)}
+                style={{
+                  padding: "16px",
+                  borderRadius: "12px",
+                  border,
+                  background,
+                  color: "#fff",
+                  cursor: "pointer",
+                  textAlign: "left",
+                }}
+              >
+                {String.fromCharCode(65 + index)}. {option}
+              </button>
+            );
+          })}
         </div>
 
-        <button
-          onClick={goNext}
-          style={{
-            marginTop: "30px",
-            width: "100%",
-            padding: "16px",
-            border: "none",
-            borderRadius: "12px",
-            background: "#2563eb",
-            color: "#fff",
-            fontSize: "17px",
-            cursor: "pointer",
-          }}
-        >
-          {currentIndex === questions.length - 1
-            ? "Finish Practice"
-            : "Next Question →"}
-        </button>
+        {selected !== undefined && (
+          <div className="card" style={{ marginTop: "20px", background: "#0f172a" }}>
+            <h3>{selected === currentQuestion.answer ? "Correct" : "Wrong"}</h3>
+            <p><strong>Explanation:</strong> {currentQuestion.explanation || "No explanation added yet."}</p>
+          </div>
+        )}
+
+        <div style={{ display: "flex", gap: "12px", marginTop: "30px" }}>
+          <button
+            onClick={goPrevious}
+            disabled={currentIndex === 0}
+            style={{ width: "50%", padding: "16px" }}
+          >
+            Previous
+          </button>
+
+          <button
+            onClick={goNext}
+            style={{ width: "50%", padding: "16px" }}
+          >
+            {currentIndex === questions.length - 1 ? "Finish Practice" : "Next"}
+          </button>
+        </div>
       </div>
     </div>
   );

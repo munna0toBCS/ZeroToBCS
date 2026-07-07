@@ -10,7 +10,7 @@ export default function MockExam() {
       time: "200 Minutes",
       description: "Complete BCS Preliminary Simulation",
       button: "Start Full Mock",
-      action: () => navigate("/exam"),
+     action: () => navigate("/mock-session"),
       color: "#2563eb",
     },
     {

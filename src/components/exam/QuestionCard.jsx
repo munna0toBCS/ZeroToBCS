@@ -4,6 +4,8 @@ export default function QuestionCard({
   selectedAnswer,
   onSelectAnswer,
   submitted,
+  markedForReview = false,
+  onToggleReview,
 }) {
   const getOptionStyle = (index) => {
     if (!submitted) {
@@ -11,9 +13,10 @@ export default function QuestionCard({
         display: "block",
         padding: "12px",
         marginBottom: "10px",
-        border: "1px solid #ccc",
+        border: selectedAnswer === index ? "2px solid #2563eb" : "1px solid #ccc",
         borderRadius: "10px",
         cursor: "pointer",
+        background: selectedAnswer === index ? "#dbeafe" : "transparent",
       };
     }
 
@@ -61,6 +64,20 @@ export default function QuestionCard({
         {question.question}
       </p>
 
+      {!submitted && (
+        <button
+          onClick={() => onToggleReview?.(question.id)}
+          style={{
+            marginTop: "15px",
+            marginBottom: "15px",
+            background: markedForReview ? "#f59e0b" : "#475569",
+            color: "#fff",
+          }}
+        >
+          {markedForReview ? "★ Marked for Review" : "☆ Mark for Review"}
+        </button>
+      )}
+
       <div style={{ marginTop: "20px" }}>
         {question.options.map((option, index) => (
           <label key={index} style={getOptionStyle(index)}>
@@ -71,7 +88,6 @@ export default function QuestionCard({
               disabled={submitted}
               onChange={() => onSelectAnswer(question.id, index)}
             />
-
             {"  "}
             {option}
           </label>
@@ -81,7 +97,8 @@ export default function QuestionCard({
       {submitted && (
         <div style={{ marginTop: "15px" }}>
           <p>
-            <strong>Explanation:</strong> {question.explanation}
+            <strong>Explanation:</strong>{" "}
+            {question.explanation || "No explanation added yet."}
           </p>
         </div>
       )}
