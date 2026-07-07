@@ -1,9 +1,17 @@
+import { useEffect, useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
+import { auth } from "../../firebase";
 import knowledgeIndex from "../data/knowledgeIndex";
+import {
+  getTopicMastery,
+  markTopicMastered,
+} from "../services/masteryService";
 
 export default function TopicPage() {
   const { subjectId, topicId } = useParams();
   const navigate = useNavigate();
+
+  const [mastery, setMastery] = useState(null);
 
   const subject = knowledgeIndex[subjectId];
 
@@ -11,22 +19,39 @@ export default function TopicPage() {
     .flatMap((section) => section.topics)
     .find((item) => item.id === topicId);
 
+  useEffect(() => {
+    const loadMastery = async () => {
+      const user = auth.currentUser;
+      if (!user || !subjectId || !topicId) return;
+
+      const data = await getTopicMastery(user.uid, subjectId, topicId);
+      setMastery(data);
+    };
+
+    loadMastery();
+  }, [subjectId, topicId]);
+
+  const handleMastered = async () => {
+    const user = auth.currentUser;
+    if (!user) return;
+
+    const data = await markTopicMastered(user.uid, subjectId, topicId);
+    setMastery(data);
+    alert("Topic marked as mastered.");
+  };
+
   if (!topic) {
     return (
       <div className="card" style={{ maxWidth: "700px", margin: "40px auto" }}>
         <h2>Topic not found</h2>
-        <button onClick={() => navigate(`/knowledge/${subjectId}`)}>
-          Back
-        </button>
+        <button onClick={() => navigate(`/knowledge/${subjectId}`)}>Back</button>
       </div>
     );
   }
 
   return (
     <div style={{ maxWidth: "1000px", margin: "40px auto" }}>
-      <button onClick={() => navigate(`/knowledge/${subjectId}`)}>
-        ← Back
-      </button>
+      <button onClick={() => navigate(`/knowledge/${subjectId}`)}>← Back</button>
 
       <div className="card" style={{ marginTop: "20px" }}>
         <h1>{topic.title}</h1>
@@ -38,6 +63,12 @@ export default function TopicPage() {
         <p style={{ marginTop: "10px", opacity: 0.8 }}>
           Exams: {topic.exams.join(", ")}
         </p>
+
+        {mastery?.mastered && (
+          <p style={{ marginTop: "15px", color: "#22c55e" }}>
+            ✅ Mastered on {mastery.masteredAt}
+          </p>
+        )}
       </div>
 
       {topic.lessons.length === 0 ? (
@@ -104,31 +135,41 @@ export default function TopicPage() {
           }}
         >
           <button
-  onClick={() =>
-    navigate("/practice", {
-      state: {
-        subject: subject.title,
-        topic: topic.title,
-      },
-    })
-  }
->
-  Practice MCQ
-</button>
+            onClick={() =>
+              navigate("/practice", {
+                state: {
+                  subject: subject.title,
+                  topic: topic.title,
+                },
+              })
+            }
+          >
+            Practice MCQ
+          </button>
+
           <button
-  onClick={() =>
-    navigate("/practice", {
-      state: {
-        subject: subject.title,
-        topic: topic.title,
-        count: 10,
-      },
-    })
-  }
->
-  Mini Mock
-</button>
-          <button disabled>Mark as Mastered</button>
+            onClick={() =>
+              navigate("/practice", {
+                state: {
+                  subject: subject.title,
+                  topic: topic.title,
+                  count: 10,
+                },
+              })
+            }
+          >
+            Mini Mock
+          </button>
+
+          <button
+            onClick={handleMastered}
+            disabled={mastery?.mastered}
+            style={{
+              background: mastery?.mastered ? "#16a34a" : "#2563eb",
+            }}
+          >
+            {mastery?.mastered ? "✅ Mastered" : "Mark as Mastered"}
+          </button>
         </div>
       </div>
     </div>
