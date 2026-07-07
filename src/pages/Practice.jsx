@@ -126,13 +126,13 @@ const selectedTopicCount = selectedSubject
           </div>
 
           <button
-onClick={() => {
+onClick={async () => {
   if (!subject || !topic) {
     alert("Please select Subject and Topic.");
     return;
   }
 
-  const practice = startPractice({
+ const practice = await startPractice({
     exam,
     subject,
     topic,

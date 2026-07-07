@@ -15,6 +15,8 @@ import PracticeSession from "../pages/PracticeSession";
 import MistakeNotebook from "../pages/MistakeNotebook";
 import Curriculum from "../pages/Curriculum";
 import Admin from "../pages/Admin";
+import QuestionManager from "../pages/QuestionManager";
+import QuestionImporter from "../pages/QuestionImporter";
 import ProtectedRoute from "../components/ProtectedRoute";
 import AdminRoute from "../components/AdminRoute";
 export default function AppRoutes() {
@@ -133,6 +135,26 @@ export default function AppRoutes() {
     <ProtectedRoute>
       <AdminRoute>
         <Admin />
+      </AdminRoute>
+    </ProtectedRoute>
+  }
+/>
+<Route
+  path="/question-importer"
+  element={
+    <ProtectedRoute>
+      <AdminRoute>
+        <QuestionImporter />
+      </AdminRoute>
+    </ProtectedRoute>
+  }
+/>
+<Route
+  path="/question-manager"
+  element={
+    <ProtectedRoute>
+      <AdminRoute>
+        <QuestionManager />
       </AdminRoute>
     </ProtectedRoute>
   }

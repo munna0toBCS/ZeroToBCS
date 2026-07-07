@@ -21,6 +21,9 @@ export default function Sidebar() {
     { path: "/mistakes", label: "📒 Mistake Notebook" },
     { path: "/mentor", label: "🤖 AI Mentor" },
     { path: "/analytics", label: "📊 Analytics" },
+    { path: "/admin", label: "🛠 Admin Panel" },
+{ path: "/question-manager", label: "📚 Question Manager" },
+{ path: "/question-importer", label: "📥 Bulk Import" },
   ];
 
   return (
