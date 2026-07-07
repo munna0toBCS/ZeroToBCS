@@ -18,6 +18,9 @@ import Curriculum from "../pages/Curriculum";
 import Admin from "../pages/Admin";
 import QuestionManager from "../pages/QuestionManager";
 import QuestionImporter from "../pages/QuestionImporter";
+import KnowledgeHub from "../knowledge/pages/KnowledgeHub";
+import SubjectPage from "../knowledge/pages/SubjectPage";
+import TopicPage from "../knowledge/pages/TopicPage";
 import ProtectedRoute from "../components/ProtectedRoute";
 import AdminRoute from "../components/AdminRoute";
 export default function AppRoutes() {
@@ -127,6 +130,30 @@ export default function AppRoutes() {
   element={
     <ProtectedRoute>
       <Curriculum />
+    </ProtectedRoute>
+  }
+/>
+<Route
+  path="/knowledge"
+  element={
+    <ProtectedRoute>
+      <KnowledgeHub />
+    </ProtectedRoute>
+  }
+/>
+<Route
+  path="/knowledge/:subjectId"
+  element={
+    <ProtectedRoute>
+      <SubjectPage />
+    </ProtectedRoute>
+  }
+/>
+<Route
+  path="/knowledge/:subjectId/:topicId"
+  element={
+    <ProtectedRoute>
+      <TopicPage />
     </ProtectedRoute>
   }
 />

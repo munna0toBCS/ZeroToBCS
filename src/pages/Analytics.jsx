@@ -1,6 +1,7 @@
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { auth } from "../firebase";
 import { getAnalytics } from "../services/analyticsService";
+import { generateStudyPlan } from "../services/studyPlanService";
 import StatCard from "../components/ui/StatCard";
 import Card from "../components/ui/Card";
 
@@ -18,6 +19,11 @@ export default function Analytics() {
 
     loadAnalytics();
   }, []);
+
+  const studyPlan = useMemo(() => {
+    if (!analytics) return null;
+    return generateStudyPlan(analytics);
+  }, [analytics]);
 
   if (!analytics) {
     return (
@@ -39,200 +45,96 @@ export default function Analytics() {
         <StatCard icon="🏆" title="Highest Score" value={analytics.highestScore} />
         <StatCard icon="⭐" title="Total XP" value={analytics.totalXPEarned} />
       </div>
-<Card style={{ marginTop: "25px" }}>
-  <h2>🧠 Performance Insight</h2>
 
-  <div
-    style={{
-      display: "grid",
-      gridTemplateColumns: "repeat(auto-fit,minmax(220px,1fr))",
-      gap: "15px",
-      marginTop: "20px",
-    }}
-  >
-    <div className="card">
-      <p>Performance Level</p>
-      <h2>{analytics.performanceLevel}</h2>
-    </div>
+      <Card style={{ marginTop: "25px" }}>
+        <h2>📅 AI Study Plan</h2>
 
-    <div className="card">
-      <p>Best Accuracy</p>
-      <h2>{analytics.bestAccuracy || 0}%</h2>
-    </div>
+        <div style={{ marginTop: "18px", padding: "20px", borderRadius: "16px", background: "#0f172a" }}>
+          <p style={{ opacity: 0.85 }}>Focus Subject</p>
+          <h2 style={{ marginTop: "10px" }}>{studyPlan?.focusSubject}</h2>
 
-    <div className="card">
-      <p>Average Score</p>
-      <h2>{analytics.averageScore || 0}</h2>
-    </div>
-  </div>
+          <p style={{ marginTop: "10px" }}>
+            Priority: <strong>{studyPlan?.priority}</strong> • Estimated Time:{" "}
+            <strong>{studyPlan?.estimatedTime}</strong>
+          </p>
 
-  <div
-    style={{
-      marginTop: "20px",
-      padding: "18px",
-      borderRadius: "14px",
-      background: "#0f172a",
-    }}
-  >
-    <h3>Recommendation</h3>
-    <p style={{ marginTop: "10px", opacity: 0.9 }}>
-      {analytics.recommendation}
-    </p>
-  </div>
-</Card>
-<Card style={{ marginTop: "25px" }}>
-  <h2>🏅 Subject Summary</h2>
+          <div style={{ display: "grid", gap: "12px", marginTop: "18px" }}>
+            {studyPlan?.tasks.map((task, index) => (
+              <div key={index} className="card" style={{ padding: "16px" }}>
+                <h3>{task.title}</h3>
+                <p style={{ opacity: 0.85, marginTop: "6px" }}>
+                  Target: {task.target} • Reward: {task.xp} XP
+                </p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </Card>
 
-  <div
-    style={{
-      display: "grid",
-      gridTemplateColumns: "repeat(auto-fit,minmax(250px,1fr))",
-      gap: "20px",
-      marginTop: "20px",
-    }}
-  >
-    <div
-      style={{
-        background: "#14532d",
-        padding: "20px",
-        borderRadius: "16px",
-      }}
-    >
-      <p style={{ opacity: 0.8 }}>🔥 Strongest Subject</p>
+      <Card style={{ marginTop: "25px" }}>
+        <h2>🧠 Performance Insight</h2>
+        <p style={{ marginTop: "15px", lineHeight: "28px" }}>
+          {analytics.recommendation}
+        </p>
+      </Card>
 
-      <h2 style={{ marginTop: "10px" }}>
-        {analytics.strongestSubject?.subject || "-"}
-      </h2>
+      <Card style={{ marginTop: "25px" }}>
+        <h2>🏅 Subject Summary</h2>
 
-      <p style={{ marginTop: "8px" }}>
-        Accuracy: {analytics.strongestSubject?.accuracy || 0}%
-      </p>
-    </div>
+        <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit,minmax(250px,1fr))", gap: "20px", marginTop: "20px" }}>
+          <div style={{ background: "#14532d", padding: "20px", borderRadius: "16px" }}>
+            <p style={{ opacity: 0.8 }}>🔥 Strongest Subject</p>
+            <h2 style={{ marginTop: "10px" }}>{analytics.strongestSubject?.subject || "-"}</h2>
+            <p style={{ marginTop: "8px" }}>
+              Accuracy: {analytics.strongestSubject?.accuracy || 0}%
+            </p>
+          </div>
 
-    <div
-      style={{
-        background: "#7f1d1d",
-        padding: "20px",
-        borderRadius: "16px",
-      }}
-    >
-      <p style={{ opacity: 0.8 }}>⚠ Weakest Subject</p>
+          <div style={{ background: "#7f1d1d", padding: "20px", borderRadius: "16px" }}>
+            <p style={{ opacity: 0.8 }}>⚠ Weakest Subject</p>
+            <h2 style={{ marginTop: "10px" }}>{analytics.weakestSubject?.subject || "-"}</h2>
+            <p style={{ marginTop: "8px" }}>
+              Accuracy: {analytics.weakestSubject?.accuracy || 0}%
+            </p>
+          </div>
+        </div>
+      </Card>
 
-      <h2 style={{ marginTop: "10px" }}>
-        {analytics.weakestSubject?.subject || "-"}
-      </h2>
+      <Card style={{ marginTop: "25px" }}>
+        <h2>📚 Subject Performance</h2>
 
-      <p style={{ marginTop: "8px" }}>
-        Accuracy: {analytics.weakestSubject?.accuracy || 0}%
-      </p>
-    </div>
-  </div>
-</Card>
-<Card style={{ marginTop: "25px" }}>
-  <h2>🤖 Smart Recommendation</h2>
+        {analytics.subjectPerformance?.length > 0 ? (
+          <div style={{ marginTop: "20px", display: "grid", gap: "15px" }}>
+            {analytics.subjectPerformance.map((item) => (
+              <div key={item.subject} className="card" style={{ padding: "16px", display: "grid", gap: "10px" }}>
+                <div style={{ display: "flex", justifyContent: "space-between", gap: "10px" }}>
+                  <h3 style={{ fontSize: "18px" }}>{item.subject}</h3>
+                  <strong>{item.accuracy}%</strong>
+                </div>
 
-  <div
-    style={{
-      marginTop: "18px",
-      padding: "20px",
-      borderRadius: "16px",
-      background: "#0f172a",
-    }}
-  >
-    <p style={{ opacity: 0.85 }}>Today’s Focus</p>
+                <div style={{ width: "100%", height: "10px", background: "#1c3d85", borderRadius: "20px", overflow: "hidden" }}>
+                  <div style={{ width: `${item.accuracy}%`, height: "100%", background: "linear-gradient(90deg,#00e676,#00c853)" }} />
+                </div>
 
-    <h2 style={{ marginTop: "10px" }}>
-      {analytics.weakestSubject?.subject || "General Practice"}
-    </h2>
+                <p style={{ fontSize: "14px", opacity: 0.85 }}>
+                  ✅ {item.correct} &nbsp; ❌ {item.wrong} &nbsp; ⚪ {item.skipped}
+                </p>
+              </div>
+            ))}
+          </div>
+        ) : (
+          <p style={{ marginTop: "15px", opacity: 0.8 }}>
+            No subject data yet. Submit a new mock exam first.
+          </p>
+        )}
+      </Card>
 
-    <p style={{ marginTop: "12px", lineHeight: "28px" }}>
-      Practice 20 MCQs from{" "}
-      <strong>{analytics.weakestSubject?.subject || "your weak areas"}</strong>.
-      Review all wrong answers and retake one short mock test.
-    </p>
-
-    <div
-      style={{
-        display: "grid",
-        gridTemplateColumns: "repeat(auto-fit,minmax(180px,1fr))",
-        gap: "12px",
-        marginTop: "18px",
-      }}
-    >
-      <div className="card">
-        <p>MCQ Target</p>
-        <h2>20</h2>
-      </div>
-
-      <div className="card">
-        <p>Estimated Time</p>
-        <h2>35 min</h2>
-      </div>
-
-      <div className="card">
-        <p>Priority</p>
-        <h2>High</h2>
-      </div>
-    </div>
-  </div>
-</Card>
-<Card style={{ marginTop: "25px" }}>
-  <h2>📚 Subject Performance</h2>
-
-  {analytics.subjectPerformance?.length > 0 ? (
-    <div style={{ marginTop: "20px", display: "grid", gap: "15px" }}>
-      {analytics.subjectPerformance.map((item) => (
-  <div
-    key={item.subject}
-    className="card"
-    style={{
-      padding: "16px",
-      display: "grid",
-      gap: "10px",
-    }}
-  >
-    <div style={{ display: "flex", justifyContent: "space-between", gap: "10px" }}>
-      <h3 style={{ fontSize: "18px" }}>{item.subject}</h3>
-      <strong>{item.accuracy}%</strong>
-    </div>
-
-    <div
-      style={{
-        width: "100%",
-        height: "10px",
-        background: "#1c3d85",
-        borderRadius: "20px",
-        overflow: "hidden",
-      }}
-    >
-      <div
-        style={{
-          width: `${item.accuracy}%`,
-          height: "100%",
-          background: "linear-gradient(90deg,#00e676,#00c853)",
-        }}
-      />
-    </div>
-
-    <p style={{ fontSize: "14px", opacity: 0.85 }}>
-      ✅ {item.correct} &nbsp; ❌ {item.wrong} &nbsp; ⚪ {item.skipped}
-    </p>
-  </div>
-))}
-    </div>
-  ) : (
-    <p style={{ marginTop: "15px", opacity: 0.8 }}>
-      No subject data yet. Submit a new mock exam first.
-    </p>
-  )}
-</Card>
-
-<Card style={{ marginTop: "25px" }}>
-  <h2>Recent Exam History</h2>
+      <Card style={{ marginTop: "25px" }}>
+        <h2>Recent Exam History</h2>
 
         {analytics.exams && analytics.exams.length > 0 ? (
           <div style={{ overflowX: "auto", marginTop: "20px" }}>
-            <table style={{ width: "100%", borderCollapse: "collapse" }}>
+            <table>
               <thead>
                 <tr>
                   <th>Score</th>

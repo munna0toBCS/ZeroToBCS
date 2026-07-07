@@ -4,7 +4,8 @@ import { getUserProfile } from "../services/userService";
 import { getPlannerTasks } from "../services/plannerService";
 import { getAnalytics } from "../services/analyticsService";
 import { updateDailyStreak } from "../services/streakService";
-
+import { generateDailyMission } from "../services/dailyMissionService";
+import { getOrCreateDailyMission } from "../services/userMissionService";
 import HeroSection from "../dashboard/HeroSection";
 import StatsSection from "../dashboard/StatsSection";
 import MissionSection from "../dashboard/MissionSection";
@@ -16,6 +17,7 @@ export default function Dashboard() {
   const [profile, setProfile] = useState(null);
   const [tasks, setTasks] = useState([]);
   const [analytics, setAnalytics] = useState(null);
+  const [mission, setMission] = useState(null);
   const [streak, setStreak] = useState(1);
   const [loading, setLoading] = useState(true);
 
@@ -42,9 +44,16 @@ export default function Dashboard() {
       ]);
 
       setProfile(profileData);
-      setTasks(plannerTasks);
-      setAnalytics(analyticsData);
-      setStreak(streakData);
+setTasks(plannerTasks);
+setAnalytics(analyticsData);
+setStreak(streakData);
+
+const todayMission = await getOrCreateDailyMission(
+  user.uid,
+  analyticsData
+);
+
+setMission(todayMission);
 
       setLoading(false);
     };
@@ -80,7 +89,10 @@ export default function Dashboard() {
         accuracy={analytics?.averageAccuracy || 0}
       />
 
-      <MissionSection tasks={tasks} />
+    <MissionSection
+  mission={mission}
+  tasks={mission?.tasks || []}
+/>
 
       <QuickActions />
 <PriorityTopics />

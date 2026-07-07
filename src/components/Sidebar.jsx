@@ -18,6 +18,7 @@ export default function Sidebar() {
     { path: "/exam", label: "📝 Mock Exam" },
     { path: "/practice", label: "🎯 Practice Mode" },
   { path: "/curriculum", label: "📚 Curriculum" },
+  { path: "/knowledge", label: "📖 Knowledge Hub" },
     { path: "/mistakes", label: "📒 Mistake Notebook" },
     { path: "/mentor", label: "🤖 AI Mentor" },
     { path: "/analytics", label: "📊 Analytics" },
