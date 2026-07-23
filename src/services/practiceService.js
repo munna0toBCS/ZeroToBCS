@@ -24,10 +24,6 @@ export const startPractice = async ({
       difficulty,
       limit: count,
     });
-
-    if (questions.length > 0) {
-      console.log("☁️ Loaded questions from Supabase");
-    }
   } catch (error) {
     console.warn("Supabase unavailable. Using local database.");
   }
@@ -40,8 +36,6 @@ export const startPractice = async ({
       difficulty,
       count,
     });
-
-    console.log("💻 Loaded questions from Local Database");
   }
 
   return {

@@ -1,10 +1,10 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { auth } from "../firebase";
 import { addXP } from "../services/xpService";
 import { saveMistakes } from "../services/mistakeService";
 import { saveExamHistory } from "../services/examHistoryService";
-import examQuestions from "../data/examQuestions";
+import { getQuestionsByFilter } from "../services/supabaseQuestionService";
 
 import QuestionCard from "../components/exam/QuestionCard";
 import QuestionPalette from "../components/exam/QuestionPalette";
@@ -15,10 +15,32 @@ import Button from "../components/ui/Button";
 export default function Exam() {
   const navigate = useNavigate();
 
+  const [examQuestions, setExamQuestions] = useState([]);
+  const [loadingQuestions, setLoadingQuestions] = useState(true);
+  const [loadError, setLoadError] = useState(null);
   const [examStarted, setExamStarted] = useState(false);
   const [answers, setAnswers] = useState({});
   const [submitted, setSubmitted] = useState(false);
   const [markedForReview, setMarkedForReview] = useState({});
+
+  useEffect(() => {
+    const loadQuestions = async () => {
+      try {
+        const questions = await getQuestionsByFilter({
+          exam: "BCS",
+          limit: 200,
+        });
+
+        setExamQuestions(questions);
+      } catch (error) {
+        setLoadError(error.message);
+      } finally {
+        setLoadingQuestions(false);
+      }
+    };
+
+    loadQuestions();
+  }, []);
 
   const answeredCount = useMemo(() => Object.keys(answers).length, [answers]);
   const reviewCount = useMemo(
@@ -81,7 +103,7 @@ examQuestions.forEach((question) => {
   grade,
   subjectStats,
 };
-  }, [answers]);
+  }, [answers, examQuestions]);
 
   const handleSelectAnswer = (questionId, optionIndex) => {
     if (submitted) return;
@@ -171,6 +193,23 @@ examQuestions.forEach((question) => {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
+  if (loadingQuestions) {
+    return (
+      <div className="card" style={{ maxWidth: "700px", margin: "40px auto" }}>
+        <h2>Loading exam questions...</h2>
+      </div>
+    );
+  }
+
+  if (loadError) {
+    return (
+      <div className="card" style={{ maxWidth: "700px", margin: "40px auto" }}>
+        <h2>Couldn't load exam questions</h2>
+        <p style={{ marginTop: "15px", opacity: 0.8 }}>{loadError}</p>
+      </div>
+    );
+  }
+
   if (!examStarted) {
     return (
       <div className="card" style={{ maxWidth: "700px", margin: "40px auto" }}>
@@ -181,8 +220,19 @@ examQuestions.forEach((question) => {
         <p>Mode: Full Exam Simulation</p>
 
         <div style={{ marginTop: "25px" }}>
-          <Button onClick={() => setExamStarted(true)}>🚀 Start Exam</Button>
+          <Button
+            onClick={() => setExamStarted(true)}
+            disabled={examQuestions.length === 0}
+          >
+            🚀 Start Exam
+          </Button>
         </div>
+
+        {examQuestions.length === 0 && (
+          <p style={{ marginTop: "15px", opacity: 0.8 }}>
+            No questions found. Please add questions from Question Manager first.
+          </p>
+        )}
       </div>
     );
   }

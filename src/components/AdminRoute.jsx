@@ -3,7 +3,6 @@ import { useAuth } from "../context/AuthContext";
 
 export default function AdminRoute({ children }) {
   const { currentUser } = useAuth();
-console.log("Current User:", currentUser?.email);
 const adminEmails = [
   "asifabdullahmunnao@gmail.com",
 ];

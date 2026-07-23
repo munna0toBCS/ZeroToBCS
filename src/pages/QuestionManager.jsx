@@ -27,13 +27,11 @@ const [editingQuestion, setEditingQuestion] = useState(null);
     const ok = confirm("Are you sure you want to delete this question?");
     if (!ok) return;
 
-    const { data, error } = await supabase
+    const { error } = await supabase
   .from("questions")
   .delete()
   .eq("id", id)
   .select();
-
-console.log("Deleted rows:", data);
 
     if (error) {
       alert(error.message);
