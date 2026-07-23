@@ -11,7 +11,7 @@ export default function Sidebar() {
   };
 
   const menuItems = [
-    { path: "/dashboard", label: "🏠 Dashboard" },
+    { path: "/today", label: "🏠 Today" },
     { path: "/profile", label: "👤 Profile" },
     { path: "/syllabus", label: "📚 Syllabus" },
     { path: "/planner", label: "🎯 Study Planner" },
