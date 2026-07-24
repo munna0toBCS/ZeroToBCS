@@ -1,0 +1,1497 @@
+{
+  "examName": "11th BCS Preliminary",
+  "examCode": "bcs_11",
+  "totalQuestions": 60,
+  "validation": {
+    "totalDetected": 60,
+    "highestQuestionNo": 100,
+    "missing": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      9,
+      14,
+      15,
+      16,
+      17,
+      21,
+      22,
+      24,
+      26,
+      27,
+      34,
+      35,
+      36,
+      37,
+      41,
+      43,
+      44,
+      47,
+      52,
+      53,
+      56,
+      57,
+      58,
+      64,
+      65,
+      66,
+      67,
+      71,
+      72,
+      74,
+      77,
+      84,
+      85,
+      86,
+      87
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 53,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_11_001",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 1,
+      "question": "বৈরাগ্য সাধনে _____সে আমার নয় !' শূন্যস্থান পূরণ করুন !",
+      "options": {
+        "ক": "আনন্দ খ মুক্তি",
+        "খ": "",
+        "গ": "বিশ্বাস ঘ আশ্বাস",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সংক্ষেপ করে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_003",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 3,
+      "question": "'সূর্য'-এর প্রতিশব্দ-",
+      "options": {
+        "ক": "সুধাংশু খ শশাঙ্ক",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "আদিত্য",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_11_008",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 8,
+      "question": "'অধচন্দ্র'-এর অর্থ- গdd",
+      "options": {
+        "ক": "গলাধাক্কা দেওয়া খ অমাবস্য",
+        "খ": "সদাচার",
+        "গ": "দ্বিতীয়ত",
+        "ঘ": "একটি গুপ্ত কথা বলি"
+      },
+      "correctAnswer": "খ",
+      "answerText": "সদাচার",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_010",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 10,
+      "question": "'সংশয়'-এর বিপরীতার্থক শব্দ কোনটি?",
+      "options": {
+        "ক": "নির্ভয় খ বিস্ময়",
+        "খ": "",
+        "গ": "প্রত্যয় দ্বিধা",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "প্রত্যয়",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_11_011",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 11,
+      "question": "ক্ষেমার যোগ্য'-এর বাক্য সংকোচন- you1 SUCceকক ক্ষমার্হ 1LCh খ ক্ষমাপ্র্থী ক্ষয ৭ : ক্ষমাপদ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ক্ষমাহ",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_11_012",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 12,
+      "question": "সেপ্টেম্বর বিশ্ব সাক্ষরতা দিবস ! শূন্যস্থান পূরণ করুন !",
+      "options": {
+        "ক": "খ ৬",
+        "খ": "",
+        "গ": "১০ ঘা .",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৮",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_013",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 13,
+      "question": "মোস্তফা চরিত' গ্রন্থের রচয়িতা-",
+      "options": {
+        "ক": "মুহম্মদ আব্দুল হাই খ মো: বরকতুল্লাহ",
+        "খ": "",
+        "গ": "ড মুহম্মদ শহীদুল্লাহ ঘ মওলানা আকরম খা",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মওলানা আকরম খাঁ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_018",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 18,
+      "question": "আমার দেখা রাজনীতির পঞ্চাশ বছর' গ্রন্থটির রচয়িতা-",
+      "options": {
+        "ক": "মুহম্মদ আব্দুল হাই খ ড মুহম্মদ শহীদুল্লাহ",
+        "খ": "",
+        "গ": "আবুল মনসুর আহমেদ ঘ আতাউর রহমান",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "শরংচন্দ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_019",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 19,
+      "question": "What is the synonym of 'Incite'?",
+      "options": {
+        "ক": "Instigate Pernit",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "Instigate",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_11_020",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 20,
+      "question": "What is the antonym of 'Honorary'?",
+      "options": {
+        "ক": "Official খ Honorable",
+        "খ": "",
+        "গ": "Salariel চ Literary",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "অপশন খ ও ঘ দুটোই সঠিক !",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_11_023",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 23,
+      "question": "Who is the author of 'For Whom the Bell Tols'?",
+      "options": {
+        "ক": "Charles Dickens খ IIonner",
+        "খ": "",
+        "গ": "Lor] Tennison ঘ. Ernest Hemingway",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "of",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_11_025",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 25,
+      "question": "'May Allah help you' What kind of sentence is this? Optative খ . Imperative",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "Assertive দ Exclamatory",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "sinice",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_11_028",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 28,
+      "question": "Which is the noun form of the word 'beautiful'? u1 SULCCeকক Beautious Ch খ Beauty ?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "Beautifully দা Beautify",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Beauty",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_11_029",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 29,
+      "question": "'Hold water' means-",
+      "options": {
+        "ক": "reeূ খ. Irink water",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "bear examination",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_11_030",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 30,
+      "question": "'Out and Out' means-",
+      "options": {
+        "ক": "Not at all খ Thoroughly",
+        "খ": "",
+        "গ": "T be last দা Man Or outsile",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "Thoroughly",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_11_031",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 31,
+      "question": "Choose the correct sentence",
+      "options": {
+        "ক": "Rice 1s 11oL always napঢy .",
+        "খ": "The rich 1s not always napথy .",
+        "গ": "The rich is not alway:",
+        "ঘ": "The rich are 1ot always napঢy ."
+      },
+      "correctAnswer": "গ",
+      "answerText": "The rich are not always",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_11_032",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 32,
+      "question": "Choose the correct sentence",
+      "options": {
+        "ক": "He had been hunged for murder",
+        "খ": "",
+        "গ": "He Was hanged for murder",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "IIe was hanged for murder",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_11_033",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 33,
+      "question": "'Syntax' means-",
+      "options": {
+        "ক": "Manner Of speech খ. Sentence building",
+        "খ": "",
+        "গ": "Supplementary tax চা Synchronizing act",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "Sentence building",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_11_038",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 38,
+      "question": "'Justice delayed is justice denied' was stated by-",
+      "options": {
+        "ক": "Disraeli খ . Ennerso11",
+        "খ": "",
+        "গ": "Gladstone দা Shakespeare",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মিথেন গ্যাস",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_11_039",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 39,
+      "question": "'বাসস' একটি-",
+      "options": {
+        "ক": "সংবাদ সংস্থার নাম",
+        "খ": "একটি প্রেস ক্লাবের নাম",
+        "গ": "একটি খবরের কাগজের নাম",
+        "ঘ": "একটি বিদেশী কোম্পানির নাম"
+      },
+      "correctAnswer": "ক",
+      "answerText": "সংবাদ সংস্থার নাম",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_040",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 40,
+      "question": "বাংলাদেশে শহীদ বুদ্ধিজীবী দিবস পালিত হয়-",
+      "options": {
+        "ক": "২৬ মাচ খ ১৬ ডিসেম্বর",
+        "খ": "পার্বত্য চট্টগ্রামের বনভূমি",
+        "গ": "২১ ফেব্রুয়ারি ঘ ১৪ ডিসেম্বর",
+        "ঘ": "খুলনা, বরিশাল ও পটুয়াখালীর বনভূমি"
+      },
+      "correctAnswer": "",
+      "answerText": "ভাওয়াল মধুপুরের বনভূমি",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_11_042",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 42,
+      "question": "চীন-বাংলাদেশ মৈত্রী সেতু-১ নির্মাণের প্রধান উদ্দেশ্য-",
+      "options": {
+        "ক": "ঢাকা শহরকে নদীর ওপারে বিস্তৃত কর",
+        "খ": "বাংলাদেশ ও চীনের মধ্যে সুসম্পর্কের স্থায়ী বন্ধন সৃষ্টি করা",
+        "গ": "ঢাকা-আরিচা রোড যানবাহন চলাচলের চাপ কমানো",
+        "ঘ": "দেশের দক্ষিণ অঞ্চলের সাথে ঢাকার পরিবহন ব্যবস্থা"
+      },
+      "correctAnswer": "",
+      "answerText": "মোস্তফা মনোয়ার",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_11_045",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 45,
+      "question": "বাংলাদেশের কোন জেলায় সবচেয়ে বেশি পাট উৎপন্ন হয়?",
+      "options": {
+        "ক": "রংপুর খ ময়মনসিংহ",
+        "খ": "",
+        "গ": "টাঙ্গাইল ঘ ফরিদপুর",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "ফরিদপুর",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_11_046",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 46,
+      "question": "বাংলাদেশের মোট আবাদযোগ্য জমির পরিমাণ প্রায় কত?",
+      "options": {
+        "ক": "২ কোটি ৪০ লক্ষ একর",
+        "খ": "২ কোটি ৫০ লক্ষ একর",
+        "গ": "২২৫ নটিক্যাল মাইল ঘ ১০ নটিক্যাল মাইল",
+        "ঘ": "$ কোটি ২৫ লক্ষ একর"
+      },
+      "correctAnswer": "",
+      "answerText": "২০০ নটিক্যাল মাইল",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_11_048",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 48,
+      "question": "মহাস্থানগড় কোন নদীর তীরে অবস্থিত?",
+      "options": {
+        "ক": "করতোয়া খ . গঙ্গা",
+        "খ": "",
+        "গ": "ব্রহ্মপুত্র ঘ মহানন্দা",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "করতোয়া",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_049",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 49,
+      "question": "ঔষধ নীতির প্রধান উদ্দেশ্য হলো-",
+      "options": {
+        "ক": "অপ্রয়োজনীয় এবং ক্ষতিকর ঔষধ প্রস্তুত বন্ধ করা LCC৫ে",
+        "খ": "ঔষধ শিল্পে দেশীয় কাঁচামালের ব্যবহার নিশ্চিত করা",
+        "গ": "ঔষধ শিল্পে দেশীয় শিল্পপতিরদের অগ্রাধিকার দেয়া",
+        "ঘ": "বিদেশী শিল্পপতিদের দেশীয় কাঁচামাল ব্যবহারে বাধ্য করা"
+      },
+      "correctAnswer": "ক",
+      "answerText": "অপ্রয়োজনীয় এবং ক্ষতিকর ঔষধ প্রস্তুত বন্ধ করা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_050",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 50,
+      "question": "বিকেএসপি হলো-",
+      "options": {
+        "ক": "একটি ক্রীড়া শিক্ষা সংস্থার নাম",
+        "খ": "একটি সংবাদ সংস্থার নাম",
+        "গ": "একটি কিশোর ফুটবল টিমের নাম",
+        "ঘ": "একটি সঙ্গীত শিক্ষা প্রতিষ্ঠানের নাম"
+      },
+      "correctAnswer": "ক",
+      "answerText": "একটি ক্রীড়া শিক্ষা সংস্থার নাম",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_051",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 51,
+      "question": "মা ও মনি হলো-",
+      "options": {
+        "ক": "একটি উপন্যঅসের নাম",
+        "খ": "একটি প্রসাধনী শিল্পের নাম",
+        "গ": "একটি ক্রীড়া প্রতিযোগিতার নাম",
+        "ঘ": "একটি গরিব মা ও মেয়ের গল্প কাহিনী"
+      },
+      "correctAnswer": "",
+      "answerText": "ভিয়েনা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_054",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 54,
+      "question": "জাপানের পার্লামেন্টের নাম-",
+      "options": {
+        "ক": "ডায়েট খ পিনসাস",
+        "খ": "",
+        "গ": "নেসেট ঘ. শুর",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ডায়়েট",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_055",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 55,
+      "question": "আমেরিকাকে এশিয়া থেকে পথক করেছে কোন প্রণালী?",
+      "options": {
+        "ক": "ফ্লোরিডা &_ খ পক",
+        "খ": "",
+        "গ": "জিব্রাল্টার বেরিং",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "২৪ অক্টোবর",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_059",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 59,
+      "question": "নামিবিয়ার রাজধানী-",
+      "options": {
+        "ক": "কারাভু খ উইন্ডহুক",
+        "খ": "",
+        "গ": "প্রিটোরিয়া ঘ কোটাভি",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "উইন্ডহুক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_060",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 60,
+      "question": "ইসলামী উন্নয়ন ব্যাংক ঋণ প্রদান করে-",
+      "options": {
+        "ক": "স্বাভাবিক সুদে খ বিনা সুদে",
+        "খ": "",
+        "গ": "অল্প সুদে ঘ অতি সামান্য সুদে",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "বিনা সুদে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_061",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 61,
+      "question": "ওডারনীস নদী-",
+      "options": {
+        "ক": "পূর্ব জা্মানি ও পোল্যান্ডের মধ্যে সীমা নির্ধারক",
+        "খ": "পশ্চিম জামানি ও চেক প্রজাতন্ত্রের মধ্যে সীমা নির্ধারক",
+        "গ": "পশ্চিম জামানি ও পোল্যান্ডের মধ্যে সীমা নির্ধারক",
+        "ঘ": "সংযুক্ত জার্মান ও ফ্রান্সের মধ্যে সীমা নির্ধারক"
+      },
+      "correctAnswer": "ক",
+      "answerText": "পূর্ব জা্মানি ও পোল্যান্ডের মধ্যে সীমা নির্ধারক",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_062",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 62,
+      "question": "'হারারে' এর পুরাতন নাম-",
+      "options": {
+        "ক": "সলসবেরি খ . ফরমোজা",
+        "খ": "",
+        "গ": "পেট্রোগ্রাড ঘ রোডেসিযা",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "সলসবেরি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_063",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 63,
+      "question": "পবিত্রভূমি কোনটিকে বলা হয়?",
+      "options": {
+        "ক": "প্যালেস্টাইন খ`",
+        "খ": "",
+        "গ": "জেদ্দা",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "জেরুজালেম",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_068",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 68,
+      "question": "এডেন কোন দেশের সমুদ্রবন্দর?",
+      "options": {
+        "ক": "ইয়েমেন খ. কাতার",
+        "খ": "পূর্ব আফ্রিকার একটি সংবাদ সংস্থা",
+        "গ": "ওমান ঘ ইরাক",
+        "ঘ": "একটি সামরিক চুক্তি"
+      },
+      "correctAnswer": "",
+      "answerText": "Paul Harris",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_069",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 69,
+      "question": ": চালের মূল্য ১২% কমে যাওয়ায় ৬০০০ টাকায় পূর্বাপেক্ষা ১ কুইন্টাল চাল বেশি পাওয়া যায় চ ১ কুইন্টাল চালের বর্তমান মূল্য কত?",
+      "options": {
+        "ক": "৭৫০ টাকা খ ৭০০ টাকা",
+        "খ": "",
+        "গ": "৭২০ টাকা চা ৭৫ টাকা",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "৭২০ টাকা",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_11_070",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 70,
+      "question": "একটি আয়তাকার ক্ষেত্রের দৈর্ঘ্য বিস্তারের ৩ গুণ ! দৈর্ঘ্য ৪৮ মিটার হলে, ক্ষেত্রটির পরিসীমা কত?",
+      "options": {
+        "ক": "১২৮ মিটার খ . ১88 মিটার",
+        "খ": "",
+        "গ": "৬৪ মিটার দ ৯৬ মিটার",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৯৯",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_11_073",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 73,
+      "question": "একটি ক্রিকেট দলে যতজন স্ট্যাম্প আউট হলো তার দেড়গুণ কট আউট হলো এবং মোট উইকেটের অর্ধেক বোল্ড আউট হলো এই দলের কতজন কট আউট হলো?",
+      "options": {
+        "ক": "৪ জন খ ৩ জন",
+        "খ": "",
+        "গ": "$ জন ঘ ৫ জন",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৯২৫ ফুট",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_075",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 75,
+      "question": "একটি বৃত্তের ব্যাসাধকে যদি r থেকে বৃদ্ধি করে r + n করা হয়, তবে তার ক্ষেত্রফল দ্িগুণ হয় ! r -এর মান কত? 11 খ` 11 + 2 1 211 2 11 + 1) ^ 2 - 1",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "11",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_11_076",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 76,
+      "question": "a a a + 1) = কত?",
+      "options": {
+        "ক": "a - 1 খ`",
+        "খ": "",
+        "গ": "2 ঘ +1U1",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৪ লিটার",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_11_078",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 78,
+      "question": "সরল করলে তার মান হবে- 15 + 15 এর 15 g",
+      "options": {
+        "ক": "125",
+        "খ": "",
+        "গ": "225 1225",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "225",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_11_079",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 79,
+      "question": "",
+      "options": {
+        "ক": "এর বেতন খ-এর বেতন অপেক্ষা শতকরা ৩৫ টাকা বেশি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "২৫৯৩ টাকা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_080",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 80,
+      "question": "১০টি সংখ্যার যোগফল ৬৪২ এদের প্রথম ৪টির গড় ৫২ এবং শেষের ৫েটির গড় ৩৮ পঞ্চম সংখ্যাটি কত?",
+      "options": {
+        "ক": "৬0 খ. 98",
+        "খ": "",
+        "গ": "৬> ঘা ৫",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৬8",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_11_081",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 81,
+      "question": "পাশাপাশি দুটি বর্গক্ষেত্রের প্রত্যেক বাহু 20 ফুট! BC = 6, CF 5 ফুট, DE =?",
+      "options": {
+        "ক": "১৫ ফুট খ ১২ ফুট",
+        "খ": "",
+        "গ": "২০ ফুট ঘ ১৮ ফুট",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "প্রশ্নটি ত্রুটিপূর্ণ !",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_11_082",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 82,
+      "question": "যদি a} ৮3 513 এবং a - ৮ = 3 হয় তবে; ab এর মান কত?",
+      "options": {
+        "ক": "54 খ` 35",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "54",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_11_083",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 83,
+      "question": "Y + 3) Ix - 3) কে x' 6 দিয়ে ভাগ করলে ভাগশেষ কত হবে? SUCCes 6 Oench ঘ -3L1 ক খ 3",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "-3",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_11_088",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 88,
+      "question": "2 টা 15 মিনিটের সময় ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যে কত ডিগ্রি কোণ উৎপন্ন হয়?",
+      "options": {
+        "ক": "239 খ 22 -",
+        "খ": "পাতা দ্বারা স্থানান্তরিত হয়ে",
+        "গ": "209 চা",
+        "ঘ": "ফুলে ফুলে সংস্পর্শে"
+      },
+      "correctAnswer": "",
+      "answerText": "ইরি-৮",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_11_089",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 89,
+      "question": "ইস্পাত সাধারণ লোহা থেকে ভিন্ন কারণ এতে-",
+      "options": {
+        "ক": "বিশেষ ধরণের আকরিক ব্যবহার করা",
+        "খ": "সুনিয়ন্ত্রিত পরিমাণ কার্বন",
+        "গ": "লোহাকে টেম্পারিং করা হয়েছে",
+        "ঘ": "সব বিজাতীয় দ্রব্য বের করে দেয়া হয়েছে SULCCesদেশে"
+      },
+      "correctAnswer": "খ",
+      "answerText": "সুনিয়ন্ত্রিত পরিমাণ কার্বন রয়েছে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_090",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 90,
+      "question": "প্রাকৃতিক গ্যাসের প্রধান উপাদান হলো-",
+      "options": {
+        "ক": "নাইট্রোজেন গ্যাস খ মিথেন",
+        "খ": "",
+        "গ": "হাইড্রোজেন গ্যাস ঘ কার্বন মনোক্সাইড",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "মিথেন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_091",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 91,
+      "question": "মৌলিক পদার্থের ক্ষুদ্রতম কণা যা রাসায়নিক প্রক্রিয়ায়় অংশগ্রহণ করে তাকে বলা হয়-",
+      "options": {
+        "ক": "পরমাণ খ ইলেকট্রন",
+        "খ": "",
+        "গ": "অণু ঘ প্রোটন",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "পরমাণ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_092",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 92,
+      "question": "সমুদ্র স্রোতের অন্যতম কারণ",
+      "options": {
+        "ক": "বায়ু প্রবাহের প্রভাব",
+        "খ": "সমুদ্রের পানিতে তাপ পরিচালনা",
+        "গ": "সমুদ্রের পানিতে ঘনত্বের তারতম্য",
+        "ঘ": "সমুদ্রের ঘূর্ণিঝড়"
+      },
+      "correctAnswer": "ক",
+      "answerText": "বায়ু প্রবাহের প্রভাব",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_093",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 93,
+      "question": "কাজ করার সামর্থ্যকে বলে-",
+      "options": {
+        "ক": "ক্ষমত খ . কাজ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "শক্তি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_094",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 94,
+      "question": "রংধনু সৃষ্টির বেলায় পানির কণাগুলো-",
+      "options": {
+        "ক": "দর্পণের কাজ করে খ আতমীকাচের কাজ করে",
+        "খ": "",
+        "গ": "লেসের কাজ করে ঘ পপ্িজমের কাজ করে",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "প্রিজমের কাজ করে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_095",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 95,
+      "question": "কাচ তৈরির প্রধান কাঁচামাল হলো-",
+      "options": {
+        "ক": "জিপসাম খ বালি",
+        "খ": "",
+        "গ": "সাজি মাটি ঘ. চুনাপাথর",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "বালি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_096",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 96,
+      "question": "কম্পিউটারের সফ্টওয়্যার বলতে বুঝানো হয়-",
+      "options": {
+        "ক": "এর প্রোগ্রাম বা কর্ম পরিকল্পনার কৌশল",
+        "খ": "তথ্য দেয়া ও তথ্য নেয়ার অংশ বিশেষ",
+        "গ": "যেসব অংশ মুদ্রায়িত অবস্থায় থাকে",
+        "ঘ": "কম্পিউটার তৈরির নকশা"
+      },
+      "correctAnswer": "ক",
+      "answerText": "এর প্রোগ্রাম বা কর্ম পরিকল্পনার কৌশল",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_097",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 97,
+      "question": "মাইক্রোওয়েভের মাধ্যমে যে টেলিযোগাযোগ ব্যবস্থা আমাদের প্রচলিত তাতে মাইক্রোওয়েভ অধিকাংশ দূরত্ব অতিক্রম করে-",
+      "options": {
+        "ক": "ওয়েভ গাইডের মধ্য দিয়ে",
+        "খ": "ভূমি ও আয়নোস্কিয়ারের মধ্যে প্রতিফলন হতে হবে",
+        "গ": "বিশেষ ধরনের ক্যাবলের মধ্য দিয়ে",
+        "ঘ": "খোলামেলা জায়গার মধ্য দিয়ে সরল রেখায়"
+      },
+      "correctAnswer": "ক",
+      "answerText": "ওয়েভ গাইডের মধ্য দিয়ে",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_098",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 98,
+      "question": "মানুষের ক্রোমোজোমের সংখ্যা কত?",
+      "options": {
+        "ক": "২৪ জোড়া খ ২৬ জোড়া",
+        "খ": "",
+        "গ": "২৩ জোড়া ঘ ২৫ জোড়া",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "২৩ জোড়া",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_11_099",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 99,
+      "question": "সৌরকোষের বিদ্যুৎ রাতেও ব্যবহার করা সম্ভব যদি এর সঙ্গে থাকে-",
+      "options": {
+        "ক": "ট্রান্সফরমার জেনারেটর",
+        "খ": "",
+        "গ": "ষ্োরেজ ব্যাটারি চা ক্যাপামিটার",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ষ্টোরেজ ব্যাটারি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_11_100",
+      "exam": "11th BCS Preliminary",
+      "examCode": "bcs_11",
+      "questionNo": 100,
+      "question": "বৈদ্যুতিক পাখা ধীরে ধীরে ঘুরলে বিদ্যুৎ খরচ-",
+      "options": {
+        "ক": "একই হয় খ . বেশি হয়",
+        "খ": "",
+        "গ": "কম হয় ঘ খুব কম হয়",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "একই হয়",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "11th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    }
+  ]
+}

@@ -1,3 +1,7 @@
+# OCR pipeline build cache (rendered page images + raw OCR dumps) —
+# regenerable, not source; kept out to avoid bloating repo history
+questionBank/.ocr_cache/
+
 # Logs
 logs
 *.log

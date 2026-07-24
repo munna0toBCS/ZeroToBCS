@@ -1,0 +1,1865 @@
+{
+  "examName": "14th BCS Preliminary",
+  "examCode": "bcs_14",
+  "totalQuestions": 76,
+  "validation": {
+    "totalDetected": 76,
+    "highestQuestionNo": 100,
+    "missing": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      18,
+      19,
+      20,
+      21,
+      43,
+      44,
+      47,
+      52,
+      53,
+      54,
+      56,
+      58,
+      74,
+      75,
+      76,
+      77,
+      88
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 66,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_14_001",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 1,
+      "question": "বউ কথা কও, বউ কথা কও কও কথা অভিমানিনী সেধে সেধে কেরদে কেরদেঁ যাবে কত যামিনী\"-এই কবিতাংশটুকুর কে?",
+      "options": {
+        "ক": "বেনজীর আহমেদ খ . কাজী নজরুল ইসলাম",
+        "খ": "",
+        "গ": "ঈশ্বরচন্দ্র বিদ্যাসাগর দা বিহারীলাল চক্রবর্তী",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "বিহারীলাল চক্রবর্তী",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_14_003",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 3,
+      "question": "বাংলা সাহিত্যে প্রথম মুসলিম নাট্যকার রচিত নাট্যগ্রন্থ কোনটি?",
+      "options": {
+        "ক": "জগং মোহিনী খ বসন্ত কুমারী",
+        "খ": "",
+        "গ": "আয়না চা মোহনী 1dd",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "বসন্ত কুমারী",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_008",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 8,
+      "question": "কোন বানানটি শুদ্ধ?",
+      "options": {
+        "ক": "বিভিসীকা খ বিভীষিকা Ou1 SUCCe sউত্তরঃ",
+        "খ": "",
+        "গ": "প্রেমেন্দ্র মিত্র ঘ প্রমথ নাথ বসু",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "প্রমথ চৌধুরী",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_14_011",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 11,
+      "question": "'দহগ্রাম ছিটমহল' কোন জেলায় অবস্থিত?",
+      "options": {
+        "ক": "কুড়িগ্রাম ছ` নীলফামারী",
+        "খ": "",
+        "গ": "পঞ্চগড় চা. লালমনিরহাট",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "লালমনিরহাট",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_012",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 12,
+      "question": "'দক্ষিণ তালপট্টি' দ্ীপ কোন নদীর মোহনায় অবস্থিত?",
+      "options": {
+        "ক": "বালেশ্বর খ হাড়িয়াভাঙ্গা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "হাড়িয়াভাঙ্গা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_013",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 13,
+      "question": "জাতীয় স্মৃতিসৌধের স্থপতি কে?",
+      "options": {
+        "ক": "হামিদুর রহমান খ তানভীর কবীর",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মাইনুল হোসেন",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_14_014",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 14,
+      "question": "বাংলাদেশের 'লোকশিল্প জাদুঘর' কোথায় অবস্থিত?",
+      "options": {
+        "ক": "ঢাকা ময়নামতি",
+        "খ": "",
+        "গ": "রাজশাই চা সোনারগাঁও",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "সোনারগাঁও",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_14_015",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 15,
+      "question": "১৯৯৭ সালে এশিয়ার কোন রাষ্টে 'একদেশ; দুই নীতি' চালু হবে?",
+      "options": {
+        "ক": "লাওস খ. ভিয়েতনাম",
+        "খ": "",
+        "গ": "মঙ্গোলিয়া গণচীন",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_14_016",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 16,
+      "question": "এশিয়ায় যুক্তরাষ্টের পররাষ্টরনীতির মূল ভিত্তি কী?",
+      "options": {
+        "ক": "জাপানকে সাহায্য করা",
+        "খ": "ভিয়েতনামকে দমন করা",
+        "গ": "'আসিয়ান' জোটকে সমর্থন করা",
+        "ঘ": "দক্ষিণ কোরিয়াকে রক্ষা করা"
+      },
+      "correctAnswer": "গ",
+      "answerText": "'আসিয়ান' জোটকে সমর্থন করা",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_017",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 17,
+      "question": "কমনওয়েলথের কোন দেশটি যুক্তরাজ্যের রাজা ও রানিকে তাদের রাষ্ট্রপ্রধান হিসেবে স্বীকার করে?",
+      "options": {
+        "ক": "অস্ট্রেলিয়া খ কানাডা",
+        "খ": "",
+        "গ": "সাইপ্রাস ঘ মরিসাস",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "অস্ট্রেলিয়া",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_022",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 22,
+      "question": "কোন মাধ্যমে শব্দের গতি সবচেয়ে কম? ULT SuCCesটি গাভী ১৮. জা্মানি ব্যতিরেকে কোন দেশের প্রায় সকল নাগরিক জার্মান ভাষায় কথা বলে?",
+      "options": {
+        "ক": "সুইজারল্যান্ড খ . পোল্যান্ড",
+        "খ": "আসলের চেযে বেশি হবে",
+        "গ": "অস্স্রিয়া দ ডেনমাক",
+        "ঘ": "আসল গতর সাথে সম্পর্কযুক্তভাবে কমে যাবে"
+      },
+      "correctAnswer": "",
+      "answerText": "বায়বীয় পদার্থে",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_14_023",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 23,
+      "question": "বজ্রপাতের সময় আপনি নিজের গাড়ি করে যাচ্ছেন ! নিজেকে সুরক্ষিত রাখার জন্য আপনি কোন উপায়টি গ্রহণ করবেন?",
+      "options": {
+        "ক": "গড়ির মধ্যেই বসে থাকবেন",
+        "খ": "কোনো গাছের তলায় আশ্রয় নিবেন",
+        "গ": "বাইরে এসে মাটিতে উপুড় হয়ে শুয়ে পড়বন",
+        "ঘ": "বাইরে এসে আকাশের দিকে মুখ করে দাঁড়িয়ে থাকবেন"
+      },
+      "correctAnswer": "গ",
+      "answerText": "বাইরে এসে মাটিতে উপুড় হয়ে শুয়ে পড়বেন",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_024",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 24,
+      "question": "কিসের সাহায্যে সমুদ্রের গভীরতা নির্ণয় করা হয়?",
+      "options": {
+        "ক": "প্রতিফলন খ. প্রতিধ্বনি",
+        "খ": "",
+        "গ": "প্রতিসরণ চা প্রতিসরাঙ্ক",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "প্রতিধ্বনি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_025",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 25,
+      "question": "দুই অঙ্কবিশিষ্ট একটি সংখ্যার এককের অঙ্ক দশকের অঙ্ক অপেক্ষা ৩ বেশি ! সংখ্যাটি এর অঙ্কদ্বয়ের সমষ্টির তিনগুণ অপেক্ষা ৪ বেশি ! সংখ্যাটি কত?",
+      "options": {
+        "ক": "খ ৩৬",
+        "খ": "",
+        "গ": "২৫ ঘ. ১৪",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "২৫",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_14_026",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 26,
+      "question": "একটি ঘড়িতে ৬ টার ঘণ্টা ধ্বনি ঠিক ৬ টায় শুরু করে বাজতে ৫ সেকেন্ড সময় লাগে, ঐ ঘড়িতে ১২ টার ঘণ্টাধ্বনি বাজতে কত সেকেন্ড সময় লাগবে? ঘণ্টাধ্বনি সমান সময় ব্যবধানে বাজে?",
+      "options": {
+        "ক": "১১ সেকেন্ড খ ১০ সেকেন্ড",
+        "খ": "",
+        "গ": "১২ সেকেন্ড ঘ ১০১৫ সকেন্ড",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১১ সেকেন্ড",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_14_027",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 27,
+      "question": "এক গোয়ালা তার n সংখ্যক গাভীকে চার পুত্রের মধ্যে করে দিল: প্রথম পুত্রকে - অংশ; নিম্নলিখিতভাবে বণ্টন 2 দ্বিতীয় পুত্রকে 1 অংশ, তৃতীয় পুত্রকে অংশ এবং বাকি ;ী চতুর্থ পুত্রকে দিল | ঐ গোয়ালার গাভীর 4 5 সংখ্যা কত ছিল?",
+      "options": {
+        "ক": "১০০ টি খ . ১৪০ টি",
+        "খ": "",
+        "গ": "১৮০ টি ঘ ২০০ টি",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৪০ টি",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_14_028",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 28,
+      "question": "১৮ ফুট উঁচু একটি খুঁটি এমনভাবে ভেঙ্গে গেল যে; ভাঙ্গা অংশটি বিচ্ছিন্ন না হয়ে ভূমির সঙ্গে ৩০ কোণে স্পশ করলো ! খুঁটিটি মাটি থেকে কত ফুট উঁচুতে ভেঙ্গে গিয়েছিল?",
+      "options": {
+        "ক": "১২ ফুট খ ৯ ফুট",
+        "খ": "",
+        "গ": "৬ ফুট চা ৩ ফুট",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "৬ ফুট",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_14_029",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 29,
+      "question": "বাংলা ভাষার আদি স্তরের স্থিতিকাল কোনটি?",
+      "options": {
+        "ক": "দশম থেকে চতুর্দশ শতাব্দী",
+        "খ": "একাদশ থেকে পঞ্চদশ শতাব্দী",
+        "গ": "দ্বাদশ থেকে ষোড়শ শতাব্দী",
+        "ঘ": "ত্রয়োদশ থেকে সপ্তদশ শতাব্দী"
+      },
+      "correctAnswer": "ক",
+      "answerText": "দশম থেকে চতুর্দশ শতাব্দী",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_030",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 30,
+      "question": "যৌগিক বাক্যের অন্যতম গুণ কী?",
+      "options": {
+        "ক": "একটি জটিল ও একটি সরল বাক্যের সাহায্যে বাক্য গঠন",
+        "খ": "একটি সংযুক্ত একটি বিযুক্ত বাক্যের সাহায্যে বাক্য গঠন",
+        "গ": "দুটি সরল বাক্যের সাহায্যে বাক্য গঠন",
+        "ঘ": "দুটি মিশ্র বাক্যের সাহায্যে বাক্য গঠন"
+      },
+      "correctAnswer": "গ",
+      "answerText": "দুটি সরল বাক্যের সাহায্যে বাক্য গঠন",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_14_031",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 31,
+      "question": "রাবণের চিতা' বাগধারাটির অর্থ কী?",
+      "options": {
+        "ক": "অনিষ্টে ইষ্ট লাভ",
+        "খ": "চির অশান্তি",
+        "গ": "অরাজক দেশ",
+        "ঘ": "সামান্য কিছু নিয়ে ঝগড়া বাধানো"
+      },
+      "correctAnswer": "খ",
+      "answerText": "চির অশান্তি add:",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_14_032",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 32,
+      "question": "কোনটি ইব্রাইীম খাঁর গ্রন্থ নয়?",
+      "options": {
+        "ক": "আনোয়ার পশা খ ইস্তাম্বুল যাত্রীর পত্র",
+        "খ": "",
+        "গ": "কুচবরণ কন্যা ঘ সোনার",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "কুচবরণ কন্যা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_033",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 33,
+      "question": "কোন প্রবচনটি 'হতভাগ্য' অর্থে ব্যবহৃত?",
+      "options": {
+        "ক": "আট কপালে খ উড়নচণ্ডী",
+        "খ": "",
+        "গ": "ছা-পোষা ভূষণডির কাক",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "আট কপালে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_034",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 34,
+      "question": "কার সম্পাদনায় 'সংবাদ প্রভাকর' প্রথম প্রকাশিত হয়?",
+      "options": {
+        "ক": "প্রমথনা? চৌধুরী ছ ঈশ্বরচন্দ্র গুপ্ত",
+        "খ": "",
+        "গ": "প্যারীচাঁদ মিত্র ঘ. দীনবন্ধু মিত্র",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ঈশ্বরচন্দ্র গুপ্ত",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_035",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 35,
+      "question": "পুনর্ভবা; নাগর, কুলিখ ও টাঙ্গন কোন নদীর উপনদী?",
+      "options": {
+        "ক": "মহানন্দা খ ব্রহ্মপুত্র",
+        "খ": "",
+        "গ": "কুমার চা যমুনা",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "মহানন্দা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_036",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 36,
+      "question": "'ছিয়াত্তরের মন্বন্তর' নামক ভয়াবহ দুর্ভিক্ষ কত সালে ঘটে?",
+      "options": {
+        "ক": "বাংলা ১৭০৬ সালে খ বাংলা ১১৭৬ সালে",
+        "খ": "",
+        "গ": "বাংলা ১৩৭৬ সালে ঘ ইংরেজি ১৮৭৬ সালে",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "বাংলা ১১৭৬ সালে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_037",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 37,
+      "question": "জমি থেকে খাজনা আদায় আল্লাহ'র আইনের পরিপন্থী\"- এটি কার ঘোষণা?",
+      "options": {
+        "ক": "তিতুমীর খ ফকির মজনু শাহ",
+        "খ": "",
+        "গ": "দুদু মিয়া ঘ হাজী শরীয়তউল্লাহ",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "দুদু মিয়া",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_038",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 38,
+      "question": "বীরশরেষ্ঠ হামিদুর রহমানের পদবি কী ছিল?",
+      "options": {
+        "ক": "সিপাহী খ ল্যান্স নায়েক",
+        "খ": "",
+        "গ": "হাবিলদার ঘ ক্যাপ্টেন",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "সিপাহী",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_14_039",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 39,
+      "question": "যমুনা নদী কোথায় পতিত হয়েছে?",
+      "options": {
+        "ক": "পদ্মায় খ বঙ্গোপসাগরে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "পদ্মায়",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_040",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 40,
+      "question": "বাংলাদেশের সবচেয়ে উত্তরের জেলা কোনটি?",
+      "options": {
+        "ক": "পঞ্চগড় ছ ঠাকুরগাঁও",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "পঞ্চগড়",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_14_041",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 41,
+      "question": "দক্ষিণ কোরিয়ার মুদ্রার নাম কী?",
+      "options": {
+        "ক": "ইয়েন খ পেসো",
+        "খ": "",
+        "গ": "ইউয়ান চা উয়ন",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "উয়ন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_042",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 42,
+      "question": "ইরাক-ইরান যুদ্ধবিরতি তদারকীতে অংশগ্রহণকারী জাতিসংঘ বাহিনীর সংক্ষিপ্ত নাম কী?",
+      "options": {
+        "ক": "খ . UNTGMAP",
+        "খ": "",
+        "গ": "TNTFICP দ",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_045",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 45,
+      "question": "ক্যাটালান কোন দেশের ভাষা?",
+      "options": {
+        "ক": "স্্পেন খ . বেলজিয়াম",
+        "খ": "",
+        "গ": "নাইজেরিয়া ঘ মঙ্গোলিয়া",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "স্পেন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_046",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 46,
+      "question": "কোথায় সাঁতার কাটা সহজ?",
+      "options": {
+        "ক": "পুকুরে খ বিলে",
+        "খ": "পাখিপালন বিষয়াদি",
+        "গ": "নদীতে ঘ সাগরে",
+        "ঘ": "উড়োজাহাজ ব্যবস্থাপনা"
+      },
+      "correctAnswer": "খ",
+      "answerText": "পাখিপালন বিষয়াদি",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_048",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 48,
+      "question": "এক কুইন্টাল ওজনে কত কিলোগ্রাম হয়?",
+      "options": {
+        "ক": "১ কিলোগ্রাম খ. ১০ কিলোগ্রাম",
+        "খ": "",
+        "গ": "১০০ কিলোগ্রাম ঘা . ১০০০ কিলোগ্রাম",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "১০০ কিলোগ্রাম",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_049",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 49,
+      "question": "কোন রঙের কাপে চা তাড়াতাড়ি ঠান্ডা হয়?",
+      "options": {
+        "ক": "সাদ খ কালো",
+        "খ": "",
+        "গ": "লাল ঘ ধূসর",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "কালো",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_050",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 50,
+      "question": "সাধারণ বৈদ্যুতিক বাল্বের ভিতরে সাধারণত কী গ্যাস ব্যবহার করা হয়?",
+      "options": {
+        "ক": "নাইট্রোজেন ছ হিলিয়াম",
+        "খ": "",
+        "গ": "নিয়়ন ঘ আক্সিজেন",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "নাইট্রোজেন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_051",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 51,
+      "question": "সমকোণী ত্রিভুজের সমকোণ সংলগ্ন বাহুদ্বয় যথাক্রমে ৩ ও সেন্টিমিটার হলে এর অতিভুজের মান কত?",
+      "options": {
+        "ক": "৬ সেমি খ ৫ সেমি",
+        "খ": "a' _ 12",
+        "গ": "৮ সেমি ঘ ৭ সেমি",
+        "ঘ": "a + + (a"
+      },
+      "correctAnswer": "",
+      "answerText": "a' + .,2",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_14_055",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 55,
+      "question": "a\"a\" 11 a\" + n কখন হবে?",
+      "options": {
+        "ক": "n ধনাত্মক হলে খ n ধনাত্মক হলে",
+        "খ": "সমাজতন্ত্র ও গণতন্ত্রের মধ্যে সামঞ্জস্য বিধান",
+        "গ": "n ও n1 ধনাত্মক হলে ঘ m ধনাত্মক ও n ঋণাত্মক হলে",
+        "ঘ": "সমাজতন্ত্রের পরিবতে গণতন্ত্র প্রতিষ্ঠা"
+      },
+      "correctAnswer": "",
+      "answerText": "খোলামেলা আলোচনা",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_14_057",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 57,
+      "question": "কোনটি বিশ্বব্যাংকের অঙ্গ প্রতিষ্ঠান নয়?",
+      "options": {
+        "ক": "IBRD খ. IDA",
+        "খ": "সাধারণ সচিবালয়",
+        "গ": "IlF ঘ IF",
+        "ঘ": "ইসলামী উন্নয়ন ব্যাংক"
+      },
+      "correctAnswer": "",
+      "answerText": "ইসলামী বাণিজ্য উন্নয়ন @",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_059",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 59,
+      "question": "কখন থেকে এশিয়া উন্নয়ন ব্যাংকের লেনদেন শুরু হয়?",
+      "options": {
+        "ক": "১৯৬৫ সালে খ ১৯৬৬ সালে সালে w1 SuCCe উত্তরঃ",
+        "খ": "",
+        "গ": "১৯৬৭ সালে দ ১৯৬৮",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৯৬৬ সালে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_060",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 60,
+      "question": "ভারতীয় জনতা পার্টির মতে অধিকৃত কাশ্মীরীদের সংগ্রামের একমাত্র সমাধান হচ্ছে",
+      "options": {
+        "ক": "জাতিসংঘের সিদ্ধান্ত অনুযায়ী গণভোট অনুষ্ঠান",
+        "খ": "সিমলা চুক্তি অনুযায়ী সমস্যার সমাধান করা",
+        "গ": "পাকিস্তানের সাথে যোগ দিতে না দিয়ে স্বাধীন রাষ্ট্রে",
+        "ঘ": "সংবিধান থেকে কাশ্মীরের বিশেষ মর্যাদা প্রত্যাহার"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "সংবিধান থেকে কাশ্মীরের বিশেষ মর্যাদা প্রত্যাহার",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_14_061",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 61,
+      "question": "মৌলিক শব্দ কোনটি?",
+      "options": {
+        "ক": "গোলাপ খ শীতল",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "গোলাপ",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_14_062",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 62,
+      "question": "যার কোনো মূল্য নেই, তাকে বাগধারা দিয়ে প্রকাশ করলে কোনটি হয়?",
+      "options": {
+        "ক": "ডাকাবুকা খ তুলশী বনের বাঘ",
+        "খ": "",
+        "গ": "তামার বিষ ঘ ঢাকের বাঁয়া",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ঢাকের বাঁযা",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_14_063",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 63,
+      "question": "'আমীর হামজা' কাব্য রচনা করেন কে?",
+      "options": {
+        "ক": "আলাওল খ ফকির গরীবুল্লাহ",
+        "খ": "",
+        "গ": "সৈয়দ হামজা ঘ রেজউদ্দৌলা",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ফকির গরীবুল্লাহ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_064",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 64,
+      "question": "বাংলা লিপির উৎস কী? সংস্কৃত লিপি খ চীনা লিপি গ` আরবি লিপি ঘ ব্রাহ্মী লিপি",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ব্রাহ্মী লিপি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_065",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 65,
+      "question": "কোনটি বিশেষণ বাচক শব্দ?",
+      "options": {
+        "ক": "জীবন `. জীবনী",
+        "খ": "",
+        "গ": "জীবিকা চা জীবাণু",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_14_066",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 66,
+      "question": "বর্ণ হচ্ছে-",
+      "options": {
+        "ক": "শব্দের ক্ষুদ্রতম অংশ খ একসঙ্গে উচ্চারিত ধ্বনিগুচ্ছ",
+        "খ": "",
+        "গ": "ধ্বনি নির্দেশক প্রতীক ঘ ধ্বনির শ্রুতিগ্রাহ্য রূপ",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "ধ্বনি নির্দেশক প্রতীক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_067",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 67,
+      "question": "People who assume that no evil can befall them are foolishly- ar lent complacent",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "confident চা apprehensive",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "complacent",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_14_068",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 68,
+      "question": "One who unduly forwards in rendering services others 1s not generally liked 111 society Which of the folowing words truly represents the character of the person mentioned above?",
+      "options": {
+        "ক": "Benevolent খ Official",
+        "খ": "",
+        "গ": "Officious চা Bureaucratie",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "Officious",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_14_069",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 69,
+      "question": "What kind of man is quite the opposite type of 'supercilious'? Affable খ` Haughty",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "Disainful ঘ Wicke1",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Affable",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_14_070",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 70,
+      "question": "How many eggs have your hens this month? Which of the following words best completes the above sentence?",
+      "options": {
+        "ক": "lain খ. lai]",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "laidl",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_14_071",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 71,
+      "question": "The walls of our house have been painted green Which 1s +he correct preposition_in the ) eSs blank above?",
+      "options": {
+        "ক": "preposition ছ by",
+        "খ": "",
+        "গ": "111 ঘা",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "no preposition",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_14_072",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 72,
+      "question": "বাংলাদেশের সংবিধান সর্বপ্রথম কোন তারিখে গণপরিষদে উত্থাপিত হয়?",
+      "options": {
+        "ক": "১২ অক্টোবর, ১৯৭২ খ ১৬ ডিসেম্বর, ১৯৭২",
+        "খ": "",
+        "গ": "২৬ মাচ, ১৯৭৩ ঘ ১৬ ডিসেম্বর, ১৯৭৩",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১২ অক্টোবর, ১৯৭২",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_14_073",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 73,
+      "question": "১৯৫২ সালে তৎকালীন ভাষা আন্দোলন কিসের জনম দিয়েছিল?",
+      "options": {
+        "ক": "এক রাজনৈতিক মতবাদের",
+        "খ": "এক সাংস্কৃতিক আন্দোলনের",
+        "গ": "এক নতুন জাতীয় চেতনার",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "এক নতুন জাতীয় চেতনার",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_14_078",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 78,
+      "question": "ঘোড়াশাল সার কারখানায় উৎপাদিত সারের নাম কী?",
+      "options": {
+        "ক": "টিএসপি ইউরিয়া",
+        "খ": "১৯৬৫ সালের ১০ সেপ্টেম্বর",
+        "গ": "পটাশ ঘ এমোনিয়াম সালফেট",
+        "ঘ": "১৯৬৭ সালের ৩০ জানুয়ারি"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "১৯৬৬ সালের ১০ জানুয়ারি",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_079",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 79,
+      "question": "বিশ্বখ্যাত 'মোনালিসা' চিত্রটির চিত্রকর কে?",
+      "options": {
+        "ক": "মাইকেল অ্যাঞ্জেলো খ লিওনাদো দ্য ভিঞ্চি",
+        "খ": "",
+        "গ": "পাবলো পিকাসো ঘ ভ্যানগগ",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "লিওনার্দো দ্য ভিঞ্চি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_080",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 80,
+      "question": "কোন দেশটি আরব লীগের অন্তর্ভুক্ত নয়?",
+      "options": {
+        "ক": "জডান খ . লেবানন",
+        "খ": "",
+        "গ": "ইরান ঘ বাহরাইন",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "ইরান",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_081",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 81,
+      "question": "কোনটি দক্ষিণ এশিয়ার রাজনৈতিক ক্ষেত্ে সবচযযে সংশ্লিষ্ট বিষয়?",
+      "options": {
+        "ক": "ধরম খ জাতি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সংস্কৃতি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_082",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 82,
+      "question": "নিচের কোন বাংলাদেশীয় উপজাতির পারিবারিক কাঠামো 01[0 পিতৃতান্ত্রিক?",
+      "options": {
+        "ক": "গরো খ সাওতাল",
+        "খ": "",
+        "গ": "খাসিয়া ঘ মারমা",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "সাওতাল",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_14_083",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 83,
+      "question": "কোন ব্যাংক বাংলাদেশের দরিদ্র জনগোষ্ঠাকে ঋণ দিয়ে দেশে ও বিদেশে সুনাম কুড়িয়েছে?",
+      "options": {
+        "ক": "কৃষি ব্যাংক গ্রামীণ ব্যাংক",
+        "খ": "",
+        "গ": "সমবায় ব্যাংক চা ইসলামী ব্যাংক",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "গ্রামীণ ব্যাংক",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_14_084",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 84,
+      "question": "চন্দ্রঘোনা কাগজ কলের প্রধান কাঁচামাল কী?",
+      "options": {
+        "ক": "আখের ছোবড়া খ বাঁশ",
+        "খ": "",
+        "গ": "জারুল গাছ ঘ নল-খাগড়া",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "বাঁশ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_085",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 85,
+      "question": "বাংলাদেশের জাতীয় পতাকার ডিজাইনার কে?",
+      "options": {
+        "ক": "কামরুল হাসান খ জয়নুল আবেদিন",
+        "খ": "",
+        "গ": "হাশেম খান দা. হামিদুর রহমান",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "কামরুল হাসান",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_14_086",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 86,
+      "question": "মুজিবনগরে কোন তারিখে স্বাধীনতা ঘোষণা করা হয়েছিল?",
+      "options": {
+        "ক": "২৬ মারচ, ১৯৭১ খ ১০ এ্রিল, ১৯৭১",
+        "খ": "",
+        "গ": "২৬ সেপ্টেম্বর, ১৯৭১ ঘ ১০ নভেম্বর, ১৯৭১",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১০ এপ্রিল, ১৯৭১",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_087",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 87,
+      "question": "tell me where ? Which of the following 1s best clause 111 +he above sentence?",
+      "options": {
+        "ক": "Does Mr. Ali live খ. Mr. Ali loes live",
+        "খ": "William Sydney Porter",
+        "গ": "Mr. Ali lives ঘ Lives Mr. Ali",
+        "ঘ": "Mark Twain"
+      },
+      "correctAnswer": "খ",
+      "answerText": "William Sydney Porter",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_14_089",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 89,
+      "question": "Nowadays, many villages are lit electricity SuC esWhich is the correct preposition in the above L৬ I [ blank?",
+      "options": {
+        "ক": "with খ by",
+        "খ": "",
+        "গ": "fronn 011",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "by",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_14_090",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 90,
+      "question": "The second anniversary celebration of 0111' colege will be held on December 15. Which of the following is the correct phrase for 'will be held' above?",
+      "options": {
+        "ক": "takes খ cones Off",
+        "খ": "",
+        "গ": "will bring about ঘ will come round",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "comes off",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_14_091",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 91,
+      "question": "Dog days' means",
+      "options": {
+        "ক": "period of being carefree",
+        "খ": "",
+        "গ": "a period of misfortune",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "lot weather",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_14_092",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 92,
+      "question": "শতকরা ৫ টাকা হার সুদে ২০ বছরে সুদে-আসলে ৫০,০০০ টাকা হলে মূলধন কত?",
+      "options": {
+        "ক": "২০০০০০ টাকা খ ২৫০০০ টাকা",
+        "খ": "",
+        "গ": "৩০,০০০ টাকা ঘ ৩৫,০০০ টাকা",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৫,০০0 টাকা",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_14_093",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 93,
+      "question": "কবি জসিমউদৃদীনের জীবনকাল কোনটি?",
+      "options": {
+        "ক": "১৯০৩-১৯৭৬ খ ১৮৮৯-১৯৬৬",
+        "খ": "",
+        "গ": "১৮৯৯-১৯৭৯ ঘা . ১৯১০-১৯৮৭",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৯০৩-১৯৭৬",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_14_094",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 94,
+      "question": "রবীন্দ্রনাথ ঠাকুরের নির্ঝরের 'স্বপ্নভঙ্গ' কবিতায় কবির উপলব্ধি হচ্ছে",
+      "options": {
+        "ক": "ভবিষ্যৎ বিচিত্র ও বিপুল সম্ভাবনাময়",
+        "খ": "বাধা-বিপত্তি প্রতিভাকে অঙ্কুরেই বিনষ্ট করে",
+        "গ": "প্রকৃতি বিপুল ঐশ্বর্য্যের অধিকারী",
+        "ঘ": "ভাঙ্গার পরেই গড়ার কাজ শুরু হয়"
+      },
+      "correctAnswer": "ক",
+      "answerText": "ভবিষ্যৎ বিচিত্র ও বিপুল সম্ভাবনাময়",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_14_095",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 95,
+      "question": "জাতিবাচক বিশেষ্যের দৃষ্টান্ত",
+      "options": {
+        "ক": "সমজ খ পানি",
+        "খ": "",
+        "গ": "মিছিল ঘ. পদ",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নদ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_14_096",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 96,
+      "question": "'A speech full of too many words:' 1s-",
+      "options": {
+        "ক": "speech",
+        "খ": "mailen speech",
+        "গ": "An unimportant speech",
+        "ঘ": "A verbose speech"
+      },
+      "correctAnswer": "ক",
+      "answerText": "verbose speech",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_14_097",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 97,
+      "question": "To meet trouble halfway means--",
+      "options": {
+        "ক": "To be puzzled খ T0 ৪et n1erT011$",
+        "খ": "",
+        "গ": "To be disappointed ঘ To bear up",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "To be puzzled",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_14_098",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 98,
+      "question": "Paradise Lost' attempted to -",
+      "options": {
+        "ক": "Justify the ways a man to God",
+        "খ": "",
+        "গ": "Show that the stan and God have equal power",
+        "ঘ": "Explain why ৪001 and evil are necessary"
+      },
+      "correctAnswer": "ক",
+      "answerText": "Justify the ways of God to man",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_14_099",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 99,
+      "question": "What is the meaning of the idiom a round dozen'?",
+      "options": {
+        "ক": "little less than a loze11",
+        "খ": "little more than dozen",
+        "গ": "a full dozen",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "full ozen",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_14_100",
+      "exam": "14th BCS Preliminary",
+      "examCode": "bcs_14",
+      "questionNo": 100,
+      "question": "What is the meaning of 'Soft Soap'?",
+      "options": {
+        "ক": "Flatter for self notives",
+        "খ": "T0 speal ill of others",
+        "গ": "T0 speal high of others",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "Flatter for self-notives",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "14th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1796 @@
+{
+  "examName": "16th BCS Preliminary",
+  "examCode": "bcs_16",
+  "totalQuestions": 73,
+  "validation": {
+    "totalDetected": 73,
+    "highestQuestionNo": 100,
+    "missing": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      9,
+      14,
+      15,
+      16,
+      17,
+      22,
+      24,
+      34,
+      35,
+      40,
+      42,
+      43,
+      44,
+      47,
+      52,
+      53,
+      54,
+      58,
+      72,
+      74,
+      77,
+      78
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 60,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_16_001",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 1,
+      "question": "Which of the folowing sentences is correct?",
+      "options": {
+        "ক": "forbade him from going",
+        "খ": "Fools rushi in1 where an angel fears to tread",
+        "গ": "fools rushes in where an angle fears to",
+        "ঘ": "Fools ruush in where the angels fear +o"
+      },
+      "correctAnswer": "খ",
+      "answerText": "Fools rush in where angels fear to tread",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_16_003",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 3,
+      "question": "Which of the following sentences is correct?",
+      "options": {
+        "ক": "Why you have done this?",
+        "খ": "Why did you have done this?",
+        "গ": "Why have you done this?",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "Why have you done this?",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_16_008",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 8,
+      "question": "Which of the folowing sentences is correct?",
+      "options": {
+        "ক": "That shirt which he bought is blue in",
+        "খ": "The shirt that which he bought is blue in",
+        "গ": "Which shirt he bought is blue in colour",
+        "ঘ": "The shirt which he bought is blue in colour"
+      },
+      "correctAnswer": "",
+      "answerText": "নঞর্থক",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_16_010",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 10,
+      "question": "বাংলায় ইউরোপীয় বণিকদের মধ্যে কারা প্রথম এসেছিল?",
+      "options": {
+        "ক": "ইংরেজরা খ . ফারসিরা",
+        "খ": "",
+        "গ": "ওলন্দাজরা প্তুগিজরা",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "পর্তুগিজরা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_16_011",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 11,
+      "question": "জিয়া সার কারখানায় উতপাদিত সারের নাম কী?",
+      "options": {
+        "ক": "অ্যমেনিয়া খ সুপার ফসফেট",
+        "খ": "",
+        "গ": "টিএসপি ঘ ইউরিয়া",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ইউরিয়া",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_16_012",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 12,
+      "question": "'সব কটা জানালা খুলে দাও না' এর গীতিকার কে?",
+      "options": {
+        "ক": "মরহুম আলতাফ মাহমুদ",
+        "খ": "মরহুম নজরুল ইসলাম বাবু",
+        "গ": "ড মনিরুজ্জামান",
+        "ঘ": "মরহুম ড আবু হেনা মোস্তফা কামাল"
+      },
+      "correctAnswer": "খ",
+      "answerText": "মরহুম নজরুল ইসলাম বাবু",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_16_013",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 13,
+      "question": "বাংলাদেশের জাতীয় পতাকার ডিজাইনার কে?",
+      "options": {
+        "ক": "জয়নুল আবেদিন খ কামরুল হাসান",
+        "খ": "",
+        "গ": "হাসেম খান হামিদুর রহমান",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "কামরুল হাসান",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_16_018",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 18,
+      "question": "বাংলাদেশের রাষ্ট্রপতি শাসিত সরকারের পরিবর্তে সংসদীয় শাসনব্যবস্থা চালু হয় সংবিধানের কত নম্বর সংশোধনীর মাধ্যমে?",
+      "options": {
+        "ক": "১0 খ ১১",
+        "খ": "",
+        "গ": "১< ঘ ১৩",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৯ জুলাই, ১৯৯৪",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_16_019",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 19,
+      "question": "পিএলও চেয়ারম্যান ইয়াসির আরাফাত তিউনিসিয়ায় নির্বাসিত জীবন ছেডে স্থায়়ীভাবে বসবাসের উদ্দেশ্যে কবে গাজা ভূখন্ডে আসে?",
+      "options": {
+        "ক": "১১ জুলাই, ১৯৯৪ খ ১২ জুলাই, ১৯৯৪",
+        "খ": "",
+        "গ": "১৩ জুলাই, ১৯৯৪ দা ১ জুলাই, ১৯৯৪",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১ জুলাই, ১৯৯৪",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_16_020",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 20,
+      "question": "উপকূলে কোনো একটি স্থানে পর পর দুটি জোয়ারের মধ্যে ব্যবধান হলো-",
+      "options": {
+        "ক": "প্রায় ১২ ঘণ্টা খ`. প্রায় ২৪ ঘণ্টা",
+        "খ": "",
+        "গ": "প্রায় ৬ ঘণ্টা ঘ চাঁদের তিথি অনুসারে ভিন্ন",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "প্রায় ১২ ঘণ্টা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_16_021",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 21,
+      "question": "নাড়ীর স্পন্দন প্রবাহিত হয়-",
+      "options": {
+        "ক": "ধমনির ভেতর দিয়ে ছ. শিরার ভেতর দিয়ে",
+        "খ": "চাঁদে কোনো পানি নাই তাই",
+        "গ": "স্নাযুর ভেতর দিয়ে দ. ল্যাকটিয়ালের ভেতর দিয়ে",
+        "ঘ": "চাঁদে বায়ুমন্ডল নাই তাই"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "চাঁদে বায়ুমন্ডল নাই তাই",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_16_023",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 23,
+      "question": "বৃত্তের পরিধি ও ব্যাসের অনুপাত- ক",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_16_025",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 25,
+      "question": "",
+      "options": {
+        "ক": "মৃদু রঞ্জন রশ্মি খ গামা রশ্ি",
+        "খ": "নশ্বর",
+        "গ": "বিটা রশ্ি দা কসমিক রশ্মি",
+        "ঘ": "পায়"
+      },
+      "correctAnswer": "খ",
+      "answerText": "নশ্বর",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_16_026",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 26,
+      "question": "Intellectual শব্দের বাংলা অর্থ-",
+      "options": {
+        "ক": "বুদ্ধিমান খ মননশীল",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বুদ্ধিজীবী",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_16_027",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 27,
+      "question": "কোন নগরীতে মোঘল আমলে সুবে বাংলার রাজধানী ছিল?",
+      "options": {
+        "ক": "গৌড় খ সোনারগাঁও",
+        "খ": "",
+        "গ": "ঢাকা হুগলী",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "ঢাকা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_16_028",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 28,
+      "question": "'অবমূল্যায়ন' ও 'অবদান' শব্দ দুটিতে 'অব' উপসর্গটি সম্পর্কে কোন মন্তব্যটি ঠিক?",
+      "options": {
+        "ক": "শব্দ দুটিতে উপসর্গটি মোটামুটি একই অর্থে ব্যবহৃত",
+        "খ": "শব্দ দুটিতে উপসর্গটি একই অর্থে ব্যবহৃত হয়েছে",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "দুটি শব্দের উপসর্গটির অর্থ দুই রকম",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_16_029",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 29,
+      "question": "'জ্ঞান যেখানে সীমাবদ্ধ; বুদধি যেখানে আড়ষ্ট; মুক্তি সেখানে অসম্ভব '-এই উত্ত্তিটি কোন পত্রিকার প্রতি সংখ্যায় লেখা থাকত-",
+      "options": {
+        "ক": "সওগাত খ",
+        "খ": "",
+        "গ": "সমকাল চা শিখা",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "শিখা",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_16_030",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 30,
+      "question": "একজন দোকানদার ৭- % ক্ষতিতে করল যদি দ্রব্যটির ক্রয়মূল্য ১০% কম হতো এবং বিক্রয়মূল্য ৩১ টাকা বেশি হতো; তাহলে তার ২০% লাভ হতো দ্রব্যটির ক্রয়মূল্য কত?",
+      "options": {
+        "ক": "১০০ টাকা খ ২০০ টাকা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "২০০ টাকা",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_16_031",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 31,
+      "question": "দুই ব্যক্তি একত্রে একটি কাজ ৮ দিনে করতে পারে প্রথম g ব্যক্তি একাকী কাজটি ১২ দিনে করতে পারে! দ্বিতীয় ব্যক্তি একাকী কাজটি কত দিনে করতে পারবে?",
+      "options": {
+        "ক": "২০ দিনে খ ২২ দিনে",
+        "খ": "",
+        "গ": "২৪ দিনে ঘ ২৬ দিনে",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "২৪ দিনে",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_16_032",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 32,
+      "question": "৫০০ টাকার ৪ বছরের সুদ এবং ৬০০ টাকার ৫ বছরের সুদ একত্রে ৫০০ টাকা হলে সুদের হার কত?",
+      "options": {
+        "ক": "৫% ছ. ৬%",
+        "খ": "",
+        "গ": "১০% ঘ ১ %",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "১০%",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_16_033",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 33,
+      "question": "কোন লঘিষ্ট সংখ্যার সাথে ৩ যোগ করলে যোগফল ২৪,",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_16_036",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 36,
+      "question": "এবং ৪৮ দ্বারা বিভাজ্য হবে?",
+      "options": {
+        "ক": "৮@ খ. ১৪১",
+        "খ": "এক বিশেষ ধরনের হেলিকপ্টার",
+        "গ": "১0>8 চা 8)",
+        "ঘ": "এক ধরনের বোমারু বিমান"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "এক ধরনের বোমারু বিমান",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_16_037",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 37,
+      "question": "'Straw vote' বলতে কী বোঝায়?",
+      "options": {
+        "ক": "Unofficial poll public opinion",
+        "খ": "Poll based on random representations",
+        "গ": "'[es-L ' vote",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "Unofficial poll public opinion",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_16_038",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 38,
+      "question": "'Rotary International' কবে প্রতিষ্ঠিত হয়েছিল?",
+      "options": {
+        "ক": "১৯০৩ সালে খ ১৯০৫ সালে",
+        "খ": "",
+        "গ": "১৯৬১ সালে ঘ ১৯১২ সালে",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৯০৫ সালে",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_16_039",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 39,
+      "question": "বার্লিনের দেয়়াল কত সালে নির্মিত হয়েছিল?",
+      "options": {
+        "ক": "১৯৪৬ সালে খ ১৯৪৮ সালে",
+        "খ": "One of my friends 1s lawyer",
+        "গ": "১৯৬১ সালে ঘ ১৯৬২ সালে",
+        "ঘ": "One of my friends are lawyers"
+      },
+      "correctAnswer": "খ",
+      "answerText": "One of my friends is a lawyer",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_16_041",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 41,
+      "question": "The word 'ecological' is related to",
+      "options": {
+        "ক": "atmosphere খ pollution",
+        "খ": "Of the same place you1 SUC eSখ ১৯৪৯ সালের ৪",
+        "গ": "environment দা demography",
+        "ঘ": "Of the same density"
+      },
+      "correctAnswer": "",
+      "answerText": "Lo Irink",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_16_045",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 45,
+      "question": "স্বাধীন বাংলাদেশে ১০০ টাকার নোট কবে প্রথম চালু করা হয়?",
+      "options": {
+        "ক": "২৬ মার্চ, ১৯৭২ খ ১৬ ডিসেম্বর, ১৯৭২",
+        "খ": "",
+        "গ": "৪ মাচ, ১৯৭২ ঘ. 8 জানুয়ারি, ১৯৭৩",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৪ মার্চ, ১৯৭২",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_16_046",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 46,
+      "question": "স্বাধীন বাংলাদেশকে কখন মার্কিন যুক্তরাষ্ট্র স্বীকৃতি দান করে?",
+      "options": {
+        "ক": "8 ফেব্রুয়ারি, ১৯৭২ খ ২৪ জানুয়ারি, ১৯৭২",
+        "খ": "",
+        "গ": "১৬ ডিসেম্বর, ১৯৭২ ঘ ৪ এ্পিল, ১৯৭২",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৯৯২ সালে",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_16_048",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 48,
+      "question": "ঢাকা পৌরসভা কোন সালে প্রতিষ্ঠিত হয়েছিল?",
+      "options": {
+        "ক": "১৯০৬ সালে খ ১৮৬৪ সালে",
+        "খ": "",
+        "গ": "১৯১৯ সালে ৭ ১৯৪০ সালে",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৮৬৪ সালে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_16_049",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 49,
+      "question": "লালবাগের কেল্লা স্থাপন করেন কে?",
+      "options": {
+        "ক": "শায়েস্তা খান খ শাহ সুজা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "শায়েস্তা খান",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_16_050",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 50,
+      "question": "আন্তর্জাতিক অর্থ তহবল (IMF) কবে হতে এর কার্যক্রম শুরু করে?",
+      "options": {
+        "ক": "১৯৪৫ সাল হতে খ ১৯৪৬ সাল হতে",
+        "খ": "",
+        "গ": "১৯৪৭ সাল হতে ৭ ১৯৪৮ সাল হতে",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "১৯৪৭ সাল হতে",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_16_051",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 51,
+      "question": "NATO কবে প্রতিষ্ঠিত হয়?",
+      "options": {
+        "ক": "১৯৪৭ সালের ৪ আগস্ট অগরিল্ট arrk",
+        "খ": "আহমেদ শাহ মাসুদ",
+        "গ": "১৯৫০ সালের ৪ ফেব্রুয়ারি",
+        "ঘ": "১৯৫১ সালের ৪ মে"
+      },
+      "correctAnswer": "",
+      "answerText": "আবদুর রশীদ দোস্তাম",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_16_055",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 55,
+      "question": "Something which is obnoxious means that it 1s-",
+      "options": {
+        "ক": "very Cangerous খ very pleasant",
+        "খ": "",
+        "গ": "very ugly চা very unpleasant",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "very unpleasant",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_16_056",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 56,
+      "question": "| pilgrim is a person who undertakes a journey to",
+      "options": {
+        "ক": "holy place খ a nosgl1e",
+        "খ": "",
+        "গ": "a bazar চা a 11ew country",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "holy place",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_16_057",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 57,
+      "question": "Shakespeare is Inown mostly for his-",
+      "options": {
+        "ক": "poetry খ novels",
+        "খ": "",
+        "গ": "autobiography plays",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "an autobiography",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_16_059",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 59,
+      "question": "In which century was the Victorian period?",
+      "options": {
+        "ক": "1>th century খ. 18 -1 century",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "century",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_16_060",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 60,
+      "question": "কবি কাজী নজরুল ইসলাম 'সঞ্চিতা' কাব্যটি কাকে উৎসর্গ করেছিলেন?",
+      "options": {
+        "ক": "বারীন্দ্রকুমার ঘোষ ছ রবীন্দ্রনাথ ঠাকুর",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "রবীন্দ্রনাথ ঠাকুর",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_16_061",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 61,
+      "question": "কোন উপন্যাসটির রচয়িতা রবীন্দ্রনাথ?",
+      "options": {
+        "ক": "বিষবৃক্ষ খ গণদেবতা",
+        "খ": "",
+        "গ": "আরণ্যক ঘ ঘরে-বাইরে",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "ঘরে-বাইরে",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_16_062",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 62,
+      "question": "'একুশে ফেব্রুয়ারি' গ্রন্থের সম্পাদক কে ছিলেন?",
+      "options": {
+        "ক": "হাসান হাফিজুর রহমান",
+        "খ": "বেগম সুফিয়া কামাল",
+        "গ": "মুনীর চৌধুরী",
+        "ঘ": "আবুর বরকত"
+      },
+      "correctAnswer": "ক",
+      "answerText": "হাসান হাফিজুর রহমান",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_16_063",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 63,
+      "question": "'রোহিনী'চরিত্রটি কোন উপন্যাসে পাওয়া যায়?",
+      "options": {
+        "ক": "চরিত্রহীন খ গৃহদাহ",
+        "খ": "",
+        "গ": "কৃষ্ণকান্তের উইল ঘ সংশপ্তক",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "কৃষ্ণকান্তের উইল",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_16_064",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 64,
+      "question": "বাংলাদেশের জাতীয় সঙ্গীতে কোন বিষয়টি প্রধানভাবে আছে?",
+      "options": {
+        "ক": "বাংলার প্রকৃতির কথা",
+        "খ": "বাংলার মানুষের কথা",
+        "গ": "বাংলার ইতিহাসের কথা",
+        "ঘ": "বাংলার সংস্কৃতির কথা"
+      },
+      "correctAnswer": "ক",
+      "answerText": "বাংলার প্রকৃতির কথা",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_16_065",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 65,
+      "question": "চতুভুজের চার কোণের অনুপাত ১ : ২ : ২ : ৩ হলে বৃহত্তম কোণের পরিমাণ হবে-",
+      "options": {
+        "ক": "১০০ খ ১১৫০",
+        "খ": "",
+        "গ": "১৩৫ 9 ঘ ২২৫",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_16_066",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 66,
+      "question": "দুটি ত্রিভুজের মধ্যে কোন উপাদানগুলো সমান হওয়া পারে?",
+      "options": {
+        "ক": "দুই বাহু অন্তভুক্ত কোণ",
+        "খ": "দুই কোণ ও এক বাহু",
+        "গ": "তিন কোণ",
+        "ঘ": "তিন বাহু"
+      },
+      "correctAnswer": "গ",
+      "answerText": "তিন কোণ",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_16_067",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 67,
+      "question": "a :৮ = 4 : 7 এবং ৮ : C = 5 : 6 হলে a : ৮ : c = কত?",
+      "options": {
+        "ক": "4 : 7 : 6 খ. 20 : 35 24",
+        "খ": "",
+        "গ": "20 35 42 দা 24 : 35 30",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "20 35 42",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_16_068",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 68,
+      "question": "a' 1' + c' + 2ac 2 কত? a + b - C",
+      "options": {
+        "ক": "a + ` + C খ a - b + C",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_16_069",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 69,
+      "question": "a + ৮ + c = 9, a' + ৮2 + c2 29 হলে ab + bc + ca এর মান কত?",
+      "options": {
+        "ক": "৫২ খ 8৬",
+        "খ": "",
+        "গ": "২৬",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "২৬",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_16_070",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 70,
+      "question": "বাংলাদেশের লাগা উত্তরে অবস্থিত-",
+      "options": {
+        "ক": "নেপাল ও ভুটান",
+        "খ": "পশ্চিমবঙ্গ, মেঘালয় ও আসাম",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "পশ্চিমবঙ্গ, মেঘালয় ও আসাম",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_16_071",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 71,
+      "question": "উপমহাদেশের সর্বশেষ গভর্নর জেনারেল কে ছিলেন?",
+      "options": {
+        "ক": "লর্ড মিন্টো খ লড কার্জন",
+        "খ": "",
+        "গ": "ল্ড মাউন্টব্যাটেন ঘ ল্ড ওয়াভেল",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "লর্ড মাউন্টব্যাটেন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_16_073",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 73,
+      "question": "অভ্যন্তরীণ কন্টেইনার ডিপো কোথায় অবস্থিত?",
+      "options": {
+        "ক": "চট্টগ্রাম খ ঢাকা",
+        "খ": "বাংলাদেশের দক্ষিণ সীমান্ত দিয়ে গিয়েছে",
+        "গ": "মংলা ঘ খুলনা",
+        "ঘ": "বাংলাদেশ থেকে অনেক দূরে অবস্থিত"
+      },
+      "correctAnswer": "খ",
+      "answerText": "বাংলাদেশের মধ্যখান দিয়ে গিয়েছে",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_16_075",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 75,
+      "question": "পানির জীব হয়েও বাতাসে নিশ্বাস নেয়-",
+      "options": {
+        "ক": "পটকা মাছ খ . হাঙ্গর",
+        "খ": "",
+        "গ": "শুশুক জেলী ফিস",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "শুশুক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_16_076",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 76,
+      "question": "পিট কয়লার বৈশিষ্ট হলো-",
+      "options": {
+        "ক": "মাটির অনেক গভীরে থাকে",
+        "খ": "ভিজা ও নরম",
+        "গ": "পাহাড়ি এলাকায় পাওয়া যায়",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "ভিজা ও নরম",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_16_079",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 79,
+      "question": "আধুনিক মুদ্রণ ব্যবস্থায় ধাতু নির্মিত অক্ষরের অপ্রয়োজন ফুরাবার বড় কারণ-",
+      "options": {
+        "ক": "কম্পিউটার খ অফসেট পদ্ধতি",
+        "খ": "বোতাম টিপে ডায়াল করা",
+        "গ": "ফটো লিথোগ্রাফী ঘ প্রসেস ক্যামেরা",
+        "ঘ": "নতুন ধরনের মাইক্রোফোন"
+      },
+      "correctAnswer": "",
+      "answerText": "বাতাসে জলীয় বাষ্পের পরিমাণ সম্পৃক্ত অবস্থায় ৯০%",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_16_080",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 80,
+      "question": "১৯৯৩ সালের ডিসেম্বরে অনুষ্ঠিত রাশিয়ার পার্লামেন্টের নির্বাচনে কোন রাজনৈতিক দলটি সংখ্যাগরিষ্ঠ দল হিসেবে আত্মপ্কাশ করে?",
+      "options": {
+        "ক": "রাশিয়া'স চয়েস",
+        "খ": "",
+        "গ": "স্যোশ্যাল ডেমোক্রেটিক পার্টি",
+        "ঘ": "দ্য কমিউনিস্ট পাটি"
+      },
+      "correctAnswer": "গ",
+      "answerText": "লিবারেল ডেমোক্রেটিক পাটি",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_16_081",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 81,
+      "question": "১৯৯৪ সালের বিশ্বকাপ ফুটবলে সর্বোচ্চ গোলদাতা কারা?",
+      "options": {
+        "ক": "স্টইচকভ ও রোবে্তো",
+        "খ": "সালেনকো ও আডেসন",
+        "গ": "সালেনকো ও স্টইচকভ",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "সালেনকো ও স্টইচকভ",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_16_082",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 82,
+      "question": "১৯৬৫ সালের আগে জাতিসংঘের নিরাপত্তা পরিষদের সদস্য সংখ্যা কত ছিল?",
+      "options": {
+        "ক": "১৫ টি খ ৬ টি",
+        "খ": "",
+        "গ": "১১ টি ঘ ১০ টি",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "১১ টি",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_16_083",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 83,
+      "question": "গাম্বিয়ার সেনাবাহিনী অভ্যুত্থানের মাধ্যমে কবে দেশের ক্ষমতা দখল করে?",
+      "options": {
+        "ক": "২১ জুলাই, ১৯৯৪",
+        "খ": "> জুলাই, ১৯৯৪",
+        "গ": "২৩ জুলাই, ১৯৯৪",
+        "ঘ": "২৪ জুলাই, ১৯৯৪"
+      },
+      "correctAnswer": "ক",
+      "answerText": "২২ জুলাই, ১৯৯৪",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_16_084",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 84,
+      "question": "নাইজেরিয়ার বিরোধী নেতা মাসুদ আবিওলা কবে নিজেকে নাইজেরিয়ার প্রেসিডেন্ট বলে ঘোষণা করেন?",
+      "options": {
+        "ক": "৭ জুন, ১৯৯৪ খ ১১ জুন; ১৯৯৪",
+        "খ": "",
+        "গ": "১ জুলাই, ১৯৯৪ ঘ ১২ জুলাই,",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "৭ জুন, ১৯৯৪",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_16_085",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 85,
+      "question": "১৪ ডিসেমবর, ১৯৯৩ তারিখে শহীদ বুদ্ধিজীবীদের স্মৃতিকে কতগুলো সড়কের C উত্তরঃ three t স্মরণীয় করে রাখার জন্য ঢাকার মোট নামকরণ করা হয়?",
+      "options": {
+        "ক": "৪ টি খ ৫ টি",
+        "খ": "",
+        "গ": "৬ টি ৭ টি",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "টি",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_16_086",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 86,
+      "question": "বাংলাদেশের ১৯৯৪-৯৫ সালের বাজেটে শিক্ষা খাতে বরাদ্দের পরিমাণ কত?",
+      "options": {
+        "ক": "১৮২৪ কোটি টাকা",
+        "খ": "১৮৪২ কোটি টাকা",
+        "গ": "",
+        "ঘ": "১,৮৬৭ কোটি টাকা"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "১৮৭৬ কোটি টাকা",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_16_087",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 87,
+      "question": "বাংলাদেশের দীর্ঘতম রেলসেতু কোনটি?",
+      "options": {
+        "ক": "ভৈরব সেতু খ হাডিঞ্জ সেতু",
+        "খ": "",
+        "গ": "যমুনা রেল সেতু ঘ তিস্তা সেতু",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "যমুনা রেল সেতু",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_16_088",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 88,
+      "question": "চাকমা শরণার্থীদের দ্বিতীয় দফায় ১ম দিন অর্থাৎ ২১ জুলাই, ১৯৯৪ তারিখে কতজন বাংলাদেশে প্রত্যাবর্তন করেন?",
+      "options": {
+        "ক": "৩৮৭ জন খ ৩৭৫ জন",
+        "খ": "",
+        "গ": "৩৫৭ জন ঘ ৩9৮ জন",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৩৭৫ জল",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_16_089",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 89,
+      "question": "জীবনানন্দ দাশের জন্মস্থান কোন জেলায়?",
+      "options": {
+        "ক": "বরিশাল জেলা খ ফরিদপুর জেলা",
+        "খ": "",
+        "গ": "ঢাকা জেলা ঘ রাজশাই জেলা",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "বরিশাল জেলা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_16_090",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 90,
+      "question": "The antonym of 'indifference' 1s-",
+      "options": {
+        "ক": "ardour compassion",
+        "খ": "",
+        "গ": "anxiety দা. c011ce111",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ardour",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_16_091",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 91,
+      "question": "Three Score 1s",
+      "options": {
+        "ক": "thirty times",
+        "খ": "three hundred tinnes",
+        "গ": "three times twenty",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_16_092",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 92,
+      "question": "An ordinance 1s ক ছ a11 factory news paper journal",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": "a law"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "a law",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_16_093",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 93,
+      "question": "A fantasy 1s-",
+      "options": {
+        "ক": "211 innaginary",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "an imaginary story",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_16_094",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 94,
+      "question": "Something that is 'fresh' is something-",
+      "options": {
+        "ক": "recently printed or published",
+        "খ": "111 fairly ৪01 co11lit1011",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "in fairly ৪001 con1lition",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_16_095",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 95,
+      "question": "'মানুষেরই মাবে স্বর্গ-নরক; মানুষেতে সুরাসুর' এই পঙক্তিটি কার রচনা?",
+      "options": {
+        "ক": "রবীন্দ্রনাথ ঠাকুর খ. কাজী নজরুল ইসলাম",
+        "খ": "",
+        "গ": "শেখ ফজলুল করিম চা শামসুর রহমান",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "শেখ ফজলুল করিম",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_16_096",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 96,
+      "question": "বাংলা একাডেমি কোন বছর প্রতিষ্ঠিত হয়?",
+      "options": {
+        "ক": "১৯৫৫ খ্রিষ্টাব্দে খ ১৩৫৫ বঙ্গাব্দে",
+        "খ": "",
+        "গ": "১৯৫২ খ্রিষ্টাব্দে ঘ ১৩৫২ বঙ্গাবদে",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৯৫৫ খ্রিষ্টাবদে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_16_097",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 97,
+      "question": "সাধু ভাষা ও চলিত ভাষার পার্থক্য-",
+      "options": {
+        "ক": "বাক্যের সরল ও জটিল রূপে",
+        "খ": "শব্দের রূপগত ভিন্নতায়",
+        "গ": "তৎসম অ্ধতৎসম শব্দের ব্যবহারে",
+        "ঘ": "ক্রিয়াপদ ও সর্বনাম পদের রূপগত ভিন্নতায়"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "ক্রিয়াপদ ও সর্বনাম পদের রূপগত ভিন্নতায়",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_16_098",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 98,
+      "question": "সমগ্র পবিত্র কুরআনের প্রথম বাংলা অনুবাদ কে করেন?",
+      "options": {
+        "ক": "গোলাম মোস্তফা",
+        "খ": "ফররুখ আহমদ",
+        "গ": "ভাই গিরিশচন্দ্র সেন",
+        "ঘ": "সুনীতিকুমার চট্টোপাধ্যায়"
+      },
+      "correctAnswer": "গ",
+      "answerText": "ভাই গিরিশচন্দ্র সেন",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_16_099",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 99,
+      "question": "'সমকাল' পত্রিকার সম্পাদক কে ছিলেন?",
+      "options": {
+        "ক": "মোহাম্মদ আকরম খাঁ",
+        "খ": "তফাজ্জল হোসেন",
+        "গ": "মোহাম্মদ নাসিরউদ্দীন",
+        "ঘ": "সিকান্দার আবু জাফর"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "সিকান্দার আবু জাফর",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_16_100",
+      "exam": "16th BCS Preliminary",
+      "examCode": "bcs_16",
+      "questionNo": 100,
+      "question": "সওগাত' পত্রিকার সম্পাদক কে ছিলেন?",
+      "options": {
+        "ক": "কাজী নজরুল ইসলাম",
+        "খ": "আবুল কালাম শামসুদ্দীন",
+        "গ": "খান মুহাম্মদ মঈনুউদ্দীন",
+        "ঘ": "মোহাম্মদ নাসিরুদ্দীন"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "মোহাম্মদ নাসিরুদ্দীন",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "16th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    }
+  ]
+}

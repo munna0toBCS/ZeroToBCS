@@ -1,0 +1,3713 @@
+{
+  "examName": "26th BCS Preliminary",
+  "examCode": "bcs_26",
+  "totalQuestions": 152,
+  "validation": {
+    "totalDetected": 152,
+    "highestQuestionNo": 200,
+    "missing": [
+      25,
+      26,
+      27,
+      32,
+      44,
+      47,
+      48,
+      52,
+      53,
+      54,
+      56,
+      57,
+      58,
+      59,
+      61,
+      72,
+      74,
+      77,
+      90,
+      91,
+      97,
+      102,
+      114,
+      117,
+      118,
+      119,
+      122,
+      123,
+      128,
+      129,
+      134,
+      135,
+      137,
+      144,
+      145,
+      146,
+      147,
+      149,
+      153,
+      170,
+      176,
+      177,
+      182,
+      183,
+      185,
+      186,
+      194,
+      195
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 87,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_26_001",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 1,
+      "question": "Ballad কি?",
+      "options": {
+        "ক": "লোকগীতি",
+        "খ": "লোকগাঁথা",
+        "গ": "গীতিকা",
+        "ঘ": "গাথা"
+      },
+      "correctAnswer": "গ",
+      "answerText": "গীতিকা",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_002",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 2,
+      "question": "'শাহনামা' মৌলিক গ্রন্থটি কার?",
+      "options": {
+        "ক": "মালিক জয়সী",
+        "খ": "ফেরদৌসী",
+        "গ": "সৈয়দ হামজা",
+        "ঘ": "কাজী দৌলত উজির বাহরাম খাঁ"
+      },
+      "correctAnswer": "খ",
+      "answerText": "ফেরদৌসী",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_003",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 3,
+      "question": "ড. মুহম্মদ শহীদুল্লাহ'র বাংলা সাহিত্যের ইতিহাস গ্রন্থের নাম-",
+      "options": {
+        "ক": "বঙ্গভাষা ও সাহিত্য",
+        "খ": "বাংলা সাহিত্যের কথা",
+        "গ": "বাঙ্গালা সাহিত্যের ইতিহাস",
+        "ঘ": "বাংলা সাহিত্যের ইতিবৃত্ত"
+      },
+      "correctAnswer": "খ",
+      "answerText": "বাংলা সাহিত্যের কথা",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_004",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 4,
+      "question": "'চৌ-হদি' শব্দটি কোন কোন ভাষার শব্দ মিলে",
+      "options": {
+        "ক": "বাংলা / ফারসি",
+        "খ": "সংস্কৃত / ফারসি",
+        "গ": "ফারসি | আরবি",
+        "ঘ": "সংস্কৃত | আরবি"
+      },
+      "correctAnswer": "গ",
+      "answerText": "ফারসি / আরবি",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_26_005",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 5,
+      "question": "'রুপ লাগি আঁখি ঝুরে গুণে মন ভোর' কার রচনা?",
+      "options": {
+        "ক": "চণ্ডদাস",
+        "খ": "জ্ঞানদাস",
+        "গ": "বিদ্যাপতি",
+        "ঘ": "লোচনদাস"
+      },
+      "correctAnswer": "খ",
+      "answerText": "জ্ঞানদাস",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_006",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 6,
+      "question": "'সাজাহান' নাটকের প্রথম রচয়িতা কে?",
+      "options": {
+        "ক": "ক্ষীরোদপ্রসাদ বিদ্যাবিনোদ",
+        "খ": "",
+        "গ": "দ্বিজেন্দ্রলার রায়",
+        "ঘ": "বলাইচাঁদ মুখোপাধ্যায়"
+      },
+      "correctAnswer": "গ",
+      "answerText": "দ্বিজেন্দ্রলার রায়",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_26_007",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 7,
+      "question": "'নেমেসিস' নাটকে নূরুল মোমেন কোন বিষয়কে তুলে ধরেছেন?",
+      "options": {
+        "ক": "দ্বিতীয় বিশ্বযুদ্ধ",
+        "খ": "বায়ান্নর ভাষা আন্দোলন",
+        "গ": "ঊনপঞ্চাশের মন্বন্তর",
+        "ঘ": "একাত্তরের মুক্তিযুদ্ধ"
+      },
+      "correctAnswer": "গ",
+      "answerText": "ঊনপঞ্চাশের মন্বন্তর",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_26_008",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 8,
+      "question": "ভারতচন্দ্র রায়গুণাকর কোন রাজসভার কবি?",
+      "options": {
+        "ক": "আরাকান রাজসভা",
+        "খ": "কৃষ্ণনগর রাজসভা",
+        "গ": "রাজা গণেশের রাজসভা",
+        "ঘ": "লক্ষুমণ সেনের রাজসভা"
+      },
+      "correctAnswer": "খ",
+      "answerText": "কৃষ্ণনগর রাজসভা",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_26_009",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 9,
+      "question": "'যা কিছু হারায় গিন্নী বলেন, কেষ্টা বেটাই চোর'",
+      "options": {
+        "ক": "প্রযোজ্য ধতু",
+        "খ": "ভাবাচ্যের ধাতু",
+        "গ": "সংযোগমূলক ধাতু",
+        "ঘ": "নাম ধাতু"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_010",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 10,
+      "question": "'মহুয়া' পালাটির রচয়িতা-",
+      "options": {
+        "ক": "দ্বিজ কানাই",
+        "খ": "মনসুর বয়াতী",
+        "গ": "নয়নচাদ ঘোষ",
+        "ঘ": "দ্বিজ ঈশান"
+      },
+      "correctAnswer": "ক",
+      "answerText": "দ্বিজ কানাই",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_011",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 11,
+      "question": "ফোট উইলিয়াম কলেজে বাংলা বিভাগ খোলা হয়-",
+      "options": {
+        "ক": "১০০ সালে",
+        "খ": "১৮০১ সালে",
+        "গ": "১৮০১ সালে",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "১৮০১ সালে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_012",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 12,
+      "question": "কে সর্বপ্রথম বাংলা টাইপ সহযোগে বাংলা ব্যাকরণ মুদ্রণ করেন?",
+      "options": {
+        "ক": "স্যার উইলিয়াম জোনস্",
+        "খ": "স্যার উইলিয়াম কেরি",
+        "গ": "",
+        "ঘ": "ব্রাসি হ্যালহেড"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "ব্রাসি হ্যালহেড",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_013",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 13,
+      "question": "'তত্ত্ববোধিনী' পত্রিকায় সম্পাদক ছিলেন-",
+      "options": {
+        "ক": "ঈশ্বরচন্দ্র গুপ্ত",
+        "খ": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+        "গ": "অক্ষয়কুমার দত্ত",
+        "ঘ": "প্যারিচাঁদ মিত্র"
+      },
+      "correctAnswer": "গ",
+      "answerText": "অক্ষয়কুমার দত্ত",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_014",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 14,
+      "question": "কোনটি দীনবন্ধু মিত্রের রচনা?",
+      "options": {
+        "ক": "কমলে কামিনী",
+        "খ": "চক্ষুদান",
+        "গ": "বিধবা বিবাহ",
+        "ঘ": "ভদ্রাজুন"
+      },
+      "correctAnswer": "ক",
+      "answerText": "কমলে কামিনী",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_015",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 15,
+      "question": "কোন গ্রন্থটি মহাকাব্য?",
+      "options": {
+        "ক": "অবকাশ রঞজিনী",
+        "খ": "বৃত্রসংহার",
+        "গ": "বিরহ বিলাপ",
+        "ঘ": "বীরাঙ্গনা কাব্য"
+      },
+      "correctAnswer": "খ",
+      "answerText": "বৃত্রসংহার",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_016",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 16,
+      "question": "'বত্রিশ সিংহাসন' কার রচনা?",
+      "options": {
+        "ক": "মৃত্যুঞ্জয় বিদ্যালঙ্কার",
+        "খ": "রাজীব লোচন মুখোপাধ্যায়",
+        "গ": "বিদ্যাসাগর",
+        "ঘ": "রামরাম বসু"
+      },
+      "correctAnswer": "ক",
+      "answerText": "মৃত্যুঞ্জয় বিদ্যালঙ্কার",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_017",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 17,
+      "question": "'ঠকচাচা' চরিত্রটি কোন উপন্যাসের?",
+      "options": {
+        "ক": "হুতোম প্যাঁচার নক্সা",
+        "খ": "আলালের ঘরের দুলাল",
+        "গ": "সধবার একাদশী",
+        "ঘ": "বুড়ো শালিকের ঘাড়ে রো"
+      },
+      "correctAnswer": "খ",
+      "answerText": "আলালের ঘরের দুলাল",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_26_018",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 18,
+      "question": "'উদাসীন পথিকের মনের কথা' কোন জাতীয় রচনা?",
+      "options": {
+        "ক": "নাটক",
+        "খ": "",
+        "গ": "আত্মজৈবনিক উপন্যাস",
+        "ঘ": "গীতি কবিতার সংকলন"
+      },
+      "correctAnswer": "গ",
+      "answerText": "আত্মজৈবনিক উপন্যাস",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_26_019",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 19,
+      "question": "'তাজকেরাতুল আওলিয়া' অবলম্বনে 'তাপসমালা' কে রচনা করেন?",
+      "options": {
+        "ক": "মুন্সী আব্দুল লতিফ",
+        "খ": "কাজী আকরাম হোসেন",
+        "গ": "গিরিশচন্দ্র সেন",
+        "ঘ": "শেখ আব্দুল জব্বার"
+      },
+      "correctAnswer": "গ",
+      "answerText": "গিরিশচন্দ্র সেন",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_020",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 20,
+      "question": "কোন নাটকটি সেলিম আল দীনের?",
+      "options": {
+        "ক": "মুনতাসীর ফ্যান্টাসী",
+        "খ": "পায়ের আওয়াজ পাওয়া যায়",
+        "গ": "কবর",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "মুনতাসীর ফ্যান্টাসী",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_26_021",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 21,
+      "question": "আন্তর্জাতিক মাতৃভাষা দিবস কোন সালে স্বীকৃত হয়?",
+      "options": {
+        "ক": "১৯৯",
+        "খ": "১৯৯০",
+        "গ": "২০০০",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৯৯৯",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_022",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 22,
+      "question": "বাংলা একাডেম কোন সালে প্রতিষ্ঠিত হয়?",
+      "options": {
+        "ক": "১৯৫৪ সালে",
+        "খ": "১৯৫৫ সালে",
+        "গ": "১৯৫৬ সালে",
+        "ঘ": "১৯৫৭ সালে"
+      },
+      "correctAnswer": "খ",
+      "answerText": "১৯৫৫ সালে",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_023",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 23,
+      "question": "'দারিদ্র্য' কবিতাটি নজরুল ইসলামের কোন কাব্যের অন্তর্ভুক্ত?",
+      "options": {
+        "ক": "সাম্যবাদী",
+        "খ": "বিষের বাঁশী",
+        "গ": "সিন্ধু হিন্দোল",
+        "ঘ": "নতুন চাঁদ"
+      },
+      "correctAnswer": "গ",
+      "answerText": "সিন্ধু হিন্দোল",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_26_024",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 24,
+      "question": "কোন শব্দটি ফারসি? gঁ",
+      "options": {
+        "ক": "মুসাফির",
+        "খ": "তরকদর",
+        "গ": "পেরেশান",
+        "ঘ": "মজলুম"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_26_028",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 28,
+      "question": "'তোমার সৃষ্টির পথ রেখেছ আকীর্ণ করি'- রবীন্দ্রনাথের কোন কাব্যের কবিতা? ২৫. উপসর্গ কোনটি?",
+      "options": {
+        "ক": "আত",
+        "খ": "থেঁকে",
+        "গ": "চেযে",
+        "ঘ": "বারা"
+      },
+      "correctAnswer": "",
+      "answerText": "শেষলেখা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_26_029",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 29,
+      "question": "'জয়গুন' কোন উপন্যাসের চরিত্র?",
+      "options": {
+        "ক": "জননী",
+        "খ": "সূর্য-দীঘল বাড়ী",
+        "গ": "সারেং বৌ",
+        "ঘ": "হাজার বছর ধরে"
+      },
+      "correctAnswer": "খ",
+      "answerText": "সূর্য-দীঘল বাড়ী",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_26_030",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 30,
+      "question": "'নবান্ন' শব্দটি কোন প্রক্রিয়ায় গঠিত? g ক সমস",
+      "options": {
+        "ক": "",
+        "খ": "সহন্ধ",
+        "গ": "প্রত্যয়",
+        "ঘ": "উপসর্গ"
+      },
+      "correctAnswer": "খ",
+      "answerText": "সন্ধি",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_26_031",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 31,
+      "question": "কোনটির অর্থ পক্ব অর্থে প্রকাশ পায়?",
+      "options": {
+        "ক": "পাকা বাড়ি",
+        "খ": "পাকা রং",
+        "গ": "পকা কজ",
+        "ঘ": "পাকা আম"
+      },
+      "correctAnswer": "",
+      "answerText": "মদনমোহন তর্কালংকার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_033",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 33,
+      "question": "'বনফুল' কার ছদ্মনাম?",
+      "options": {
+        "ক": "প্রমথ চৌধুরী",
+        "খ": "বলাইচাঁদ মুখোপাধ্যায়",
+        "গ": "যতীন্দ্রমোহন বাগটী",
+        "ঘ": "মোহিতলাল মজুমদার"
+      },
+      "correctAnswer": "খ",
+      "answerText": "বলাইচাঁদ মুখোপাধ্যায়",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_034",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 34,
+      "question": "কাজী নজরুল ইসলামের উপন্যাস কোনটি?",
+      "options": {
+        "ক": "মৃত্যুক্ষুধা",
+        "খ": "আলেয়",
+        "গ": "ঝিলিমিলি",
+        "ঘ": "মধুমালা"
+      },
+      "correctAnswer": "ক",
+      "answerText": "মৃত্যুক্ষুধা",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_26_035",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 35,
+      "question": "যে-ই তার দর্শন পেলাম,",
+      "options": {
+        "ক": "সরল বাক্য",
+        "খ": "যৌগিক বাক্য",
+        "গ": "",
+        "ঘ": "মিশ বাক্য"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "মিশ্র বাক্য",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_036",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 36,
+      "question": "'লাঠালাঠি'- এটি কোন সমাস?",
+      "options": {
+        "ক": "প্রাদি সমাস",
+        "খ": "ব্যতিহার বহুব্রীহি সমাস",
+        "গ": "তৎপুরুষ সমাস",
+        "ঘ": "কমধারয় সমাস"
+      },
+      "correctAnswer": "খ",
+      "answerText": "ব্যতিহার বহুব্রীহি সমাস",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_26_037",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 37,
+      "question": "'ভানুসিংহ ঠাকুরের পদাবলী'-এর রচয়িতা কে? সে-ই আমরা প্রস্থান করলাম ' এটি কোন জাতীয় বাক্য? nnar ছ",
+      "options": {
+        "ক": "ভানু বন্দ্যোপাধ্যায়",
+        "খ": "চণ্ডীদাস",
+        "গ": "রবীন্দ্রনাথ ঠাকুর",
+        "ঘ": "ভারতচন্দ্র চট্টোপাধ্যায়"
+      },
+      "correctAnswer": "গ",
+      "answerText": "রবীন্দ্রনাথ ঠাকুর",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_038",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 38,
+      "question": "প্র, পরা, অপ-",
+      "options": {
+        "ক": "বাংলা উপসর্গ",
+        "খ": "সংস্কৃত উপসর্গ",
+        "গ": "বিদেশী উপসর্গ",
+        "ঘ": "উপসর্গ স্থানীয় অব্যয়"
+      },
+      "correctAnswer": "খ",
+      "answerText": "সংস্কৃত উপসর্গ",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_039",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 39,
+      "question": "টা, টি, খানা ইত্যাদি-",
+      "options": {
+        "ক": "পদাশরিত নির্দেশক",
+        "খ": "প্রকৃতি",
+        "গ": "বিভক্তি",
+        "ঘ": "উপসর্গ"
+      },
+      "correctAnswer": "ক",
+      "answerText": "পদাশ্রিত নির্দেশক",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_040",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 40,
+      "question": "কাজী নজরুল ইসলাম কোন কবিতা রচনার জন্য কারাবরণ করেন?",
+      "options": {
+        "ক": "বিদ্রোহী",
+        "খ": "পলয়োল্লাস",
+        "গ": "আনন্দময়ীর আগমনে",
+        "ঘ": "নারী"
+      },
+      "correctAnswer": "গ",
+      "answerText": "আনন্দময়ীর আগমনে",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_26_041",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 41,
+      "question": "Choose the correct sentence Everybody have gone খ` Everybody are gone there.",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "Everybody has gone there",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "Everybody nas gone there",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_042",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 42,
+      "question": "Choose the correct sentence The train is running in time",
+      "options": {
+        "ক": "",
+        "খ": "The train 1s running on time",
+        "গ": "",
+        "ঘ": "The train is running to time"
+      },
+      "correctAnswer": "খ",
+      "answerText": "The train is running on time",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_043",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 43,
+      "question": "Choose the correct preposition My brother has no interest",
+      "options": {
+        "ক": "fo1",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_045",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 45,
+      "question": "Choose the correct form (passive) of- 'Who will do the work?'",
+      "options": {
+        "ক": "0 seeing",
+        "খ": "111",
+        "গ": "with",
+        "ঘ": "at"
+      },
+      "correctAnswer": "",
+      "answerText": "By whom will the work be done?",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_046",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 46,
+      "question": "Choose the correct sentence",
+      "options": {
+        "ক": "I have lookel for a loctor before I",
+        "খ": "shoul]",
+        "গ": "I looke1 for a loctor before I hal net",
+        "ঘ": "has"
+      },
+      "correctAnswer": "খ",
+      "answerText": "should",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_049",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 49,
+      "question": "The Arabian Nights---still a great favourite",
+      "options": {
+        "ক": "has",
+        "খ": "a1e",
+        "গ": "1s",
+        "ঘ": "is"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "is",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_050",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 50,
+      "question": "Choose the correct preposition The police is looking",
+      "options": {
+        "ক": "after",
+        "খ": "011",
+        "গ": "u2",
+        "ঘ": "111t0"
+      },
+      "correctAnswer": "",
+      "answerText": "into",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_051",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 51,
+      "question": "Choose the correct spelling",
+      "options": {
+        "ক": "ascertain",
+        "খ": "assertain",
+        "গ": "will burn",
+        "ঘ": "asartain"
+      },
+      "correctAnswer": "",
+      "answerText": "burnt",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_055",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 55,
+      "question": "Identify the correct passive form of 'He is going to open a shop:' ৫ে Identify the correct synonym for the word 'Magnanimous:' Choose the right word to fill the blank: Two of the children have to sleep in one bed,",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_060",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 60,
+      "question": "Choose the right word to fill the blank: The Democratic party's candidate",
+      "options": {
+        "ক": "Ie 1s being gone to open a",
+        "খ": "| shoথ 1$ being gone opened by him",
+        "গ": "1 wil be opened by him",
+        "ঘ": "lonely"
+      },
+      "correctAnswer": "",
+      "answerText": "woul] have been",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_062",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 62,
+      "question": "Choose the right word to fill the blank: Since his retirement, Mr.",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_063",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 63,
+      "question": "Choose the right word to fill the blank: I should appreciate it if you could complete this",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_064",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 64,
+      "question": "Choose the right word to fill the blank: It will be your task to make sure the গ[ accepted granted ৬১. The proper function of the press is surely to",
+      "options": {
+        "ক": "equip",
+        "খ": "leliver",
+        "গ": "already",
+        "ঘ": "by"
+      },
+      "correctAnswer": "",
+      "answerText": "flow",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_065",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 65,
+      "question": "'Paediatric' relates to the treatment of: ক : খ ChilIren",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": "Old people"
+      },
+      "correctAnswer": "",
+      "answerText": "Children",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_066",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 66,
+      "question": "The word 'ecological' is related to +he man in the street with facts Chowdhury, who was interruption ccess benchnark Demography Pollution",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "Atmosphere",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Environmnent",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_067",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 67,
+      "question": "The correct spelling is",
+      "options": {
+        "ক": "Iunnorious",
+        "খ": "IIunzoro11s",
+        "গ": "Hunnorius",
+        "ঘ": "Humnurious"
+      },
+      "correctAnswer": "খ",
+      "answerText": "IIunzoro11s",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_068",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 68,
+      "question": "'pilgrim' is a person who undertakes a journey to a",
+      "options": {
+        "ক": "Mosque",
+        "খ": "",
+        "গ": "Holy place",
+        "ঘ": "Bazar"
+      },
+      "correctAnswer": "গ",
+      "answerText": "Holy place",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_069",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 69,
+      "question": "A person who writes about his own life writes",
+      "options": {
+        "ক": "| biography",
+        "খ": "liary",
+        "গ": "chronicle",
+        "ঘ": "An autobiography"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "An autobiography",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_070",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 70,
+      "question": "What is the meaning of 'White Elephant'?",
+      "options": {
+        "ক": "An elephant of white colouuu1 SuCcess",
+        "খ": "",
+        "গ": "A black marketer",
+        "ঘ": "very costly or troublesome possession"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "A very costly or troublesome possession",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_071",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 71,
+      "question": "If we want concrete proof, we are looking for--. Building material ছ. Something to cover path",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "Clear evilence",
+        "ঘ": "cenent Mirer"
+      },
+      "correctAnswer": "",
+      "answerText": "Out",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_073",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 73,
+      "question": "As the sun [ decided to go out Has shone shine",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "Shines",
+        "ঘ": "First speech"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "First speech",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_075",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 75,
+      "question": "'Out and out' means-",
+      "options": {
+        "ক": "NTot at all",
+        "খ": "Brave",
+        "গ": "Thoroughly",
+        "ঘ": "Whole heatedly"
+      },
+      "correctAnswer": "গ",
+      "answerText": "Thoroughly",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_076",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 76,
+      "question": "He divided the money the two",
+      "options": {
+        "ক": "0Te1'",
+        "খ": "Ini between",
+        "গ": "Among",
+        "ঘ": "Between"
+      },
+      "correctAnswer": "",
+      "answerText": "Den]",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_078",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 78,
+      "question": "Do not make a noise while your father Is sleeping IIas slept success benchnark huiLeunulabari Asleep",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "Is being asleep",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Is sleeping",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_079",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 79,
+      "question": "He gave up football when he ৪ot married.",
+      "options": {
+        "ক": "Of playing",
+        "খ": "To play",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "Playing",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_080",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 80,
+      "question": "He has been 1l1 Friday last",
+      "options": {
+        "ক": "Fronn",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Si11ce",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_081",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 81,
+      "question": "ঢাকায় বাংলার রাজধানী স্থাপনের সময় মোগল সুবেদার কে ছিলেন?",
+      "options": {
+        "ক": "ইসলাম খান",
+        "খ": "ইব্রাহীম খান",
+        "গ": "শায়েস্তা খান",
+        "ঘ": "মীর জুমলা"
+      },
+      "correctAnswer": "ক",
+      "answerText": "ইসলাম খান",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_082",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 82,
+      "question": "শিক্ষা বিভাগের ট্রেনিংয়ের শীর্ষ",
+      "options": {
+        "ক": "বিয়াম",
+        "খ": "নায়েম",
+        "গ": "টিটিসি",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "নায়েম",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_083",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 83,
+      "question": "'সাবাশ বাংলাদেশ' ভাস্কর্যটির শিল্পী কে?",
+      "options": {
+        "ক": "হামিদুজ্জামান",
+        "খ": "নিতুন কুণ্ডু",
+        "গ": "মৃণাল হক",
+        "ঘ": "শামীম শিকদার"
+      },
+      "correctAnswer": "খ",
+      "answerText": "নিতুন কুণ্ডু",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_26_084",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 84,
+      "question": "'সূর্য দীঘল বাড়ি' চলচ্চিত্রের পরিচালক কে?",
+      "options": {
+        "ক": "শেখ নিয়ামত শাকের",
+        "খ": "জহির রায়হান",
+        "গ": "সুভাস দত্ত",
+        "ঘ": "খান আতা"
+      },
+      "correctAnswer": "ক",
+      "answerText": "শেখ নিয়ামত শাকের",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_085",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 85,
+      "question": "স্টক শেয়ারে প্রবর্তিত নতুন পদ্ধতি কোনটি?",
+      "options": {
+        "ক": "ডিভিডেন্ড",
+        "খ": "",
+        "গ": "ডিম্যাট",
+        "ঘ": "ডিসকাউন্ট"
+      },
+      "correctAnswer": "গ",
+      "answerText": "ডিম্যাট",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_086",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 86,
+      "question": "বাংলাদেশে চিনি শিল্পের ট্রেনিং ইনস্টিটিউট কোথায় অবস্থিত?",
+      "options": {
+        "ক": "দিনাজপুর",
+        "খ": "রংপুর",
+        "গ": "ঈশ্বরদী",
+        "ঘ": "যশোর"
+      },
+      "correctAnswer": "গ",
+      "answerText": "ঈশ্বরদী",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_26_087",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 87,
+      "question": "মানবাধিকার দিবস পালিত হয় কবে?",
+      "options": {
+        "ক": "২৬ জুন",
+        "খ": "১ আগস্ট",
+        "গ": "১",
+        "ঘ": "১০ ডিসেম্বর"
+      },
+      "correctAnswer": "গ",
+      "answerText": "১০ ডিসেম্বর",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_26_088",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 88,
+      "question": "শহীদ চান্দু স্টেডিয়াম কোন শহরে অবস্থিত?",
+      "options": {
+        "ক": "রাজশাহী",
+        "খ": "বগুড়া",
+        "গ": "কুমিল্লা",
+        "ঘ": "চট্টগ্রাম"
+      },
+      "correctAnswer": "খ",
+      "answerText": "বগুড়া",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_089",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 89,
+      "question": "বাংলা একাডেমির প্রথম মহাপরিচালক কে ছিলেন?",
+      "options": {
+        "ক": "প্রফেসর আব্দুল হাই",
+        "খ": "ড মুহম্মদ শহীদুল্লাহ্",
+        "গ": "কাজী মোতাহার হোসেন",
+        "ঘ": "শোলাকিয়া-কিশোরগঞ্জ"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_092",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 92,
+      "question": "দক্ষিণ তালপট্টি দ্ীপ কোন নদীর মোহনায় অবস্থিত?",
+      "options": {
+        "ক": "রূপসা",
+        "খ": "বালেশ্বর",
+        "গ": "হাড়িয়াভাঙ্গা",
+        "ঘ": "ভৈরব"
+      },
+      "correctAnswer": "গ",
+      "answerText": "হাড়িয়াভাঙ্গা",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_093",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 93,
+      "question": "বাংলাদেশে মোট আবাদযোগ্য জমির পরিমাণ কত?",
+      "options": {
+        "ক": "২ কোটি ৪০ লক্ষ একর",
+        "খ": "",
+        "গ": "$ কোটি ২৫ লক্ষ একর",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "২ কোটি একর",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_26_094",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 94,
+      "question": "বাংলা নববর্ষ পহেলা বৈশাখ চালু করেছিলেন-",
+      "options": {
+        "ক": "ইলিয়াস শাহ",
+        "খ": "ফখরুদ্দিন মোবারক শাহ",
+        "গ": "সম্রাট আকবর",
+        "ঘ": "সমরাট বাবর"
+      },
+      "correctAnswer": "গ",
+      "answerText": "সম্রাট আকবর",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_095",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 95,
+      "question": "'কান্তজী মন্দির' কোন জেলায় অবস্থিত?",
+      "options": {
+        "ক": "জয়পুরহাট",
+        "খ": "কুমিল্লা",
+        "গ": "রাঙামাটি",
+        "ঘ": "দিনাজপুর"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "দিনাজপুর",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_096",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 96,
+      "question": "মহাখালী ফ্লাইওভারে কয়টি স্প্যান আছে?",
+      "options": {
+        "ক": "১৭ টি",
+        "খ": "১৮ টি",
+        "গ": "১৯ টি",
+        "ঘ": "২১ টি"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_098",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 98,
+      "question": "বাংলাদেশের সীমান্তবর্তী কোন জেলার সাথে ভারতের কোন সংযোগ নেই? নোট: বাংলাদেশের একমাত্র মৎস্য গবেষণা ইনস্টিটিউট ময়মনসিংহ জেলায় অবস্থিত ও নদী কেন্দ্র (মৎস্য গবেষণা ইনস্টিটিউটের একটি শাখা) চাঁদপুরে অবস্থিত ৯৭. চলতি আর্থিক বাজেটে কৃষিতে ভর্তুকি কত টাকা ধরা হয়েছে?",
+      "options": {
+        "ক": "909 কোটি টাকা",
+        "খ": "৪০০ কোটি টাকা",
+        "গ": "৫০০ কোটি টাকা",
+        "ঘ": "৬০০ কোটি টাকা"
+      },
+      "correctAnswer": "",
+      "answerText": "বান্দরবান",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_26_099",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 99,
+      "question": "বাংলাদেশের একমাত্র মৎস্য গবেষণা ইনস্টিটিউট কোথায় অবস্থিত?",
+      "options": {
+        "ক": "রাজশাই",
+        "খ": "",
+        "গ": "চট্টগ্রাম",
+        "ঘ": "চাঁদপুর"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_26_100",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 100,
+      "question": "বাংলাদেশের একমাত্র পাহাড়ি দীপ কোনটি?",
+      "options": {
+        "ক": "সেন্টমাটিন",
+        "খ": "মহেশখালী",
+        "গ": "ছেড়া দ্বীপ",
+        "ঘ": "নিঝুম দ্বীপ"
+      },
+      "correctAnswer": "খ",
+      "answerText": "মহেশখালী",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_26_101",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 101,
+      "question": "বাংলাদেশে সর্বপ্রথম ডিজিটাল টেলিফোন ব্যবস্থা কবে চালু হয়?",
+      "options": {
+        "ক": "8 জানুয়ারি, ১৯৯০",
+        "খ": "৩ ফেব্রুয়ারি, ১৯৯০",
+        "গ": "৭",
+        "ঘ": "৬ (২)"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "৬ (২)",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_26_103",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 103,
+      "question": "বাংলাদেশ OI-এর সদস্য হয় কোন সনে?",
+      "options": {
+        "ক": "১৯৭৩",
+        "খ": "১৯৭৪",
+        "গ": "১৯৭৫",
+        "ঘ": "১৯৭৬"
+      },
+      "correctAnswer": "খ",
+      "answerText": "১৯৭৪",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_26_104",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 104,
+      "question": "কতজন ব্যক্তি নিয়ে গ্রাম সরকার গঠিত? ক",
+      "options": {
+        "ক": "",
+        "খ": "১১ জন",
+        "গ": "১৩ জন",
+        "ঘ": "১৫ জন"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "১৫ জন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_105",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 105,
+      "question": "মুক্তিযুদ্ধ বিষয়ক মন্ত্রণালয় কোন সনে গঠিত হয়?",
+      "options": {
+        "ক": "১৯৯২ সনে",
+        "খ": "২০০০ সণে",
+        "গ": "২০০১ সনে",
+        "ঘ": "২০০১ সনে"
+      },
+      "correctAnswer": "গ",
+      "answerText": "২০০১ সনে",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_26_106",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 106,
+      "question": "ভারতের সাথে বাংলাদেশের সীমান্ত জেলা কয়টি?",
+      "options": {
+        "ক": "১৮",
+        "খ": "৩০",
+        "গ": "৩১",
+        "ঘ": "৩৫"
+      },
+      "correctAnswer": "খ",
+      "answerText": "৩০",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_26_107",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 107,
+      "question": "বাংলাদেশ কোন সনে বিশ্ব বাণিজ্য সংস্থার সদস্য হয়?",
+      "options": {
+        "ক": "১৯৯১",
+        "খ": "১৯৯৪",
+        "গ": "১৯৯২",
+        "ঘ": "১৯৯৫"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "১৯৯৫",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_26_108",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 108,
+      "question": "বাংলাদেশের প্রথম বেসরকারি ব্যাংক কোনটি?",
+      "options": {
+        "ক": "ন্যাশনাল ব্যাংক",
+        "খ": "আরব-বাংলাদেশ ব্যাংক",
+        "গ": "আইএফআইসি ব্যাংক",
+        "ঘ": "দি সিটি ব্যাংক"
+      },
+      "correctAnswer": "খ",
+      "answerText": "আরব-বাংলাদেশ ব্যাংক",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_26_109",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 109,
+      "question": "SPARRSO কোন মন্ত্রণালয়ের অধীন?",
+      "options": {
+        "ক": "শিল্প মন্ত্রণালয়",
+        "খ": "শিক্ষা মন্ত্রণালয়",
+        "গ": "পরিবেশ মন্ত্রণালয়",
+        "ঘ": "প্রতিরক্ষা মন্ত্রণালয়"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "প্রতিরক্ষা মন্ত্রণালয়",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_110",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 110,
+      "question": "বাংলাদেশে রঙিন টিভি সম্প্রচার কোন সনে শুরু হয়?",
+      "options": {
+        "ক": "১৯৭৯",
+        "খ": "১৯৮০",
+        "গ": "১৯৮১",
+        "ঘ": "১৯৮২"
+      },
+      "correctAnswer": "খ",
+      "answerText": "১৯৮০",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_26_111",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 111,
+      "question": "বাংলাদেশের বৃহত্তম সেচ প্রকল্প কোনটি?",
+      "options": {
+        "ক": "গঙ্গা-কপোতাক্ষ প্রকল্প",
+        "খ": "তিস্তা সেচ প্রকল্প",
+        "গ": "কাপ্তাই সেচ প্রকল্প",
+        "ঘ": "ফেনী সেচ প্রকল্প"
+      },
+      "correctAnswer": "খ",
+      "answerText": "তিস্তা সেচ প্রকল্প",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_26_112",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 112,
+      "question": "'মনপুরা-৭০' কা?",
+      "options": {
+        "ক": "একটি উপজেলা",
+        "খ": "",
+        "গ": "একটি উপন্যাস",
+        "ঘ": "একটি চিত্রশিল্প"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "একটি চিত্রশিল্প",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_26_113",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 113,
+      "question": "কোন আইন সংস্কার করে 'র্যাব' Papid Action Battalion) গঠন",
+      "options": {
+        "ক": "ডিএমপি অ্যাক্ট-১৯৭৬",
+        "খ": "ডিবি পুলিশ অ্যাক্ট ১৯৮৩",
+        "গ": "র্যাপিড একশন ব্যাটালিয়ন অ্যাক্ট ২০০৩",
+        "ঘ": "আর্মড পুলিশ ব্যাটালিয়ন অ্যাক্ট ১৯৭৯"
+      },
+      "correctAnswer": "",
+      "answerText": "গ্রামীণ ব্যাংক",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_115",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 115,
+      "question": "'ইরাটম' কী? | করা হয়? naur k",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_116",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 116,
+      "question": "গরিন হাউজ ইফ্েক্টের জন্য বাংলাদেশে কোন ধরনের ক্ষতি হতে পারে?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_26_120",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 120,
+      "question": "বাংলাদেশের কোথায় সুরমা ও কুশিয়ারা নদী মিলিত হয়ে মেঘনা নাম ধারণ করেছে?",
+      "options": {
+        "ক": "উন্নত জাতের ধান",
+        "খ": "উন্নত জাতের ইক্ষু",
+        "গ": "উন্নত জাতের পাট",
+        "ঘ": "উন্নত জাতের চা"
+      },
+      "correctAnswer": "",
+      "answerText": "আজমিরীগঞ্জ",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_26_121",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 121,
+      "question": "নাসাউ কোন দেশটির রাজধানী?",
+      "options": {
+        "ক": "নিকোবর দ্ীপপুঞ্জ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_124",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 124,
+      "question": "আটলান্টিক সনদে যুক্তরাষ্ট্র এবং ব্রিটিশের পক্ষে স্বাক্ষর করেন কে কে?",
+      "options": {
+        "ক": "আলভা মায়ারডাল",
+        "খ": "মদাগাস্কার দ্বীপপুঞ্জ",
+        "গ": "বাহামা দীপপুঞ্জ",
+        "ঘ": "ফিজি দ্বীপপুঞ্জ"
+      },
+      "correctAnswer": "",
+      "answerText": "ফ্রাঙ্কলিন ডি রুজভেল্ট ও উইনস্টন চার্চিল",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_125",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 125,
+      "question": "গ্রিনপিস (Green peace) কোন দেশের পরিবেশবাদী গ্রুপ?",
+      "options": {
+        "ক": "হল্যান্ড",
+        "খ": "পোল্যান্ড",
+        "গ": "ফিনল্যান্ড",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "হল্যান্ড",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_126",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 126,
+      "question": "ব্রিটেনের রানী কোন দেশটির সাংবিধানিক রাষ্ট্প্রধান নন?",
+      "options": {
+        "ক": "ফিজ",
+        "খ": "কানাড়া",
+        "গ": "অস্স্ট্রিয়া",
+        "ঘ": "অস্ট্রেলিয়া"
+      },
+      "correctAnswer": "ক",
+      "answerText": "ফিজি",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_127",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 127,
+      "question": "ফ্রান্সের মহান সম্রাট নেপোলিয়নের জীবনাবসান হয় কোথায়?",
+      "options": {
+        "ক": "ওয়াটার লু নামক স্থানে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_130",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 130,
+      "question": "ফিলিস্তিনের প্রেসিডেন্ট ইয়াসির আরাফাত-এর আনুষ্ঠানিক অন্ত্যেষ্টিক্রিয়া অনুষ্ঠানে যোগদানের জন্য বিশ্বের",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_131",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 131,
+      "question": "United Nations Conference on Trade and Development (UNCTAD)-এর সদর দপ্তর কোথায়?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_132",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 132,
+      "question": "যুক্তরাষ্টের প্রেসিডেন্ট নির্বাচিত হতে হলে নূন্যতম কত ইলেক্টোরাল ভোটের প্রয়োজন?",
+      "options": {
+        "ক": "গিস",
+        "খ": "দ্বীপ এনাবাতে",
+        "গ": "ইন্দোনেশিয়া",
+        "ঘ": "সেন্ট হেলেনা দপে"
+      },
+      "correctAnswer": "",
+      "answerText": "২৭০",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_133",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 133,
+      "question": "ইন্টারপোলের সদর দপ্তর কোথায় অবস্থিত?",
+      "options": {
+        "ক": "লন্ডন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_136",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 136,
+      "question": "কফি আনান আফ্রিকা মহাদেশ থেকে নিয়োগকৃত জাতিসংঘের কততম মহাসচিব?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_138",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 138,
+      "question": "২০০৪ সালে শান্তির জন্য নোবেল পুরস্কার লাভ করেন কোন দেশের নাগরিক? নোট: ২০২৫ সালে শান্তিতে নোবেল পুরস্কার পান ভেনেজুয়েলার মারিয়া কোরিনা মাচাদো",
+      "options": {
+        "ক": "ইন্দোনেশিয়ার একটি অঙ্গরাজ্য",
+        "খ": "লিও",
+        "গ": "১৯৬৭",
+        "ঘ": "প্যারিস"
+      },
+      "correctAnswer": "",
+      "answerText": "কেনিয়া",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_26_139",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 139,
+      "question": "ভারতীয় লোকসভার নির্বাচিত সদস্য সংখ্যা কত?",
+      "options": {
+        "ক": "৫8৫",
+        "খ": "৫8৩",
+        "গ": "৬১০",
+        "ঘ": "৪১৫"
+      },
+      "correctAnswer": "",
+      "answerText": "৫৪৩",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_26_140",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 140,
+      "question": "সুয়েজ খাল কোন দুটি সাগরকে সংযোজিত করে?",
+      "options": {
+        "ক": "লোহিত সাগর ও ভূমধ্যসাগর",
+        "খ": "",
+        "গ": "লোহিত সাগর ও আরব সাগর",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "লোহিত সাগর ও ভূমধ্যসাগর",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_141",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 141,
+      "question": "কোন তারিখে আন্তর্জাতিক পরিবেশ দিবস পালিত হয়?",
+      "options": {
+        "ক": "৫ জুলাই",
+        "খ": "১১ মাচ",
+        "গ": "৫ জুন",
+        "ঘ": "২১ জুন"
+      },
+      "correctAnswer": "গ",
+      "answerText": "৫ জুন",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_142",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 142,
+      "question": "লেবানন কোন দেশের কাছ থেকে স্বাধীনতা লাভ করে?",
+      "options": {
+        "ক": "ব্রিটেন",
+        "খ": "ফরান্স",
+        "গ": "তুরস্ক",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "ফ্রান্স",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_143",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 143,
+      "question": "গরিনিচ মান সময়ের সঙ্গে বাংলাদেশের সময়ের পার্থক্য",
+      "options": {
+        "ক": "ছয় ঘণ্টা",
+        "খ": "আট ঘণ্ডা",
+        "গ": "দশ ঘণ্টা",
+        "ঘ": "পাঁচ ঘণ্টা"
+      },
+      "correctAnswer": "ক",
+      "answerText": "ছয় ঘণ্টা",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_26_148",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 148,
+      "question": "ভারতের কোন রাজ্যের রাজধানী ইম্ফল?",
+      "options": {
+        "ক": "মিজোরাম",
+        "খ": "অরুণচল",
+        "গ": "মণিপুর",
+        "ঘ": "মেঘালয়"
+      },
+      "correctAnswer": "গ",
+      "answerText": "মণিপুর",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_150",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 150,
+      "question": "নারীর প্রতি সকল বৈষম্য নির্মূল কনভেনশন (UN Convention on the Elimination of All Forms of",
+      "options": {
+        "ক": "১৯৯৭ সালের ১ জানুয়ারি",
+        "খ": "২০০০ সালের ১ মাচ",
+        "গ": "২০০১ সালের ১ জানুয়ারি",
+        "ঘ": "১৯৯৮ সালের ১ নভেনর"
+      },
+      "correctAnswer": "",
+      "answerText": "১৯৭৯ সালে",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_151",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 151,
+      "question": "যুক্তরাষ্টের একজন প্রেসিডেন্ট ১২ বছর ক্ষমতায় ছিলেন ! তিনি হচ্ছেন- আর ইউরো ব্যাংক চালু হয় ১ জানুয়ারি, ২০০২ সালে gd dabari you1 success benchnark",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_152",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 152,
+      "question": "যুক্তরাষ্ট্ের কোন স্টেট-এ নির্বাচকমণ্ডলীর ভোটের (Electoral vote) সংখ্যা বেশি?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_154",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 154,
+      "question": "অভিন্ন ইউরোপ গঠনের লক্ষ্যে ম্যাসট্রিক্ট চুক্তি অনুমোদনের জন্য কোন দেশ দুবার গণভোটের আয়োজন জেমস মনরো",
+      "options": {
+        "ক": "নিউইয়ক",
+        "খ": "ফ্রাঙ্কলিন রুজভেল্ট",
+        "গ": "হ্যারি এস ট্রুম্যান",
+        "ঘ": "তথ্যটি সঠিক নয়"
+      },
+      "correctAnswer": "",
+      "answerText": "ডেনমার্ক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_155",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 155,
+      "question": "যুক্তরাষ্ট্র ইউনিয়নে কোন স্টেট সর্বশেষে যোগ দেয়?cess",
+      "options": {
+        "ক": "হাওয়াই",
+        "খ": "অ্যারিজোনা",
+        "গ": "",
+        "ঘ": "ফ্লোরিডা"
+      },
+      "correctAnswer": "ক",
+      "answerText": "হাওয়াই",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_156",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 156,
+      "question": "জাপান ও রাশিয়ার মধ্যকার বিরোধপূর্ণ দীপটির নাম কী?",
+      "options": {
+        "ক": "কুড়িল দ্বীপপুঞ্জ",
+        "খ": "",
+        "গ": "দিয়গো গসিয়া",
+        "ঘ": "গ্রেট বেরিয়ার রিফ"
+      },
+      "correctAnswer": "ক",
+      "answerText": "কুড়িল দ্বীপপুঞ্জ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_157",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 157,
+      "question": "যুক্তরাষ্টের কোন স্টেটটি ফ্রান্সের নিকট থেকে ক্রয় করা হয়েছিল? benchnnark লুইসিয়ানা খ` উইসকনসিন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "ফ্লোরিডা",
+        "ঘ": "নেবারাস্কা"
+      },
+      "correctAnswer": "",
+      "answerText": "লুইসিয়ানা",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_158",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 158,
+      "question": "উরুগুয়ে রাউন্ডের সংলাপ কত বছর ধরে চলেছিল? ক",
+      "options": {
+        "ক": "",
+        "খ": "৮ বছর",
+        "গ": "৫ বছর",
+        "ঘ": "৬ বছর"
+      },
+      "correctAnswer": "খ",
+      "answerText": "৮ বছর",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_159",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 159,
+      "question": "বিশ্বব্যাংকের SOFT LOAN WINDOW হলো-",
+      "options": {
+        "ক": "MIA",
+        "খ": "",
+        "গ": "IDA",
+        "ঘ": "IF"
+      },
+      "correctAnswer": "গ",
+      "answerText": "IDA",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_160",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 160,
+      "question": "IAEA -এর নির্বাহী প্রধান হলেন-",
+      "options": {
+        "ক": "মোহাম্মদ আল বারাদি",
+        "খ": "আমর মুসা",
+        "গ": "আয়াদ আলাওয়ি",
+        "ঘ": "হামিদ কারজাই"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_161",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 161,
+      "question": "কোন ভিটামিন ক্ষতস্থান হতে রক্ত পড়া বন্ধ করতে সাহায্য করে?",
+      "options": {
+        "ক": "ভিটামিন",
+        "খ": "ভিটামিন বি",
+        "গ": "ভিটামিন বিং",
+        "ঘ": "ভিটামিন"
+      },
+      "correctAnswer": "ক",
+      "answerText": "ভিটামিন",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_162",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 162,
+      "question": "আকাশে বিজলী চমকায়-",
+      "options": {
+        "ক": "দুই খণ্ড মেঘ পর পর এলে",
+        "খ": "মেঘের মধ্যে বিদ্যুৎ কোষ তৈরি হলে",
+        "গ": "মেঘ বিদ্যুৎ পরিবাহী অবস্থায় এলে",
+        "ঘ": "মেঘের অসংখ্য পানি ও বরফ কণার মধ্যে চাজ সঞ্চিত হলে"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "মেঘের অসংখ্য পানি ও বরফ কণার মধ্যে চার্জ সঞ্চিত হলে",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_163",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 163,
+      "question": "বিদ্যুৎবাহী তারে পাখি বসলে সাধারণত বিদ্যুৎ",
+      "options": {
+        "ক": "পাখির গায়ে বিদ্যুৎরোধী আবরণ থাকে",
+        "খ": "পাখির দেহের ভিতর দিয়ে বিদ্যুৎ প্রবাহিত হয় না",
+        "গ": "বিদ্যুৎ স্পৃষ্ট হলেও পাখি মরে না",
+        "ঘ": "মাটির সঙ্গে সংযোগ হয় না"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "মাটির সঙ্গে সংযোগ হয় না",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_164",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 164,
+      "question": "সালোকসংশ্লেষণ সবচেয়ে বেশি পরিমাণে হয়-",
+      "options": {
+        "ক": "সবুজ আলোতে",
+        "খ": "নীল আলোতে",
+        "গ": "লাল আলোতে",
+        "ঘ": "বেগুণী আলোতে"
+      },
+      "correctAnswer": "গ",
+      "answerText": "লাল আলোতে",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_165",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 165,
+      "question": "ম্যালিক এসিড-",
+      "options": {
+        "ক": "আমলকিতে পাওয়া যায়",
+        "খ": "কমলালেবুতে পাওয়া যায়",
+        "গ": "আঙ্গুরে পাওয়া যায়",
+        "ঘ": "টমেটোতে পাওয়া যায়"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "টমেটোতে পাওয়া যায়",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_166",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 166,
+      "question": "হাড় ও দাঁতকে মজবুত করে-",
+      "options": {
+        "ক": "আয়োডিন",
+        "খ": "আয়রণ",
+        "গ": "ম্যাগনেসিয়াম",
+        "ঘ": "ফসফরস"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "ফসফরাস",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_167",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 167,
+      "question": "নিউমোনিয়া রোগে আক্রান্ত হয় মানব",
+      "options": {
+        "ক": "ফুসফুস",
+        "খ": "যকৃত",
+        "গ": "কিডনি",
+        "ঘ": "প্লীহা"
+      },
+      "correctAnswer": "ক",
+      "answerText": "ফুসফুস",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_26_168",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 168,
+      "question": "শুষ্ক বরফ বলা হয়-",
+      "options": {
+        "ক": "হিমায়িত অক্সিজেনকে",
+        "খ": "হিমায়িত কার্বন মনোক্সাইডকে",
+        "গ": "হিমায়িত কার্বন-ডাই-অক্সাইডকে",
+        "ঘ": "ক্যালসিয়াম অক্সাইডকে"
+      },
+      "correctAnswer": "গ",
+      "answerText": "হিমায়িত কার্বন-ডাই-অক্সাইডকে",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_169",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 169,
+      "question": "বৈদ্যুতিক ইস্রি এবং হিটারে ব্যবহৃত হয়- টাংস্টেন তার",
+      "options": {
+        "ক": "",
+        "খ": "নাইক্রোম তার",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_171",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 171,
+      "question": "ডিজিটাল ঘড়ি বা ক্যালকুলেটরে কালচে অনুজ্জ্বল যে লেখা ফুটে উঠে তা কিসের ভিত্তিতে তৈরি?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_172",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 172,
+      "question": "দিনাজপুর জেলার বড়পুকুরিয়ায় কোন খনিজ প্রকল্পের কাজ চলছে?",
+      "options": {
+        "ক": "অডিও মিটার",
+        "খ": "অ্যামিটার",
+        "গ": "এন্টিমনি তার",
+        "ঘ": "কপার তার"
+      },
+      "correctAnswer": "",
+      "answerText": "কয়লা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_173",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 173,
+      "question": "Adult Cell ক্লোন করে যে ভেড়ার জন্ম",
+      "options": {
+        "ক": "শেলী",
+        "খ": "ডলি",
+        "গ": "মলি",
+        "ঘ": "নেলী"
+      },
+      "correctAnswer": "খ",
+      "answerText": "ডলি",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_26_174",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 174,
+      "question": "বৃত্তের পরিধি ও ব্যাসের অনুপাত- ক",
+      "options": {
+        "ক": "",
+        "খ": "২২ ৭",
+        "গ": "",
+        "ঘ": "প্রায় ৫"
+      },
+      "correctAnswer": "খ",
+      "answerText": "২২ ৭",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_26_175",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 175,
+      "question": "মানুষের ক্রোমোজোমের সংখ্যা কত?",
+      "options": {
+        "ক": "২৫ জোড়া",
+        "খ": "১৬ জোড়া",
+        "গ": "২৩ জোড়া",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_26_178",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 178,
+      "question": "জীবাশ্ম জ্বালানি দহনের ফলে বায়ুমণ্ডলে যে গ্রিন হাউজ গ্যাসের পরিমাণ সব চাইতে বেশি বৃদ্দধি পাচ্ছে- দা. ১৪ জোড়া ১৭৬. সমুদ্রপৃষ্ঠে বায়ুর চাপ প্রতি বর্গ সেমি এ-",
+      "options": {
+        "ক": "৫ কিমি",
+        "খ": "১০ কিমি",
+        "গ": "২৭ কিমি",
+        "ঘ": "১০ নিউটন"
+      },
+      "correctAnswer": "",
+      "answerText": "কার্বন-ডাই-অক্সাইড",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_26_179",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 179,
+      "question": "বস্তুর ওজন কোথায় সবচেয়ে বেশি?",
+      "options": {
+        "ক": "খনির ভিতর",
+        "খ": "পাহাড়ের উপর",
+        "গ": "মেরু অঞ্চলে",
+        "ঘ": "বিষুব অঞ্চলে"
+      },
+      "correctAnswer": "গ",
+      "answerText": "মেরু অঞ্চলে",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_180",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 180,
+      "question": "নাইট্রোজেন গ্যাস থেকে কোন সার প্রস্তুত করা হয়?",
+      "options": {
+        "ক": "টিএসপি",
+        "খ": "সবুজ সার",
+        "গ": "পটাশ",
+        "ঘ": "ইউরিয়া"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "ইউরিয়া",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_181",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 181,
+      "question": "১, ৩, ৬, ১০, ১৫, ২১ ধারাটির দশম পদ-",
+      "options": {
+        "ক": "8৫",
+        "খ": "৫৫",
+        "গ": "৬<",
+        "ঘ": "৬৫"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_26_184",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 184,
+      "question": "টাকায় ৩টি করে লেবু কিনে টাকায় ২টি করে বিক্রি করলে শতকরা কত লাভ হবে?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_26_187",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 187,
+      "question": "কোন সংখ্যার ১/২ অংশের সাথে ৬ যোগ করলে সংখ্যাটির ২ ৩ অংশ হবে। সংখ্যাটি কত? ১৮২. পিতা ও মাতার বয়সের গড় ৪৫ বছর বযস",
+      "options": {
+        "ক": "১ বছর",
+        "খ": "১৪ বছর",
+        "গ": "১৫ বছর",
+        "ঘ": "১৮ বছর"
+      },
+      "correctAnswer": "",
+      "answerText": "৩৬",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_26_188",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 188,
+      "question": "৪৩ থেকে ৬০ এর মধ্যে মৌলিক সংখ্যার সংখ্যা-",
+      "options": {
+        "ক": "৫",
+        "খ": "৩",
+        "গ": "৭",
+        "ঘ": "৪"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "৪",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_26_189",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 189,
+      "question": "যদি P একটি মৌলিক সংখ্যা হয় তবে 1p-",
+      "options": {
+        "ক": "একটি স্বাভাবিক সংখ্যা",
+        "খ": "একটি পূর্ণ সংখ্যা",
+        "গ": "",
+        "ঘ": "একটি অমূলদ সংখ্যা"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "একটি অমূলদ সংখ্যা",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_26_190",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 190,
+      "question": "(1 3.15)4 এর মান কত?",
+      "options": {
+        "ক": "30",
+        "খ": "60",
+        "গ": "225",
+        "ঘ": "15"
+      },
+      "correctAnswer": "গ",
+      "answerText": "225",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_26_191",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 191,
+      "question": "",
+      "options": {
+        "ক": "এবং | একত্রে একটি কাজ ১২",
+        "খ": "৩০ দিনে SUCCeSS",
+        "গ": "৩৫ দিনে",
+        "ঘ": "৪০ দিনে"
+      },
+      "correctAnswer": "খ",
+      "answerText": "৩০ দিনে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_26_192",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 192,
+      "question": "৭২ সংখ্যাটির মোট ভাজক আছে-",
+      "options": {
+        "ক": "১টি",
+        "খ": "১০টি",
+        "গ": "১১টি",
+        "ঘ": "১২টি"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "১২টি",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_26_193",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 193,
+      "question": "দুটি ক্রমিক পূর্ণসংখ্যা নির্ণয় করুন, যাদের বর্গের অন্তর 89-",
+      "options": {
+        "ক": "১১ এবং ২১",
+        "খ": "১১ এব ২৩",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_26_196",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 196,
+      "question": "একটি বর্গক্ষেত্রের বাহুর দৈর্ঘ্য ৮ ফুট হলে; ঐ বর্গক্ষেত্রের কর্ণের ওপর অঙ্কিত বর্গক্ষেত্রের ক্ষেত্রফল কত?",
+      "options": {
+        "ক": "40",
+        "খ": "4",
+        "গ": "২৩ এবঃ ২৪",
+        "ঘ": "২৪ এব ২৫"
+      },
+      "correctAnswer": "",
+      "answerText": "১২৮ বর্গফুট",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_26_197",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 197,
+      "question": "সমান- 1 6 + 2",
+      "options": {
+        "ক": "1 3 + 1 2",
+        "খ": "8 -1 2",
+        "গ": "1 3 - 1 2",
+        "ঘ": "1 3 + 2"
+      },
+      "correctAnswer": "ক",
+      "answerText": "1 3 1 2",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_26_198",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 198,
+      "question": "Y2 8x ৪y + 16 + y2",
+      "options": {
+        "ক": "~21]",
+        "খ": "81]",
+        "গ": "61]",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "21]",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_26_199",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 199,
+      "question": "Y2 y2 + 2y 1 এর একটি উতপাদক",
+      "options": {
+        "ক": "Y+y +1",
+        "খ": "&-y",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_26_200",
+      "exam": "26th BCS Preliminary",
+      "examCode": "bcs_26",
+      "questionNo": 200,
+      "question": "১৩ সেমি ব্যাসার্ধের বৃত্তের কেন্দ্র হতে ৫ সেমি দূরত্বে অবস্থিত জ্যা-এর দৈর্ঘ্য-",
+      "options": {
+        "ক": "২৪ সেমি",
+        "খ": "১৮ সেমি",
+        "গ": "Y+y-1",
+        "ঘ": "L y-1"
+      },
+      "correctAnswer": "ক",
+      "answerText": "২৪ সেমি",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "26th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    }
+  ]
+}

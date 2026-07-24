@@ -1,0 +1,1520 @@
+{
+  "examName": "42th BCS Preliminary",
+  "examCode": "bcs_42",
+  "totalQuestions": 61,
+  "validation": {
+    "totalDetected": 61,
+    "highestQuestionNo": 100,
+    "missing": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      9,
+      14,
+      15,
+      16,
+      17,
+      22,
+      23,
+      25,
+      26,
+      27,
+      32,
+      34,
+      35,
+      36,
+      37,
+      43,
+      44,
+      47,
+      50,
+      52,
+      53,
+      54,
+      56,
+      64,
+      65,
+      66,
+      67,
+      72,
+      74,
+      77,
+      84,
+      85,
+      86,
+      87
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 58,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_42_001",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 1,
+      "question": "সঠিক বানান নয় কোনটি?",
+      "options": {
+        "ক": "ধরণ খ মূছা",
+        "খ": "",
+        "গ": "উদ্দেশ্য, বিধেয়",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "উদ্দেশ্য, বিধেয়",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_42_003",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 3,
+      "question": "'সবুজপত্র' পত্রিকাটির সম্পাদক কে?",
+      "options": {
+        "ক": "রবীন্দ্রনাথ ঠাকুর খ শেখ ফজলল কারিম",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "প্রমথ চৌধুরী",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_42_008",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 8,
+      "question": "'বাবা' কোন ভাষার অন্তর্গত শব্দ?",
+      "options": {
+        "ক": "তৎসম খ তদ্ভব",
+        "খ": "ইশ! যদি পাখির মত পাখা পেতাম",
+        "গ": "অকারণে ঋণ করিও না",
+        "ঘ": "প্রদোষে প্রাকৃতজন"
+      },
+      "correctAnswer": "",
+      "answerText": "Clemency",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_42_010",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 10,
+      "question": "'Notification' এর বাংলা পরিভাষা কোনটি?",
+      "options": {
+        "ক": "বিজ্ঞাপন খ বিজ্ঞপ্তি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "প্রজ্ঞাপন",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_42_011",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 11,
+      "question": "মধ্যপদলোপী কর্মধারয় সমাস কোনটি?",
+      "options": {
+        "ক": "সিংহ চিহ্নিত আসন সিংহাসন",
+        "খ": "",
+        "গ": "কুসুমের মতো কোমল কুসুমকোমল",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "সিংহ চিহ্নিত আসন সিংহাসন",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_42_012",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 12,
+      "question": "কোনটি শুদ্ধ নয?",
+      "options": {
+        "ক": "যত্ত্রণ খ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "যন্ত্রনা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_42_013",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 13,
+      "question": "যিনি ন্যায়শাস্ত্র জানেন'- এর এক কথায় প্রকাশিত রূপ হলো-",
+      "options": {
+        "ক": "ন্যায়বাগীশ খ . নৈয়ায়িক",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "নৈয়ায়িক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_42_018",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 18,
+      "question": "উলুবনে মুক্তা ছড়ানো' প্রচলিত এমন শব্দগুচ্ছকে বলে",
+      "options": {
+        "ক": "প্রবাদ-পরবচন খ এককথায় প্রকাশ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "দ্বিরুক্তি শব্দ",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_42_019",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 19,
+      "question": "নিচের কোনটি মুক্তিযুদ্ধভিত্তিক স্বল্পদৈর্ঘ্য চলচ্চিত্র? g ক ধীরে বহে মেঘনা কলমিলতা",
+      "options": {
+        "ক": "+ ইষ্টি",
+        "খ": "মহণ পুরুষ মহাপুরুষ",
+        "গ": "Erudition ঘ . Fathon",
+        "ঘ": "জয় পতি দম্পতি"
+      },
+      "correctAnswer": "",
+      "answerText": "হুলিয়া",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_42_020",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 20,
+      "question": "ঐহিক এর বিপরীতার্থক শব্দ কোনটি?",
+      "options": {
+        "ক": "ঈদৃশ খ পারত্রিক",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "পারত্রিক",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_42_021",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 21,
+      "question": "অধিত্যকা- এর বিপরীতার্থক শব্দ কোনটি?",
+      "options": {
+        "ক": "উপত্যকা খ ধিত্যকা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Proceeds",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_42_024",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 24,
+      "question": "What is the correct indirect forn of:",
+      "options": {
+        "ক": "He advisel hin to see a loctor",
+        "খ": "",
+        "গ": "suggested that he had seen a `octor",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Lo sterilize it",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_42_028",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 28,
+      "question": "",
+      "options": {
+        "ক": "geru11] খ Participle",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "participle",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_42_029",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 29,
+      "question": "Identify the determiner in the sentence bring খ Me",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "That",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_42_030",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 30,
+      "question": "A passage to India' is written by:",
+      "options": {
+        "ক": "EM. Forster",
+        "খ": "Niral ` chaulhuri",
+        "গ": "মাঙ্গলিক ঘ আকস্মিক",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "EM. Forster",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_42_031",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 31,
+      "question": "What is the meaning of musk?",
+      "options": {
+        "ক": "a form of drama",
+        "খ": "",
+        "গ": "to appreciate someone",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "to ignore somebody",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_42_033",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 33,
+      "question": "'September on the Jessore Road' is written by: Madhusudan Dutt",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "Kaiser Huq",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Allen Ginsberg",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_42_038",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 38,
+      "question": "Liza had given me two-",
+      "options": {
+        "ক": "pair of jean pairs of jean",
+        "খ": "a face cover",
+        "গ": "to present the main idea",
+        "ঘ": "Caesarian"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "Caesarian",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_42_039",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 39,
+      "question": "Hasan has read most of +he- of Shakespeare.",
+      "options": {
+        "ক": "Poe11",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Works",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_42_040",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 40,
+      "question": "\"Eor God's sake, hold your tongue and let me love\" occurs in",
+      "options": {
+        "ক": "Jane Austen",
+        "খ": "",
+        "গ": "Somerset Maugham",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Rabindranath Tagore",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_42_041",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 41,
+      "question": "Complete the sentence: If I were you,",
+      "options": {
+        "ক": "shall খ Will",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Woull",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_42_042",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 42,
+      "question": "G0 and catch the falling star. Here the 'falling' is-",
+      "options": {
+        "ক": "an adlverb preposition",
+        "খ": "Boris Pasternal",
+        "গ": "Ciserian চা Scissorian",
+        "ঘ": "100তম পদ"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "100তম পদ",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_42_045",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 45,
+      "question": "P (4) = ;; P (B) 2 A [ B স্বাধীন হলে P (৪) 3",
+      "options": {
+        "ক": "3 খ 2",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_42_046",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 46,
+      "question": "করত তাহলে রনির থেকে ১ ঘণ্টা সময় কম লাগত",
+      "options": {
+        "ক": "৪ কিমি ঘণ্টা খ ৫ কিমি ঘণ্টা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "২৫ মিটার",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_42_048",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 48,
+      "question": "নিচের ধারার শেষ সংখ্যা কত? ৩, ৯, ২৭, ৮১,",
+      "options": {
+        "ক": "১৪১",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "২৪৩",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_42_049",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 49,
+      "question": "টাকায় ৩টি এবং টাকায় ৫েটি দরে সমান সংখ্যক আমলকি",
+      "options": {
+        "ক": "৪. ৫% লাভ খ ৫ ২৫% ক্ষতি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "?",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_42_051",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 51,
+      "question": "১ থেকে ৪৯ পর্যন্ত সংখ্যাগুলোর গড় কত?",
+      "options": {
+        "ক": "৫ খ",
+        "খ": "",
+        "গ": "90তম পদ চ 100তম পদ",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৫ প্রকারে",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_42_055",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 55,
+      "question": "নিচের প্রশ্নবোধক স্থানে কোনটি বসবে? 15 28 21' L ' ? 15 থ T 18 ৫ে৬ বৃত্তের ব্যাস চারগুণ বৃদ্দধি পেলে ক্ষেত্রফল কতগুণ বৃদ্দধি পাবে?",
+      "options": {
+        "ক": "8 খ`",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৬",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_42_057",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 57,
+      "question": "মার্কিন-তালেবান ঐতিহাসিক চুক্তি স্বাক্ষরিত হয়-",
+      "options": {
+        "ক": "$ মাচ ২০২০ খ ২৫ জানুয়ারি ২০২০",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "২৯ ফেব্রুয়ারি ২০২০",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_42_058",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 58,
+      "question": "নওগাঁ জেলার পাহাড়পুরে অবস্থিত 'সোমপুর বিহার'- এর প্রতিষ্ঠাতা কে?",
+      "options": {
+        "ক": "গোপাল খ ধর্মপাল",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ধর্মপাল",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_42_059",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 59,
+      "question": "বাঙালি উপভাষা অঞ্চল কোনটি?",
+      "options": {
+        "ক": "নদীয়া খ. ত্রিপুরা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বরিশাল",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_42_060",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 60,
+      "question": "IUCN এর কাজ হলো বিশ্বব্যাপী-",
+      "options": {
+        "ক": "পানিসম্পদ রক্ষা হয়",
+        "খ": "",
+        "গ": "প্রাকৃতিক সম্পদ রক্ষা করা",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "প্রাকৃতিক সম্পদ রক্ষা করা",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_42_061",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 61,
+      "question": "কোন চুক্তির মাধ্যমে ইউরোপের Thirty years war'",
+      "options": {
+        "ক": "ভাসাই চুক্তি, ১৯১৯",
+        "খ": "",
+        "গ": "প্যারিস চুক্তি; ১৭৮৩",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ওয়েস্টফোলিয়া শান্তিচুক্তি, ১৬৪৮",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_42_062",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 62,
+      "question": "",
+      "options": {
+        "ক": "আবুজা খ ঢাক",
+        "খ": "সন্ত্রীস দমন করা",
+        "গ": "২ : ১ ঘ ৪ : ১",
+        "ঘ": "ঢাকা"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "ঢাকা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_42_063",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 63,
+      "question": "বাংলাদেশ সরকারি কর্ম কমিশন সংবিধানের কত অনুচ্ছেদ",
+      "options": {
+        "ক": "১9৬ খ ১99",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৩৭",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_42_068",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 68,
+      "question": "",
+      "options": {
+        "ক": "১৫ জানুয়ারি খ ১১ ফেব্রুয়ারি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "২ ফেব্রুয়ারি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_42_069",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 69,
+      "question": "১৯৭১ সালে The Concert for Bangladesh' কোথায় অনুষ্ঠিত হয়?",
+      "options": {
+        "ক": "চট্টগাম কলকাতা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নিউইয়ক",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_42_070",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 70,
+      "question": "ঢাকা গেইট-এর নির্মাতা কে?",
+      "options": {
+        "ক": "শায়েস্তা খাঁ নবাব আবদুল",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মীর জুমলা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_42_071",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 71,
+      "question": "",
+      "options": {
+        "ক": "১৩টি খ` ১৫টি",
+        "খ": "",
+        "গ": "১৮ অক্টোবর ২০২০",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৯ সেপ্টেম্বর ২০২০",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_42_073",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 73,
+      "question": "Global Vaccine Summit অনুষ্ঠিত হয়-",
+      "options": {
+        "ক": "৫ মে ২০২০ খ ৪ জুন ২০২০",
+        "খ": "১৯ সেপ্টেম্বর ২০২০",
+        "গ": "১৩ ঘ. ১৪০",
+        "ঘ": "মীর জুমলা"
+      },
+      "correctAnswer": "",
+      "answerText": "জেনেভা",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_42_075",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 75,
+      "question": "",
+      "options": {
+        "ক": "১৯৭২, কায়রো খ ১৯৭৪, নয়াদিল্লী",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৯৭৪, নয়াদিল্লী",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_42_076",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 76,
+      "question": "বাংলাদেশের ছয় ঋতুর সঠিক অনুক্রম কোনটি?",
+      "options": {
+        "ক": "গ্রীষ্ম, বর্ষা, বসন্ত, হেমন্ত; শীত ও শরং",
+        "খ": "",
+        "গ": "শরৎ, হেমন্ত; শীত, বসন্ত, গ্রীষ্ম ও বর্ষা",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৭টি",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_42_078",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 78,
+      "question": "কার্টাগেনা প্রটোকল কোন সালে স্বাক্ষরিত হয়?",
+      "options": {
+        "ক": "২০০০ সালে খ ২০০১ সালে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "২০০০ সালে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_42_079",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 79,
+      "question": "কোনটি 'Bretton Woods Institution's এর অন্তর্ভুক্ত?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "IMF",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_42_080",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 80,
+      "question": "",
+      "options": {
+        "ক": "আটসাখ প্রজাতন্ত্র খ নাগা্নো-কারাবাখ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নাগানো-কারাবাখ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_42_081",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 81,
+      "question": "বাংলা আদি অধিবাসীগণ কোন ভাষাভাষী",
+      "options": {
+        "ক": "বাংলা সংস্কৃত",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "অস্স্রিক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_42_082",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 82,
+      "question": "বাংলাদেশের প্রথম",
+      "options": {
+        "ক": "হাতিয়া প্রণালী খ জাফোর্ড পয়়েন্ট",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মাতারবাড়ি",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_42_083",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 83,
+      "question": "",
+      "options": {
+        "ক": "১৯৯৭ খ ১৯৯০",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৯৯৭",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_42_088",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 88,
+      "question": "'সাবাস বাংলাদেশ' ভাস্কর্যটির স্থপতি কে?",
+      "options": {
+        "ক": "হামিদুজ্জামান খান খ রবিউল হুসাইন",
+        "খ": "বর্ষা, শরং, হেমন্ত; শীত, বসন্ত, গ্রীষ্ম ও বর্ষা",
+        "গ": "১৯৭৫, বেলগ্রেড ঘ ১৯৭৩, আলজিয়ারস",
+        "ঘ": "১৯৮৫ সালে লুক্সেমবার্গে"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "১৯৮৫ সালে লুক্সেমবার্গে",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_42_089",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 89,
+      "question": "কোনটি যমুনার উপনদী?",
+      "options": {
+        "ক": "তিস্তা ধলেশ্বরী",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "তিস্তা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_42_090",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 90,
+      "question": "মুক্তিযুদ্ধ জাদুঘর কত সালে প্রতিষ্ঠিত হয়?",
+      "options": {
+        "ক": "১৯৯৬ খ . ১৯৯৮",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৯৯৬",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_42_091",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 91,
+      "question": "",
+      "options": {
+        "ক": "খ ১১ অক্টেোবর",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১২ অক্টোবর",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_42_092",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 92,
+      "question": "রাষ্ট্রভাষা আন্দোলনে কোন সংস্থা গুরুত্বপূর্ণ ভূমিকা পালন করে?",
+      "options": {
+        "ক": "তমদ্দুন মজলিস খ ভাষা পরিষদ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "তমদ্দুন মজলিস",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_42_093",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 93,
+      "question": "",
+      "options": {
+        "ক": "সৌদি আরব ]0u1",
+        "খ": "",
+        "গ": "সংযুক্ত আরব আমিরাত",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "সংযুক্ত আরব আমিরাত",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_42_094",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 94,
+      "question": "আধুনিক মেধাভিত্তিক সিভিল সার্ভিসের উন্মেষ ঘটে কোন দেশ হতে?",
+      "options": {
+        "ক": "যুক্তরাজ্য যুক্তরাষ্ট্র",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "চীন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_42_095",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 95,
+      "question": "বঙ্গভঙ্গের ফলে কোন নতুন প্রদেশ সৃষ্টি হয়েছিল?",
+      "options": {
+        "ক": "পূর্ববঙ্গ",
+        "খ": "",
+        "গ": "পূর্ববঙ্গ ও পশ্চিমবঙ্গ",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "পূর্ববঙ্গ ও আসাম",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_42_096",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 96,
+      "question": "ব্রিটিশ কৃষি বিপ্লব কখন সংঘটিত হয়েছিল? : ক ঊনবিংশ শতাব্দীতে খ অষ্টাদশ শতাব্দীতে",
+      "options": {
+        "ক": "অষ্টাদশ শতাব্দীতে",
+        "খ": "১৯৮৪ সালে বেলজিয়ামে",
+        "গ": "ভাদ্র-অগ্রহায়ণ ঘ শ্রাবণ-আশ্বিন",
+        "ঘ": "১৯৯৬ সালে হাঙ্গেরিতে"
+      },
+      "correctAnswer": "ক",
+      "answerText": "অষ্টাদশ শতাব্দীতে",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_42_097",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 97,
+      "question": "বাংলাদেশে প্রধান বীজ উতপাদনকারী সরকারি প্রতিষ্ঠান",
+      "options": {
+        "ক": "BARI ছ BRRI",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_42_098",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 98,
+      "question": "I& 2 হলে, x এর মান কোনটি?",
+      "options": {
+        "ক": "3 খ` 2",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "3",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_42_099",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 99,
+      "question": "Y' _ 3X - 10 > 0 অসমতাটির সমাধান কোনটি?",
+      "options": {
+        "ক": "(-স, -1) U (4, +0)",
+        "খ": "",
+        "গ": "(স, 2) U (5, +০)",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "(-স, -2) U (5, +০০)",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_42_100",
+      "exam": "42th BCS Preliminary",
+      "examCode": "bcs_42",
+      "questionNo": 100,
+      "question": "অংশগুলি জোড়া দিলে কোন চিত্র হবে? B৫$ Foundation Live Batch",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "BADC চা",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "42th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    }
+  ]
+}

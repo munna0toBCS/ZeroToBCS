@@ -1,0 +1,2003 @@
+{
+  "examName": "18th BCS Preliminary",
+  "examCode": "bcs_18",
+  "totalQuestions": 82,
+  "validation": {
+    "totalDetected": 82,
+    "highestQuestionNo": 100,
+    "missing": [
+      4,
+      5,
+      6,
+      7,
+      22,
+      44,
+      47,
+      52,
+      53,
+      54,
+      56,
+      57,
+      58,
+      66,
+      74,
+      75,
+      76,
+      77
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 82,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_18_001",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 1,
+      "question": "Many companies now have employee assistance programs that enable employees, free of charge, to improve their physical fitness, reduce stress, and learn ways stop smoking These programs inicrease worker productivity, reduce absenteeism and lessen insurance costs for employee health care. Therefore, these programs benefit the company as well as the employee. Which of the folowing, if true, most significantly strengthens the conclusion above? Physical fitness programs are often the most popular services offered to employees (খ) Studies have shown that training in stress management is not effective for people. (গ) Regular exercise reduces people's risk of heart disease and provides them with increased energy Employee assistance programs require companies to hire people to supervise the various programs offered popular services offered to employees",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Physical fitness programs are often the most",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_002",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 2,
+      "question": "Choose the answer that is closest in meaning to the following sentence: \"Despite the great difference in size, shape and function, all human cells have the same 46 chromosomes: All human cells are the same because the 46 chromosomes govern size, shape and function Difference in size, shape an] function are 1ot very great because all human cells have the same ১৮তম বিশেষ বিসিএস 46 chronosones The size, shape an] function Of human cells are the same; but the 46 chromosomes are different Although the 46 chromosomes are the same in all human cells, there are difference in the size, shape an] function in all human cells, there are difference in the size, and] function",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Although the 46 chromosomes are the same",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_003",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 3,
+      "question": "In the following four questions; choose the word 01' phrase that is most nearly similar or opposite in meaning to the word given in the question:- INFRINGE Transgress Purloin Invadle Intrudle ntradegress chmark",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "@ @",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_008",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 8,
+      "question": "BROCHURE Opening Pamphlet Burea1 ৫. EOUITOCAL Universal Mistaken ৬. ILLUJSIVE deceptive",
+      "options": {
+        "ক": "",
+        "খ": "ITot certain",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Event mennories",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_009",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 9,
+      "question": "STARE GLANCE SUC gulp sip",
+      "options": {
+        "ক": "",
+        "খ": "confide rell",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "gulp sip",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_010",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 10,
+      "question": "Each sentence below has two blanks Choose the set of words for each blank that best fits the meaning of the sentence as a whole: g Although a few years ago the fundamental fact about the milky way seemed fairly well even its mass and radius have come into Other Job's Preparation letermine] resolution establishe]l question ignored danger linninishe] disrepute",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "established question",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_011",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 11,
+      "question": "Because she had reputation for we were surprised and pleased when she greeted us $0 insolence-irately insouciance-cordially arrogance-disdainfully querulousness-affably",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "querulousness-affably",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_012",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 12,
+      "question": "A statement 1s an comparison; it does not compare. Things explicitly but suggest a likeness between them sarcasti un1fair metaphorical implied (গ) sanguine inherent blatant",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "metaphorical implied",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_013",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 13,
+      "question": "Choose the word 01' phrase that best fill the blank space complete the sentences: If a ruby is heated it temporarily lose its color would) e1chnarR will",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "1oes",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "will",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_014",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 14,
+      "question": "All of the people at the AAME conference are Mathenatic teachers Mathematics teachers Mathematics teacher Mathematic's teachers",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Mathematics teachers",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_015",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 15,
+      "question": "Prices for bicycles can run TL. 2,000.00. a$ high as $0 high as high to as high for",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "as high a$",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_016",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 16,
+      "question": "Travellers their reservations well in advance it want to fly during the Eid holidays hnad better to ৪et had to get better (গ) hadl better get hal better",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "hnad better get",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_017",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 17,
+      "question": "A seventeen year old is not to vote in an election old enough as old enough (গ) enough old (ঘ) enough oll as",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "old enough 0",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_018",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 18,
+      "question": "Almost everyone fails on the first try: in passing his driver's test Lo his Iriver's Lest V0u1 SULC( to have passed his driver's test passing his driver's test",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "in passing his driver's test",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_019",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 19,
+      "question": "Throughout history, search for salt has played important role in society Where it Was scarce, salt was traded ounce for ounce with gol1. Rome's major highway was called +he via salaria, that is the Salt Road. the road, Roman soldiers transported salt crystals from the salt flats at Ostia g up the Tiber River. In return, received a salarium উত্তর: ১৮ 01' salary literally money paid to soldiers to buy salt Other Job's Preparation The old saying \"worth their salt\" which to be valuable derives from the custom of payment during the Empire. What does the passage mainly discuss? The ol1 saying The Roman Empire (গ) Salt Ancient Trale",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Salt",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_020",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 20,
+      "question": "According to the passage salt flats were located 111- Ronne Tiber Salaria",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Ostia",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_021",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 21,
+      "question": "Salarium is a Latin word that means Salt",
+      "options": {
+        "ক": "",
+        "খ": "Salary",
+        "গ": "Solliers",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "A valuable employee",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_023",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 23,
+      "question": "একটি সংখ্যার তিনগুণের সাথে দ্বিগুণ যোগ করলে ৯০ হয় সংখ্যাটি কত? ১৬ ১৮",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "২০",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_18_024",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 24,
+      "question": "পরপর দশটি সংখ্যার প্রথম ঠেটির যোগফল ৫ে০ হলে শেষ েটির যোগফল কত? ৫৮৫",
+      "options": {
+        "ক": "",
+        "খ": "৫৮০",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৫৮৫",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_18_025",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 25,
+      "question": "কোন ভগ্নাংশটি ২ ৩ থেকে বড়? ৩৩/৫ (খ) ৮/১১ (গ) ৩ ৫ (ঘ) ১৩ ২৭",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৮/ ১১",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_18_026",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 26,
+      "question": "১২ ও ৯৬ এর মধ্যে (এ দুটি সংখ্যাসহ) কয়টি সংখ্যা ৪ দারা বিভাজ্য? @ ২১ ২৩ ২৪",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "২২",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_18_027",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 27,
+      "question": "৬, ৮, ১০ এর গাণিতিক গড় ৭, ৯ এবং গাণিতিক গড়ের সমান? (থ) you1 SUCC ৬ ১০",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৮",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_028",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 28,
+      "question": "যদি x + 5y=16 এবং x 3y হয়, তাহলে y কত? (\") -24 -2 (ঘ) 2 g Other Job's Preparation",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "2",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_029",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 29,
+      "question": "'ক' ও 'খ' দুটি সংখ্যা 'ক' এর ১ ২ এবং খ' এর ১/৩ যোগ করলে ৪৫ হয় ! 'খ' এর ১/২ এবং 'ক' এর ২ ৫ যোগ করলে ৫০ হয়I 'ক' ও 'খ' এর মান কত?",
+      "options": {
+        "ক": "= ৫০, খ = ৬০",
+        "খ": "",
+        "গ": "",
+        "ঘ": "ক = ৬০, খ = ৪৮"
+      },
+      "correctAnswer": "ক",
+      "answerText": "ক ৫০, খ = ৬০",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_18_030",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 30,
+      "question": "তিনটি মেশিন একটি কাজ যথাক্রমে ৪,৫ ও ৬ ঘণ্টায় করতে পারে! দুটি মেশিনে সর্বোচ্চ ক্ষমতায় কাজ করে এক ঘণ্টায় কতটুকু কাজ করতে পারবে? ১১|৩০ (খ) ৯/২০ (গ) ৩ ৫ (ঘ) ১|১৫",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৯ ২০",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_18_031",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 31,
+      "question": "একটি কম্পিউটার বিজ্ঞান পরীক্ষায় ৩০% পরীক্ষার্থী পাস করেছে যারা পাস করতে পারেনি তাদের ১১ জন কম্পিউটার বিজ্ঞান কোসে অংশগ্রহণ করেছে এবং ৩০ জন উক্ত কোসে অংশগ্রহণ করেনি কতজন পরীক্ষার্থী পরীক্ষায় অংশগ্রহণ করেছে? ৬০ জন ৮g জন ) enchnark 'গ) ১০০ জন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": "১২০ জন"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "৬০ জন",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_032",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 32,
+      "question": "৩৬০০ টাকা করে দুটি চেয়ার বিক্রয় করা হয়েছে ! একটি ২০% লাভে এবং অন্যটি ২০% লোকসানে বিক্রয় করা হয়েছে সব মিলিয়ে কত লোকসান হয়েছে? লাভ-লোকসান কিছুই হয়নি ৯০০ ঢাকা (গ) ৩০০ টাকা ৬০০ টাকা",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৩০০ টাকা",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_18_033",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 33,
+      "question": "সম্পূর্ণ খালি একটি চৌবাচ্চ একটি পাইপ দিয়ে ৫ ঘণ্টায় সম্পূর্ণ ভর্তি করা যায় ! দ্বিতীয় একটি পাইপ দিয়ে চৌবাচ্চাটি ভর্তি করতে ৩ ঘণ্টা লাগে ! দুটি পাইপ একসাথে ব্যবহার করে চৌবাচ্চাটি ১৩ অংশ ভর্তি করতে কত সময় লাগবে? ৮/১৫ ঘণ্টা (খ) ৩/8 ঘণ্টা (গ) ৫ ৪ ঘণ্টা ২ ৩ ঘণ্টা",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৫ ৪ ঘণ্টা",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_18_034",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 34,
+      "question": "ঢাকা থেকে টাঙ্গাইলের দূরত্ব ৪৫ মাইল করিম ঘন্টায় ৩ মাইল বেগে হাঁটে এবং রহিম ঘন্টায় ৪ মাইল বেগে হাঁটে করিম ঢাকা থেকে রওয়ানার এক ঘণ্টা পর রহিম টাঙ্গাইল থেকে ঢাকা রওয়ানা হয়েছে রহিম কত মাইল হাঁটার পর করিমের সাথে দেখা হবে? (ক) ২৪ (গ) ২৩ ২২ (ঘ) ১১",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "২৪",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_18_035",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 35,
+      "question": "৫ে ফুট ব্যাসের বৃত্তাকার ক্ষেত্রকে একই ক্ষেত্রফলের একটি বর্গক্ষেত্র করলে, বর্গক্ষেত্রের যে কোনো এক দিকের দৈর্ঘ্য )100 হবে? ২৮ ফুট (খ) ৩৬৮ ফুট you1 SUCc (গ) ৪৯৬ ফুট (ঘ) 88 ফুট",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৪৯৬ ফুট",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_036",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 36,
+      "question": "একটি বাড়ি ৪০ ফুট উঁচু । একটি মইয়ের তলদেশ মাটিতে বাড়িটির দেয়়াল থেকে ৯ ফুট দূরে রাখা আছে ! উপরে মইটি বাড়িটির ছাদ ছুঁয়ে আছে মইটি কত ফুট লম্বা? 8৮ ফুট (খ) ৪১ ফুট (গ) 88 (ঘ) 8৩ Other Job's Preparation",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৪১ ফুট",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_037",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 37,
+      "question": "১ হতে ১০০ পর্যন্ত সংখ্যাসমূহের যোগফল কত? ৪৯৯৯",
+      "options": {
+        "ক": "",
+        "খ": "৫৫০১",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৫০৫০",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_18_038",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 38,
+      "question": "মুক্তিযুদ্ধ জাদুঘর ঢাকার কোন এলাকায় অবস্থিত? সেগুনবাগিচা (খ) ধানমণ্ডি (গ) মগবাজার (ঘ) বনানী",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সেগুনবাগিচা",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_18_039",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 39,
+      "question": "মুক্তিযুদ্দের সময় ঢাকা শহর কোন সেক্টরের অধীনে ছিল? তিন নম্বর সেক্টর দুই নম্বর সেক্টর (গ) চার নম্বর সেক্টর",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": "এক নম্বর সেক্টর"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "দুই নম্বর সেক্টর",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_18_040",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 40,
+      "question": "মুক্তিযুদ্দের বীরত্বের জন্য কয়জনকে সর্বোচ্চ সম্মান 'বীরশ্রেষ্ঠ' খেতাব দেয়া হয়?",
+      "options": {
+        "ক": "৯ জন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "৭ জন",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_18_041",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 41,
+      "question": "তদানীন্তন পূর্ব পাকিস্তানের স্বায়ত্তশাসনের জন্য তখনকার বিরোধী দলগুলোর এক সম্মেলনে বঙ্গবন্ধু শেখ মুজিবুর রহমান ছয়-দফা দাবি পেশ করেন ! ঐ সম্মেলন কোথায় হয়েছিল? ঢাকায় নারায়ণগঞ্জে (গ) লাহোেরে করাচীতে",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "লাহেরে",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_18_042",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 42,
+      "question": "বাংলাদেশের সংবিধানের ২১০১) ধারায় বলা হয়েছে \"সকল সময়ে চেষ্টা করা প্রজাতন্ত্রের কর্মে নিযুক্ত প্রত্যেক ব্যক্তর কর্তব্য \" শূন্যস্থান পূরণ করুন ! জনগণের সেবা করিবার রাষ্ট্রের প্রতি আনুগত্য প্রকাশ করিবার (গ) সরকারের প্রতি আনুগত্য প্রকাশ করিবার (ঘ) সংবিধানের প্রতি আনুগত্য প্রকাশ করিবার",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "জনগণের সেবা করিবার",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_18_043",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 43,
+      "question": "বাংলাদেশের প্রধানমন্ত্রী হওয়ার জন্য ন্যূনতম বয়স কত দরকার? 90 পছর (খ) ২৫ বছর (গ) ৩৫",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": "৪০"
+      },
+      "correctAnswer": "",
+      "answerText": "নোট: ২০২৫ সালে; সবচেয়ে বেশি সরাসরি",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_18_045",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 45,
+      "question": "বর্তমানে সরকার কয়টি স্তরে স্থানীয় ( ভাবনা করছেন? ৪টি (খ) ৩টি (গ) ২টি (ঘ) ১টি",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৩টি",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_18_046",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 46,
+      "question": "জনাব এফ আর খান বাংলাদেশের জন্য গৌরব! তিনি কি ছিলেন? স্থপতি",
+      "options": {
+        "ক": "",
+        "খ": "ক্যান্সার চিকিংসক",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নোট: ২০২৪-২৫ অর্থ বছরে, পোশাক রপ্তানি ৮.88",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_18_048",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 48,
+      "question": "জাতিসংঘের সিডও Convention on the Elimination of all forms of Discrimination Against Women)-এর Monitoring কমিটির চেয়ারপার্সন একজন বাঙালি মহিলা তিনি কে?",
+      "options": {
+        "ক": "সালামা সোবহান",
+        "খ": "সালমা খান",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নোট: জাতিসংঘের সিডও এর বর্তমান চেয়ারপার্সন",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_049",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 49,
+      "question": "খুলনা হার্ডবোর্ড মিলে কাঁচামাল হিসেবে ব্যবহৃত হয় কোন ব সরকার প্রতিষ্ঠার চিন্তা ধরনের কা্ঠ? enchnaurk চাপালিশ",
+      "options": {
+        "ক": "",
+        "খ": "কেওয়া",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সুন্দরী",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_050",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 50,
+      "question": "দিনাজপুর জেলায় বড়পুকুরিয়ায় কিসের খনি প্রকল্প কাজ চলছে? কঠিন শিলা",
+      "options": {
+        "ক": "",
+        "খ": "কয়লা",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "কয়লা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_18_051",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 51,
+      "question": "বাংলাদেশে বিদ্যুৎ শক্তির উৎস- খনিজ তেল (খ) প্রাকৃতিক গ্যাস (গ) পাহাড়ী নদী (ঘ) ওপরের সবগুলোই ৫ ধলেশ্বরী নদীর শাখা নদী কোনটি? শীতলক্ষ্যা (খ) বুড়িগঙ্গা (গ) ধরলা (ঘ) বংশী ৫ে. 'Existentialism' কি? একটি দারশনিক মতবাদ (খ) প্রাণিবিদ্যার একটি তত্ত্ব (গ) ভূবিদ্যার একটি তত্ত্ব (ঘ) পদার্থবিদ্যার একটি তত্ত্ব ৫8. 'Adult Cell' ক্লোন করে যে ভেড়ার জন্ম হয়েছে তার নাম 1d0: দেয়া হয়েছে শেলী (খ) ডলি (গ) SUC ( (গ) (ঘ) নেলী",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ডলি",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_055",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 55,
+      "question": "'মেসোপটেমিয়া' এলাকায় বেশির ভাগ বর্তমানে কোন দেশ? ইরাক (খ) ইরান (গ) তুরস্ক (ঘ) সিরিয়া Other Job's Preparation ৫ে 'Adult Cell' ক্লোন করে কোন দেশে একটি ভেড়ার জন্ম হয়েছে যুক্তরাজ্যে (খ) যুক্তরাষ্ট্রে (গ) অস্ট্রোলিয়ায় (ঘ) ফ্রান্সে ৫ৈ. টলেমি কি ছিলেন? চিকিংসক (খ) দার্শনিক (গ) জ্যোতির্বিদ সেনাপতি ৫৮৮. নোবেল পুরস্কারের প্রবর্তক আলফ্রেড নোবেল ধনী হয়েছিলেন- তেলের খনির মালিক হিসেবে (খ) উন্নত ধরনের বিস্ফোরক আবিষ্কার করে (গ) জাহাজের ব্যবসা করে (ঘ) ইস্পাত কারখানার মালিক হিসেবে",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "উন্নত ধরনের বিস্ফোরক আবিষ্কার করে",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_059",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 59,
+      "question": "স্টিফেন হকিং বিশ্বের একজন খুব বিখ্যাত দাশনিক",
+      "options": {
+        "ক": "",
+        "খ": "পদার্থবিদ",
+        "গ": "",
+        "ঘ": "কবি"
+      },
+      "correctAnswer": "খ",
+      "answerText": "পদার্থবিদ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_18_060",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 60,
+      "question": "একজন রাজনীতিবিদ সাহিত্যে নোবেল পুরস্কার পেয়েছেন- চাচিল কিসিঞ্জার (গ) দ্য গল (ঘ) রুজভেল্ট",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "চাচিল",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_18_061",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 61,
+      "question": "বিংশ শতাব্দীর শেষ অলিম্পিক গেমস কোথায় অনুষ্ঠিত হয়?",
+      "options": {
+        "ক": "বেইজিং",
+        "খ": "সিডনি",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নোট: সর্বশেষ অলিম্পিক গেমস-২০২৪ ফ্রান্সের রাজধানী",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_18_062",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 62,
+      "question": "সম্প্রতি কুয়ালালামপুরে অনুষ্ঠিত আইসিসি ট্রফিতে কয়টি দেশ অংশগ্রহণ করে? ২০ ২৩ ২১ (ঘ) ২২ অংশগ্রহণ করে এই টুর্নামেন্টটি পাকিস্তান ৩ সংযুক্ত আরব আমিরাতে অনুষ্ঠিত হয়",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নোট: আইসিসি চ্যাম্পিয়ন ট্রফি-২০২৫ এ ৮টি দেশ",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_18_063",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 63,
+      "question": "সবচেয়ে শক্ত বস্তু কোনটি? হীরা (খ) প্রানাইট পাথর (গ) পিতল",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": "ইস্পাত"
+      },
+      "correctAnswer": "",
+      "answerText": "হীরা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_18_064",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 64,
+      "question": "জাতিসংঘের কোন মহাসচিব বিমান দুর্ঘটনায় মারা ট্রিগভেলি (খ) কুট ওয়াল্ডহেইম (গ) দ্যাগ হ্যামারশোল্ড SUC0 (ঘ) উ থান্ট",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "দ্যাগ হ্যামারশোল্ড",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_065",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 65,
+      "question": "কোন দেশে 'তালেবান' নামক রাজনৈতিক দল ক্ষমতায় অধিষ্ঠিত? সুদান (ক) তিউনেশিয়া (গ) ইয়েমেন (ঘ) আফগানিস্তান g ৬৬. 'মোনালিসা' চিত্রটির চিত্রকর কে? মাইকেল এঞ্জেলা (খ) লিওনাদো দ্য ভিঞ্চি (গ) ভ্যানগগ পাবলো পিকাসো",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "লিওনাদো দ্য ভিঞ্চি",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_18_067",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 67,
+      "question": "সূর্য থেকে পৃথিবীতে আলো আসতে কতক্ষণ সময় লাগে? ৮৩২ মিনিট ১১২ মিনিট (গ) ৭৯৬ মিনিট ১০৫৬ মিনিট",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৮৩২ মিনিট",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_18_068",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 68,
+      "question": "কোনটি স্তন্যপায়ী প্রাণী নয়? হাতি কুমির (গ) তিমি (ঘ) বাদুর",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কুমির",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_18_069",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 69,
+      "question": "এই শতাব্দীর সবচেয়ে উজ্জ্বল ধূমকেতু কোনটি? (ক) হেলির ধূমকেতু হেলবপ ধূমকেতু (গ) শুমেকার-লেভী ধূমকেতু (ঘ) কোনোটিই নয়",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "হেলবপ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_18_070",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 70,
+      "question": "'গ্যালিলিও' কি? মঙ্গল গ্রহের একটি উপগ্রহ_aur k (খ) বৃহস্পতি গ্রহের একটি উপগ্রহ (গ) শনি গ্রহের একটি উপগ্রহ (ঘ) পৃথিবী থেকে পাঠানো বৃহস্পতির একটি কৃত্রিম উপগ্রহ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "পৃথিবী থেকে পাঠানো বৃহস্পতির একটি কৃত্রিম উপগ্রহ",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_071",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 71,
+      "question": "বিদ্যুৎকে সাধারণ মানুষের কাজে লাগানোর জন্য কোন বৈজ্ঞানিকের অবদান সবচেয়ে বেশি? বেঞ্জামিন ফ্রাঙ্কলিন",
+      "options": {
+        "ক": "",
+        "খ": "আইজ্যাক নিউটন",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "টমাস এডিসন",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_18_072",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 72,
+      "question": "ভূ-পৃষ্ঠের সৌরদীপ্ত ও অন্ধকারাচ্ছন্ন অংশের সংযোগ স্থলকে বলে? ছায়াবৃত্ত (ক) গুরুবৃত্ত (গ) ঊষা (ঘ) গোধূলি",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ছায়াবৃত্ত",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_18_073",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 73,
+      "question": "সমুদ্র পৃষ্ঠে বায়ুর স্বাভাবিক চাপ কত? ৭৯ সে মি (খ) ৭৬ সে মি (গ) ৭২ সে মি (ঘ) ৭9 সে মি",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৭৬ সে মি",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_18_078",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 78,
+      "question": "ভূমধ্যসাগর ও আটলান্টিক মহাসাগরের মধ্যে কোন প্রণালীর অবস্থান? হরমুজ (খ) জিব্রাল্টার (গ) বসফরাস (ঘ) দারদানেলিস ৭৫. আকাশে উজ্জ্বলতম নক্ষত্র কোনটি? ধবতারা (খ) প্রক্সিমা সেন্টারাই (গ) লুব্ধক you1 SUCT (৭) পুলহ ৭৬. জোয়ার-ভাঁটার তেজকটাল কখন হয়? অমাবস্যায় (খ) একাদশীতে (গ) অষ্টমীতে",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": "পঞ্চমীতে"
+      },
+      "correctAnswer": "",
+      "answerText": "অমাবস্যায়",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_079",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 79,
+      "question": "বাংলা বর্ণমালায় মাত্রাবিহীন বর্ণের সংখ্যা কয়টি? এগারটি নয়টি (গ) দশটি (ঘ) আটটি ৭৮ \"তার বয়স বেড়েছে কিন্তু বুদ্দধি বাড়েনি\" এটা কোন ধরনের বাক্য? যৌগিক বাক্য সাধারণ বাক্য (গ) মিশ্র বাক্য সরল বাক্য ৭৯. 'একাদশে বৃহস্পতি' এর অর্থ কি? আশার কথা",
+      "options": {
+        "ক": "",
+        "খ": "সৌভাগ্যের বিষয়",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "সৌভাগ্যের বিষয়",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_18_080",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 80,
+      "question": "লিঙ্গান্তর হয় না এমন শব্দ কোনটি?",
+      "options": {
+        "ক": "সাহেব",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কবিরাজ",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_18_081",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 81,
+      "question": "সাধু ভাষা সাধারণত কোথায় অনুপযোগী? কবিতার পংক্তিতে",
+      "options": {
+        "ক": "",
+        "খ": "গানের কলিতে",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নাটকের সংলাপে",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_18_082",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 82,
+      "question": "দুটি পুরুষবাচক শব্দ রয়েছে কোনটির? (ক) ননদ",
+      "options": {
+        "ক": "",
+        "খ": "প্রিয়া",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "পণদ",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_18_083",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 83,
+      "question": "বিভক্তিহীন নাম শব্দকে কি বলে? নামপদ (খ) উপপদ (গ) প্রাতিপদিক (ঘ) উপমিত",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "প্রাতিপদিক",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_18_084",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 84,
+      "question": "কোন বাক্যটি দ্বারা অনুরোধ বুঝায়? তুই বাড়ি যা",
+      "options": {
+        "ক": "",
+        "খ": "ক্ষমা করা ঘোর অপরাধ",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কাল একবার এসো",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_18_085",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 85,
+      "question": "ধাতুর পর কোন প্রত্যয় যুক্ত করে ভাব বাচক বিশেষ্য বুঝায়? (ক) আন (খ) আই (গ) আল (ঘ) আও টি প্রত্যয়ই ব্যবহৃত হয়",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নোট: ভাববাচক বিশেষ্য গঠনে 'আই' এবং 'আও' এই",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_18_086",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 86,
+      "question": "বচন অর্থ কি? সংখ্যার ধারণ",
+      "options": {
+        "ক": "",
+        "খ": "গণনার ধারণা",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সংখ্যার ধারণা",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_18_087",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 87,
+      "question": "\"মরি মরি! কি সুন্দর প্রভাতের রূপ\" বাক্যে \"মরি মরি\" কোন শ্রেণীর অব্যয়? সমচ্চয়ী = (খ) অনন্বয়ী (গ) পদান্বয়ী (ঘ) অনুকার",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "অনন্বয়ী",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_18_088",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 88,
+      "question": "'দোলনা' শব্দের সঠিক প্রকৃতি- প্রত্যয় কোনটি? ^ দুল + অনা (খ) দোল | না (গ) দোল অনা দোলনা | তা",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "^ দুল | অনা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_18_089",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 89,
+      "question": ": কৌকৌশলে কার্যোদ্ধার' কোনটির অর্থ? গাছে তুলে মই কাড়া এক ক্ষুরে মাথা মোড়ানো (গ) ধরি মাছ না ছুঁই পানি আকাশের চাঁদ হাতে পাওয়া",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ধরি মাছ না ছুঁই পানি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_18_090",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 90,
+      "question": "'সন্ধি' ব্যাকরণের কোন অংশের আলোচ্য বিষয়? রূপতত্ত্ব (খ) ধ্বনিতত্ত্ব (গ) পদক্রম (ঘ) বাক্য প্রকরণ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ধ্বনিতত্ত্ব",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_18_091",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 91,
+      "question": "কোনটি অপ্রাণীবাচক শব্দের বহুবচনে ব্যবহৃত হয়? বন্দ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "দাম",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_18_092",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 92,
+      "question": "বাক্যের ক্ষুদ্রতম একক কোনটি? (ক) শব্দ (খ) বর্ণ (গ) ধ্বনি (ঘ)",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ধ্বনি",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_18_093",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 93,
+      "question": "স্ধির প্রধান সুবিধা কি? পড়ার সুবিধা",
+      "options": {
+        "ক": "",
+        "খ": "লেখার সুবিধা",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "উচ্চারণের সুবিধা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_18_094",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 94,
+      "question": "কোন বানানটি শুদ্ধ? সমীচীন (খ) সমিচীন (গ) সমীচিন (ঘ) সমিচিন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সমীচীন",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_18_095",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 95,
+      "question": "কোন বইটি কবি রবীন্দ্রনাথ ঠাকুর রচিত নয়? শেষের কবিতা (খ) দোলন-চাঁপা (গ) সোনার তরী (ঘ) মানসী",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "দোলন-চাঁপা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_18_096",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 96,
+      "question": "কাজী ইমদাদুল হক-এর 'আবদুল্লাহ' উপন্যাসের উপজীব্য কি? চাষী জীবনের করুণ চিত্র (খ) কৃষক সমাজের সংগ্রামশীল জীবন (গ) তৎকালীন মুসলিম মধ্যবিত্ত সমাজের চিত্র (ঘ) মুসলিম জমিদার শ্রেণীর জীবন কাহিনী ৫0 you1 SuCC Other Job's Preparation",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "তৎকালীন মুসলিম মধ্যবিত্ত সমাজের চিত্র",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_097",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 97,
+      "question": "১৯৫২ সালের ২১ ফেব্রুয়ারির পটভূমিতে রচিত 'কবর' নাটকের রচয়িতা কে? কবির চৌধুরী (খ) মুনীর চৌধুরী (গ) সৈয়দ শামসুল হক (ঘ) মুনতাসীর মামুন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মুনীর চৌধুরী",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_18_098",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 98,
+      "question": "'সততা সর্বোৎকৃষ্ট পন্থা' কোনটির অনুবাদ? Honesty is the best virtue Honesty is the better way Honesty is a ৪০01 way Honesty is the best policy",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Honesty is the best policy",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_18_099",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 99,
+      "question": "'বাঙ্গালীর ইতিহাস' বইটির লেখক কে? নীহাররঞ্জন রায় (খ) আর সি মজুমদার (গ) অধ্যাপক আব্দুল করিম (ঘ) অধ্যাপক সুনীতিকুমার সেন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নীহাররঞ্জন রায়",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_18_100",
+      "exam": "18th BCS Preliminary",
+      "examCode": "bcs_18",
+      "questionNo": 100,
+      "question": "'শাহনামা' -এর লেখক কে? কবি ফেরদৌসী",
+      "options": {
+        "ক": "",
+        "খ": "মওলানা রুমী",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কবি ফেরদৌসী",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "18th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    }
+  ]
+}

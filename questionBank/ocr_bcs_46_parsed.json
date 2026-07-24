@@ -1,0 +1,337 @@
+{
+  "examName": "46th BCS Preliminary",
+  "examCode": "bcs_46",
+  "totalQuestions": 13,
+  "validation": {
+    "totalDetected": 13,
+    "highestQuestionNo": 21,
+    "missing": [
+      3,
+      4,
+      5,
+      14,
+      15,
+      16,
+      17,
+      20
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 13,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_46_001",
+      "exam": "46th BCS Preliminary",
+      "examCode": "bcs_46",
+      "questionNo": 1,
+      "question": "Which of the following words can be used as a verb? a. nnobile 0. sugar Note: Both ৮ & ` ০ In which sentence 'like' is used as a ] He likes to eat fish He clainel -he tree like a cat 09, adjective b. adverb 08. Writing a diar] is a very g০0d 1s a/an-",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "preposition",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "46th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_46_002",
+      "exam": "46th BCS Preliminary",
+      "examCode": "bcs_46",
+      "questionNo": 2,
+      "question": "1101111 phrase ৮. verbal phrase ১৫. Fill in1 the blank with the correct word Injured ৮. Injuring",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Injured",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "46th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_46_006",
+      "exam": "46th BCS Preliminary",
+      "examCode": "bcs_46",
+      "questionNo": 6,
+      "question": "Find out the meaning of the following phrase: By and very large on the whole ঔর: o11 the wlole",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "46th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_46_007",
+      "exam": "46th BCS Preliminary",
+      "examCode": "bcs_46",
+      "questionNo": 7,
+      "question": "for me withdrew . forgot",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "withdrew",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "46th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_46_008",
+      "exam": "46th BCS Preliminary",
+      "examCode": "bcs_46",
+      "questionNo": 8,
+      "question": "'Let the cat out of the bag' means- bring out a cat from C reveal a secret carelessly",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "reveal a secret carelessly",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "46th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_46_009",
+      "exam": "46th BCS Preliminary",
+      "examCode": "bcs_46",
+      "questionNo": 9,
+      "question": "He is a man to depend on The underlined part 1s- noun phrase adverbial phrase 1. san] preposition? L He laughs like his father does d Like minded people are necessary to start a business 1101111 preposition practice to develop the writing skil. The underlined part C. adjective phrase d. adverbial phrase he 'ay on the ground groaning C, Having injured d Be injured large far away the largest one your success benchinark c. reinforcel d. support L let a cat nove at large d. take a pre-cautious steps an adjective phrase 1. a prepositional phrase positive form of the sentence: 'Who else is the better player than",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "an adjective phrase",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "46th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_46_010",
+      "exam": "46th BCS Preliminary",
+      "examCode": "bcs_46",
+      "questionNo": 10,
+      "question": "His dream that he will be a B.CS cadre a 1101111 clause a11 independent clause",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "a nou11 Clause",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "46th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_46_011",
+      "exam": "46th BCS Preliminary",
+      "examCode": "bcs_46",
+      "questionNo": 11,
+      "question": "Which of the following is a correct simple sentence? 2. All that glitters is not C Do o1 lie",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "I saw an old man walking past me",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "46th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_46_012",
+      "exam": "46th BCS Preliminary",
+      "examCode": "bcs_46",
+      "questionNo": 12,
+      "question": "Which is the correct complex form of the sentence? 'A corrupt man cannot win the respect of others who is corrupt cannot respect others 0. man does not respect others who are corrupt man who is corrupt cannot win the respect of others. 1. | man who can win the respect of others cannot be corrupt",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "A man who is corrupt cannot win the respect of others",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "46th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_46_013",
+      "exam": "46th BCS Preliminary",
+      "examCode": "bcs_46",
+      "questionNo": 13,
+      "question": "Find out the correct Zaman in the team'? Is there any other player in this team who is as Who is the best player than Zaman in this team? Is there any other players in this team who is as 1. Are there any other player in this team who are as Fill in the blank with the correct word: dipped to avoid S_ by the enemy",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Is there any other player in this team who is as",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "46th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_46_018",
+      "exam": "46th BCS Preliminary",
+      "examCode": "bcs_46",
+      "questionNo": 18,
+      "question": "The submarine the seeing ১৫. In fear of ne escaped elsewhere arresting b. arrestel ১৬ I didn't follow who passed by me It Were 9. ১৭ Samin is my colleague. [ him for ten g a. Inow finally came true The underlined part 1s- an adjective clause 1. a co-orlinate clause All's well that enils well 1. I saw an ol1 man walking past me as Zannan? {901 as Zannan? as Zannan? ৪০01 as Zannan? plane. Lchnark being see11 1. see1 being arrested d having arrested Shajib. might be as have known 1. have been known He has told me that I would go but you woull stay there in Dhaka. He has told me that ne would go but I would stay here in Dhaka ১৮ The snow swirls the valley. 1] 111",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "down",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "46th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_46_019",
+      "exam": "46th BCS Preliminary",
+      "examCode": "bcs_46",
+      "questionNo": 19,
+      "question": "There is a coffee the street 2. 0. 011 সব চাকরির এম আই প্রধান মুকুল স্যারেব English প্রস্তুতি এক বইয়ে ! ? GRAMIHAR LITERATURE ADMISSION 096 444 333 03 চটলটন ভিগ্গিটচমন Identify the correct sentence: (20-23) ১০ He has sai1l t me that I will go but you will 1 He has toll me that he will go but will 1.",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "He has told me that he will go but I will",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "46th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_46_021",
+      "exam": "46th BCS Preliminary",
+      "examCode": "bcs_46",
+      "questionNo": 21,
+      "question": "The roonn was darkened by switching off all the lights The roonn was darkened switching The roon was darkened to switch off all the lights 1. Switching off all the lights the room g 1. through before L. across tramlmar &Literature এখন একসাথেই c dabari +here in Dhaka sta]] here 111 sra] here in Dhaka. all the lights. was larkenel Had you been there on time; you could have had the information 5. If you had been there on time; you could have the information If you had been there on time; you might get the information ১১ 1. Had been you there, you couldl have ৪ot ১৩. There are trees on the both siles of the road 1 There are trees on both the sides of the road There are trees, on both side of the road 1. There are trees on either sides of the road ১৪. The antonym of 'boisterous' 1$ Io1s]] ১৫ 'Plagiarism' means a +he act of sonneone's else's ilea as one's bthe act of planning everything beforehand: C the act of playing a muasical inistrumnent. d the art of dealing with forgery ১৬ The two cities in1 A Tale of Two Cities are- a. London and Manchester [1 c. Paris anl New Lork ১৭ The line 'Frailty, thou name is woman' a. Hanlet Macbeth ২৮ Who of the following complied an English Dictionary? a. Samuel Johnson b TS. Eliot ২৯ Which is not a poetry form? gঁ so111e+ b. Ballad Other Job's Preparation the information unruly 1cheerful 0[11. ark SUCCeSs London and Paris 1. Paris anl ডeneva occurs 1n Shakespeare's play- Othello 1. Ling Lear John Dryden d Wiliam Congreve 1. Epic Which event influenced the literature of the Romantic period? Which period is Inown as 'The Golden Age of English Literature\"? ৩০ I am a man more sinned a. Horatio Hanlet ৩১ French Revolution C. Russian Revolution ৩১ The author of A Farewell to Arms 1s So1nerset Maugham DII. Lawrence ৩৩, Who is the most famous satirist in English literature? Alexander Pope b Jonathan Swift Lear Englisট TRICKS T0 ছ = ছুঁ MAYEDULISLAM PRODHAN 096 444 333 03 ডিজট বমন boibaritcom ৩8. a. The Victorian Age The Eighteen century ৩৫ Which novel is written by an Indian novelist? a. The Ministry of Utmost Happiness Thinigs Fall Apart Other Job's Preparation against than sinning'. This 1s uttered by- King Lear 1. Macbetl Inlustrial Rerolution 1 Hundred Tears [Nar' ৩. Ernest Hemingway d. Jane Austen John Dryden 1. Willian Worlsworth সল্স গল্স চখ Gাআন্সময়! 1] The Elizabethan Age 1. The Restoration Perio The Return of the Native 1. Heart of Darkness ১০০ হতে বড় দুইটি পূর্ণসংখ্যার যোগফল ৩০০ হলে) সংখ্যা দুইটির অনুপাত কত? ১ হতে বড় ১০০০ এর মধ্যে কতগুলো সংখ্যা আছে যারা ১৬ দ্বারা বিভাজ্য নয় কিন্তু ৩০ দবারা বিভাজ্য? তলের ব্যাসার্ধ ২ সেমি এবং উচ্চতা ৬ সে মি হলে, উহার তলগুলির মোট ক্ষেত্রফল কোনো একটি ত্রিভুজের দুইটি কোণের পরিমাণ ২৮০ ও ৬২৭ ! ত্রিভুজটি কোন ধরনের? ৩৬ নিচের কোন ভগ্নাংশটি হতে বড়? খ` ৫ ১১ ৩৭. বার্ষিক ৫% হার মুনাফায় ৪০০ টাকার ২ বছরের চক্রবৃদ্দধি মূলধন কত?",
+      "options": {
+        "ক": "88০ টাকা খ 88. টাকা",
+        "খ": "Kidney Nephrologist",
+        "গ": "88৫ টাকা দা ৪৫০ টাকা",
+        "ঘ": "৩:৫"
+      },
+      "correctAnswer": "",
+      "answerText": "Megabits per second",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "46th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    }
+  ]
+}

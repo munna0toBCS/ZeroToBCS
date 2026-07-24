@@ -1,0 +1,3483 @@
+{
+  "examName": "35th BCS Preliminary",
+  "examCode": "bcs_35",
+  "totalQuestions": 142,
+  "validation": {
+    "totalDetected": 142,
+    "highestQuestionNo": 200,
+    "missing": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      9,
+      14,
+      15,
+      16,
+      17,
+      22,
+      25,
+      27,
+      32,
+      34,
+      35,
+      36,
+      37,
+      43,
+      44,
+      47,
+      54,
+      55,
+      56,
+      57,
+      64,
+      65,
+      66,
+      67,
+      72,
+      74,
+      77,
+      84,
+      85,
+      86,
+      87,
+      102,
+      106,
+      107,
+      116,
+      126,
+      130,
+      153,
+      154,
+      155,
+      156,
+      165,
+      167,
+      174,
+      175,
+      176,
+      177,
+      183,
+      184,
+      186,
+      187,
+      188,
+      189
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 140,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_35_001",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 1,
+      "question": "",
+      "options": {
+        "ক": "প্রথমটি অশুদ্ধ, দ্বিতীয়টি দ",
+        "খ": "",
+        "গ": "দুটোই অশুদ্ধ",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মনীষী",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_003",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 3,
+      "question": "কোন বাক্যাটি শুদ্ধ?",
+      "options": {
+        "ক": "দৈন্য সর্বদা মহত্বের পরিচায়ক নয়",
+        "খ": "",
+        "গ": "দৈন্য সর্বদা মহত্ত্বের পরিচায়ক নয়",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "দৈন্য সর্বদা মহত্তবের পরিচায়ক নয়",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_35_008",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 8,
+      "question": "Consumer goods' এর উপযুক্ত বাংলা পরিভাষা কী?",
+      "options": {
+        "ক": "ভোক্তার কল্যাণ খ . ভোগ্যপণ্য",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "লিঙ্গ পরিবর্তন দ্বারা",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_010",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 10,
+      "question": "'লবণ' শব্দের বিশেষ্য কোনটি?",
+      "options": {
+        "ক": "গৌণতা খ লবণাক্ত",
+        "খ": "প্রথমটি শুদ্ধ, দ্বিতীয়টি অশুদ্ধ",
+        "গ": "মনীষি চ মনিষী",
+        "ঘ": "দুটোই শুদধ"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_35_011",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 11,
+      "question": "টি চ ১৩টি",
+      "options": {
+        "ক": "যমগ্যতা খ আকাঙ্কষা",
+        "খ": "",
+        "গ": "উপসর্গ যোগে ঘ ক, খ ও গ তিন উপায়েই হয়",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "আসক্ক্তি",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_35_012",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 12,
+      "question": "নিচের কোন শব্দটি প্রত্যয়সাধিত?",
+      "options": {
+        "ক": "পলয় খ খণ্ডত",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "খণ্ডিত",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_35_013",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 13,
+      "question": "'দ্বৈপায়ন' শব্দের শুদ্ধ সন্নিবিচ্ছেদ কোনটি?",
+      "options": {
+        "ক": "দপ | আয়ন খ দীপ | অয়ণ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "দীপ | আয়ন",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_35_018",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 18,
+      "question": "'জজসাহেব' কোন সমাসের উদাহরণ?",
+      "options": {
+        "ক": "খ . করমধারয়",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ঠোঁটের পরশে পান লাল হল",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_35_019",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 19,
+      "question": "'হপ্তপয়কর' কার রচনা?",
+      "options": {
+        "ক": "সৈয়দ আলাওল খ জৈনুদ্দিন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সৈয়দ আলাওল",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_020",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 20,
+      "question": "মঙ্গলকাব্যের কবি নন কে?",
+      "options": {
+        "ক": "কানাহরি দত্ত খ মানিক দত্ত",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "দাশু রায়",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_35_021",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 21,
+      "question": "সমাচার দর্পণ' পত্রিকার সম্পাদক ছিলেন-",
+      "options": {
+        "ক": "জন ক্লাক মার্শম্যান",
+        "খ": "",
+        "গ": "আসক্তি ঘা আসত্তি",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "আত্মচরিত",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_023",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 23,
+      "question": "রবীন্দ্রনাথ ঠাকুরের পূর্বপুরুষের আদিবসতি কোথায়",
+      "options": {
+        "ক": "খুলনার দক্ষিণ ডিহি",
+        "খ": "",
+        "গ": "যশোরের কেশবপুর",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "খুলনার দক্ষিণ ডিহি",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_35_024",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 24,
+      "question": "'তেল-নুন-লকড়ি' কার রচিত গ্রন্থ?",
+      "options": {
+        "ক": "প্রবোধচন্দ্র সেন খ প্রমথনাথ বিশি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কৃষ্ণকুমারী",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_026",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 26,
+      "question": "'কপালকুণ্ডলা' কোন প্রকৃতির রচনা?",
+      "options": {
+        "ক": "রোমান্সমূলক উপন্যাস",
+        "খ": "",
+        "গ": "বিয়োগান্তক নাটক",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "'অগ্নিগ্রাসী বিশ্বত্রাসি জাগুক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_028",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 28,
+      "question": "দ্রৌপদী কে?",
+      "options": {
+        "ক": "রামায়ণে সীতার সহচরী",
+        "খ": "",
+        "গ": "মহাভারতে",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "মহাভারতে পাঁচ ভাইয়ের একক স্ত্রী",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_029",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 29,
+      "question": "মিলির হাতে স্টেনগান' গল্পটি কার লেখা?",
+      "options": {
+        "ক": "আখতারুজ্জামান ইলিয়াস",
+        "খ": "",
+        "গ": "শহীদুল জহর",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "আখতারুজ্জামান ইলিয়াস",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_030",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 30,
+      "question": "অসমাপ্ত আত্মজীবনী' কার রচিত গ্রন্থ?",
+      "options": {
+        "ক": "বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+        "খ": "",
+        "গ": "মাওলানা আবদুল হামিদ খান ভাসানী",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_031",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 31,
+      "question": "\"প্রাণের বান্ধব রে বুড়ি হইলাম তোের কারণে \"- গানটির গীতিকার কে? g ক শাহ আবদুল করিম খ রাধারমন",
+      "options": {
+        "ক": "আলমগীর কবির খ হুমায়ুন আহমেদ",
+        "খ": "ঐতিহাসিক উপন্যাস",
+        "গ": "আত্মকথা ঘ আমর কথ",
+        "ঘ": "কুষ্টিয়ার শিলাইদহ"
+      },
+      "correctAnswer": "",
+      "answerText": "তারেক মাসুদ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_033",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 33,
+      "question": "'হুলিয়া' কবিতা কার রচনা?",
+      "options": {
+        "ক": "আবুল হাসান খ মহাদেব সাহা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নির্মলেন্দু গুণ",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_35_038",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 38,
+      "question": "নিচের কোন সাহিত্যিক আততাঁয়ীর হাতে ঢাকায় মৃত্যুবরণ করেন?",
+      "options": {
+        "ক": "আবুল হাসান খ. সমন চন্দ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "enterprise",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_039",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 39,
+      "question": "Which of the following words can be used as a verb? gঁ Mister খ . Master",
+      "options": {
+        "ক": "Master",
+        "খ": "সুনীল গঙ্গোপাধ্যায়ের 'পূর্ব-পশ্চিম'",
+        "গ": "তারেক মাসুদ ঘ শেখ নিয়ামত আলী",
+        "ঘ": "অভিজিং সেনের 'রহু চণ্ডালের হাড়'"
+      },
+      "correctAnswer": "ক",
+      "answerText": "Master",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_040",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 40,
+      "question": "Who among the following writers is not a Nobel Laureate? TS. Eliot Toni Morriso1",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Granane Greene",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_041",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 41,
+      "question": "These nust be shut 1oors",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "Shut must be the 1loors",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "These loors must be shut",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_042",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 42,
+      "question": "The film was directed in the director's usual confusion Idiosyncratic 89 The 'climax' of a plot is what happens-",
+      "options": {
+        "ক": "in the beginning খ at the end",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "much",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_045",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 45,
+      "question": "The play Arms and the Man is by",
+      "options": {
+        "ক": "James Joyce খ Samnuel Beckett",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "George Bernard Shaw",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_046",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 46,
+      "question": "He was a rather disagreeable man'",
+      "options": {
+        "ক": "Noun Adjective",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ha]",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_048",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 48,
+      "question": "choose the pair",
+      "options": {
+        "ক": "Sweet: Sou1 ছ Injure: Incapacitate",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "Injure: Incapacitate",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_049",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 49,
+      "question": "\"Othello\" is a Shakespeare's play about-",
+      "options": {
+        "ক": "A Jew Ronnani",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Mo1",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_050",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 50,
+      "question": "In the 18th Century the Mughal Empire begun to- liscrinninate খ` Disintegrate Other Job's Preparation",
+      "options": {
+        "ক": "",
+        "খ": "Shut the doors you must",
+        "গ": "Grahame Greeneঘ Wiliam Faulkner",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "disintegrate",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_051",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 51,
+      "question": "Being fat does not necessarily kill you, but it diseases increases খ Emphasizes",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "in1c1eases",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_052",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 52,
+      "question": "The poem, \"Isle of Innisfree\" is written by-",
+      "options": {
+        "ক": "Dylan Thomas খ. Ezra Pounl",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "[/.B. Teats",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_053",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 53,
+      "question": "Riders to the sea 1s-",
+      "options": {
+        "ক": "an epic poem",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "a o1e-act play",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_058",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 58,
+      "question": "৫It 1s timne to review the protocol 011 word means-",
+      "options": {
+        "ক": "Record of rules খ Summary of rules",
+        "খ": "",
+        "গ": "John Dryden",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Christopher Marlowe",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_059",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 59,
+      "question": "Women are too often by family commitments confuse1 খ Controlle]",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "constrained",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_060",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 60,
+      "question": "\"To be, o1 not ৩e, that is the question' gঁ Othello খ Roneo anl Juliet the risk that you will suffer from nasty",
+      "options": {
+        "ক": "",
+        "খ": "Alexander Pope",
+        "গ": "encourages ঘ involves",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Hanlet",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_061",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 61,
+      "question": "Class relations and societal conflict is the Feninisin খ . Fornnalisini",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "MarIisin",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_062",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 62,
+      "question": "Societies living offshore areas marginal areas",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "marginal areas",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_063",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 63,
+      "question": "",
+      "options": {
+        "ক": "lives ছ timely action",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "timely action",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_068",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 68,
+      "question": "Which is the correct sentence?",
+      "options": {
+        "ক": "He insisted on seeing her",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Adjective",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_069",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 69,
+      "question": "Find +he odd-man-out-",
+      "options": {
+        "ক": "George Eliot Thomas Hardy",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "George Eliot",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_070",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 70,
+      "question": "Find the odd-man-out- The Bluest Eje খ. Sula key understanding of-",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "Structuralism ঘ Marzisin",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "As I Lay Dying",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_071",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 71,
+      "question": "'সোয়াচ অব নো গরাউন্ড' কোথায় অবস্থিত?",
+      "options": {
+        "ক": "যমুনা নদীতে খ . মেঘনার মোহনায়",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "আশির দশক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_073",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 73,
+      "question": "",
+      "options": {
+        "ক": "১১০ ১১৫",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১১৭",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_075",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 75,
+      "question": "অলিভ টারটল' বাংলাদেশের কোন দীপে",
+      "options": {
+        "ক": "সেন্টমাটিন খ রাঙ্গাবালি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "সেন্টমাটিন",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_35_076",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 76,
+      "question": "চীনা পরিব্রাজক হিউয়েন সাঙ এর দীক্ষাগুরু কে ছিলেন?",
+      "options": {
+        "ক": "অতীশ দীপঙ্কর ছ শীলভদ্র",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বান্দরবান",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_078",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 78,
+      "question": "বাংলাদেশে ইউনিয়ন পরিষদের সংখ্যা কত?",
+      "options": {
+        "ক": "৪৫09 খ ৪৫৫০",
+        "খ": "",
+        "গ": "বঙ্গোপসাগরে ঘ সন্দীপ চ্যানেল",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_35_079",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 79,
+      "question": "মহাস্থবীর শীলভদ্র কোন মহাবিহারের আচার্য ছিলেন?",
+      "options": {
+        "ক": "আণন্দ বিহার খ নালব্দা বিহার",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নালন্দা বিহার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_080",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 80,
+      "question": "খাসিয়া গ্রামগুলো কি নামে পরিচিত?",
+      "options": {
+        "ক": "বারাং খ পাড়া",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "পুঞ্জি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_081",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 81,
+      "question": "লর্ড ক্যানিং ভারত উপমহাদেশে প্রথম কোন ব্যবস্থা চালু করেন?",
+      "options": {
+        "ক": "চিরস্থায়ী বন্দোবস্ত ব্যবস্থা",
+        "খ": "",
+        "গ": "সতীদাহ নিবারণ ব্যবস্থা",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "পুলিশ ব্যবস্থা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_082",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 82,
+      "question": "১৯ মে, ২০১২ তারিখে কোন বাংলাদেশী এভারেস্ট জয় করেন?",
+      "options": {
+        "ক": "ওয়াসফিয়া নাজনীন খ মুসা ইব্রাহিম",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নিশাত মজুমদার",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_35_083",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 83,
+      "question": "",
+      "options": {
+        "ক": "আব্দুল মতিন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ধীরেন্দ্রনাথ দত্ত",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_088",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 88,
+      "question": "বিখ্যাত চিত্রকর্ম গতিন কন্যা' এর চিত্রকর কে?",
+      "options": {
+        "ক": "জয়নুল আবেদীন খ কামরুল হাসান",
+        "খ": "দ্বৈত শাসন ব্যবস্থা",
+        "গ": "গোসিপো বিহার ঘ সোমপুর বিহার",
+        "ঘ": "হোসেন শহীদ সোহরাওয়ার্দী"
+      },
+      "correctAnswer": "",
+      "answerText": "বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_089",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 89,
+      "question": "'বর্ণালী' এবং 'শুভ্র' কী?",
+      "options": {
+        "ক": "উন্নত জাতের ভুট্টা ছ উন্নত জাতের আম",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "উন্নত জাতের ভুট্টা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_090",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 90,
+      "question": "",
+      "options": {
+        "ক": "৯১ বর্গ কিমি খ ৯ বগ কিমি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৯ বর্গ কিমি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_091",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 91,
+      "question": "'Making of a Nation Bangladesh' গ্রন্থের রচয়িতা কে?",
+      "options": {
+        "ক": "কামাল হেসেন খ এম এ. করিম",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নুরুল ইসলাম",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_092",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 92,
+      "question": "জীবনঢুলী কি?",
+      "options": {
+        "ক": "একটি উপন্যাসের নাম",
+        "খ": "",
+        "গ": "একটি আত্মজীবনীর নাম",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "একটি চলচ্চিত্রের নাম",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_093",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 93,
+      "question": "",
+      "options": {
+        "ক": "সোহাগ গাজী খ রুবেল হোসেন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "তাসকিন আহমেদ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_094",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 94,
+      "question": "পরিকল্পনা কমিশনের গৃহীত পদক্ষেপ অনুযায়ী",
+      "options": {
+        "ক": "২০১৫ ২০১৯ খ ২০১৬২০২০",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "২০১৬-২০২০",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_095",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 95,
+      "question": "",
+      "options": {
+        "ক": "কুষ্টিয়া গ্রেড ছ` চুয়াডাঙ্গা গ্রেড 0",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কুষ্টিয়া গড",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_096",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 96,
+      "question": "",
+      "options": {
+        "ক": "টাইম",
+        "খ": "",
+        "গ": "ইকোনমিস্ট",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নিউজ উইকস",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_097",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 97,
+      "question": "বাংলাদেশের কোন অঞ্চলকে ৩৬০ আউলিয়ার দেশ বলা হয়?",
+      "options": {
+        "ক": "রাজশাহী খ ঢাক",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সিলেট",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_35_098",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 98,
+      "question": "",
+      "options": {
+        "ক": "ইউরিয়া এবং এএসপি",
+        "খ": "",
+        "গ": "টিএসপি এবং এএসপি",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ইউরিয়া এবং এএসপি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_099",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 99,
+      "question": "ম্যানগ্রোভ কি? : ক কেওড় বন খ শালবন",
+      "options": {
+        "ক": "উপকূলীয় বন",
+        "খ": "একটি কাব্যগ্রন্থের নাম",
+        "গ": "উন্নত জাতের গম ঘ উন্নত জাতের চাল",
+        "ঘ": "ইকোনোমিক এন্ড পলিটিক্যাল উইকলি"
+      },
+      "correctAnswer": "ক",
+      "answerText": "উপকূলীয় বন",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_100",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 100,
+      "question": "'দ্য ব্লাড টেলিগ্রাম' গ্রন্থটির লেখক কে?",
+      "options": {
+        "ক": "রিচরড সেশন খ মাকাস ফান্ড",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "গ্যারি জে ব্যাস",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_101",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 101,
+      "question": "নেপালের সর্বশেষ রাজা ছিলেন -",
+      "options": {
+        "ক": "রাজা ধীরেন্দ্র খ রাজা জ্ঞানেন্দ্র",
+        "খ": "",
+        "গ": "ইহুদীদের জন্য একটি জাতি রাষ্ট্র গঠন",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "ইহুদীদের জন্য একটি জাতি রাষ্ট্র গঠন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_103",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 103,
+      "question": "প্রশান্ত মহাসাগরে যুক্তরাষ্টের সপ্তম নৌবহরে সদর দপ্তর হচ্ছে-",
+      "options": {
+        "ক": "ইউকোসুক খ হাওয়াই",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ইউকোসুক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_104",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 104,
+      "question": "'ডমিনো' তত্ত্বটি কোন অঞ্চলের জন্য প্রযোজ্য ছিল?",
+      "options": {
+        "ক": "নিকট প্রাচ্য খ পূর্ব আফ্রিকা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "দক্ষিণ-পূর্ব-এশিয়া",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_105",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 105,
+      "question": "",
+      "options": {
+        "ক": "টন খ সাবেক সোভিয়েত ইউনিয়ন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "জাপান",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_108",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 108,
+      "question": "Global Terrorism Index- ২০১৪ অনুযায়ী",
+      "options": {
+        "ক": "সিরিয়া সুদান",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ইরাক",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_109",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 109,
+      "question": "",
+      "options": {
+        "ক": "ফিজি খ পাপুয়া নিউগিনি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মালদ্ীপ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_110",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 110,
+      "question": "কমিন্টান খ কমিনফর্ম",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "গ্যারি জে ব্যাস ঘ পল ওয়ালেচ",
+        "ঘ": "জার্মানির বিরুদ্ধে মিত্র শক্তির নতুন কৌশল অবলম্বন"
+      },
+      "correctAnswer": "",
+      "answerText": "কমেকন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_111",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 111,
+      "question": "ব্রিকসের সর্বশেষ শীর্ষ বৈঠক অনুষ্ঠিত হয়",
+      "options": {
+        "ক": "রাশিয়া খ . বাজিল",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "দক্ষিণ আফ্রিকা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_112",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 112,
+      "question": "'উইঘুর' হলো -",
+      "options": {
+        "ক": "টানের একটি খাবারের নাম",
+        "খ": "",
+        "গ": "চীনের একটি ধমীয় স্থানের নাম",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "চীনের একটি সম্প্রদায়ের নাম",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_113",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 113,
+      "question": "Shelf সীমা হবে ভিত্তি রেখা হতে",
+      "options": {
+        "ক": "২০০ নটিক্যাল মাইল",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "৩৫০ নটিক্যাল মাইল",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_114",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 114,
+      "question": "\"মংডু\" কোন দু'টি দেশের সীমান্ত এলাকা?",
+      "options": {
+        "ক": "বাংলাদেশ মায়াণমার",
+        "খ": "",
+        "গ": "বাংলাদেশ ভারত",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "বাংলাদেশ মায়ানমার",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_35_115",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 115,
+      "question": "কাটার্গেনা পরটোকল হচ্ছে",
+      "options": {
+        "ক": "জাতিসংঘের যুদ্ধ মোকাবেলা সংক্রান্ত চুক্তি",
+        "খ": "",
+        "গ": "জাতিসংঘের নারী অধিকার বিষয়ক প্রটোকল",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_117",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 117,
+      "question": "The Art of War' গ্রন্থের রচয়িতা -",
+      "options": {
+        "ক": "ক্লজউইজ খ আলফ্রেড মাহান",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সুন জু",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_118",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 118,
+      "question": "বর্তমান বিশ্বে 'নিউ সিল্ক রোড' এর প্রবক্তা",
+      "options": {
+        "ক": "জাপান > ভরত",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "চীন",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_35_119",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 119,
+      "question": "বিশ্ব প্রাণী দিবস হচ্ছে",
+      "options": {
+        "ক": "৪ অক্টোবর খ ২৩ অক্টোবর",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "৪ অক্টোবর",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_120",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 120,
+      "question": "'WIPO' এর সদর দপ্তর-",
+      "options": {
+        "ক": "বসেলস খ . লন্ডন",
+        "খ": "৩০০ নটিক্যাল মাইল",
+        "গ": "ভারত ঘ দক্ষিণ আফ্রিকা",
+        "ঘ": "জাতিসংঘের জৈব নিরাপত্তা বিষয়ক চুক্তি"
+      },
+      "correctAnswer": "",
+      "answerText": "জেনেভা",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_121",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 121,
+      "question": "বাংলাদেশে কালবৈশাখীর ঝড় কখন হয়?",
+      "options": {
+        "ক": "মৌসুমী বায়ু ঋতুতে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "প্রাক-মৌসুমী বায়ু ঋতুতে",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_35_122",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 122,
+      "question": "পূর্ব সতর্কতা ছাড়াই কোন দুযোগ সংঘটিত হয়? বণ্য ছ খর",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ভূমিকম্প",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_123",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 123,
+      "question": "ভারতের কোন রাজ্যের সাথে বাংলাদেশের কোনো সীমান্ত নাই?",
+      "options": {
+        "ক": "আসাম খ মিজোরাম",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নাগাল্যান্ড",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_35_124",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 124,
+      "question": "'জুম' চাষ পদ্ধতি বাংলাদেশের কোন জেলাসমূহে দেখা যায়?",
+      "options": {
+        "ক": "সাতক্ষীরা, যশোর, কুষ্টিয়া",
+        "খ": "",
+        "গ": "বগুড়া, গাইবান্ধা, কুড়িগ্রাম",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "চট্টগ্রাম ও পার্বত্য চট্টগ্রামের জেলাসমূহ",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_35_125",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 125,
+      "question": "বায়ুমন্ডলে নাইট্রোজেনের পরিমাণ কত শতাংশ?",
+      "options": {
+        "ক": "৭৫.৮% খ ৭৮.0১%",
+        "খ": "",
+        "গ": "ভি_আকৃতির উপত্যকা",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "ইউ-আকৃতির উপত্যকা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_127",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 127,
+      "question": "বাংলাদেশের কৃষি কোন প্রকার? d&",
+      "options": {
+        "ক": "ধান -প্রধান নিবিড় স্বয়ংভোগী",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ধান-প্রধান নিবিড় স্বয়ংভোগী 1",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_35_128",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 128,
+      "question": "নিচের কোনটি আপদ ('Hazard) এর প্রত্যক্ষ প্রভাব পরিবেশগত?",
+      "options": {
+        "ক": "অর্থনৈতিক খ সামাজিক",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "পরিবেশগত",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_129",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 129,
+      "question": "দুর্যোগ ব্যবস্থাপনার বিভিন্ন কাজকে পর্যায়ক্রম অনুযায়ী",
+      "options": {
+        "ক": "পুনর্বাসন খ ঝুঁকি (Risk) চিহ্নিতকরণ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কমিউনিটি পর্যায়ে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_131",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 131,
+      "question": "ডি এন এ অণুর দ্বি:-হেলিক্স কাঠামোর জনক কে?",
+      "options": {
+        "ক": "স্যাংগার ও পলিং খ লুই পাস্তুর ও ওয়াটসন",
+        "খ": "নাটোর, পাবনা, সিরাজগঞ্জ",
+        "গ": "ভূমিকম্প দা ঘূর্ণিঝড়়",
+        "ঘ": "চট্টগাম ও পার্বত্য চট্টগ্রামের জেলাসমূহ"
+      },
+      "correctAnswer": "",
+      "answerText": "ওয়াটসন ও ক্রিক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_132",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 132,
+      "question": "হিমোগ্লোবিন কোন জাতীয় পদার্থ?",
+      "options": {
+        "ক": "আমিষ খ আয়োডিন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "আমিষ",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_35_133",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 133,
+      "question": "PH হলো",
+      "options": {
+        "ক": "এসিড নির্দেশক",
+        "খ": "",
+        "গ": "ক্ষার নির্দেশক",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "এসিড, ক্ষার নিরপেক্ষতা নির্দেশক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_134",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 134,
+      "question": "গোয়েন্দা বিভাগে নিম্নের কোন রশ্মি ব্যবহৃত হয়?",
+      "options": {
+        "ক": "বেকেরেল রশ্মি রশমি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "$ রশ্মি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_135",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 135,
+      "question": "বিচ্ছিন্ন অবস্থায় একটি পরমাণুর শক্তি",
+      "options": {
+        "ক": "যুক্ত অবস্থার চাইতে কম",
+        "খ": "",
+        "গ": "যুক্ত অবস্থার সমান",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "যুক্ত অবস্থার চাইতে অধিক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_136",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 136,
+      "question": "ঘর্মাক্ত দেহে পাখার বাতাস আরাম দেয় কেন?",
+      "options": {
+        "ক": "গয়়ের ঘাম বের হতে দেয় না",
+        "খ": "",
+        "গ": "পাখার বাতাস শীতল জলীয়বাম্প ধারণ করে",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বাষ্পায়ন শীতলতার সৃষ্টি করে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_137",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 137,
+      "question": "নিম্নের কোন বাক্যটি সত্য নয়?",
+      "options": {
+        "ক": "পদার্থের নিউক্লিয়াসে প্রোটন ৩ নিউট্রন থাকে",
+        "খ": "",
+        "গ": "ইলেকট্রন ঋনাত্মক আধানযুক্ত",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ইলেকট্রন পরমাণুর নিউক্লিয়াসের ভিতরে অবস্থান করে",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_35_138",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 138,
+      "question": "কোনো বস্তু আধানের অস্তিত্ব নির্ণয়ের যন্ত্র হলো -",
+      "options": {
+        "ক": "এ্যামিটার খ অণুবীক্ষণ যন্ত্র",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "তড়িতবীক্ষণ যন্ত্র",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_139",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 139,
+      "question": "নিম্নের কোনটি বেকিং পাউডারের মূল উপাদানের সংকেত?",
+      "options": {
+        "ক": "Cas 3 NaHC3",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "NaHC 3",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_140",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 140,
+      "question": "আকৃতি, অবস্থান ও কাজের প্রকৃতিভেদে আবরণী টিস্যু",
+      "options": {
+        "ক": "খ`",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৩",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_141",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 141,
+      "question": "হৃৎপিন্ড কোন ধরনের পেশি দবারা গঠিত?",
+      "options": {
+        "ক": "ঐচ্ছিক খ বিশেষ ধরনের ঐচ্ছিক",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "বিশেষ ধরনের অনৈচ্ছিক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_142",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 142,
+      "question": "কোন প্রাণীকে মরুভূমির জাহাজ বলা হয়?",
+      "options": {
+        "ক": "ঘোড়া খ বলগা হরিণ",
+        "খ": "এসিড, ক্ষার ৩ নিরপেক্ষতা নির্দেশক",
+        "গ": "গামা রশি ঘ বিটা রশি",
+        "ঘ": "এসিড ও ক্ষার নির্দেশক"
+      },
+      "correctAnswer": "",
+      "answerText": "উট",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_143",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 143,
+      "question": "কোন গ্রহের তাপমাত্রা তুলনামূলকভাবে অধিক?",
+      "options": {
+        "ক": "শুক্র খ পৃথিবী",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "শুকর",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_144",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 144,
+      "question": "কিসের স্রোতে নদীখাত গভীর হয়? সমুদ্রসোত ছ নদীস্রোত",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "জোয়ার-ভাটার স্রোত",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_145",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 145,
+      "question": "বাংলাদেশের সুন্দরবনে কত প্রজাতির হরিণ দেখা যায়? ক",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_35_146",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 146,
+      "question": "কম্পিউটার সিস্টেমে 'স্ক্যানার' কোন ধরনের যন্ত্র?",
+      "options": {
+        "ক": "ইনপুট খ আউটপুট",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ইনপুট",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_147",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 147,
+      "question": "কম্পিউটারের মূল মেমোরি তৈরি হয় কি দিয়ে?",
+      "options": {
+        "ক": "অ্যালুমিনিয়াম ছ প্লাস্টিক",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সিলিকন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_148",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 148,
+      "question": "Back up প্রোগ্রাম বলতে কী বোঝানো হয়?",
+      "options": {
+        "ক": "নির্ধারিত ফাইল কপি করা",
+        "খ": "",
+        "গ": "আগের প্রোগামে ফিরে যাওয়া",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "নিধারিত ফাইল কপি করা",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_149",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 149,
+      "question": "একটি প্রতিষ্ঠানে ডিভাইস ভাগাভাগি করে নেয়ার সুবিধা হলো -",
+      "options": {
+        "ক": "অর্থ সাশয় খ সময়",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "উপরের সবকটি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_150",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 150,
+      "question": "নিচের কোন সাইটটি কেনা-বেচার জন্য নয়? Olx com success",
+      "options": {
+        "ক": "ekhanei con খ` ৫0111",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "googlecom",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_151",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 151,
+      "question": "নিচের কোনটি ছাডা Internet- এ প্রবেশ করা সহজ নয?",
+      "options": {
+        "ক": "Task bar খ Notification area",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Web browser",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_152",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 152,
+      "question": "MICR এর পূর্ণরূপ কি?",
+      "options": {
+        "ক": "Magnetic Ink Character Reader",
+        "খ": "সর্বশেষ পরিবর্তন Undo করা",
+        "গ": "Magnetic Ink Code Reader",
+        "ঘ": "কোনোটিই নয়"
+      },
+      "correctAnswer": "ক",
+      "answerText": "Read",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_157",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 157,
+      "question": "মোবাইল কমিউনিকেশনে 46 এর ক্ষেত্রে 36 এর তুলনায় অতিরিক্ত বৈশিষ্ট্য কি? ব্যাখা প্রদান cCcesখ মানুষের জীবনের সফলতার দিকগুলো আলোচনা ১৫৪. নিচের কোনটি ডাটাবেজ ল্যাংগুয়েজ?",
+      "options": {
+        "ক": "Data Definition Language",
+        "খ": "",
+        "গ": "Data Manipulation Language",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ব্রডব্যান্ড ইন্টারনেট সেবা",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_158",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 158,
+      "question": "Oracle Corporation এর প্রতিষ্ঠাতা কে? Bill _ates ` Tinn Cool",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Lawrence ]. Ellison",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_159",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 159,
+      "question": "প্রোগাম থেকে কপ করা ডাটা কোথায় থাকে?",
+      "options": {
+        "ক": "RAM >` Clipboard",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "Clipboard",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_160",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 160,
+      "question": "পারসোনাল কম্পিউটার যুক্ত করে নিচের কোনটি তৈরি করা যায়?",
+      "options": {
+        "ক": "Super Computer খ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Network",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_161",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 161,
+      "question": "নীতিবিদ্যার আলোচ্য বিষয় কী?",
+      "options": {
+        "ক": "মানুষের আচরণের মনস্তাত্ত্বিক",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সমাজে বসবাসকারী মানুষের আচরণের আলোচনা ও মূল্যায়ন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_162",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 162,
+      "question": "মানুষের কোন ক্রিয়া নীতিবিদ্যার আলোচ্য বিষয়?",
+      "options": {
+        "ক": "ঐচ্ছিক ক্রিয়া খ অনৈচ্ছিক ক্রিয়া",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ঐচ্ছিক ক্রিয়া",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_35_163",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 163,
+      "question": "মূল্যবোধ (Values) কীা?",
+      "options": {
+        "ক": "মানুষের আচরণ পরিচালনাকারী নীতি ও মানদণ্ড",
+        "খ": "",
+        "গ": "সমাজ জীবনে মানুষের সুখী হওয়ার প্রয়োজনীয় মনোভাব",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "মানুষের আচরণ পরিচালনাকারী নীতি ও মানদণ্ড",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_164",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 164,
+      "question": "সামাজিক মূল্যবোধের ভিত্তি কী?",
+      "options": {
+        "ক": "আইনের শাসন খ নৈতিকতা",
+        "খ": "Query Language",
+        "গ": "Anrdlr 11 দা Symbian",
+        "ঘ": "উপরের সবগুলোই"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "উপরের সবগুলো",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_166",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 166,
+      "question": "সহস্রাব্দ উন্নয়ন লক্ষ্য (Millennium Development Goals) অর্জনে সুশাসনের কোন দিকটির উপর গুরুত্ব",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_168",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 168,
+      "question": "Johannesburg Plan of Implementation সুশাসনের সঙ্গে নিচের কোন বিষয়টিকে অধিকতর গুরুত্ব দেয়? দুইটি সংখ্যার গসাগু ১১ এবং লসাগু ৭9০০1 একটি সংখ্যা ২৭৫ হলে; অপর কলার দাম ২০% কমে যাওয়ায় ১২ টাকায় পূর্ব অপেক্ষা ২টি কলা বেশি পাওয়া গেলে বর্তমানে একটি কলার লিটার ফলের রসে আম ও কমলার অনুপাত ২ : ১! কমলার রসের পরিমাণ কত লিটার বৃদ্ধি করলে ১৬৫. সুশাসনের পূর্বশর্ত হচ্ছে -",
+      "options": {
+        "ক": "মত প্রকাশের স্বাধীনতা",
+        "খ": "",
+        "গ": "নিরপেক্ষ বিচার ব্যবস্থা",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "টেকসই উন্নয়ন",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_169",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 169,
+      "question": "'সুশাসন' শব্দটি সর্বপ্রথম কোন সংস্থা সুস্পষ্টভাবে ব্যাখ্যা করে?",
+      "options": {
+        "ক": "জাতিসংঘ ইউএনডিপি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বিশ্বব্যাংক",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_35_170",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 170,
+      "question": "নিরপেক্ষ ও শক্তিশালী গণমাধ্যমের অনুপস্থিতি কিসের আন্তরায়?",
+      "options": {
+        "ক": "সামাজিক অবক্ষয়ের খ মূল্যবোধ অবক্ষয়ের",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সুশাসনের",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_171",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 171,
+      "question": "",
+      "options": {
+        "ক": "৩১ 2[ ৩0>",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৩০৮",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_172",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 172,
+      "question": "দাম কত টাকা?",
+      "options": {
+        "ক": "১৫০ খ 9,09",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_173",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 173,
+      "question": "৬০ অনুপাতটি ১ : ২ হবে? : ক খ ৫০",
+      "options": {
+        "ক": "",
+        "খ": "প্রশাসনের নিরপেক্ষতা",
+        "গ": "ধারা ৩৭ ঘ ধরা 8৭",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৬০",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_35_178",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 178,
+      "question": "নম্বর কত?",
+      "options": {
+        "ক": "৫৫৫ খ ৬৫৫",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "-2< 3 < ৪",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_179",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 179,
+      "question": "Log3 (;) =?",
+      "options": {
+        "ক": "2 খ 2",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "2",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_180",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 180,
+      "question": "! Logax =1, Logay 2 এবং Logaz = 3 হলে",
+      "options": {
+        "ক": "১ খ $",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৪",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_35_181",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 181,
+      "question": "| একটি গুণোত্তর অনুক্রমে দ্বিতীয় পদটি -48 এবং পঞ্চম পদটি",
+      "options": {
+        "ক": "_ ছ _",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_35_182",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 182,
+      "question": "৫০ জন লোকের মধ্যে ৩৫ জন ইংরেজি, ২৫ জন ইংরেজি 4 অন্তত একটি ভাষায় কথা বলতে পারেন খ করা যাবে?",
+      "options": {
+        "ক": "খ ২৬",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "২",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_35_185",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 185,
+      "question": "! 2 ক্ষেত্রফল কত বর্গ সেমি?",
+      "options": {
+        "ক": "8 খ 41T + ৪",
+        "খ": "",
+        "গ": "৬০.৫",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "41T 8",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_35_190",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 190,
+      "question": "! কোনো বিয়ে বা অনুষ্ঠানে হঠাৎ করে আপনার পোশাকটি বিশ্রীভাবে ছিড়ে নষ্ট হয়ে গেল ! এ অবস্থায় কি করবেন? যেভাবে আছে সেভাবে রাখবেন ঘ আপনার কাছাকাছি যারা আছেন তাদের পরামর্শ নেবেন ১৮৬ ছাড়া রোগ প্রতিরোধ অসস্ভব শূন্যস্থানে কোনটি বসবে",
+      "options": {
+        "ক": "টিকাদান কর্মসূচি খ সচেতণত",
+        "খ": "",
+        "গ": "পোশাকের ছেঁড়া অংশটুকু",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "আপনার কাছাকাছি যারা আছেন তাদের পরামশ নেবেন",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_35_191",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 191,
+      "question": "কোন বানানটি শুদ্ধ?",
+      "options": {
+        "ক": "প্রতিযোগিতা ` সহযোগীতা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "প্রতিযোগিতা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_35_192",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 192,
+      "question": "কোন বানানটি শুদ্ধ?",
+      "options": {
+        "ক": "স্বশুর খ শ্বসুর",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "শ্বশুর",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_35_193",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 193,
+      "question": "! নিচের আয়নায় কোন শব্দটির প্রতিফলন?",
+      "options": {
+        "ক": "TELII)LT খ NATIOLIAL",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "RELATIONT",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_35_194",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 194,
+      "question": "! নিচের চিত্রে মোট কয়টি ত্রিভুজ আছে? ! ক ১৭ টি খ ১৮ টি",
+      "options": {
+        "ক": "",
+        "খ": "বিয়ে বাড়ি ছেড়ে চলে আসবেন",
+        "গ": "পুষ্টিকর খাদ্য ঘ তর্থ",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "২০ টি",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_35_195",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 195,
+      "question": "! নিচের চিত্রে মোট কয়টি ত্রিভুজ আছে?",
+      "options": {
+        "ক": "৬টি খ ৭ টি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৮ টি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_35_196",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 196,
+      "question": "১০৩ / ০০৬ >00৭ =?",
+      "options": {
+        "ক": "০০০১ছ৬ খ. ০০০০০১৬",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "০০০০০১২৬",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_35_197",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 197,
+      "question": "প্রশ্নবোধক চিহ্নের জায়গায় কোন সংখ্যাটি বসবে? ? 98৩",
+      "options": {
+        "ক": "৭ খ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৪৯",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_35_198",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 198,
+      "question": "! ১, ২ ৮, ৪৮, ৩৮৪, নম্বর সিরিজে কোনটি বসবে?",
+      "options": {
+        "ক": "১৯৮০ খ ১৮৪০",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৩৮৪০",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_35_199",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 199,
+      "question": "আপনার কাছে পাঁচটি আধুলি, ৮টি সিকি আছে",
+      "options": {
+        "ক": "১০ খ ১৫",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৫",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_35_200",
+      "exam": "35th BCS Preliminary",
+      "examCode": "bcs_35",
+      "questionNo": 200,
+      "question": "১১ এর কত শতাংশ ৮ হবে?",
+      "options": {
+        "ক": "১১০ খ ১১৫০ 0@",
+        "খ": "",
+        "গ": "৮ টি ঘ ১০ টি",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৫০",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "35th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    }
+  ]
+}

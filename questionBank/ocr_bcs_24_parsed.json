@@ -1,0 +1,1842 @@
+{
+  "examName": "24th BCS Preliminary",
+  "examCode": "bcs_24",
+  "totalQuestions": 75,
+  "validation": {
+    "totalDetected": 75,
+    "highestQuestionNo": 100,
+    "missing": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      22,
+      25,
+      28,
+      30,
+      35,
+      36,
+      41,
+      43,
+      44,
+      45,
+      47,
+      53,
+      56,
+      57,
+      74,
+      77,
+      78,
+      91,
+      94,
+      97
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 48,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_24_001",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 1,
+      "question": "'বাঙ্গলা ভাষার ইতিবৃত্ত' কে রচনা করেন?",
+      "options": {
+        "ক": "সুনীতিকুমার চট্টোপাধ্যায়",
+        "খ": "সুকুমার সেন",
+        "গ": "মুহম্মদ শহদুল্লাহ",
+        "ঘ": "মুহম্মদ এনামুল হক"
+      },
+      "correctAnswer": "",
+      "answerText": "শেষের কবিতা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_003",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 3,
+      "question": "কাজী নজরুল ইসলামের নামের সাথে জড়িত 'ধূমকেতু'",
+      "options": {
+        "ক": "কবিতা",
+        "খ": "পত্রিকা",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "পত্রিকা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_24_008",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 8,
+      "question": "জসীমউদৃদীনের প্রথম প্রকাশিত কোনটি?",
+      "options": {
+        "ক": "রাখালী",
+        "খ": "সোজন বাদিয়ার ঘাট",
+        "গ": "নকশী কাঁথার মাঠ",
+        "ঘ": "বালুচর"
+      },
+      "correctAnswer": "",
+      "answerText": "হ্যাঁ-বাচক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_009",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 9,
+      "question": "কাজী নজরুল ইসলামের উপন্যাস কোনটি?",
+      "options": {
+        "ক": "মৃত্যুক্ষুধা",
+        "খ": "আলেয়",
+        "গ": "ঝিলিমিলি",
+        "ঘ": "মধুমালা"
+      },
+      "correctAnswer": "ক",
+      "answerText": "মৃত্যুক্ষুধা",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_24_010",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 10,
+      "question": "'মা যে জননী কান্দে' কোন ধরনের রচনা?",
+      "options": {
+        "ক": "কাব্য",
+        "খ": "নাটক",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "কাব্য",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_011",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 11,
+      "question": "কোনটি ঠিক?",
+      "options": {
+        "ক": "সোজন বাদিয়ার ঘাট (উপন্যাস)",
+        "খ": "কাঁদো নদী কাঁদো (কাব্য)",
+        "গ": "বহিপীর (নাটক)",
+        "ঘ": "মহাশ্মশান (নাটক)"
+      },
+      "correctAnswer": "গ",
+      "answerText": "বহিপীর (নাটক)",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_012",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 12,
+      "question": "'কার মাথায় হাত বুলিয়েছ' এখানে 'মাথা' শব্দের অর্থ-",
+      "options": {
+        "ক": "স্বভাব নষ্ট যার",
+        "খ": "স্পরধা বাড়া",
+        "গ": "ফাঁকি দেওয়া",
+        "ঘ": "কোনো উপায়ে"
+      },
+      "correctAnswer": "গ",
+      "answerText": "ফাঁকি দেওয়া",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_24_013",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 13,
+      "question": "শরংচন্দ্রের কোন উপন্যাসটি সরকার কর্তৃক বাজেয়াপ্ত হয়েছিল?",
+      "options": {
+        "ক": "পথের দাবী",
+        "খ": "নিষ্কৃতি",
+        "গ": "",
+        "ঘ": "দত্তা"
+      },
+      "correctAnswer": "ক",
+      "answerText": "পথের দাবী",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_24_014",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 14,
+      "question": "কোন গ্রন্থটির রচয়িতা এস ওযাজেদ আলী?",
+      "options": {
+        "ক": "আশা-আকাঙ্কষার সমর্থনে",
+        "খ": "ভবিষ্যতের বাঙালি",
+        "গ": "উন্নত জীবন",
+        "ঘ": "সভ্যতা"
+      },
+      "correctAnswer": "খ",
+      "answerText": "ভবিষ্যতের বাঙালি",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_015",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 15,
+      "question": "নিত্য মূর্ধন্য-ষ কোন শব্দে বর্তমান?",
+      "options": {
+        "ক": "কষ্ট",
+        "খ": "উপনিষং",
+        "গ": "কল্যাণীয়েষু",
+        "ঘ": "আষাঢ়"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "আষাঢ়",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_24_016",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 16,
+      "question": "'ভাষা মানুষের মুখ থেকে কলমের",
+      "options": {
+        "ক": "রবীন্দ্রনাথ ঠাকুর",
+        "খ": "কাজী নজরুল ইসলাম",
+        "গ": "বলাইচাঁদ মুখোপাধ্যায়",
+        "ঘ": "প্রমথ চৌধুরী"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "প্রমথ চৌধুরী",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_24_017",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 17,
+      "question": "'অক্ষির সমীপে' এর সংক্ষেপণ হলো-",
+      "options": {
+        "ক": "সমক্ষ",
+        "খ": "পরোক্ষ",
+        "গ": "প্রত্যক্ষ",
+        "ঘ": "নিরপেক্ষ"
+      },
+      "correctAnswer": "ক",
+      "answerText": "সমক্ষ",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_018",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 18,
+      "question": "উপসর্গের সঙ্গে প্রত্যয়ের পার্থক্য-",
+      "options": {
+        "ক": "অব্যয় ও শব্দাংশ",
+        "খ": "নতুন শব্দ গঠন",
+        "গ": "উপসর্গ থাকে সামনে, প্রত্যয় থাকে পিছনে",
+        "ঘ": "ভিন্ন অর্থ প্রকাশে"
+      },
+      "correctAnswer": "গ",
+      "answerText": "উপসর্গ থাকে সামনে; প্রত্যয় থাকে পিছনে",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_019",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 19,
+      "question": "'তুমি এতক্ষণ কী করেছ?'- এই বাক্যে 'কী' কোন পদ?",
+      "options": {
+        "ক": "বিশেষণ",
+        "খ": "অব্যয়",
+        "গ": "সর্বনাম",
+        "ঘ": "ক্রিয়া"
+      },
+      "correctAnswer": "গ",
+      "answerText": "সর্বনাম",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_24_020",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 20,
+      "question": "'আকাশে তো আমি রাখিনাই মোর উড়িবার ইতিহাস ' বিভক্তির উদাহরণ?",
+      "options": {
+        "ক": "করতৃকারকে সপ্তমী",
+        "খ": "কর্মকারকে সপ্তমী",
+        "গ": "অপাদান কারকে তৃতীয়া",
+        "ঘ": "অধিকরণ কারকে সপ্তমী"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "অধিকরণ কারকে সপ্তমী",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_021",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 21,
+      "question": "There are dangerous drivers",
+      "options": {
+        "ক": "a very lot of",
+        "খ": "very much of",
+        "গ": "very much of",
+        "ঘ": "that"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "that",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_24_023",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 23,
+      "question": "Water boils you heat it to 100' centigrade",
+      "options": {
+        "ক": "un1less",
+        "খ": "until",
+        "গ": "1f",
+        "ঘ": "although"
+      },
+      "correctAnswer": "",
+      "answerText": "if",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_24_024",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 24,
+      "question": "Tell me that.",
+      "options": {
+        "ক": "whom told you",
+        "খ": "that told you",
+        "গ": "who told you",
+        "ঘ": "toll you"
+      },
+      "correctAnswer": "",
+      "answerText": "Heard",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_24_026",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 26,
+      "question": "I an looking for someone who play the Piano.",
+      "options": {
+        "ক": "able t০",
+        "খ": "1s able",
+        "গ": "can1 be able `",
+        "ঘ": "Can"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "Can",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_24_027",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 27,
+      "question": "Don't make a noise while your father-",
+      "options": {
+        "ক": "1s being asleep",
+        "খ": "is sleeping",
+        "গ": "shine",
+        "ঘ": "has slept"
+      },
+      "correctAnswer": "",
+      "answerText": "shining",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_24_029",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 29,
+      "question": "He gave 1p football when he got married. to play playing",
+      "options": {
+        "ক": "110[",
+        "খ": "any",
+        "গ": "play",
+        "ঘ": "My father said that he nad a cup of tea because he wasn't"
+      },
+      "correctAnswer": "",
+      "answerText": "No",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_24_031",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 31,
+      "question": "is not the only thing that tourists want to see",
+      "options": {
+        "ক": "| scenery",
+        "খ": "Sceneries",
+        "গ": "The sceneries",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "Scenery",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_24_032",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 32,
+      "question": "Just now he 1$ naving",
+      "options": {
+        "ক": "",
+        "খ": "has had",
+        "গ": "",
+        "ঘ": "ha]"
+      },
+      "correctAnswer": "খ",
+      "answerText": "has had",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_24_033",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 33,
+      "question": "The children were entrusted",
+      "options": {
+        "ক": "with",
+        "খ": "fo1'",
+        "গ": "+0",
+        "ঘ": "at"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_24_034",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 34,
+      "question": "He parted his friends in tears",
+      "options": {
+        "ক": "with",
+        "খ": "fron",
+        "গ": "against",
+        "ঘ": "besile"
+      },
+      "correctAnswer": "",
+      "answerText": "The comnon language",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_24_037",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 37,
+      "question": "Choose the correct meaning: He raisel lis eyebrow at my explanation Show surprise or disapproval",
+      "options": {
+        "ক": "Show surprise or disapproval",
+        "খ": "show agreement",
+        "গ": "show happiness",
+        "ঘ": "show inlifference"
+      },
+      "correctAnswer": "ক",
+      "answerText": "Show surprise or disapproval",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_24_038",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 38,
+      "question": "'Razzmnatazz' means-",
+      "options": {
+        "ক": "| musical instrument",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "nois]] activity",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_24_039",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 39,
+      "question": "The antonym for 'Recalcitrant' Complaint",
+      "options": {
+        "ক": "Complaint",
+        "খ": "Passive",
+        "গ": "Indlifferent",
+        "ঘ": "Careful"
+      },
+      "correctAnswer": "ক",
+      "answerText": "Complaint",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_24_040",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 40,
+      "question": "The synonym for 'Obdurate'",
+      "options": {
+        "ক": "Deceitful",
+        "খ": "১৬৩ জন",
+        "গ": "88 জন",
+        "ঘ": "Swinller"
+      },
+      "correctAnswer": "খ",
+      "answerText": "৬৮ জন",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_24_042",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 42,
+      "question": "জিয়া সার কারখানায় উতপাদিত সারের নাম কি? gঁ",
+      "options": {
+        "ক": "অ্যমোনিয়া",
+        "খ": "টিএসপি",
+        "গ": "ইউরিয়া",
+        "ঘ": "সুপার ফসফেট"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_046",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 46,
+      "question": "'সকল নাগরিক আইনের দৃষ্টিতে সমান এবং আইনের সমান আশ্রয় লাভের অধিকারী' নোট: ১৯৭৪ সালে সর্বপ্রথম সাদা পোশাকে স্পেশাল ব্রাঞ্চে ২ জন মহিলা পুলিশ নিয়়োগ দেওয়া হয়",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_24_048",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 48,
+      "question": "সম্প্রতি গার্মেন্টসসহ কতিপয় দ্রব্য বিনাশুল্কে কোন দেশে প্রবেশাধিকার পেয়েছে? ৪২. বাংলাদেশের জাতীয় পতাকার ডিজাইনার কে?",
+      "options": {
+        "ক": "জয়নুল আবেদিন",
+        "খ": "কামরুল হাসান",
+        "গ": "ভূমি রাজস্ব",
+        "ঘ": "হাশেম খান"
+      },
+      "correctAnswer": "",
+      "answerText": "কানাডা",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_24_049",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 49,
+      "question": "স্বাধীনতার প্রথম ডাকটিকেটে কোন ছবি ছিল?",
+      "options": {
+        "ক": "জাতীয় স্মৃতিসৌধ",
+        "খ": "লালবাগের কেল্লা",
+        "গ": "সোনা মসজিদ",
+        "ঘ": "শহীদ মিনার"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "শহীদ মিনার",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_050",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 50,
+      "question": "বাংলাদেশের সর্বপ্রথম জাদুঘর কোনটি?",
+      "options": {
+        "ক": "জাতিতাত্ত্বিক জাদুঘর",
+        "খ": "জাতীয় জাদুঘর",
+        "গ": "বরেন্দ্র গবেষণা জাদুঘর",
+        "ঘ": "ঢাকা নগর জাদুঘর"
+      },
+      "correctAnswer": "গ",
+      "answerText": "বরেন্দ্র গবেষণা জাদুঘর",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_24_051",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 51,
+      "question": "২০০৩-০8 সনের বার্ষিক উন্নয়ন কর্মসূচির মোট",
+      "options": {
+        "ক": "২০,৩০০ কোটি টাকা",
+        "খ": "১৯,২০০ কোটি টাকা",
+        "গ": "১৭,১০০ কোটি টাকা",
+        "ঘ": "১৯৫০০ কোটি টাকা"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "১৯,৫০০ কোটি টাকা",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_24_052",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 52,
+      "question": "বাংলাদেশের বৃহত্তম",
+      "options": {
+        "ক": "সোনা মসজদ",
+        "খ": "চট্টগ্রাম",
+        "গ": "বেনপোল",
+        "ঘ": "হিলি"
+      },
+      "correctAnswer": "",
+      "answerText": "চাঁপাইনবাবগঞ্জ",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_24_054",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 54,
+      "question": "মার্কিন ডলারে ২০০১-০২ অর্থবছরে বাংলাদেশের রপ্তানি আয় প্রায়-",
+      "options": {
+        "ক": "বিলিয়ন",
+        "খ": "৬ বিলিয়ন",
+        "গ": "",
+        "ঘ": "বিলিয়ন"
+      },
+      "correctAnswer": "ক",
+      "answerText": "৬ বিলিয়ন",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_24_055",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 55,
+      "question": "সম্প্রত 'সাফ ফুটবলে এই দেশের সাথে খেলে বাংলাদেশ শিরোপা পায়-",
+      "options": {
+        "ক": "মালদ্বীপ",
+        "খ": "টাঙ্গাইল",
+        "গ": "পাকিস্তান",
+        "ঘ": "নেপল"
+      },
+      "correctAnswer": "খ",
+      "answerText": "টাঙ্গাইল",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_24_058",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 58,
+      "question": "",
+      "options": {
+        "ক": "১৭ এপ্রিল, ২০০২",
+        "খ": "৯ এপ্রিল, ২০০২ SUCCeSS",
+        "গ": "১৮ মাচ, ০০২",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "৯ এপ্রিল, ২০০২",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_059",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 59,
+      "question": "দক্ষিণ তালপট্টি দীপের অপর নাম কি?",
+      "options": {
+        "ক": "কুতুবদিয়া",
+        "খ": "",
+        "গ": "সন্দীপ",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "পূর্বাশা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_060",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 60,
+      "question": "হালদা ভ্যালি কোথায় অবস্থিত?",
+      "options": {
+        "ক": "রাঙ্গামাটি",
+        "খ": "খাগড়াছড়ি",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_061",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 61,
+      "question": "আন্তর্জাতিক সম্পর্কের ক্ষেত্রে শক্তি প্রয়োগ নিষিদ্ধকারী 'প্যারিস প্যাক্ট'",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_062",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 62,
+      "question": "যুদ্ধ ও সশস্ত্র সংঘর্ষ সংক্রান্ত আইন প্রণয়ন বিষয়ে ১৯৪৯ সনের জেনেভা কনভেনশনসমূহ অভিহিত-",
+      "options": {
+        "ক": "১৯২৭ সালের ১২ আগস্ট",
+        "খ": "১৯২৮ সালের ২৭ আগস্ট",
+        "গ": "বান্দরবান",
+        "ঘ": "স্বন্দীপ"
+      },
+      "correctAnswer": "",
+      "answerText": "'চারটি রেডক্রস কনভেনশন নামে",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_24_063",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 63,
+      "question": "স্থায়ী সালিসী আদালত কোথায় অবস্থিত?",
+      "options": {
+        "ক": "জেনেভায়",
+        "খ": "",
+        "গ": "প্যারিসে",
+        "ঘ": "হেগে"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "হেগে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_064",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 64,
+      "question": "মানবাধিকার বাস্তবায়নের লক্ষ্যে কখন",
+      "options": {
+        "ক": "১৯৫০ সালে",
+        "খ": "১৯৫৫ সালে",
+        "গ": "১৯৬৫ সালে",
+        "ঘ": "১৯৬৬ সালে"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "১৯৬৬ সালে",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_24_065",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 65,
+      "question": "ইসিএ (ECAL)- এর সদর দপ্তর কোথায়?",
+      "options": {
+        "ক": "আদ্দিস আবাবা",
+        "খ": "নাইরোবি",
+        "গ": "ডাকার",
+        "ঘ": "কায়রো"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_24_066",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 66,
+      "question": "'ডেটন শান্তিচুক্তি' স্বাক্ষরিত হয়-",
+      "options": {
+        "ক": "১৯৯০ সালে",
+        "খ": "১৯৯১ সলে",
+        "গ": "১৯৯২ সালে",
+        "ঘ": "১৯৯৩ সালে"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_067",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 67,
+      "question": "কোন চুক্তির মাধ্যমে ইইসি (EEC) প্রতিষ্ঠা লাভ করে?",
+      "options": {
+        "ক": "রোম চুক্ত",
+        "খ": "ম্যাসট্রিক্ট চুক্তি",
+        "গ": "ভিয়েনা কনভেনশন",
+        "ঘ": "বসেলস কনভেনশন"
+      },
+      "correctAnswer": "ক",
+      "answerText": "রোম চুক্তি",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_24_068",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 68,
+      "question": "MIGA কখন গঠিত হয়?",
+      "options": {
+        "ক": "১৯৮৮ সালে",
+        "খ": "১৯৮২ সালে",
+        "গ": "১৯৮৫ সালে",
+        "ঘ": "১৯৮৬ সালে"
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৯৮৮ সালে",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_24_069",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 69,
+      "question": "বিখ্যাত ল্যান্ডমার্ক টাওয়ার অবস্থিত-",
+      "options": {
+        "ক": "নিউইয়কে",
+        "খ": "শিকাগোতে",
+        "গ": "টোকিওতে",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_070",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 70,
+      "question": "'হ্যারিপটার' কি?",
+      "options": {
+        "ক": "এক জাতীয় ধাতব পাত্র",
+        "খ": "সাম্প্রতিককালে সর্বাধিক বিক্রীত একটি শিশুতোম",
+        "গ": "",
+        "ঘ": "এক ধরণের খেলনা"
+      },
+      "correctAnswer": "খ",
+      "answerText": "সাম্প্রতিককালে সর্বাধিক বিক্রীত একটি শিশুতোষ বই",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_071",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 71,
+      "question": "বিশ্বের সবচেয়ে প্রাচীন সভ্যতা কোথায় গড়ে উঠেছিল? গগ্রিসে",
+      "options": {
+        "ক": "",
+        "খ": "মেসোপটেমিযায়",
+        "গ": "রমে",
+        "ঘ": "ভারতে"
+      },
+      "correctAnswer": "খ",
+      "answerText": "মেসোপটেমিয়ায়",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_072",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 72,
+      "question": "ওআইসি-এর বর্তমান মহাসচিব কোন দেশের নাগরিক?",
+      "options": {
+        "ক": "বংলাদেশ",
+        "খ": "তুরস্ক",
+        "গ": "মালয়েশিয়া",
+        "ঘ": "মরককো"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_24_073",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 73,
+      "question": "বিশ্ব বাণিজ্য সংস্থার (WTO) পঞ্চম মিনিস্টারিয়াল কনফারেন্স কোথায় এবং কখন অনুষ্ঠিত হবে? নোট: সেপ্টেম্বর ২০০৩ মেক্সিকোর কানকুনে বিশ্ব বাণিজ্য সংস্থার (WTO) পঞ্চম মিনিস্টারিয়াল কনফারেন্স অনুষ্ঠিত হয় এবং ২০২৬ সালে ১৪তম মিনিস্টারিয়াল কনফারেন্স অনুষ্ঠিত হবে ক্যামেরুনে নোট: ইসলামিক সহযোগিতা সংস্থা ওআইসি' হুসেইন ইব্রাহিম তাহা",
+      "options": {
+        "ক": "নভেম্বর ২০০৩ ভারতের ব্যাঙ্গালোর",
+        "খ": "ডিসেম্বর ২০০৩ কানাডার অটোয়া",
+        "গ": "যুক্তরাষ্ট্র",
+        "ঘ": "সেপ্টেম্বর ২০০৩ মেক্সিকোর কানকুন"
+      },
+      "correctAnswer": "গ",
+      "answerText": "যুক্তরাষ্ট্র",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_24_075",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 75,
+      "question": "ইসরাইল-প্যালেস্টাইন 'রোডম্যাপ' কর্মসূচির উদ্দেশ্য কি?",
+      "options": {
+        "ক": "সহিংসতা বন্ধ করে ২০০৫ সালের মধ্যে",
+        "খ": "দুটি রাষ্ট্রের মধ্যে সড়ক যোগাযোগ ব্যবস্থা স্থাপন",
+        "গ": "দুটি রাষ্ট্রের মধ্যে অবাধ বাণিজ্য স্থাপন",
+        "ঘ": "দুটি রাষ্ট্রের মধ্যে সীমানা চিহ্নিতকরণ"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_076",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 76,
+      "question": "নিচের কোন দেশটি এ-৮ ভুক্ত",
+      "options": {
+        "ক": "ফান্স",
+        "খ": "",
+        "গ": "রাশিয়া",
+        "ঘ": "দি নেদারল্যান্ডস"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "দি নেদারল্যান্ডস",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_24_079",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 79,
+      "question": "'ব্রেটন উডস ইনস্টিটিউট নিচের কোন সংস্থাকে বোঝায়?",
+      "options": {
+        "ক": "আইএমএফ",
+        "খ": "নেলসন ম্যান্ডেলা",
+        "গ": "এডিবি",
+        "ঘ": "আইডিবি"
+      },
+      "correctAnswer": "খ",
+      "answerText": "নেলসন ম্যান্ডেলা",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_080",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 80,
+      "question": "'লাইন অব কন্ট্রোল' বলতে কোন দুটি দেশের সীমান্তবর্তী রেখাকে চিহ্নিত করে?",
+      "options": {
+        "ক": "ইসরাইল ও জরডান",
+        "খ": "দক্ষিণ কোরিয়া ও উত্তর কোরিয়া",
+        "গ": "চীন ও তাইওয়ান",
+        "ঘ": "ভারত পাকিস্তান"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "ভারত ও পাকিস্তান",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_24_081",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 81,
+      "question": "মসতিষ্কের ক্ষমতা ক্ষয় পেতে থাকে স্নায়ু কোষের-",
+      "options": {
+        "ক": "এক-চতুর্থাংশ ধ্বংস হয়ে গেলে",
+        "খ": "অর্ধেক ধ্বংস হয়ে থাকে",
+        "গ": "এক-তৃতীয়াংশ বেড়ে গেলে",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "এক-চতুর্থাংশ ধ্বংস হয়ে গেলে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_082",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 82,
+      "question": "রাসায়নিক অগ্নিনির্বাপক কাজ করে অগ্নিতে-",
+      "options": {
+        "ক": "প্রচুর পরিমাণ অক্সিজেন সরবরাহ করে",
+        "খ": "অক্সিজেন সরবরাহে প্রতিবন্ধকতা সৃষ্টি",
+        "গ": "নাইট্রোজেন সরবরাহ করে",
+        "ঘ": "হাইড্রোজেন সরবরাহ করে"
+      },
+      "correctAnswer": "খ",
+      "answerText": "অক্সিজেন সরবরাহে প্রতিবন্ধকতা সৃষ্টি করে",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_083",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 83,
+      "question": "আবাসিক বাড়ির বর্তনীতে সার্কিট ব্রেকার ব্যবহার করা হয়-",
+      "options": {
+        "ক": "বিদ্যুৎ খরচ কমানো উদ্দেশ্যে",
+        "খ": "অতিমাত্রায় বিদ্যুৎ প্রবাহজনিত দুর্ঘটনা রোধের উদ্দেশ্যে",
+        "গ": "বৈদ্যুতিক বালব থেকে বেশি আলো পাওয়ার জন্য",
+        "ঘ": "বৈদ্যুতিক যন্ত্রপাতি যাতে সুষ্ঠুভাবে কাজ করে"
+      },
+      "correctAnswer": "খ",
+      "answerText": "অতিমাত্রায় বিদ্যুৎ প্রবাহজনিত দুর্ঘটনা রোধের উদ্দেশ্যে",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_084",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 84,
+      "question": "পরমাণু (Atom) চাজ নিরপেক্ষ হয়, কারণ পরমাণুতে-",
+      "options": {
+        "ক": "নিউট্রন ও প্রোটনের সংখ্যা সমান",
+        "খ": "প্রোটন নিউট্রনের ওজন সমান",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ইলেকট্রন প্রোটনের সংখ্যা সমান",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_24_085",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 85,
+      "question": "মাইটোকন্ড্রিয়ায় কত ভাগ প্রোটিন?",
+      "options": {
+        "ক": "৭0%",
+        "খ": "",
+        "গ": "৭9%",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৭৩%",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_086",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 86,
+      "question": "মূল নেই কোন উদ্ভিদে?",
+      "options": {
+        "ক": "ফণিমনসা",
+        "খ": "বীরুৎ",
+        "গ": "",
+        "ঘ": "সাইকাস"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_087",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 87,
+      "question": "রঙিন টেলিভিশন হতে ক্ষতিকর কোন রশ্মি বের হয়?",
+      "options": {
+        "ক": "মৃদু রঞ্জন রশ্মি",
+        "খ": "বিটা রশমি",
+        "গ": "গামা রশি",
+        "ঘ": "কসমিক রশ্মি"
+      },
+      "correctAnswer": "ক",
+      "answerText": "মৃদু রঞ্জন রশ্মি",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_088",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 88,
+      "question": "'ল্যাপটপ' ক?",
+      "options": {
+        "ক": "ছোট কুকুর",
+        "খ": "",
+        "গ": "বাদ্যযন্ত্র",
+        "ঘ": "ছোট কম্পিউটার"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "ছোট কম্পিউটার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_089",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 89,
+      "question": "এসবেসটস কি?",
+      "options": {
+        "ক": "অগ্নি নিরোধক খনিজ পদার্থ",
+        "খ": "",
+        "গ": "বেশি ঘনত্ববিশিষ্ট তরল পদা?",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "অগ্নি নিরোধক খনিজ পদারথ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_090",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 90,
+      "question": "পাহাড়ের উপর রান্না করতে বেশি সময় লাগে কেন? ! ক বায়ুর চাপ বেশি থাকার কারণে",
+      "options": {
+        "ক": "",
+        "খ": "বায়ুর চাপ কম থাকার কারণে",
+        "গ": "পাহাড়ের উপর বাতাস কম থাকায়",
+        "ঘ": "পাহাড়ের উপর তাপমাত্রা বেশি থাকায়"
+      },
+      "correctAnswer": "খ",
+      "answerText": "বায়ুর চাপ কম থাকার কারণে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_24_092",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 92,
+      "question": "এক ব্যক্তি একটি দ্রব্য ১২০০ টাকায় কিনে ১৫% লাভে বিক্রয় করল; ক্রেতা ঐ দ্রব্য তৃতীয় এক ব্যক্তির কাছে",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_24_093",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 93,
+      "question": "চালের দাম ২৫% বেড়ে যাওয়ায় এক ব্যক্তি চালের ব্যবহার এমনভাবে কমালো যেন তার সাংসারিক ব্যয়",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_24_095",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 95,
+      "question": "এক ব্যক্তি তার মোট সম্পত্তির ৩/৭ অংশ ব্যয় করার পরে অবশিষ্টের ৫/১২ অংশ ব্যয় করে দেখলেন যে তার",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_24_096",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 96,
+      "question": "একটি ত্রিভুজের তিনটি বাহুর দৈর্ঘ্য ৫, ৬ ও ৭ মিটার ! নিকটতম বর্গমিটারের ত্রিভুজটির ক্ষেত্রফল কত? ৯১ ১২ + ৩২ + ৫১ + ৩১২ সমান কত? 9000000",
+      "options": {
+        "ক": "২৫",
+        "খ": "২৫৬",
+        "গ": "১৫8",
+        "ঘ": "২৫২"
+      },
+      "correctAnswer": "",
+      "answerText": "৩০০০ টাকা",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_24_098",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 98,
+      "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য প্রস্থের ৩ গুণ ! আয়তক্ষেত্রটির ক্ষেত্রফল ৩০০ বর্গমিটার হলে তার পরিসীমা কত?",
+      "options": {
+        "ক": "১৬৯",
+        "খ": "১২৫",
+        "গ": "২৫৬",
+        "ঘ": "১৪ বর্গমিটার"
+      },
+      "correctAnswer": "",
+      "answerText": "৮০ মিটার",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_24_099",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 99,
+      "question": "Y+y = 7এবং Yy = 10 হলে, (x-y)2- এর মান কত?",
+      "options": {
+        "ক": "3",
+        "খ": "6",
+        "গ": "9",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "9",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_24_100",
+      "exam": "24th BCS Preliminary",
+      "examCode": "bcs_24",
+      "questionNo": 100,
+      "question": "+ Y 15 এর উতপাদক কোনটি?",
+      "options": {
+        "ক": "(1+3) (21-5)",
+        "খ": "{1-3) {21-5)",
+        "গ": "(1-3) (21+5)",
+        "ঘ": "(1+3) (21+5)"
+      },
+      "correctAnswer": "ক",
+      "answerText": "(x+3) (2x-5)",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "24th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    }
+  ]
+}

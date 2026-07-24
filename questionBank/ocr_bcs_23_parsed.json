@@ -1,0 +1,1750 @@
+{
+  "examName": "23th BCS Preliminary",
+  "examCode": "bcs_23",
+  "totalQuestions": 71,
+  "validation": {
+    "totalDetected": 71,
+    "highestQuestionNo": 100,
+    "missing": [
+      2,
+      13,
+      14,
+      25,
+      26,
+      27,
+      41,
+      44,
+      47,
+      49,
+      50,
+      52,
+      53,
+      54,
+      56,
+      58,
+      59,
+      67,
+      72,
+      74,
+      75,
+      76,
+      77,
+      82,
+      84,
+      85,
+      86,
+      87,
+      96
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 42,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_23_001",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 1,
+      "question": "'চাঁদ সওদাগর' বাংলা কোন কাব্যধারার চরিত্র?",
+      "options": {
+        "ক": "চন্ডীমঙ্গল",
+        "খ": "মনসামঙ্গল",
+        "গ": "ধরমমঙ্গল",
+        "ঘ": "অন্নদামঙ্গল"
+      },
+      "correctAnswer": "",
+      "answerText": "শাহ মুহম্মদ সগীর",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_23_003",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 3,
+      "question": "ঈশ্বরচন্দ্র বিদ্যাসাগরের 'ভ্রান্তিবিলাস' কোন নাটকের গদ্য অনুবাদ?",
+      "options": {
+        "ক": "মচেন্ট তব ভেনিস",
+        "খ": "কমেডি অব এররস",
+        "গ": "দ্য মিডসামার নাইটস ড্রিম",
+        "ঘ": "টেমিং অব দ্য শ্রু"
+      },
+      "correctAnswer": "খ",
+      "answerText": "কমেডি অব এররস",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_23_004",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 4,
+      "question": "কখনো উপন্যাস লেখেননি-",
+      "options": {
+        "ক": "কাজী নজরুল ইসলাম",
+        "খ": "জীবনানন্দ দাশ",
+        "গ": "সুধীন্দ্রনাথ দত্ত",
+        "ঘ": "বুদ্ধদেব বসু"
+      },
+      "correctAnswer": "গ",
+      "answerText": "সুধীন্দ্রনাথ দত্ত",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_23_005",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 5,
+      "question": "'দুধভাতে উতপাত' গল্পগ্রন্থের রচয়িতা-",
+      "options": {
+        "ক": "শওকত ওসমান",
+        "খ": "জ্যোতিপ্রকাশ দত্ত",
+        "গ": "আখতারুজ্জামান ইলিয়াস",
+        "ঘ": "হাসান আজিজুল হক"
+      },
+      "correctAnswer": "গ",
+      "answerText": "আখতারুজ্জামান ইলিয়াস",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_006",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 6,
+      "question": "রোহিণী- বিনোদিনী-কিরণময়ী কোন কাব্যগ্রন্থের চরিত্র?",
+      "options": {
+        "ক": "বিষবৃক্ষ-চতুরঙ্গ-চরিত্রহীন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_007",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 7,
+      "question": "প্রথম বাংলা 'থিসরাস' বা 'সমার্থক শব্দের অভিধান' সংকলন করেছেন-",
+      "options": {
+        "ক": "অশোক মুখোপাধ্যায়",
+        "খ": "কৃষ্ণকান্তের উইল-যোগাযোগ-পথের দাবী",
+        "গ": "দুর্গেশনন্দিনী-চোখের বালি-গৃহদাহ",
+        "ঘ": "মুহম্মদ শহীদুল্লাহ"
+      },
+      "correctAnswer": "",
+      "answerText": "মুহম্মদ হাবিবুর রহমান",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_23_008",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 8,
+      "question": "'আমার সন্তান যেন থাকে দুধেভাতে '- এ প্রার্থনাটি করেছে-",
+      "options": {
+        "ক": "ভাঁডু দত্ত",
+        "খ": "চাঁদ সওদাগর",
+        "গ": "ঈশ্বরী পাটনী",
+        "ঘ": "নলকুবের"
+      },
+      "correctAnswer": "গ",
+      "answerText": "ঈশ্বরী পাটনী",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_009",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 9,
+      "question": "হ্মষ এর বিশিষ্ট রূপ-",
+      "options": {
+        "ক": "ক-য",
+        "খ": "ক-স+ণ",
+        "গ": "ক-য+শ",
+        "ঘ": "হ-ম"
+      },
+      "correctAnswer": "",
+      "answerText": "হ+ম",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_010",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 10,
+      "question": "'পয়ারা' কোন ভাষা থেকে আগত",
+      "options": {
+        "ক": "হিন্দি",
+        "খ": "উর্দু",
+        "গ": "পর্তুগিজ",
+        "ঘ": "গিক"
+      },
+      "correctAnswer": "গ",
+      "answerText": "পর্তুগিজ",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_011",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 11,
+      "question": "সমার্থক শব্দগুচ্ছ শনাক্ত করুন-",
+      "options": {
+        "ক": "দীর্ঘিকা; নদী, প্রণালী",
+        "খ": "শৈবলিনী, তরঙ্গিনী, সরিং",
+        "গ": "গাঙ, তটিনী, অর্ণব",
+        "ঘ": "স্রোতস্বিনী, নির্ঝরিণী, সিন্ধু"
+      },
+      "correctAnswer": "খ",
+      "answerText": "শৈবলিনী, তরঙ্গিনী, সরিং",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_23_012",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 12,
+      "question": "শুদ্ধ বানানের শব্দগুচ্ছ শনাক্ত করুন-",
+      "options": {
+        "ক": "ভবিষ্যত, ভৌগলিক; যক্ষ",
+        "খ": "ঐক্যতান, কেবলমাত্র) উপরোক্ত",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_23_015",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 15,
+      "question": "যে পদে বাক্যের ক্রিয়াপদটির গুণ, প্রকৃতি, তীব্রতা ইত্যাদি প্রকৃতিগত অবস্থা বোঝায়; তাকে বলা হয়-",
+      "options": {
+        "ক": "প্াত + রাশ",
+        "খ": "পাতঃ আশ",
+        "গ": "যশলাভ, সদ্যোজাত, সম্বর্ধনা",
+        "ঘ": "পুরাণোক্ত"
+      },
+      "correctAnswer": "",
+      "answerText": "ক্রিয়াবিশেষণ",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_23_016",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 16,
+      "question": "নিচের কোনটিতে বিরামচিহ্ন",
+      "options": {
+        "ক": "ডিসেম্বর ১৬; ১৯৭১",
+        "খ": "ঢাকা; ২১ ফেব্রুয়ারি ১৯৫২",
+        "গ": "পয়লা বৈশাখ, চৌদ্দশত সাত",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "ঢাকা, ২১ ফেব্রুয়ারি ১৯৫২",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_017",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 17,
+      "question": "'বামেতর' শব্দটির অর্থ-",
+      "options": {
+        "ক": "বমচোখ",
+        "খ": "ডন",
+        "গ": "ইতর",
+        "ঘ": "বাম দিক"
+      },
+      "correctAnswer": "খ",
+      "answerText": "ডান",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_23_018",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 18,
+      "question": "নারীকে সম্বোধনের ক্ষেত্রে প্রযোজ্য হবে-",
+      "options": {
+        "ক": "কল্যাণীয়েষু",
+        "খ": "",
+        "গ": "শ্রদ্ধাস্পদাসু",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "শ্রদ্ধাস্পদাসু",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_019",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 19,
+      "question": "নিরানব্বইয়ের ধাক্কা' বাগধারাটির অর্থ-",
+      "options": {
+        "ক": "তীরে পৌঁছার ঝুঁকি",
+        "খ": "সঞ্চয়ের প্রবৃত্তি",
+        "গ": "মুমূষু অবস্থা",
+        "ঘ": "আসন্ন বিপদ"
+      },
+      "correctAnswer": "খ",
+      "answerText": "সঞ্চয়ের প্রবৃত্তি",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_23_020",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 20,
+      "question": "",
+      "options": {
+        "ক": "দন্দ সমস",
+        "খ": "অব্যয়ীভাব সমাস",
+        "গ": "কর্মধারয় সমাস",
+        "ঘ": "নিত্য সমাস"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "নিত্য সমাস",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_021",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 21,
+      "question": "কোনো বস্তুর ওজন কোথায় সবচেয়ে বেশি?",
+      "options": {
+        "ক": "খনর ভেতর",
+        "খ": "পাহাড়ের উপর",
+        "গ": "ির অঞচলে",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "মেরু অঞ্চলে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_022",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 22,
+      "question": "প্রকৃতিতে সবচেয়ে শক্ত পদার্থ কোনটি?",
+      "options": {
+        "ক": "পিতল",
+        "খ": "হীরা",
+        "গ": "ইস্পাত",
+        "ঘ": "গ্রানাইট"
+      },
+      "correctAnswer": "খ",
+      "answerText": "হীরা",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_023",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 23,
+      "question": "ক্যাসেটের ফিতার শব্দ রক্ষিত থাকে কি হিসেবে? বৈদ্যুতিক ক্ষেত্র হিসেবে",
+      "options": {
+        "ক": "",
+        "খ": "মেমোরি চিপ হিসেবে",
+        "গ": "চৌম্বক ক্ষেত্র হিসেবে",
+        "ঘ": "কার্বন ক্ষেত্র হিসেবে"
+      },
+      "correctAnswer": "গ",
+      "answerText": "চৌম্বক ক্ষেত্র হিসেবে",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_23_024",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 24,
+      "question": "পরমাণুর নিউক্লিয়াসে কি থাকে? gঁ",
+      "options": {
+        "ক": "নিউট্রন প্রোটন",
+        "খ": "ইলেকট্রন ৩ প্রোটন",
+        "গ": "",
+        "ঘ": "ইলেকট্রন ও পজিট্রন"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_028",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 28,
+      "question": "ফারেনহাইট ও সেলসিয়াসের স্কেলে কত ডিগরি তাপমাত্রায় সমান তাপমাত্রা নির্দেশ করে? ২৫ অগ্ন্যাশয় থেকে নির্গত চিনির বিপাক নিয়ন্ত্রণকারী হরমোন কোনটি?",
+      "options": {
+        "ক": "পেনিসিলিন",
+        "খ": "সোডিয়াম গ্লুটামেট",
+        "গ": "ফলিক এসিড",
+        "ঘ": "অ্যামোইনো এসিড"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_23_029",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 29,
+      "question": "মাটির পাত্রে পানি ঠাণ্ডা থাকে কেন?",
+      "options": {
+        "ক": "মাটির পাত্র ভাল তাপ পরিবাই",
+        "খ": "মাটির পাত্র পানি থেকে তাপ শোষণ করে",
+        "গ": "মাটির পাত্র তাপ কুপরিবাহী",
+        "ঘ": "মাটির পাত্র পানির বাষ্পীভবনে সাহায্য করে"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "মাটির পাত্র পানির বাষ্পীভবনে সাহায্য করে",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_030",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 30,
+      "question": "জীবের বংশগতির বৈশিষ্ট্য বহন করে- g ক নিউক্লিয়াস",
+      "options": {
+        "ক": "মেঘ পৃথিবীর পৃষ্ঠ থেকে বিকীর্ণ তাপকে ওপরে যেতে বাধা দেয় বলে",
+        "খ": "নিউক্লিওলাস",
+        "গ": "করোমোসেম",
+        "ঘ": "নিউক্লিওপ্লাজম"
+      },
+      "correctAnswer": "ক",
+      "answerText": "মেঘ পৃথিবীর পৃষ্ঠ থেকে বিকীর্ণ তাপকে ওপরে যেতে বাধা দেয় বলে",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_031",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 31,
+      "question": "আকাশ মেঘলা থাকলে গরম বেশি লাগে কেন?",
+      "options": {
+        "ক": "মেঘ উত্তম তাপ পরিবাহক",
+        "খ": "",
+        "গ": "বজ্রপাতের ফলে তাপ উৎপন্ন হয় বলে",
+        "ঘ": "মঘ পৃথিবীর পৃষ্ঠ থেকে বিকীর্ণ তাপকে ওপরে যেতে বাধা দেয় বলে"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_032",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 32,
+      "question": "প্রাকৃতিক কোন উৎস থেকে সবচেয়ে বেশি মৃদু পানি পাওয়া যায়?",
+      "options": {
+        "ক": "সাগর",
+        "খ": "হ্রদ",
+        "গ": "নদী",
+        "ঘ": "বৃষ্টি"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "বৃষ্টি",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_033",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 33,
+      "question": "লোক ভর্তি হল ঘরে শূন্য ঘরের থেকে শব্দ ক্ষীণ হয় কারণ-",
+      "options": {
+        "ক": "শূন্য ঘর নীরব থাকে",
+        "খ": "লোক ভতি ঘরে মানুষের শোরগোল হয়",
+        "গ": "শূন্য ঘরে শব্দের শোষণ কম হয়",
+        "ঘ": "শূন্য ঘরে শব্দের শোষণ বেশি হয়"
+      },
+      "correctAnswer": "গ",
+      "answerText": "শূন্য ঘরে শব্দের শোষণ কম হয়",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_23_034",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 34,
+      "question": "রেডিও আইসোটোপ ব্যবহৃত হয়-",
+      "options": {
+        "ক": "কিডনির পাথর গলাতে",
+        "খ": "পিত্তপাথর গলাতে",
+        "গ": "গলগন্ড রোগ নির্ণয়",
+        "ঘ": "নতুন পরমাণু তৈরিতে"
+      },
+      "correctAnswer": "গ",
+      "answerText": "গলগণ্ড রোগ নির্ণয়",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_035",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 35,
+      "question": "যখন সূর্য ও পৃথিবীর মধ্যে চাঁদ অবস্থান করে",
+      "options": {
+        "ক": "চন্দ্রগ্রহণ",
+        "খ": "সূর্যগ্রহণ",
+        "গ": "অমাবস্যা",
+        "ঘ": "পূর্ণিমা"
+      },
+      "correctAnswer": "খ",
+      "answerText": "সূর্যগ্রহণ",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_036",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 36,
+      "question": "পেট্রোলের আগুন পানি দবারা নেভানো যায় না; কারণ-",
+      "options": {
+        "ক": "পেট্রোলের সাথে পানি মিশে যায়",
+        "খ": "",
+        "গ": "পেট্রোল পানির চেয়ে হালকা",
+        "ঘ": "খ ও গ উভয়ই স"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "খ ও গ উভয়ই সঠিক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_037",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 37,
+      "question": "'পিসিকালচার' বলতে কি বুঝায়? তখন হয়eS$ benchnark",
+      "options": {
+        "ক": "হাঁস-মুরগি পালন",
+        "খ": "মৌমাছি পালন",
+        "গ": "মংস্য চান",
+        "ঘ": "রেশম চাব"
+      },
+      "correctAnswer": "গ",
+      "answerText": "মৎস্য চাষ",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_23_038",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 38,
+      "question": "বিষধর সাপে কামড়ালে ক্ষতস্থানে থাকে-",
+      "options": {
+        "ক": "পাশাপাশি দুটো দাঁতের দাগ",
+        "খ": "অনেকগুলো ছোট ছোট দাঁতের দাগ",
+        "গ": "ক্ষতস্থানে প্রচুর বিষ লেগে থাকে",
+        "ঘ": "ক্ষতস্থান থেকে প্রচুর রক্তপাত হতে থাকে"
+      },
+      "correctAnswer": "ক",
+      "answerText": "পাশাপাশি দুটো দাঁতের দাগ",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_039",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 39,
+      "question": "উড়োজাহাজের গতি নির্ণায়ক যন্ত্র-",
+      "options": {
+        "ক": "ক্রনোমিটার",
+        "খ": "ওডোমিটার",
+        "গ": "ট্যাকোমিটার",
+        "ঘ": "ক্রেসকোগাফ"
+      },
+      "correctAnswer": "গ",
+      "answerText": "ট্যাকোমিটার",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_040",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 40,
+      "question": "মানবদেহের রক্তচাপ নির্ণায়ক যন্ত্র-",
+      "options": {
+        "ক": "স্কফিগমোম্যানোমিটার",
+        "খ": "স্টেথস্কোপ",
+        "গ": "কাডিওগ্রাফ",
+        "ঘ": "খুব কম হয়"
+      },
+      "correctAnswer": "",
+      "answerText": "একই হয়",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_23_042",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 42,
+      "question": "তামার সাথে নিচের কোনটি মেশালে পিতল হয়?",
+      "options": {
+        "ক": "নিকেল",
+        "খ": "টিন",
+        "গ": "সিসা",
+        "ঘ": "দস্তা (জিংক)"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "দস্তা (জিংক)",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_043",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 43,
+      "question": "রেক্টিফাইড স্পিরিট হলো-",
+      "options": {
+        "ক": "৯০% ইথাইল অ্যালকোহল ১০% পানি",
+        "খ": "৮০% ইথাইল অ্যালকোহল | ২০% পানি",
+        "গ": "৯৫% ইথাইল অ্যালকোহল ২ % পানি",
+        "ঘ": "৯৮% ইথাইল অ্যালকোহল | ২% পানি"
+      },
+      "correctAnswer": "",
+      "answerText": "আইসোটোপ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_045",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 45,
+      "question": "ফনোগাফ কে আবিষ্কার করেন?",
+      "options": {
+        "ক": "রন্টজেন",
+        "খ": "ফ্যারাডে",
+        "গ": "মাকনি",
+        "ঘ": "এডিসন"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "এডিসন",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_046",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 46,
+      "question": "বাংলাদেশ সিভিল সারভিসের (BCS) ক্যাডার কয়টি?",
+      "options": {
+        "ক": "২৯টি",
+        "খ": "২২টি",
+        "গ": "২১টি",
+        "ঘ": "পাট"
+      },
+      "correctAnswer": "",
+      "answerText": "তৈরি পোশাক",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_23_048",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 48,
+      "question": "মুক্তিযুদ্ধকালে বাংলাদেশে কয়টি সেক্টরে ভাগ করা হয়?",
+      "options": {
+        "ক": "১টি",
+        "খ": "১০টি",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১১টি",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_23_051",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 51,
+      "question": "Food and Agricultural organization এর সদর দপ্তর কোথায় অবস্থিত?",
+      "options": {
+        "ক": "জেনারেল সুহাতো",
+        "খ": "মেজর জেনারেল মঞ্জুর",
+        "গ": "মেমজর জেনারেল এককে এম শফিউল্লাহ",
+        "ঘ": "জোকো উইদাদো"
+      },
+      "correctAnswer": "",
+      "answerText": "International Finance corporation",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_23_055",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 55,
+      "question": "'বান্দুং' শহরটি কোন শহরে অবস্থিত?",
+      "options": {
+        "ক": "চীন",
+        "খ": "ইন্দোনেশিয়া",
+        "গ": "১৯৬৩",
+        "ঘ": "মালয়েশিয়া"
+      },
+      "correctAnswer": "গ",
+      "answerText": "১৯৬৩",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_057",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 57,
+      "question": "পানামা খাল কোন মহাসাগরকে যুক্ত করেছে?",
+      "options": {
+        "ক": "আটলান্িক ৩ ভূমধ্যসাগরকে",
+        "খ": "আটলান্টিক ও প্রশান্ত মহাসাগরকে",
+        "গ": "১৯৬৭",
+        "ঘ": "প্রশান্ত ও ভূমধ্যসাগরকে"
+      },
+      "correctAnswer": "",
+      "answerText": "ইরাক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_060",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 60,
+      "question": "মাইকেল অ্যাঞ্জেলা কোন দেশের শিল্পী?",
+      "options": {
+        "ক": "অস্স্রিয়া",
+        "খ": "গগিস",
+        "গ": "সুইডেন",
+        "ঘ": "ইতালি"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_061",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 61,
+      "question": "'ম্যাকমোহন লাইন'- কোন কোন দেশের সীমানা নির্ধারণ করে?",
+      "options": {
+        "ক": "চন ও রাশিয়া",
+        "খ": "চীন ও ভরত",
+        "গ": "ভারত পাকিস্তান",
+        "ঘ": "পাকিস্তান আফগানিস্তান"
+      },
+      "correctAnswer": "খ",
+      "answerText": "চীন ও ভারত",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_23_062",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 62,
+      "question": "কোনটি নিশীথ সূর্যের দেশ নামে পরিচিত?",
+      "options": {
+        "ক": "হেমারফেস্ট",
+        "খ": "কুইবেক",
+        "গ": "তিববত",
+        "ঘ": "কোনোটিই নয়"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "কোনটিই নয়",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_063",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 63,
+      "question": "ইসলামি উন্নয়ন",
+      "options": {
+        "ক": "রিয়াদ",
+        "খ": "জেদ্দ",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "জেদ্দা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_064",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 64,
+      "question": "বেলজিয়ামের মুদ্রার নাম কি?",
+      "options": {
+        "ক": "শিলিং",
+        "খ": "ফরাংক",
+        "গ": "পাউন্ড",
+        "ঘ": "ইউরো"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "ইউরো",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_065",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 65,
+      "question": "কোনটি 'চির শান্তির শহর' নামে পরিচিত?",
+      "options": {
+        "ক": "রোম",
+        "খ": "ভেনস",
+        "গ": "",
+        "ঘ": "ওসলো"
+      },
+      "correctAnswer": "ক",
+      "answerText": "রম",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_066",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 66,
+      "question": "বাব এল- মান্দেব' কি শব্দ?",
+      "options": {
+        "ক": "ফারসি",
+        "খ": "উর্দু",
+        "গ": "আরবি",
+        "ঘ": "ইংরেজি"
+      },
+      "correctAnswer": "",
+      "answerText": "পাঁচজন",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_23_068",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 68,
+      "question": "পিএলও (PLO) কখন গঠিত হয়?",
+      "options": {
+        "ক": "১৯৬৪",
+        "খ": "১৯৬৫",
+        "গ": "১৯৬৬",
+        "ঘ": "১৯৬৭"
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৯৬৪",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_23_069",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 69,
+      "question": "নক্রুমা কোন দেশের প্রেসিডেন্ট ছিলেন?",
+      "options": {
+        "ক": "নাইজেরিয়া",
+        "খ": "কঙ্গে",
+        "গ": "আবিসিনিয়া",
+        "ঘ": "ঘাণ"
+      },
+      "correctAnswer": "",
+      "answerText": "ঘানা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_070",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 70,
+      "question": "কম্পিউটারে কোনটি নেই? ক",
+      "options": {
+        "ক": "",
+        "খ": "দীর্ঘ সময় কাজ করার ক্ষমতা",
+        "গ": "বুদ্ধি বিবেচনা",
+        "ঘ": "নির্ভুল কাজ করার ক্ষমতা"
+      },
+      "correctAnswer": "গ",
+      "answerText": "বুদ্ধি বিবেচনা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_23_071",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 71,
+      "question": "৭3 কেজি ওজনবিশিষ্ট একটি মিশরণ A কতটুকু রয়েছে?",
+      "options": {
+        "ক": "@ কজ",
+        "খ": "১২ কোজ",
+        "গ": "১৭ কৌজি",
+        "ঘ": "৫১ কেজি"
+      },
+      "correctAnswer": "",
+      "answerText": "১ $",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_23_073",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 73,
+      "question": "M সংখ্যক সংখ্যার গড় A এবং N সংখ্যক সংখ্যার গড় B হলে সবগুলো সংখ্যার গড় কত?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_23_078",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 78,
+      "question": "২০ সদস্যবিশিষ্ট একটি ফুটবল দল থেকে একজন অধিনায়ক ও একজন সহ-অধিনায়ক কতভাবে নির্বাচন করা ৭৫. কোনো সমদ্বিবাহু ত্রিভুজের ভূমি ১৬ একক এবং অপর প্রত্যেক বাহুদবয় ১০ একক! ত্রিভুজটির ক্ষেত্রফল কত বর্গ A+B 2 AM+BNT ২[ 2 Al+BLI গ[ M+NI Al+BNI A+B ]/+1[ যাবে?",
+      "options": {
+        "ক": "১০",
+        "খ": "১৯০",
+        "গ": "৩য0",
+        "ঘ": "৭৬0"
+      },
+      "correctAnswer": "",
+      "answerText": "৫৫",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_23_079",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 79,
+      "question": "যদি তেলের মূল্য ২৫% বৃদ্দধি পায় তবে তেলের ব্যবহার শতকরা কত কমালে, তেল বাবদ খরচ বৃদ্দধি পাবে না?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_23_080",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 80,
+      "question": "কোনো স্কুলে ৭০% শিক্ষার্থী ইংরেজি এবং ৮০% শিক্ষার্থী বাংলায় পাস করেছে! কিন্তু ১০% উভয় বিষয়ে ফেল যদি উভয় বিষয়ে ৩০০ জন শিক্ষার্থী পাস করে থাকে তবে ঐ স্কুলে কতজন শিক্ষার্থী পরীক্ষা দিয়েছে?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_23_081",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 81,
+      "question": "Complete the following sentence If I had known you were coming-",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_23_083",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 83,
+      "question": "Which phrase contains words opposed to each other in meaning? ৭৮. ১/২ এর শতকরা কত ৩/8 হবে?",
+      "options": {
+        "ক": "১০%",
+        "খ": "১২৫%",
+        "গ": "১8০%",
+        "ঘ": "১৫০%"
+      },
+      "correctAnswer": "",
+      "answerText": "Reproduction and death",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_23_088",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 88,
+      "question": "Find out the correct translation সকাল থেকে গুড়ি গুড়ি বৃষ্টি হচ্ছে |",
+      "options": {
+        "ক": "IL 1s raining from morning",
+        "খ": "Javed was So exhausted that he had laid down for a sleep",
+        "গ": "1+ nas been drizzling since morning",
+        "ঘ": "It 1s drizzling since morning"
+      },
+      "correctAnswer": "খ",
+      "answerText": "Javed was So exhausted that he was lying down for a",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_23_089",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 89,
+      "question": "A synonym for 'resentment' is-",
+      "options": {
+        "ক": "fear",
+        "খ": "",
+        "গ": "indignation",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "anger",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_23_090",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 90,
+      "question": "The captain left the boat, because it- fulaball benchnnark slee২: ৯৬. Choose the right preposition for the sentence She argued turne] lown turnedl up",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "turne] botton",
+        "ঘ": "turnel over"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "turne] over",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_23_091",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 91,
+      "question": "One should be careful about luty.",
+      "options": {
+        "ক": "his",
+        "খ": "her",
+        "গ": "011e's",
+        "ঘ": "+he"
+      },
+      "correctAnswer": "",
+      "answerText": "o11e $",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_23_092",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 92,
+      "question": "Three fourths of the work finished.",
+      "options": {
+        "ক": "have been",
+        "খ": "had",
+        "গ": "las been",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "las been",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_23_093",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 93,
+      "question": "We waited until the plane-",
+      "options": {
+        "ক": "did not take off",
+        "খ": "took off",
+        "গ": "had not taken Off",
+        "ঘ": "hal taken off"
+      },
+      "correctAnswer": "গ",
+      "answerText": "had taken Off",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_23_094",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 94,
+      "question": "I spent with the patient",
+      "options": {
+        "ক": "so1neti1n1e$",
+        "খ": "so1netinne",
+        "গ": "sonne tinne",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "some time",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_23_095",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 95,
+      "question": "Choose the correct sentence Rahin ate almost the whole fish",
+      "options": {
+        "ক": "with",
+        "খ": "Rahim alnost ate the whole fish",
+        "গ": "Alnnost Rahin ate whole fish",
+        "ঘ": "Rahim ate the whole fish almost"
+      },
+      "correctAnswer": "ক",
+      "answerText": "with",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_23_097",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 97,
+      "question": "Choose the right preposition for the sentence I count",
+      "options": {
+        "ক": "after",
+        "খ": "",
+        "গ": "fo1",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_23_098",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 98,
+      "question": "Identify the correct passive form- Open the window. The window should be opened",
+      "options": {
+        "ক": "",
+        "খ": "Let the window be opened",
+        "গ": "Let the winlow be opened by ]011.",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "Let the window be opened",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_23_099",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 99,
+      "question": "Choose the appropriate meaning of the idiom",
+      "options": {
+        "ক": "First work",
+        "খ": "Last worl",
+        "গ": "Mildle work",
+        "ঘ": "Early work"
+      },
+      "correctAnswer": "খ",
+      "answerText": "Last worl",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_23_100",
+      "exam": "23th BCS Preliminary",
+      "examCode": "bcs_23",
+      "questionNo": 100,
+      "question": "Complete the sentence- Trees have off their",
+      "options": {
+        "ক": "thrown",
+        "খ": "fallen",
+        "গ": "cast",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "23th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1566 @@
+{
+  "examName": "22th BCS Preliminary",
+  "examCode": "bcs_22",
+  "totalQuestions": 63,
+  "validation": {
+    "totalDetected": 63,
+    "highestQuestionNo": 100,
+    "missing": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      9,
+      21,
+      22,
+      25,
+      27,
+      34,
+      35,
+      36,
+      37,
+      41,
+      42,
+      43,
+      44,
+      47,
+      53,
+      54,
+      56,
+      58,
+      59,
+      64,
+      65,
+      66,
+      67,
+      72,
+      74,
+      77,
+      80,
+      84,
+      85,
+      86,
+      87,
+      90
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 36,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_22_001",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 1,
+      "question": "! বাংলা সাহিত্যের ইতিহাস বিষয়ক প্রথম উল্লেখযোগ্য গ্রন্থ কার রচনা?",
+      "options": {
+        "ক": "দীনেশচন্দ্র সেন",
+        "খ": "সুনীতিকুমার চট্টোপাধ্যায়",
+        "গ": "মুহম্মদ শহীদুল্লাহ্",
+        "ঘ": "মুহম্মদ এনামুল হক"
+      },
+      "correctAnswer": "",
+      "answerText": "বিদ্যাপতি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_22_003",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 3,
+      "question": "! ভাষা প্রকাশ বাঙ্গালা ব্যাকরণ' কে রচনা করেন?",
+      "options": {
+        "ক": "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+        "খ": "সুনীতিকুমার চট্টোপাধ্যায়",
+        "গ": "মুহম্মদ শহীদুল্লাহ",
+        "ঘ": "সুকুমার সেন"
+      },
+      "correctAnswer": "খ",
+      "answerText": "সুনীতিকুমার চট্টোপাধ্যায়",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_22_008",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 8,
+      "question": "! ঢাকের কাঠি' বাগধারার",
+      "options": {
+        "ক": "সাহায্যকারী",
+        "খ": "তোষামুদে",
+        "গ": "বদক",
+        "ঘ": "বিদ্রোই"
+      },
+      "correctAnswer": "",
+      "answerText": "মোহাম্মদ নাসিরউদ্দীন",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_22_010",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 10,
+      "question": "'সাত সাগরের মাঝি' কাব্যগ্রন্থটির কবি কে?",
+      "options": {
+        "ক": "ফররুখ আহমদ",
+        "খ": "আহসান হাবীব",
+        "গ": "",
+        "ঘ": "হসান হাফিজুর রহমান"
+      },
+      "correctAnswer": "ক",
+      "answerText": "ফররুখ আহমদ",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_22_011",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 11,
+      "question": "'পথের দাবী' উপন্যাসের রচয়িতা কে?",
+      "options": {
+        "ক": "শরংচন্দ্র চট্টোপাধ্যায়",
+        "খ": "মানিক বন্দ্যোপাধ্যায়",
+        "গ": "সত্যেন সেন",
+        "ঘ": "সুকান্ত ভট্টাচার্য"
+      },
+      "correctAnswer": "ক",
+      "answerText": "শরংচন্দ্র চট্টোপাধ্যায়",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_22_012",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 12,
+      "question": "'অপলাপ' শব্দের অর্থ কী?",
+      "options": {
+        "ক": "অস্বীকার",
+        "খ": "মিথ্যা",
+        "গ": "পলাপ",
+        "ঘ": "অসদালাপ"
+      },
+      "correctAnswer": "ক",
+      "answerText": "অস্বীকার",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_22_013",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 13,
+      "question": "! পদ বা পদাবলি বলতে কী বোঝায়?",
+      "options": {
+        "ক": "লাচাড়ী ছন্দে রচিত পদ্য বা কবিতাবলি",
+        "খ": "পদ্যাকারে রচিত দেবস্ততিমূলক রচনা",
+        "গ": "বাউল বা মরমী গীতি",
+        "ঘ": "বৌদ্ধ বা বৈষ্ণবীয় ধর্মের গূঢ় বিষয়ের বিশেষ সৃষ্টি"
+      },
+      "correctAnswer": "খ",
+      "answerText": "পদ্যাকারে রচিত দেবস্ততিমূলক রচনা",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_22_014",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 14,
+      "question": "বাংলা সাহিত্যের ইতিবৃত্ত' (আধুনিক) কারা রচনা করেন?",
+      "options": {
+        "ক": "ড মুহম্মদ শহীদুল্লাহ্ সৈয়দ হাসান আলী",
+        "খ": "ড মুহম্মদ শহীদুল্লাহ মুহম্মদ আবদুল হাই",
+        "গ": "মুহম্মদ আবদুল হাই, আনিসুজ্জামান ও আনোয়ার পাশা",
+        "ঘ": "মুহম্মদ আবদুল হাই ও সৈয়দ আলী আহসান"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "মুহম্মদ আবদুল হাই ও সৈয়দ আলী আহসান",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_22_015",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 15,
+      "question": "| কোনটি সঠিক?",
+      "options": {
+        "ক": "গোরা (নাট্যগ্রন্থ)",
+        "খ": "একাত্তরের দিনগুলি উপন্যাস)",
+        "গ": "পথের দাবী (উপন্যাস)",
+        "ঘ": "বিদ্রোহী (কাব্যগ্রন্থ)"
+      },
+      "correctAnswer": "গ",
+      "answerText": "পথের দাবী (উপন্যাস)",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_22_016",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 16,
+      "question": "কোনটি হযরত মুহম্মদ (স) এর জীবনী গ্রন্থ? ক g খ . মরুভাকর",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "মরুতীর্থ",
+        "ঘ": "মরু কুসুম"
+      },
+      "correctAnswer": "",
+      "answerText": "মরুভাস্কর",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_22_017",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 17,
+      "question": "'পদাবলি' লিখেছেন-",
+      "options": {
+        "ক": "রবীন্দ্রনাথ ঠাকুর",
+        "খ": "মাইকেল মধুসূদন দত্ত",
+        "গ": "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+        "ঘ": "কায়কোবদ"
+      },
+      "correctAnswer": "ক",
+      "answerText": "রবীন্দ্রনাথ ঠাকুর",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_22_018",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 18,
+      "question": "বাংলা একাডেমি সংক্ষিপ্ত বাংলা অভিধান' এর সম্পাদক কে?",
+      "options": {
+        "ক": "মুহম্মদ আবদুল হাই",
+        "খ": "মুহম্মদ শহীদুল্লাহ্",
+        "গ": "মুহম্মদ এনামুল হক",
+        "ঘ": "আহমদ শরীফ"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "আহমদ শরীফ",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_22_019",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 19,
+      "question": "ভিক্ষুকটা যে পিছনে লেগেই রয়েছে; কী বিপদ!' এই বাক্যের 'কী' এর অর্থ-",
+      "options": {
+        "ক": "ভয",
+        "খ": "রাগ",
+        "গ": "বিরক্কতি",
+        "ঘ": "বিপদ"
+      },
+      "correctAnswer": "গ",
+      "answerText": ". বিরক্তি",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_22_020",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 20,
+      "question": "দোভাসী পুঁথি বলতে কি বুঝায়?",
+      "options": {
+        "ক": "দুই ভাষায় রচিত পুঁথি",
+        "খ": "কয়েকটি ভাষার শব্দ ব্যবহার করে মিশ্রিত ভাষায় রচিত",
+        "গ": "তৈরি করা কৃত্রিম ভাষায় রচিত পুঁথি",
+        "ঘ": "৩৫ বছর"
+      },
+      "correctAnswer": "",
+      "answerText": "তৈরি পোশাক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_22_023",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 23,
+      "question": "! কুমিল্লা বার্ড (BARD) এর প্রতিষ্ঠাতা কে?",
+      "options": {
+        "ক": "মোহম্মদ আইয়ুব খান",
+        "খ": "আখতার হামিদ খান",
+        "গ": "আবদুল হামিদ খান ভাসানী",
+        "ঘ": "ফজজুল হক"
+      },
+      "correctAnswer": "খ",
+      "answerText": "আখতার হামিদ খান",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_22_024",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 24,
+      "question": "| ছয়-দফা দাবি প্রথম কোথায় উত্থাপন করা হয়?",
+      "options": {
+        "ক": "ঢাকায়",
+        "খ": "লাহোেরে",
+        "গ": "করাচিতে",
+        "ঘ": "নারায়ণগঞ্জে"
+      },
+      "correctAnswer": "",
+      "answerText": "কনওয়ালিস",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_22_026",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 26,
+      "question": "বাংলাদেশের সবচেয়ে উত্তরের জেলা",
+      "options": {
+        "ক": "দিনাজপুর",
+        "খ": "সুরমা",
+        "গ": "লালমনিরহাট",
+        "ঘ": "পঞ্চগড়"
+      },
+      "correctAnswer": "খ",
+      "answerText": "সুরমা",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_22_028",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 28,
+      "question": "বাংলাদেশের লোকশিল্প জাদুঘর কোথায় অবস্থিত?",
+      "options": {
+        "ক": "ময়নামতি",
+        "খ": "সোনারগাঁও",
+        "গ": "ঢাকা",
+        "ঘ": "পাহাডপুর"
+      },
+      "correctAnswer": "খ",
+      "answerText": "সোনারগাঁও",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_22_029",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 29,
+      "question": "বাংলাদেশের বিখ্যাত মনিপুরী নাচ কোন অঞ্চলের?",
+      "options": {
+        "ক": "রাঙ্গামাটি",
+        "খ": "রংপুর",
+        "গ": "কুমিল্লা",
+        "ঘ": "সিলেট"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "সিলেট",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_22_030",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 30,
+      "question": "মুক্তিযুদ্দকালে বাংলাদেশকে কয়টি সেক্টরে ভাগ করা হয়?",
+      "options": {
+        "ক": "আট",
+        "খ": "দশ",
+        "গ": "এগর",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "এগার",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_22_031",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 31,
+      "question": "বাংলাদেশ কোন সালে ইসলামী সম্মেলন সংস্থার সদস্য লাভ করে?",
+      "options": {
+        "ক": "১৯৭২ সালে",
+        "খ": "১৯৭৩ সালে",
+        "গ": "১৯৭৪ সালে",
+        "ঘ": "১৯৭৫ সালে"
+      },
+      "correctAnswer": "গ",
+      "answerText": "১৯৭৪ সালে",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_22_032",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 32,
+      "question": "/ বাংলাদেশ কত বার স্বস্তি পরিষদের সদস্যপদ লাভ করে? you1 SULC' ক ২ বার oenchnark",
+      "options": {
+        "ক": "",
+        "খ": "৩ বার",
+        "গ": "১ বার",
+        "ঘ": "৪ বর"
+      },
+      "correctAnswer": "খ",
+      "answerText": "২ বার",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_22_033",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 33,
+      "question": "বাংলাদেশ সরকারি কর্মকমিশন সংবিধানের কত অনুচ্ছেদ অনুযায়ী গঠিত?",
+      "options": {
+        "ক": "১৩৬",
+        "খ": "১৩৭",
+        "গ": "১৩৮",
+        "ঘ": "'১৪০ ২)"
+      },
+      "correctAnswer": "খ",
+      "answerText": "১৩৭",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_22_038",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 38,
+      "question": "জাতির জনক বঙ্গবন্ধু জাতিসংঘের কোথায় বাংলা ভাষায় বক্তৃতা প্রদান করেন?",
+      "options": {
+        "ক": "স্বস্তি পরিষদ",
+        "খ": "সাধারণ পরিষদের অধিবেশন",
+        "গ": "ইকোসকে",
+        "ঘ": "ইউনেস্কোতে"
+      },
+      "correctAnswer": "",
+      "answerText": "বর্ধমান হাউজ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_22_039",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 39,
+      "question": "ঢাকা বিভাগে কয়টি জেলা আছে?",
+      "options": {
+        "ক": "১৫টি",
+        "খ": "১৭টি",
+        "গ": "১৪টি",
+        "ঘ": "১৩টি"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "১৩টি",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_22_040",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 40,
+      "question": "ঢাকা বিশ্ববিদ্যালয় প্রতিষ্ঠিত হয় কোন সালে?",
+      "options": {
+        "ক": "১৯০৫ সালে",
+        "খ": "১৯১১ সালে",
+        "গ": "১৯৩৫ সালে",
+        "ঘ": "১৯২১ সালে"
+      },
+      "correctAnswer": "",
+      "answerText": "জেদ্দা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_22_045",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 45,
+      "question": "! অমর্ত্য সেন কোন বিষয়ে গবেষণা করে নোবেল পুরস্কার পান?",
+      "options": {
+        "ক": "দুর্ভিক্ষ ও দারিদ্য",
+        "খ": "উন্নয়নের গতিধারা",
+        "গ": "",
+        "ঘ": "বৈদেশিক সাহায্য"
+      },
+      "correctAnswer": "ক",
+      "answerText": "দুর্ভিক্ষ ৩ দারিদ্র্য",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_22_046",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 46,
+      "question": "জোট নিরপেক্ষ আন্দোলন (NAM) এর আগামী শীর্ষ সম্মেলন কোন শহরে অনুষ্ঠিত হবে?",
+      "options": {
+        "ক": "দিল্লী",
+        "খ": "ডরবান",
+        "গ": "৮",
+        "ঘ": "জাকা্তা"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_22_048",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 48,
+      "question": "BIMSTEC ধরনের সংগঠন? রাজনৈতিক",
+      "options": {
+        "ক": "",
+        "খ": "অর্থনৈতিক",
+        "গ": "বাণিজ্যিক",
+        "ঘ": "সামাজিক"
+      },
+      "correctAnswer": "খ",
+      "answerText": "অর্থনৈতিক",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_22_049",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 49,
+      "question": "সাক কোন সালে কোথায় প্রতিষ্ঠিত? 1 SULCC খ হোমস",
+      "options": {
+        "ক": "১৯৮৫ সালে ঢাকায়",
+        "খ": "১৯৮৩ সালে দিল্লিতে",
+        "গ": "১৯৮৪ সালে কলমোতে",
+        "ঘ": "১৯৮৬ সালে মালেতে"
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৯৮৫ সালে ঢাকায়",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_22_050",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 50,
+      "question": "জাতিসংঘের বর্তমান সদস্য সংখ্যা কত?",
+      "options": {
+        "ক": "১৮৫",
+        "খ": "",
+        "গ": "১৭০",
+        "ঘ": "১৯৩"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "১৯৩",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_22_051",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 51,
+      "question": "রাশিয়ার তুরস্ক নামক পারমাণবিক সাবমেরিনটির ওজন কত?",
+      "options": {
+        "ক": "১১০০",
+        "খ": "১৩৯০০",
+        "গ": "১৪,২০০",
+        "ঘ": "২৪,০০০"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "২৪,০০০",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_22_052",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 52,
+      "question": "! ট্রান্সপারেন্সি ইন্টারন্যাশনালের মতে; বিশ্বের সবচেয়ে বেশি দুর্নীতিগ্রস্ত দেশ কোনটি?",
+      "options": {
+        "ক": "সুইডেন",
+        "খ": "নাইজেরিয়া",
+        "গ": "বাংলাদেশ",
+        "ঘ": "সোমালিয়া"
+      },
+      "correctAnswer": "",
+      "answerText": "প্রেসিডেন্ট কিম দায়ে জং",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_22_055",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 55,
+      "question": "পৃথিবীর বৃহত্তম মহাদেশ কোনটি?",
+      "options": {
+        "ক": "আফ্রিকা",
+        "খ": "ইউরেশিয়া",
+        "গ": "এশিয়া",
+        "ঘ": "উত্তর আমেরিকা"
+      },
+      "correctAnswer": "",
+      "answerText": "ফিনল্যান্ড",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_22_057",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 57,
+      "question": "সুইডেনের মুদ্রার নাম কি?",
+      "options": {
+        "ক": "পাউন্ড",
+        "খ": "ডলার",
+        "গ": "কণ",
+        "ঘ": "পেসো"
+      },
+      "correctAnswer": "",
+      "answerText": "মার্লবোরো হাউজ 0",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_22_060",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 60,
+      "question": "প্রথম সাফ গেমস কোথায় অনুষ্ঠিত হয়?",
+      "options": {
+        "ক": "ঢাকা",
+        "খ": "নয়াদিল্লী",
+        "গ": "কলমো",
+        "ঘ": "কাঠমান্ডু"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "কাঠমান্ডু",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_22_061",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 61,
+      "question": "! নিউট্রন আবিষ্কার করেন-",
+      "options": {
+        "ক": "কিউরি",
+        "খ": "রাদারফোড",
+        "গ": "চ্যাউউইক",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "চ্যাডউইক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_22_062",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 62,
+      "question": "| যে সব নিউক্লিয়াসের নিউট্রন সংখ্যা সমান কিন্তু ভর সংখ্যা সমান নয়, তাদের বলা হয়-",
+      "options": {
+        "ক": "আইসোটোন",
+        "খ": "আইসোমার",
+        "গ": "আইসোটোপ",
+        "ঘ": "আইসোবার"
+      },
+      "correctAnswer": "ক",
+      "answerText": "আইসোটোন",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_22_063",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 63,
+      "question": "উড়োজাহাজের গতি নির্ণাংক যন্ত্র- ক্রনোমিটার",
+      "options": {
+        "ক": "",
+        "খ": "ট্যাকোমিটার",
+        "গ": "হাইগ্রোমিটার",
+        "ঘ": "ওডোমিটার"
+      },
+      "correctAnswer": "খ",
+      "answerText": "ট্যাকোমিটার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_22_068",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 68,
+      "question": "ভূমিকম্প নির্ণায়ক যন্ত্র-",
+      "options": {
+        "ক": "ব্যারোমিটার",
+        "খ": "বিটা রশ্মি",
+        "গ": "রঞ্জন রশ্মি",
+        "ঘ": "ম্যানোমিটার"
+      },
+      "correctAnswer": "",
+      "answerText": "পরমাণুর ফিউশন পদ্ধতিতে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_22_069",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 69,
+      "question": "গরিন হাউজ প্রতিক্রিয়া এই দেশের জন্য ভয়াবহ আশঙ্কার কারণ হয়ে দাড়িয়েছে এর ফলে",
+      "options": {
+        "ক": "সমুদ্রতলের উচ্চতা বেড়ে যেতে পারে",
+        "খ": "বৃষ্টিপাতের পরিমাণ কমে যেতে পারে",
+        "গ": "নদ-নদীর পানি কমে যেতে পারে",
+        "ঘ": "ওজোন স্তরের ক্ষত না হতে পারে"
+      },
+      "correctAnswer": "ক",
+      "answerText": "সমুদ্রতলের উচ্চতা বেড়ে যেতে পারে",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_22_070",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 70,
+      "question": "আমাদের দেশে বনায়নের ভূমিকা অত্যন্ত গুরুত্বপূর্ণ ! কারণ-",
+      "options": {
+        "ক": "গাছপালা পরিবেশের ভারসাম্য নষ্ট করে",
+        "খ": "গাছপালা 02 ত্যাগ করে পরিবেশকে নির্মল রাখে ৩",
+        "গ": "দেশের অর্থনৈতিক উন্নয়নে কোনো অবদান নেই",
+        "ঘ": "ঝড় ও বন্যার আশঙ্কা বাড়িয়ে দেয়"
+      },
+      "correctAnswer": "খ",
+      "answerText": "গাছপালা 02 ত্যাগ করে পরিবেশকে নির্মল রাখে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_22_071",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 71,
+      "question": "দুইটি ক্রমিক সংখ্যার বর্গের অন্তর ১৯৯ হলে, বড় সংখ্যাটি কত? Jidd",
+      "options": {
+        "ক": "৭0",
+        "খ": "0",
+        "গ": "৯০",
+        "ঘ": "১09"
+      },
+      "correctAnswer": "",
+      "answerText": "৩৫,৪৫,৬৩,১০৫,৩১৫",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_22_073",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 73,
+      "question": "/ কোনো পরীক্ষায় শিক্ষার্থীর ৮০% গণিতে এবং ৭০% বাংলায় পাশ করলো; উভয় বিষয়ে পাশ করলো ৬০%, তাহলে উভয় বিষয়ে শতকরা কতজন ফেল করলো?",
+      "options": {
+        "ক": "১০%",
+        "খ": "১৫%",
+        "গ": "১>%",
+        "ঘ": "১১%"
+      },
+      "correctAnswer": "খ",
+      "answerText": "৫%",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_22_075",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 75,
+      "question": "৬০ মিটার দৈর্ঘ্য বিশিষ্ট বাঁশকে ৩ : ৭ : ১০ অনুপাতে ভাগ করলে টুকরোগুলোর সাইজ কত?",
+      "options": {
+        "ক": "মি, ২২ মি, ৩০ মি",
+        "খ": "১০মি ২০ মি ৩০ মি",
+        "গ": "৯ মি, ২১মি, ৩০ মি",
+        "ঘ": "১২ মি; ২০মি, ২৮মি"
+      },
+      "correctAnswer": "গ",
+      "answerText": "৯ মি, ২১মি, ৩০ মি",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_22_076",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 76,
+      "question": "একটি সংখ্যা ৬৫০ থেকে যত বড় ৮২০ থেকে তত ছোট । সংখ্যাটি কত? ক ৭৩৫",
+      "options": {
+        "ক": "7/9",
+        "খ": "9/11",
+        "গ": "৮০0",
+        "ঘ": "13/15"
+      },
+      "correctAnswer": "খ",
+      "answerText": "9/11",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_22_078",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 78,
+      "question": "কোন সংখ্যাটি বৃহত্তম?",
+      "options": {
+        "ক": "0.3",
+        "খ": "",
+        "গ": "^ 0.3 0,5477",
+        "ঘ": "0,4"
+      },
+      "correctAnswer": "ক",
+      "answerText": "0.3 0,5477",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_22_079",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 79,
+      "question": "L Y + J = 12 এবং x - J = 2 হলে, xy এর মান কত?",
+      "options": {
+        "ক": "৩৫",
+        "খ": "১৪০",
+        "গ": "৩৩ বছর",
+        "ঘ": "১88"
+      },
+      "correctAnswer": "গ",
+      "answerText": "৩৩ বছর",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_22_081",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 81,
+      "question": "Submission",
+      "options": {
+        "ক": "Subjection Liberation",
+        "খ": "Restrain Indulge.",
+        "গ": "Complaint Acquiescent",
+        "ঘ": "Restriction . Relaxation"
+      },
+      "correctAnswer": "গ",
+      "answerText": "Complaint Acquiescent",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_22_082",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 82,
+      "question": "Vacillate Hesitate",
+      "options": {
+        "ক": "Persevere . Waiver",
+        "খ": "",
+        "গ": "Obstinate Accommodating",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Irresolute Indecisive.",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_22_083",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 83,
+      "question": "Assert Dissent Other Job's Preparation",
+      "options": {
+        "ক": "Affirm Object",
+        "খ": "Reject .. Disapprove",
+        "গ": "",
+        "ঘ": "Endorse Ratify"
+      },
+      "correctAnswer": "ক",
+      "answerText": "Affirm Object",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_22_088",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 88,
+      "question": "Distort Twist.",
+      "options": {
+        "ক": "Straighten Ben]",
+        "খ": "Deform Reform",
+        "গ": "Harmonize Balance",
+        "ঘ": "bserve Blur"
+      },
+      "correctAnswer": "",
+      "answerText": "give in",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_22_089",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 89,
+      "question": "The children studied in class roon windows were never opened",
+      "options": {
+        "ক": "+hat",
+        "খ": "whi l",
+        "গ": "where",
+        "ঘ": "Figure"
+      },
+      "correctAnswer": "",
+      "answerText": "diet",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_22_091",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 91,
+      "question": "We must 0u11' fingers that the weather will stay fine for the picnic tomorrow raise] pointed",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "liftedl",
+        "ঘ": "cressed (crossed)"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "cressel (crossed) V01.1 SUC",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_22_092",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 92,
+      "question": "They have their support for our case",
+      "options": {
+        "ক": "pledged",
+        "খ": "lisavowel",
+        "গ": "",
+        "ঘ": "leferel"
+      },
+      "correctAnswer": "ক",
+      "answerText": "pledged",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_22_093",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 93,
+      "question": "Cul-de-sac",
+      "options": {
+        "ক": "selection",
+        "খ": "lead en]",
+        "গ": "erro1",
+        "ঘ": "bubble"
+      },
+      "correctAnswer": "খ",
+      "answerText": "dead end",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_22_094",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 94,
+      "question": "Parcel",
+      "options": {
+        "ক": "quarrel",
+        "খ": "piece of land",
+        "গ": "postage",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "piece of land",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_22_095",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 95,
+      "question": "Ruminant",
+      "options": {
+        "ক": "Cud-chewing animal",
+        "খ": "",
+        "গ": "Gossip",
+        "ঘ": "Noise-mnaker"
+      },
+      "correctAnswer": "ক",
+      "answerText": "Cud-chewing animal",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_22_096",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 96,
+      "question": "Which one may be the conclusion of the passage?",
+      "options": {
+        "ক": "Telescopes and data bases complement",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "Telescopes and data bases complement",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_22_097",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 97,
+      "question": "Data bases sit 011 computer disks, humming away implies.",
+      "options": {
+        "ক": "Data bases are singing instrument",
+        "খ": "Data bases are useless anl static",
+        "গ": "Data bases make soft-sounil but ate working",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "Data bases make soft-sou11] but ate",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_22_098",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 98,
+      "question": "Modern data base produce reanns 0[ observational data Data bases produce a lot of information",
+      "options": {
+        "ক": "",
+        "খ": "Data bases are peaked with paper",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Telescopes and data bases have nothing",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_22_099",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 99,
+      "question": "Which one 1s correct according to the passage?",
+      "options": {
+        "ক": "The contemporary astronomer needs to",
+        "খ": "The contemporary astronomer needs a",
+        "গ": "The contemporary astronomer needs",
+        "ঘ": "The contemporary astronomer needs a"
+      },
+      "correctAnswer": "খ",
+      "answerText": "The contemporary astronomer needs a",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_22_100",
+      "exam": "22th BCS Preliminary",
+      "examCode": "bcs_22",
+      "questionNo": 100,
+      "question": "A title for the passage will be-",
+      "options": {
+        "ক": "Telescope and exploration of the universe",
+        "খ": "Digital an] exploration of the",
+        "গ": "Astronomers and exploration Of the",
+        "ঘ": "Space exploration in the view millennium"
+      },
+      "correctAnswer": "খ",
+      "answerText": "Digital an] exploration of the",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "22th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    }
+  ]
+}

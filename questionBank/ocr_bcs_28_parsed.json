@@ -1,0 +1,1451 @@
+{
+  "examName": "28th BCS Preliminary",
+  "examCode": "bcs_28",
+  "totalQuestions": 58,
+  "validation": {
+    "totalDetected": 58,
+    "highestQuestionNo": 100,
+    "missing": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      14,
+      15,
+      16,
+      17,
+      22,
+      23,
+      24,
+      27,
+      34,
+      35,
+      36,
+      37,
+      41,
+      42,
+      44,
+      47,
+      52,
+      53,
+      56,
+      59,
+      63,
+      64,
+      65,
+      72,
+      74,
+      77,
+      78,
+      79,
+      84,
+      85,
+      86,
+      87,
+      90,
+      91,
+      92,
+      95,
+      97
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 57,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_28_001",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 1,
+      "question": "চর্যাপদ আবিষ্কৃত হয় কোথা থেকে?",
+      "options": {
+        "ক": "বাঁকুড়ার এক গৃহস্থের গোয়াল ঘর থেকে",
+        "খ": "",
+        "গ": "নেপালের রাজগ্রন্থশালা থেকে",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ভারতচন্দ্র রায়গুণাকর",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_28_003",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 3,
+      "question": "বিদ্যাপতি কোথাকার কবি ছিলেন?",
+      "options": {
+        "ক": "নবদ্বীপের ছ মিথিলার",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "মিথিলার",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_28_008",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 8,
+      "question": "শ্রীকৃষ্ণকীর্তন কাব্যের বড়াই কী ধরনের চরিত্র?",
+      "options": {
+        "ক": "শ্রী রাধার ননদিনী",
+        "খ": "লোক সাধারণের কল্যণে দেবতার স্তুতিমূলক রচনাকে",
+        "গ": "রাধাকৃষ্ণের প্রেমের দূতী",
+        "ঘ": "সুদূর চীন দেশ থেকে"
+      },
+      "correctAnswer": "",
+      "answerText": "ইংরেজি ভাবধারাপুষ্ট বাঙালি যুবক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_28_009",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 9,
+      "question": "দীনবন্ধু মিত্রের প্রহসন কোনটি?",
+      "options": {
+        "ক": "বিয়ে পাগলা বুড়ো খ বুড়ো শালিকের ঘাড়ে রো",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "বিয়ে পাগলা বুড়ো",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_28_010",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 10,
+      "question": "মার মশাররফ হোসেনের নাটক কোনটি?",
+      "options": {
+        "ক": "নটির পূজা খ বেহুলা গীতাভিনয়",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "বেহুলা গীতাভিনয়",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_28_011",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 11,
+      "question": "কলকাতায় প্রথম রঙ্গমঞ্চ তৈরি হয় কত সালে?",
+      "options": {
+        "ক": "১১৭ সালে খ ১৮৩২ সালে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৭৫৩ সালে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_28_012",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 12,
+      "question": "রবীন্দ্রনাথ ঠাকুরের অতিপ্রাকৃত গল্প কোনটি?",
+      "options": {
+        "ক": "একরাতরি নষ্টনীড়",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ক্ষুধিত পাষাণ",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_28_013",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 13,
+      "question": "বাংলা সাহিত্যের প্রথম মুসলিম ঔপন্যাসিকের নাম কী?",
+      "options": {
+        "ক": "মোতাহের হোসেন খ ইসমাইল হোসেন সিরাজী",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মীর মশাররফ হোসেন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_28_018",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 18,
+      "question": "নজরুল ইসলামের সম্পাদিত পত্রিকা কোনটি?",
+      "options": {
+        "ক": "মহে নও খ . সওগত",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "জাহান্নাম হইতে বিদায়",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_28_019",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 19,
+      "question": "শওকত ওসমান কোন উপন্যাসের জন্য আদমজী পুরস্কার লাভ করেন?",
+      "options": {
+        "ক": "বনী আদম খ জননী",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ক্রীতদাসের হাসি",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_28_020",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 20,
+      "question": "'উপরোধ' শব্দের অর্থ কী?",
+      "options": {
+        "ক": "প্রতিরোধ ছ উপস্থাপন",
+        "খ": "",
+        "গ": "কিঞ্চিত জলযোগ ঘ কল্কি অবতার",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_28_021",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 21,
+      "question": "Dhaka is becoming one of the cities in Asia ক ১২ He had written the book before he",
+      "options": {
+        "ক": "retire] খ hadl retire]",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Priority",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_28_025",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 25,
+      "question": "The prices of rice are-- raising ছ` risen",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "rising",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_28_026",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 26,
+      "question": "'To get along with' means",
+      "options": {
+        "ক": "to adjust খ to accompany",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Shelley",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_28_028",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 28,
+      "question": "The verb of the word 'short' is",
+      "options": {
+        "ক": "ensho1t shorten",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "shorten",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_28_029",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 29,
+      "question": "'Light' is to 'dark' as 'cold' is to__suCcess",
+      "options": {
+        "ক": "hot খ heat",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_28_030",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 30,
+      "question": "Many prefer donating money distributing clothes",
+      "options": {
+        "ক": "than খ but",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "t০",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_28_031",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 31,
+      "question": "Julia has been ill three months. since খ about",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "for",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_28_032",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 32,
+      "question": "We were waiting for the bus The underlined part 1s -",
+      "options": {
+        "ক": "a 1101111 phrase",
+        "খ": "an infinitive phrase",
+        "গ": "busiest চ most busiest",
+        "ঘ": "a prepositional phrase"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "a prepositional phrase",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_28_033",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 33,
+      "question": "The word 'disinterested' means-",
+      "options": {
+        "ক": "lack of interest খ indlifferent",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "neutral",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_28_038",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 38,
+      "question": "Who did write first English dictionary? Boswell খ Ben Jonson ৩৫. New programs will be next week 1n",
+      "options": {
+        "ক": "telecast published",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "+০",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_28_039",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 39,
+      "question": "Which sentence is correct?",
+      "options": {
+        "ক": "This is an unique case",
+        "খ": "",
+        "গ": "This is a very unique",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "This is a unique case",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_28_040",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 40,
+      "question": "I cannot to pay such high prices",
+      "options": {
+        "ক": "able খ bufU1 SUCCগে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৬১০ খ্রিস্টাব্দে",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_28_043",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 43,
+      "question": "ঐতিহাসিক ২১-দফা দাবীর প্রথম দাবীটি কী ছিল?",
+      "options": {
+        "ক": "বাংলাকে অন্যতম রাষ্ট্রভাষা",
+        "খ": "This is a unique case",
+        "গ": "callou$ চ Neutral",
+        "ঘ": "বিনা ক্ষতিপূরণে জমিদারী উচ্ছেদ"
+      },
+      "correctAnswer": "",
+      "answerText": "১৬ ডিসেম্বর, ১৯৭৯",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_28_045",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 45,
+      "question": "জাতীয় স্মৃতিসৌধের উচ্চতা কত?",
+      "options": {
+        "ক": "৪৬.৫ মি খ` ৪৬ মি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "৪৬ মি",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_28_046",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 46,
+      "question": "হাজংদের অধিবাস কোথায়?",
+      "options": {
+        "ক": "ময়মনসিংহ ও নেত্রকোনা",
+        "খ": "",
+        "গ": "রংপুর ও দিনাজপুর",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ময়মনসিংহ ও নেত্রকোনা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_28_048",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 48,
+      "question": "বাংলাদেশে গামের সংখ্যা কত?",
+      "options": {
+        "ক": "৮৭১৯১ টি খ >৪৫০০ ঢ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "৮৭১৯১ টি",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_28_049",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 49,
+      "question": "বাংলাদেশের প্রথম জাতীয় সংসদ নির্বাচন কবে হয়?",
+      "options": {
+        "ক": "৭ মার্চ, ১৯৭৩ খ ৫ মাচ, ১৯৭৩",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৭ মারচ, ১৯৭৩",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_28_050",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 50,
+      "question": "বাংলাদেশের সবচেয়ে ছোট ইউনিয়ন কোনটি?",
+      "options": {
+        "ক": "সেন্টমাটিন ছ লালপুর",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "সেন্টমাটিন",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_28_051",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 51,
+      "question": "যুক্তরাষ্ট্ের সিনেটের মোট আসন সংখ্যা",
+      "options": {
+        "ক": "১৯ খ ১০০",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ওয়াশিংটন ডিসি",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_28_054",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 54,
+      "question": "দক্ষিণ আফ্রিকা কত বছর শ্বেতাঙ্গ শাসনে ছিল?",
+      "options": {
+        "ক": "৩00 বছর খ ৩৩৫ বছর",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৩8 বছর",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_28_055",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 55,
+      "question": "বসনিয়ার যুদ্ধবিরতি স্বাক্ষরের মধ্যস্থতাকারী কে?",
+      "options": {
+        "ক": "বিল ক্লিনটন খ জিমি কাটার",
+        "খ": "কক্সবাজার ও রামু",
+        "গ": "১ জানুয়ারি, ১৯৮০ ঘ ২১ ফেব্রুয়ারি, ১৯৮০",
+        "ঘ": "সিলেট ও মণিপুর"
+      },
+      "correctAnswer": "",
+      "answerText": "ইমানুয়েল ম্যাক্র",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_28_057",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 57,
+      "question": "হোয়াংহো নদীর উৎপত্তিস্থল কোথায়?",
+      "options": {
+        "ক": "হিমালয় খ কুয়েনলুন পর্বত",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "কুয়েনলুন পর্বত",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_28_058",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 58,
+      "question": "মেক্সিকো ও যুক্তরাষ্ট্র বিভক্তকারী সীমারেখা কোনটি?",
+      "options": {
+        "ক": "সনোরা লাইন খ ম্যাকনামারা লাইন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বেলজিয়াম",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_28_060",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 60,
+      "question": "বিশ্বের কোন দেশের স্বাক্ষরতার হার ১০০%?",
+      "options": {
+        "ক": "পোল্যন্ড খ . ফিনল্যান্ড",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ফিনল্যান্ড",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_28_061",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 61,
+      "question": "রেফরিজারেটরে কমপ্রেসরের কাজ কী?",
+      "options": {
+        "ক": "ফরেয়়নকে ঘনীভূত করা",
+        "খ": "",
+        "গ": "ফ্রেয়নকে সংকুচিত করে এর তাপ",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ফ্রেয়নকে বাষ্পে পরিণত করা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_28_062",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 62,
+      "question": "এক গ্রাম পানির তাপমাত্রা ২০' হতে ৩০ ক্যালরি > 0",
+      "options": {
+        "ক": "১9 ক্যালরি খ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৩টি",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_28_066",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 66,
+      "question": "",
+      "options": {
+        "ক": "কমপ্যাক, ১৯৮৫ খ এপসন, ১৯৮১",
+        "খ": "ফ্রেয়নকে বাষ্পে পরিণত করা",
+        "গ": "ফরঁসিয়ে মিতেরাঁ ঘ জেনরেল দ্য গল",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "এপসন, ১৯৮১",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_28_067",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 67,
+      "question": "নাম কী?",
+      "options": {
+        "ক": "ট্রান্সফর্মার খ . মোটর",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ট্রান্সফর্মার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_28_068",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 68,
+      "question": "বিদ্যুৎ বিলের হিসাব কীভাবে করা হয়?",
+      "options": {
+        "ক": "ওয়াট আওযারে খ ওয়াটে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কিলোওয়াট ঘণ্টায়",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_28_069",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 69,
+      "question": "কোনটি পানিতে দ্রবীভূত হয় না?",
+      "options": {
+        "ক": "গ্লিসারিন খ. ফিটকিরি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ক্যালসিয়াম কার্বনেট",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_28_070",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 70,
+      "question": "পারমাণবিক চুল্লিতে তাপ পরিবাহক হিসেবে কোন ধাতু ব্যবহৃত হয়?",
+      "options": {
+        "ক": "সোডিয়াম খ পটাসিযাম",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "সোডিয়াম",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_28_071",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 71,
+      "question": "চা পাতায় কোন ভিটামিন থাকে?",
+      "options": {
+        "ক": "ভিটামিন-ই খ ভিটামিন-কে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নাইট্রোজেনের",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_28_073",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 73,
+      "question": "মানুষের স্পাইনাল কর্ডের দৈর্ঘ্য কত?",
+      "options": {
+        "ক": "১৫ ইঞ্চি (প্রায়) খ ১৭ ইঞ্চি",
+        "খ": "",
+        "গ": "কোষের অস্বাভাবিক জমাট বাঁধা L1",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "কোষের অস্বাভাবিক বৃদ্ধি",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_28_075",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 75,
+      "question": "ইনসুলিন নিঃসৃত হয় কোথা থেকে?",
+      "options": {
+        "ক": "অগ্ন্যাশয় হতে খ প্যানক্রিয়াস হতে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "অগ্ন্যাশয় হতে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_28_076",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 76,
+      "question": "সুষম খাদ্যের উপাদান কয়টি?",
+      "options": {
+        "ক": "৪ টি খ ৫ টি",
+        "খ": "গামা রশ্মি",
+        "গ": "জেনারেটর ঘ ডায়নামো",
+        "ঘ": "সবগুলো"
+      },
+      "correctAnswer": "খ",
+      "answerText": "গামা রশ্মি",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_28_080",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 80,
+      "question": "ছায়াপথ তার নিজ অক্ষকে কেন্দ্র করে ঘুরে আসতে যে সময় লাগে তাকে কী বলে? ৭৮. জনসংখ্যা বৃদ্দধির ফলে ব্যাপকভাবে ক্ষতিগ্রস্ত হচ্ছে কী?",
+      "options": {
+        "ক": "প্রাকৃতিক পরিবেশ খ সামাজিক পরিবেশ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কসমিক ইয়ার",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_28_081",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 81,
+      "question": "A rocket flying to the moon does not need wings because-",
+      "options": {
+        "ক": "it has no engine খ space nas too much dust",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "space is airless",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_28_082",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 82,
+      "question": "Rubber is notable for its '",
+      "options": {
+        "ক": "lightness heaviness",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "elasticity",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_28_083",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 83,
+      "question": "Julius caesar was the ruler of Rome about- 1000 years ago ছ` 1500 years ago",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "2000 years ag",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_28_088",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 88,
+      "question": "The South Pole is located in the ছ Antarcti ৮৫. Tiger Zoology Mars :? Astrology Cryptology ৮৬. Break Repair Wound :?",
+      "options": {
+        "ক": "Heal খ. Hurt",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "lost",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_28_089",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 89,
+      "question": "Only after I home, did I remember my doctor's appointment g ক going খ g০ Other Job's Preparation",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "বায়বীয় পরিবেশ ঘ সাংস্কৃতিক পরিবেশ",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "went",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_28_093",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 93,
+      "question": "If two typist can type two pages in two minutes, how many typists will it take to type 18",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_28_094",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 94,
+      "question": "The fifth consonant from the beginning of this sentence is the letter",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_28_096",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 96,
+      "question": "Two men, starting at the same point, walk in opposite directions for and walk another 3 meters What is the distance between them?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_28_098",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 98,
+      "question": "Rahim 1s 12 years old. He is three times older than Karim What will be the age of Rahim ৯০. When they had their first child, put",
+      "options": {
+        "ক": "aside খ besile",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "16 years",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_28_099",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 99,
+      "question": "Divide 30 by half and add 10. What do you",
+      "options": {
+        "ক": "25 45",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "70",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_28_100",
+      "exam": "28th BCS Preliminary",
+      "examCode": "bcs_28",
+      "questionNo": 100,
+      "question": "If a mnan swinns 4 mneters upstream at 1 4 mph, what is his average speed? ? ক 0.8 mph খ 1.6 mph Other Job's Preparation a large sum for his education",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "outsile দা",
+        "ঘ": "6 nneters"
+      },
+      "correctAnswer": "",
+      "answerText": "1.6 mph",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "28th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    }
+  ]
+}

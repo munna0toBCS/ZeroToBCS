@@ -1,0 +1,3529 @@
+{
+  "examName": "40th BCS Preliminary",
+  "examCode": "bcs_40",
+  "totalQuestions": 144,
+  "validation": {
+    "totalDetected": 144,
+    "highestQuestionNo": 200,
+    "missing": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      9,
+      14,
+      15,
+      16,
+      17,
+      25,
+      27,
+      34,
+      35,
+      36,
+      37,
+      41,
+      43,
+      44,
+      47,
+      52,
+      54,
+      55,
+      56,
+      57,
+      59,
+      64,
+      65,
+      66,
+      67,
+      72,
+      74,
+      77,
+      80,
+      84,
+      85,
+      86,
+      87,
+      104,
+      107,
+      109,
+      110,
+      111,
+      130,
+      132,
+      146,
+      147,
+      158,
+      159,
+      160,
+      168,
+      174,
+      175,
+      176,
+      177,
+      183
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 144,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_40_001",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 1,
+      "question": "বাক্যের ক্রিয়ায় সাথে অন্যান্য পদের যে সম্পর্ক তাকে কী বলে? বিভক্তি খ) কারক গীর্জা কোন ভাষার অন্তর্গত শব্দ? ফারসী খ) পর্তুগীজ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "পর্তুগীজ",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_40_003",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 3,
+      "question": "কোন শব্দযুগল বিপরীতার্থক নয়? ঐচ্ছিক-অনাবশ্যিক (খ) কুটিল-সরল",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ঐচ্ছিক-অনাবশ্যিক",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_40_008",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 8,
+      "question": "দ্ারা, দিয়া) কর্তৃক-বাংলা ব্যাকরণ অনুযায়ী কোন বিভক্তি? তৃতীয়া বিভক্তি খ) প্রথমা বিভক্তি ৫ অভিরাম শব্দের অর্থ কী? বিরামহীন (ঘ) সুন্দর শরতের শিশির-বাগধারা শব্দটির অর্থ কী? 0l&\" ৬ সুসময়ের বন্ধু খ) সুসময়ের সঞ্চয় শিব রাত্রির সলতে-বাগধারাটির অর্থ কী?SUCces$ শিবরাত্রির আলো খ) একমাত্র সঞ্চয় ৮ \"প্রোষিতভর্তৃকা\" শব্দটির অর্থ কী? ভসনাপ্রাপ্ত তরুণী (গ) ভূমিকে প্রোথিত তরুমূল বাংলা কৃৎ-প্রত্যয় সাধিত শব্দ কোনটি? কারক খ) লিখিত",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "খেলনা",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_010",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 10,
+      "question": "Attested' -এর বাংলা পরিভাষা কোনটি? সত্যায়িত (খ) প্রত্যয়িত (গ) প্রত্যয় (ঘ) অনুসর্গ (গ) ওলন্দাজ পাঞ্জাবী (গ) কম-বেশি কদাচার-সদাচার (গ) দ্বিতীয়া বিভক্তি (ঘ) শূন্য বিভক্তি (খ) বালিশ (গ) চলন শরতের শোভা (ঘ) শরতের শিউলি ফুল benchnnark (গ) একমাত্র সন্তান (ঘ) শিবরাত্রির গুরুত্ব (খ) নারীর স্বামী বিদেশে অবস্থান করে বিবাহিতা নারী পিত্রালয়ে অবস্থান করে",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "বেদনা খেলনা",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সত্যায়িত",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_011",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 11,
+      "question": "কোনটি শুদ্ধ বানান? প্রজ্বল খ) প্রোজ্জল",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "প্রোজ্জ্বল",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_40_012",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 12,
+      "question": "'জোছনা' কোন শ্রেণীর শব্দ? যৌগিক খ) তৎসম",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "অর্ধ-তৎসম",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_40_013",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 13,
+      "question": "\"জিজীবিষা\" শব্দটি দিয়ে বোঝায়- জয়ের ইচ্ছা খ) হত্যার ইচ্ছ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বেঁচে থাকার ইচ্ছা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_40_018",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 18,
+      "question": "\"সর্বাঙ্গীণ\" শব্দের সঠিক প্রকৃতি-প্রত্যয় - সবঙ্গ + ঈন (খ) স্ব + অঙ্গীন / ১৫. অন্যের রচনা থেকে চুরি করাকে বলা হয়- বেতসবৃত্তি (খ) পতঙ্গবৃত্তি ১৬ \"ঊর্ণনাভ\" - শব্দটি দিয়ে বুঝায়- টিকটিকি তেলপোকা ১৭ চর্যাপদে কোন ধর্মমতের কথা আছে? খ্রীষ্টধর্ম খ) প্যাগনিজম ১৮ উল্লিখিতদের মধ্যে প্রাচীন যুগের কবি নন? কাহ্ণপাদ (খ) লুইপাদ ]` SUCCeSগ) শান্তিপাদী",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "রমনীপাদ",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_019",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 19,
+      "question": "উল্লিখিত কোন রচনাটি পুঁথি সাহিত্যের অন্তর্গত নয়? ময়মনসিংহ গীতিকা (গ) পদ্মাবতী",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ময়মনসিংহ গীতিকা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_020",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 20,
+      "question": "জীবনীকাব্য রচনার জন্য বিখ্যাত- ফকির গরীবুল্লাহ (খ) নরহরি চক্রবর্তী",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বৃন্দাবন দাস",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_021",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 21,
+      "question": "বৈষ্ণব পদাবলির সঙ্গে কোন ভাষা সম্পর্কিত? g সন্ধ্যভামা (খ) অধিভাষা (গ) প্রোজ্বল (ঘ) প্রোজ্জ্বল (গ) দেশী অধ-তৎসম (গ) বেঁচে থাকার ইচ্ছা (ঘ) শোনার ইচ্ছা (গ) সর্ব + ঙ্গীন (ঘ) সর্বাঙ্গ + ঈন (গ) জলৌকাবৃত্তি (ঘ) কুম্ভিলকবৃত্তি (গ) উইপোকা মাকড়সা @lar৩ etii বৌদ্ধধর্ম C (ঘ) রমনীপাদ ` (খ) ইউসুফ জুলেখা লাইলী মজনু বিপ্রদাস পিপিলাই (ঘ) বৃন্দাবন দাস (গ) ব্রজবুলি সংস্কৃত ভাষা \"সকালে উঠিয়া আমি মনে মনে বলি; সারাদিন আমি যেন ভালো হয়ে চলি\" চরণ দু'টির রচয়িতা কে?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ব্রজবুলি",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_022",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 22,
+      "question": "বাংলা আধুনিক উপন্যাস-এর প্রবর্তক ছিলেন- রবীন্দ্রনাথ ঠাকুর (গ) ঈশ্বরচন্দ্র বিদ্যাসাগর",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_40_023",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 23,
+      "question": "\"কিন্তু আরম্ভের পূর্বেও আরম্ভ আছে সন্ধ্যা বেলায় দীপ জ্বালার আগে ! সকাল বেলায় সলতে পাকানো\" বাক্যদ্বয় কোন রচনা থেকে উদ্ধত? নৌকা ডুবি খ) চোখের বালি",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "যোগাযোগ",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_40_024",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 24,
+      "question": "মুক্তিযুদ্ধ ভিত্তিক উপন্যাস কোনটি? একটি কালো মেয়ের কথা (গ) আয়নামতির পালা ১৫ কালো বরফ' উপন্যাসটির বিষয়- তেভাগা আন্দোলন খ) ভাষা আন্দোলন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "দেশভাগ",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_40_026",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 26,
+      "question": "ঢাকা প্রকাশ সাপ্তাহিক পত্রিকাটির সম্পাদক কে? কৃষ্ণচন্দ্র মজুমদার (খ) রামানন্দ চট্টোপাধ্যায় ১৭ 'জীবনস্মৃতি' কার রচনা? ঈশ্বরচন্দ্র বিদ্যাসাগর (গ) বিভূতিভূষণ বন্দ্যোপাধ্যায়OU1 SUCCes",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "রবীন্দ্রনাথ ঠাকুর",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_028",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 28,
+      "question": "দীনবন্ধু মিত্রের 'নীলদর্পণ' নাটকটি ইংরেজিতে অনুবাদ করেন কে? প্যারীচাঁদ মিত্র (খ) মাইকেল মধুসূদন দত্ত",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মাইকেল মধুসূদন দত্ত",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_40_029",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 29,
+      "question": "চণ্ডীচরণ মুনশী (গ) রবীন্দ্রনাথ ঠাকুর",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মদন মোহন তর্কালঙ্কার",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_40_030",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 30,
+      "question": "জসীমউদদীনের রচনা কোনটি? g যাদের দেখেছি খ) পথে-প্রবাসে",
+      "options": {
+        "ক": "",
+        "খ": "প্যারীচাঁদ মিত্র",
+        "গ": "",
+        "ঘ": "ইছামতী"
+      },
+      "correctAnswer": "",
+      "answerText": "যাদের দেখেছি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_031",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 31,
+      "question": "কিন্তু মনুষ্য কখনো পাষাণ হয় না'- উক্তিটি কোন উপন্যাসের? রবীন্দ্রনাথের 'চোখের বালি' (গ) শওকত ওসমানের 'ক্রীতদাসের হাসি'",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বঙ্কিমচন্দ্রের 'রাজসিংহ'",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_40_032",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 32,
+      "question": "ইয়ংবেঙ্গল গোষ্ঠীভুক্ত ছিলেন কে? (ক) অক্ষয় কুমার দত্ত (গ) মাইকেল মধুসূদন দত্ত",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কালিপ্রসন্নসিংহ ঠাকুর",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_033",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 33,
+      "question": "'বিদ্রোহী' কবিতাটি কোন সনে প্রথম প্রকাশিত হয়? ১৯৩ সনে খ) ১৯২১ সনে",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৯২১ সনে",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_40_038",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 38,
+      "question": "আগুন পাখী'- উপন্যাসটির রচয়িতা কে? রাহাত খান (খ) হাসানা আজিজুল হক ৩৫ 'একুশের ফেব্রুয়ারী'র বিখ্যাত গানটির সুরকার কে? সুবীর সাহা (খ) সুধীন দাস ৩৬ 1101111 খ) adjective এম আই প্রখান মুকুল স্যারের এক বইয়ে ! ? GRIANTAR LITERATURE @ ADHISSION gঁ 096 444 333 03 5টল botburricou ভিকিট ককন (খ) শরংচন্দ্রের 'পথের দাবী' বঙ্কিমচন্দ্রের 'রাজসিংহ' এন্টনি ফিরঙ্গি কালিপ্রসন্নসিংহ ঠাকুর (গ) ১৯১৯ সনে ১৯১৮ সনে (গ) সেলিনা হোসেন (ঘ) ইমদাদুল হক মিলন (গ) আলতাফ মাহমুদ (ঘ) আলতাফ মামুন (গ) pronoun ঘ) adlverb your suCcess benchnark সব চাকরির English প্রস্তুতি trammar & Literature এখন একসাথেই In which sentence is the word 'past' used as a preposition? You look terrific in that dressl' The word 'errific' in the above sentence means- ৩৭ Writing letters is a -hing of the past",
+      "options": {
+        "ক": "",
+        "খ": "[ look back on the past without regret",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "a brother or sister",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_039",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 39,
+      "question": "Fill in the blank: As she was talking, he suddenly broke",
+      "options": {
+        "ক": "off 111",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "in",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_040",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 40,
+      "question": "Fill in the blank: You may go for a walk if you feel কlabout 8১. Identify the word which is spelt incorrectly_ con1sc1e11c1011$ perseverance",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "consciencious",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_042",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 42,
+      "question": "ercellent funny ] 8৩. Someone who 1s capricious is easily irritated (খ) wise and willing to cooperate",
+      "options": {
+        "ক": "",
+        "খ": "lad",
+        "গ": "exceedingly conceited and arrogant",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "lad",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_045",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 45,
+      "question": "A man whose wife has died is caled a widower",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "widower",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_046",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 46,
+      "question": "Which word is similar to appal? leceive খ) confuse 89 Which word means the opposite of dearth? lack খ) abundance",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "abundance",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_048",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 48,
+      "question": "aircraft intention",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "aircraft",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_049",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 49,
+      "question": "",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "110",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_050",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 50,
+      "question": "A lost opportunity never returns: Here 'lost' is a gerund (গ) gerundial infinitive",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "participle",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_051",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 51,
+      "question": "The saying 'enough is enough' is use] Something to continue (গ) Something to continue until it' s enough speed' underlined part of He ran with great The 1101111 phrase (গ) adjective phrase adverb phrase",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Something to",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_053",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 53,
+      "question": "'We must not be late, else we will miss the train This is a compound sentence (গ) simple sentence",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "compound sentence",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_058",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 58,
+      "question": "Change the voice 'Who is calling me?' By whom am calle1? gঁ (গ) By whon an being called? (গ) spinster bachelor (গ) dismay solicit",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "poverty shortage",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Arthur Henry Hallam",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_060",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 60,
+      "question": "play- 1dd& Ronneo an] Juliet",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "Doctor Faustus",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "Docto1' Faustus",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_061",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 61,
+      "question": "a rose Who said this? Juliet Ronne ততর: Juliet",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_062",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 62,
+      "question": "'Man's love is of man's life a thing apart, from the poem of P.B. Shelley (খ) Lordl Byron",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Lord Byron",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_063",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 63,
+      "question": "Thomas Carlyle",
+      "options": {
+        "ক": "",
+        "খ": "balladl",
+        "গ": "D.. Rossetti",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Edward Fitzgerald",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_068",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 68,
+      "question": "'Ulysses' is a novel Written by- Joseph Conrad (গ) Charles Dickens ৬৫. The short story The Diamond Necklace' ৫11] de Maupassant (গ) Somerset Maugham ৬৬ ৫ Macbeth (খ) Lady Macbeth ৬৭ mnusic too:' Who wrote this? WWillian WorIsworth (গ) John Ieats ৬৮ Who is the central Character of 'Wuthering Heights' Mr. Earnshaw খ) Catherine",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Heathcliff",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_069",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 69,
+      "question": "The old order changeth, yielding place to new ' poen: Tle Lotus (গ) Locksley Hall LearEnglisট TRICKS T0. ছ = ছুঁ MAYEDULISLAM PRODHAN g 096 444 333 03 ছটোছব botbarrucom Thomas Hardy Janes Joyce was written by- 0) Henry George Orwell Who said this?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "Lady Macduff Macduff",
+        "ঘ": "Morte ]' Arthur"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "Morte ]'",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_070",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 70,
+      "question": "Who wrote the poem 'The Good-Morrow'? George Herbert খ) Andrew Marvell",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "John Donne",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_071",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 71,
+      "question": "প্রাচীন বাংলায় মৌর্য শাসনের প্রতিষ্ঠাতা কে? অশোক মৌর্য (খ) চন্দ্রগুপ্ত মৌর্য ৭ঠ. ইউরোপীয় বণিকদের মধ্যে বাংলায় প্রথম এসেছিলেন- পর্তুগীজরা খ) ইংরেজরা",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "পর্তুগীজরা",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_073",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 73,
+      "question": "যুক্তরাজ্য খ) ফরান্স 98. চতুর্থ তফসিল খ) পঞ্চম তফসিল",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "পঞ্চম তফসিল",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_075",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 75,
+      "question": "বঙ্গভঙ্গ কালে ভারতের ভাইসরয় কে ছিলেন? লর্ড কার্জন খ) লড ওয়াভেল",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "লড কার্জন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_076",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 76,
+      "question": "বাংলাদেশের কোন বনভূমি শালবৃক্ষের জন্য বিখ্যাত? ]d& সিলেটের বনভূমি 0 (গ) ভাওয়াল ৩ মধুপুরের বনভূমি 99. বাংলাদেশে সবচেয়ে বেশি পাট উৎপন্ন হয় কোন জেলায়? $ ফরিদপুর (খ) রংপুর",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ফরিদপুর",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_40_078",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 78,
+      "question": "বাংলাদেশে মোট আবাদযোগ্য জমির পরিমাণ- $ কোটি ৪০ লক্ষ একর (গ) ২ কোটি ২৫ লক্ষ একর [বিদ্রঃ বাংলাদেশ কৃষি পরিসংখ্যান, অক্টোবর, ২১৮১,৭০,৯৮৪৬১ একর]",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কোটি ৪০ লক্ষ একর",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_40_079",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 79,
+      "question": "'গারো' উপজাতি কোন জেলায় বাস করে? পারবত্য চট্টগ্রাম (খ) সিলেট gঁ (গ) John Donne (ঘ) Henry Vaughan (গ) সমুদ্র গুপ্ত এর কোনোটিই নয় (গ) ওলন্দাজরা ফরাসিরা (গ) যুক্তরাষ্ট্র (ঘ) সোভিয়েত ইউনিয়ন (গ) ষষ্ঠ তফসিল (ঘ) সপ্তম তফসিল (গ) লর্ড মাউন্ট ব্যাটেন ঘ) লর্ড লিনলিথগো (খ) পার্বত্য চট্টগ্রামের বনভূমি খুলনা; বরিশাল ও পটুয়াখালীর বনভূমি benchnnark (গ) জামালপুর (ঘ) শেরপুর কোটি ৫০ লক্ষ একর $ কোটি ২১ লক্ষ একর ২08 অনুযায়ী, ৮৮২৬ লক্ষ হেক্টর, অর্থাৎ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "ময়মনসিংহ টাঙ্গাইল",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "$ ১,৭৫১ মার্কিন ডলার",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_081",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 81,
+      "question": "বাংলাদেশে প্রথম আদমশুমারি অনুষ্ঠিত হয়- ১৯৭২ সালে খ) ১৯৭৩ সালে",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৯৭৪ সালে",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_40_082",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 82,
+      "question": "প্রথম স্থান (খ) দ্বিতীয় স্থান",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "দ্বিতীয় স্থান",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_083",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 83,
+      "question": "২০১৮ সালের বাংলাদেশের মোট রপ্তানি আয় কত? $ ৪০ বিলিয়ন মার্কিন ডলার (গ) $ ৪২ বিলিয়ন মার্কিন ডলার [বিদ্রঃ রপ্তানি উন্নয়ন ব্যুরোর মতে; ৪৮.২৮ বিলিয়ন ডলার জুন-জুলাই, ২০২৫)]",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "$ ৪১ বিলিয়ন মার্কিন ডলার",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_40_088",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 88,
+      "question": "Alliance যে দেশ ভিত্তিক গার্মেন্টস ব্রান্ডগুলোর সংগঠন যুক্তরাজ্যের যুক্তরাষ্ট্রের ৮৫ (_ ২৯৬৬% খ) ৩০৬৬% [বিবিএস এর তথ্যমতে ৩৭৯৫(২০২৪-২০২৫)] ৮৬ ২০১৮-১৯ অর্থ বছরে রপ্তানি প্রণোদনা রাখা হয়েছে- সাড়ে ৪ হাজার কোটি টাকা (গ) সাড়ে ৩ হাজার কোটি টাকা ৮৭. বাংলাদেশে প্রথম ভ্যাট (VAT) চালু হয়- ১৯৯১ সালে খ) ১৯৭৩ সালে ৮৮ : ৫ম সংশোধন খ) ৪থ সংশোধন (খ) $ ১,৭৫১ মার্কিন ডলার $ ১,৭৫৩ মাকিন ডলার (গ) ১৯৭৪ সালে ১৯৭৫ সালে (গ) তৃতীয় স্থান (৭) চতুথ স্থান (খ) $ ৪১ বিলিয়ন মার্কিন ডলার $ ১৪৩ বিলিয়ন মার্কিন ডলার (গ) কানাডার ইউরোপিয়ান ইউনিয়নের (গ) ৩২৬৬% ৩৩.৬৬% you1 success benchnark (খ) সাড়ে ৫ হাজার কোটি টাকা সাড়ে ৬ হাজার কোটি টাকা (গ) ১৯৮৬ সালে ১৯৯৬ সালে (গ) ৩য় সংশোধন (ঘ) ২য় সংশোধন স্বাধীনতার ঘোষণাপত্র সংবিধানের কততম তফসিলে সংযোজন করা হয়েছে? সংবিধানের কোন অনুচ্ছেদে 'সরকারি কর্ম কমিশন' (PSC) গঠনের উল্লেখ আছে? তৃণমূল পর্যায়ে স্বাস্থ্য সেবা নিশ্চিত করতে কমিউনিটি ক্লিনিক চালু করা হয়-",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৫ম সংশোধন",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_089",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 89,
+      "question": "চতুর্থ খ) পঞ্চম",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সপ্তম",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_090",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 90,
+      "question": "গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধান প্রবর্তিত হয়- ১৭ এপ্রিল, ১৯৭১ (গ) ৭ মাচ, ১৯৭২",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৬ ডিসেম্বর, ১৯৭২",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_40_091",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 91,
+      "question": "১৩৭ নং অনুচ্ছেদে (গ) ১৩৮ নং অনুচ্ছেদে",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৩৭ নং অনুচ্ছেদে",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_092",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 92,
+      "question": "আওয়ামী লীগের ৬-দফা পেশ করা হয়েছিল- ১৯৬৬ সালে খ) ১৯৬৭ সালে",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৯৬৬ সালে",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_093",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 93,
+      "question": "বঙ্গবন্ধুসহ আগরতলা ষড়যন্ত্র মামলায় মোট আসামী সংখ্যা ছিল কত জন? ৩8 জন খ) ৩৫ জন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৩৫ জন",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_094",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 94,
+      "question": "আইন ও সালিশ কেন্দ্র কী ধরনের সংস্থা? অর্থনৈতিক (খ) মানবাধিকার @",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মানবাধিকার",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_095",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 95,
+      "question": "Almond Powel চাপ সৃষ্টিকারী গোষ্ঠাকে বিভক্ত ৩ ভাগে (খ) 8",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৪ ভাগে",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_096",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 96,
+      "question": "বাংলাদেশ জাতিসংঘের- ১৪৬তম সদস্য খ) ১৩৬তম সদস্য",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৩৬তম সদস্য",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_40_097",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 97,
+      "question": "বাংলাদেশে প্রথম জাতীয় সংসদের নির্বাচন হয়- ৭ ফেব্রুয়ারি, ১৯৭৩ (খ) ৭ জানুয়ারি, ১৯৭৩",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৭ মার্চ, ১৯৭৩",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_40_098",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 98,
+      "question": "১৩ হাজার ১২৫টি (খ) ১৩ হাজার ১৩০টি [নির্মাণ কাজ সম্পন্ন হয়েছে ১৪,৩১৮টি (২২ এপ্রিল, ২০২৪)] (গ) যষ্ঠ সপ্তম (খ) ১৬ ডিসেম্বর, ১৯৭২ ২৬ মার্চ, ১৯৭৩ (খ) ১৩৫ নং অনুচ্ছেদে ১৩৪ নং অনুচ্ছেদে ১৯৬৮ সালে ১৯৬৯ সালে (গ) ৩৬ জন (ঘ) ৩' জন (গ) ধর্মীয় খেলাধুলা (গ) ১৯৬তম সদস্য ঘ) ১৬তম সদস্য (গ) ৭ মার্চ, ১৯৭৩ (ঘ) ৭ এপ্রিল, ১৯৭৩ (গ) ১৩ হাজার ১৩৬টি (ঘ) ১৩ হাজার ১৪৬টি সংক্রান্ত ২০৩০ এজেন্ডা (The 2030 Agenda Sustainable Development)-তে কয়টি লক্ষ্য জাতিসংঘ কোন সালে মানবাধিকার সংক্রান্ত বৈশ্বিক ঘোষণার ঐতিহাসিক নথিটি গ্রহণ করে? ১০৪ সর্বশেষ মিউনিখ নিরাপত্তা সম্মেলন কোন সালের কোন মাসে অনুষ্ঠিত হয়েছে? (খ) দারিদ্র বিমোচনULCCeSগগ) জলবায়ু পরিবর্তন (ঘ) বিনিয়োগ সম্পর্কিত ১০৭ বিশ্বের সর্বশেষ জলবায়ু সম্মেলন (ডিসেম্বর ২০১৮) কোথায় অনুষ্ঠিত হয়?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৩ হাজার ১৩৬টি",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_099",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 99,
+      "question": "'Let there be Light' বিখ্যাত ছবিটি পরিচালনা করেন- আমজদ হোসেন (গ) খান আতাউর রহমান",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "জহির রায়হান",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_100",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 100,
+      "question": "যুক্তরাষ্টের Guantanamo Bay Detention Camp কোথায় অবস্থিত? ফ্লোরিডা (খ) হাইতি",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কিউবা",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_101",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 101,
+      "question": "টেকসই উন্নয়ন 'goal) রয়েছে? ১৫ ১৭",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৭",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_102",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 102,
+      "question": "১৯৪৮ খ) ১৯৫৬",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৯৪৮",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_103",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 103,
+      "question": "মিনস্ক নিচের কোন দেশের রাজধানী? তাজাকিস্তান (খ) আজারবাইজান সেপ্টেম্বর, ২০১৮ (খ) মার্চ, ২০১৪",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ফেব্রুয়ারি, ২০১৯",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_105",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 105,
+      "question": "V-20 গ্রুপ কিসের সাথে কৃষি উন্নয়ন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "জলবায়ু পরিবর্তন",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_106",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 106,
+      "question": "জাতিসংঘ সমুদ্র আইন কত সালে স্বাক্ষরিত হয়েছিল? ১৯৭৯ সালে খ) ১৯৮২ সালে কাটোউইস, পোল্যান্ড (খ) প্যারিস ফ্রান্স",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কাটোউইস, পোল্যান্ড",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_108",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 108,
+      "question": "Sunshine Policy- এর সাথে কোন দুটি দেশ জড়িত? চীন, রাশিয়া (গ) জাপান; থাইল্যান্ড",
+      "options": {
+        "ক": "",
+        "খ": "জহির রায়হান",
+        "গ": "পতুগাল বেলারশ",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "উত্তর কোরিয়া, দক্ষিণ কোরিয়া",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_112",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 112,
+      "question": "নিচের কোন দেশে ২০২২ সালের ৫-২০ বাৎসরিক সম্মেলন অনুষ্ঠিত হবে? ১০৯ BRICS কর্তৃক প্রতিষ্ঠিত ব্যাংকের নাম হচ্ছে- New Development Bank (NDB) (গ) Economic Development Bank (EDB) ১১০. ইথিওপিযয়া খ) জাম্বিযা ১১১. কররে? এবোটাবাদ (খ) বালাকোট ইতালী (খ) যুক্তরাষ্ট্র [১তম ৫-২০ বাংসরিক সম্মেলন ২০২৬) যুক্তরাষ্ট্র আফ্রিকা ১৯তম ৫-২০ বাংসরিক সম্মেলন ২০২৪)",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ভারত",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_113",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 113,
+      "question": "'দ্যা আইডিয়া অব জাস্টিস'-গ্রন্থের রচয়িতা কে? মার্থা ন্যুসবাম (খ) জোসেফ স্টিগলিটজ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "অমত্য সেন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_114",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 114,
+      "question": "শ্রীলংকার কোন সমুদ্রবন্দর চীনের নিকট ৯৯ বছরের জন্য লীজ দেয়া ক্রিঙ্কোমালী (খ) হাম্বানটোটা you1 success",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "হাম্বানটোটা",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_115",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 115,
+      "question": "নিচের কোন সংস্থাটির সচিবালয় বাংলাদেশে অবস্থিত? BIMSTEC CICA",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "BIMSTEC",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_116",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 116,
+      "question": "নিচের কোন সংস্থাটির স্থায়ী সদর দপ্তর নেই?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_117",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 117,
+      "question": "জাতিসংঘ বিষয়ক আলোচনায় পি-৫ (P-5) বলতে কী বুঝায়? নিরাপত্তা পরিষদের পাঁচটি স্থায়ী সদস্য রাষ্ট্র (গ) পাঁচটি জাতিসংঘ সংস্থা BFRICS Development Bank (BDB) International Commercial Bank (ICB) (গ) লাইবেরিয়া (ঘ) জিবুতি (গ) কোয়েটা (ঘ) গিলগিট (গ) ভারত বাজিল ২০তম `-২০ বাংসরিক সম্মেলন ২০২৫) দক্ষিণ ব্রাজিল ] (গ) অমর্ত্য সেন {ঘ) জন রাউলস ! হরাছে: 1] (গ) গল বন্দর গল বন্দর C /(ঘ) প্রোট অব ক প্রোট অব কলম্বো (গ) IORA (খ) পাঁচটি পরমাণু শক্তিধর রাষ্ট্র উপরের কোনোটিই নয় OIC-এর কততম শীর্ষ সম্মেলনে বঙ্গবন্ধু শেখ মুজিবুর রহমান অংশগ্রহণ করেন?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নিরাপত্তা পরিষদের পাঁচটি স্থায়ী সদস্য রাষ্ট্র",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_118",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 118,
+      "question": "কোন দেশটি ইউরোপের বাল্টিক অঞ্চলে অবস্থিত নয়? ফিনল্যান্ড খ) পোল্যান্ড",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "অস্স্রিয়া",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_119",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 119,
+      "question": "২য় শীর্ষ সম্মেলন (খ) মৈম শীর্ষ সম্মেলন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "২য় শীরষ সম্মেলন",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_120",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 120,
+      "question": "নিম্নের কোনটি পাললিক শিলা? মারবেল খ) কয়লা",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কয়লা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_121",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 121,
+      "question": "নিম্নের কোনটি বৃহং স্কেল মানচিত্র? ১ : ১০০০০ খ) ১ ১০০,০০0",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১ ১০,০০০",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_122",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 122,
+      "question": "সমবৃষ্টিপাত সম্পন্ন স্থানসমূহকে যোগকারী রেখাকে বলা হয়- আইসোথাম (খ) আইসোবার",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "আইসোহাইট",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_123",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 123,
+      "question": "বাংলাদেশের লাউয়াছড়া জাতীয় উদ্যান কী ধরনের বনভূমি? ক্রান্তীয়, চিরহরিং, আধা-চিরহরিং জাতীয় (গ) পত্র পতনশীল জাতীয়",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ক্রান্তীয়, চিরহরিৎ, আধা-চিরহরিৎ জাতীয়",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_40_124",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 124,
+      "question": "বাংলাদেশে সংঘটিত বন্যার রেকর্ড হয়? ১৯৭৪ খ) ১৯৮৮",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৯৯৮",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_40_125",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 125,
+      "question": "সার্ক দুর্যোগ ব্যবস্থাপনা কেন্দ্র কোথায় অবস্থিত? নয়া দিল্লি (খ) কলম্বো [সাক দুর্যোগ ব্যবস্থাপনা কেন্দ্রের স্থান পরিবর্তন হয়েছে |]",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নয়া দিল্লি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_126",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 126,
+      "question": "নিচের কোনটি জলজ উদভিদ নয়? হিজল খ) করচ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "গজারী",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_127",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 127,
+      "question": "নিচের কোনটি মানবসৃষ্ট আপদ (hazard) নয়? বায়ু দূষণ খ) দুর্ভিক্ষ (গ) অস্স্রিয়া (৭) সুইডেন (গ) 8থ শীর্ষ সম্মেলন (ঘ) ৭ম শীর্ষ সম্মেলন (গ) গ্রানাইট নিস (গ) ১ : ১০০০০০০ (ঘ) . ২৫০০,০০০",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "আইসোহাইট (ঘ) আইসোহেলাইন",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কালবৈশাখী",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_128",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 128,
+      "question": "বাংলাদেশের অর্থনৈতিক সেক্টরগুলোর মধ্যে কোন খাতে বেশী কর্মসংস্থান হয়?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_40_129",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 129,
+      "question": "বাংলাদেশের উপকূলীয় সমভূমিতে বসবাসকারী জনগোষ্ঠা যে ধরনের বন্যা কবলিত হয় তার নাম-",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_40_131",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 131,
+      "question": "কোন কঠিন পদার্থ বিশুদ্ধ নাকি অবিশুদ্ধ তা কিসের মাধ্যমে নির্ণয় করা যায়?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_133",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 133,
+      "question": "একটি বাল্বে \"60w-220w\" লেখা আছে ! বাল্বটির রোধ কত ওহম (Ohm)? 'ক) নির্মাণ খাত (খ) কৃষি খাত নদীজ বন্যা (খ) আকস্মিক বন্যা ১৩০ 35 CL মৌলের নিউট্রন সংখ্যা? 17 17 18 ঘনীভবন (খ) বাষ্পীভবন ১৩২. অ্যানোডে কোন বিক্রিয়া সম্পন্ন হয়? জারণ (খ) বিজারণ 16.36 160",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "806.67",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_134",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 134,
+      "question": "নবায়নযোগ্য জ্বালানীর উৎস- \"dda",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বায়োগ্যাস",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_135",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 135,
+      "question": "কার্বোহাইড্রেটে C, H এবং ০ এর অনুপাত কতঃ cess ১ : ১ : $ খ) ১ : ২ : ১",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১ : ২ : ১",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_136",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 136,
+      "question": "AC কে DC করার যন্ত্র- রেকটিফায়ার খ) অ্যামপ্লিফায়ার",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "রেকটিফায়ার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_137",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 137,
+      "question": "বিদ্যুৎ শক্তিকে শব্দ শক্তিতে রূপান্তরিত করা হয় কোন যন্ত্রের মাধ্যমে- লাউড স্পিকার (খ) অ্যামপ্লিফায়ার",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "লাউড স্পিকার",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_40_138",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 138,
+      "question": "বাতাসের আর্দ্রতা মাপার যন্ত্রের নাম কী? ! মাইকোমিটার (খ) হাইগ্রোমিটার Other Job's Preparation (গ) সেবা খাত (ঘ) শিল্প কারখানা খাত (গ) বৃষ্টিজনিত বন্যা (ঘ) জলোচ্ছ্বাসজনিস বন্যা 35 70 (গ) গলনাংক স্ফুটনাংক (গ) প্রশমন পানি যোজন (গ) 280 806.67 কয়লা বায়োগ্যাস benchnnark (গ) ১ : ৩ : ২ (৭) ১ : ৩ : ১ (গ) ট্রানজিস্টর ৭) ডায়োড (গ) জেনারেটর (ঘ) মাল্টিমিটার (গ) ব্যারোমিটার গ্রাভিমিটার ১৪৬. নিচের কোন প্রোগ্রামটি একটি সম্পূর্ণ কম্পিউটার প্রোগ্রামকে একবারে অনুবাদ ১৪৭. নিচের কোনটি একই সাথে ইনপুট ও আউটপুট হিসেবে কাজ করে?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "হাইগ্রোমিটার",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_139",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 139,
+      "question": "কোথায় সাঁতার কাটা সহজ? পুকুরে খ) খালে",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সাগরে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_140",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 140,
+      "question": "ডিমে কোন ভিটামিন নেই? ভিটামিন-এ (খ) ভিটামিন-বি",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ভিটামিন-সি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_141",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 141,
+      "question": "কোনটির জন্য পুষ্প রঙ্গিন ও সুন্দর হয়? ক্রোমোপ্লাস্ট (খ) ক্লোরোপ্লাস্ট",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ক্রোমোপ্লাস্ট",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_142",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 142,
+      "question": "সোডিয়াম এসিটেটের সংকেত-",
+      "options": {
+        "ক": "",
+        "খ": "(CH;COo)2>a",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_143",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 143,
+      "question": "ক্যান্সার চিকিংসায় ব্যবহৃত গামা বিকিরণের উৎস কী? আইসোটোন খ) আইসোটোপ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "আইসোটোপ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_144",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 144,
+      "question": "খাদ্য তৈরির জন্য উদ্ভিদ বায়ু থেকে গ্রহণ করে- অক্সিজেন (খ) কার্বন-ডাই-অক্সাইড @",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কার্বন-ডাই-অক্সাইড",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_145",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 145,
+      "question": "মুদ্রিত লেখা সরাসরি ইনপুট নেয়ার জন্য নিচের কোনটি ব্যবহৃত () OMR Interpreter Ennulator Mouse 'খ) Microphone",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Touch Screen",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_148",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 148,
+      "question": "নিচের কোনটি Octal number নয়? 19 77 (গ) নদীতে সাগরে (গ) ভিটামিন-সি (ঘ) ভিটামিন-ডি (গ) ক্রোমাটোপ্লাস্ট লিউকোপ্লাস্ট (গ) CH;cooNa (গ) আইসোবার (ঘ) আইসোমার (গ) নাইট্রোজেন (ঘ) জলীয় বাষ্প oCRuuT SuCcesগ) MICR LLC (ঘ) Scanner < ও সম্পাদন করে? (গ) Compiler Simnulator (গ) Touch Screen (৭) Printer",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "15 101",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "19",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_149",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 149,
+      "question": "Tuples খ) Attributes",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Tables",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_150",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 150,
+      "question": "Bluetooth কিসের উদাহরণ? Personal Area Network (গ) Virtual Private Network",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Personal Area Networl",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_151",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 151,
+      "question": "মোবাইল ফোনে কোন mode -এ যোগাযোগ হয়? Simplex (খ) Half-Duplex",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Full-Duplex",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_152",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 152,
+      "question": "First cone first serve (গ) Shortest job first",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Round]-robin",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_153",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 153,
+      "question": "নিচের কোনটি ৫২(১৬) এর বাইনারি রূপ? ০১০১০০১০(২) (খ) ০১১১০০১১(২)",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "০১০১০০১০(২)",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_154",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 154,
+      "question": "প্রথম Web browser কোনটি? Netscape Navigator (গ) Internet Explorer",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Worldl Wide Web",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_155",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 155,
+      "question": "Social Networking Site -এ যোগাযোগে কোন media ব্যবহৃত হয়? Image video খ) Audlio",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "উপরের সবগুলো",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_156",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 156,
+      "question": "Firewall protection দেয়ার জন্য ব্যবহৃত হয়? Fire attacks Unauthorize] access",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Unauthorize] access",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_157",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 157,
+      "question": "TV remote-এর Carrier frequency'র range কত? 100 MIIZ 1",
+      "options": {
+        "ক": "",
+        "খ": "Round-robin",
+        "গ": "Rows Tables",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Infrared range",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_161",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 161,
+      "question": "নিচের কোন পূর্ণ সংখ্যাটিকে ৩, ৪, ৫ এবং ৬ দ্বারা ভাগ করলে যথাক্রমে ১, ২ ৩ ও ৪ অবশিষ্ট থাকে? ১৫৮ CPUJ কোন address generate করে? physical addresse (গ) Both physical and logical address ১৫৯. H.323 protocol সাধারণত কী কাজে ব্যবহৃত হয়? File transfer খ) VoIP ১৬০. নিচের কোনটি অমূলদ সংখ্যা? 0) 4 9 [প্রশ্নে প্রদত্ত সকল সংখ্যাই মূলদ ] 8৮> খ) ৫8",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৫৮",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_162",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 162,
+      "question": "পনির ও তপনের আয়ের অনুপাত 4 : 3 তপন হলে; রবিনের আয় কত? 36 টাকা খ)",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "72 টাকা",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_163",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 163,
+      "question": "৪৫০ টাকা বার্ষিক ৬% সুদে কত বছরে ৩ বছরে খ) ৪ বছরে",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৪ বছরে",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_164",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 164,
+      "question": "একটি মটর সাইকেবল ১২% ক্ষতিতে বিক্রি করা হলো লাভ হতো মটর সাইকেলের ক্রয়মূল্য- ৬০০০ টাকা (খ) ৫০০০ টাকা (0.9)3 (0.4)3",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৬০০০ টাকা",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_165",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 165,
+      "question": "এর মান কত? 0.9 0.4 9,9৬ খ) ১৫১ logical addresse উপরের কোনোটিই নয়",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "Data Security (ঘ) File download",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "০৬১",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_166",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 166,
+      "question": "3x 2 > Zx 1 এর সমাধান সেট কোনটি? [1, ০) খ) (1, ০)",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(1, ০)",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_167",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 167,
+      "question": "7x 4 = ০ সমীকরণে মূলদ্বয়ের প্রকৃতি কোনটি? বাস্তব ও সমান খ) বাস্তব ও অসমান 1 ? 3 2 0)",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বাস্তব ও অসমান",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_169",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 169,
+      "question": "Y) ' হলে x এর মান কত? 3 5 2",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "9",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_170",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 170,
+      "question": "কোন শতে 0? a > 0, a # 1",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "a > 0, a # 1",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_171",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 171,
+      "question": "P = {x : X, 12 এর {x : Y, 3 এর গুণিতক এবং x < 12} হলে, P - ০ কত? (ক) {1, 2, 4} (খ) {1, 3, 4} 111[ অনুক্রমটির চতুর্থ পদ কোনটি?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "{1, 2, 4}",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_172",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 172,
+      "question": "co$ 2 1",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "1",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_173",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 173,
+      "question": "৬ জন খেলোয়াড়কে সমান সংখ্যক ! ১০ খ) ২০ (গ) 0০) {ঘ) (-1, ০) (গ) অবাস্তব পূর্ণ বর্গ সংখ্যা (গ) ] 0) 9 2 (গ) 4 3 a > 0, a = 1ঘ) a # 1, a < ০ (গ) {1, 3, 6} (ঘ) {1, 2, 6} 2 দুইটি দলে কত ভাবে বিভক্ত করা যায়? (গ) ৬০ ১২০",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "২০",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_178",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 178,
+      "question": "শুদ্ধ বানান কোনটি? অধোগতি খ) অধঃগতি ১৭৫. সঠিক বানান কোনটি? Indwelling Indwiling ১৭৬. বাংলা ব্যঞ্জন বর্ণমালায় 'ম' অক্ষরটির পূর্বের পঞ্চম অক্ষরটি কী? { ১৭৭ ABC ZIX হয়, তবে GIVT =? TERE (খ) TEER ১৭৮ UNICEF এর আয়নায় প্রতিবিম্ব কোনটি হবে? TওDIIUJ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_179",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 179,
+      "question": "রাস্তা সমান করার রোলার সরাবার জন্য সহজ হবে, যদি রোলারকে- ঠেলে নিয়ে যাওয়া হয় (গ) তুলে নিয়ে যাওয়া হয়",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "টেনে নিয়ে যাওয়া হয়",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_180",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 180,
+      "question": "যদি চ > ৫ = 82 হয়, তবে ] > ১২০ খ) ৯২",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১১০",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_181",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 181,
+      "question": "কোন শব্দগুচ্ছ শুদ্ধ? আয়ত্তাধীন, অহোরাত্রি, অদ্যপি (গ) গৃহস্ত, গণনা, ইদানিং",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "আবশ্যক, মিথস্ক্রিয়া, গীতালি",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_40_182",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 182,
+      "question": "ভারসাম্য রক্ষা করতে নিরদেশিত স্থানে কত কেজি রাখতে হবে? 100 I৫ 9) মিটার মিটার ১২0 ১৪০ (গ) অধগতি অধোঃগতি (গ) Indweling Induelling (গ) প (গ) TREE FREE",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "1CIVL",
+        "ঘ": "সমান সহজ হয়"
+      },
+      "correctAnswer": "",
+      "answerText": "১৪০",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_184",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 184,
+      "question": "ঢাকা থেকে হংকং হয়ে প্লেন নিউইয়়ক যাওয়ার সময় দিনের সময়কালকে অপেক্ষাকৃত ছোট মনে হয় কেন? আমরা যে সমাজেই বসবাস করি না কেন, আমরা সকলেই ভালো নাগরিক হওয়ার প্রত্যাশা করি'",
+      "options": {
+        "ক": "",
+        "খ": "বিচার ব্যবস্থা $ ULC Ces(গ) সংবিধান _c /(ঘ) আইনের শাসন",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "পৃথিবী সূর্যের চারদিকে ঘুরছে বলে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_185",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 185,
+      "question": "বাংলাদেশে 'নব-নৈতিকতা'র প্রবর্তক হলেন- মোহাম্মদ বরকতুল্লা (গ) আরজ আলী মাতুব্বর",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "আরজ আলী মাতুব্বর",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_40_186",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 186,
+      "question": "নৈতিক অনুশাসন (গ) আইনের শাসন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "রাজনৈতিক ও সামাজিক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_187",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 187,
+      "question": "সভ্য সমাজের মানদন্ড হলো- গণতনত্ত্র খ)",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "আইনের শাসন",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_188",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 188,
+      "question": "বিপরীত বৈষম্য-এর নীতিটি প্রয়োগ করা হয়- নারীদের ক্ষেত্রে (গ) প্রতিবন্ধীদের ক্ষেত্রে",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "পিছিয়ে পড়া জনগোষ্ঠীর ক্ষেত্রে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_189",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 189,
+      "question": "মূল্যবোধ হলো- মানুষের সঙ্গে মানুষের পারস্পরিক সম্পর্ক নির্ধারণ ১১ ১০ (খ) পৃথিবী সূর্যের চারদিকে ঘুরছে বলে অন্য কোন কারণ আছে (খ) জিসি দেব আবদুল মতীন এটি (খ) রাজনৈতিক ও সামাজিক অনুশাসন (ঘ) আইনের অধ্যাদেশ ৫dabari",
+      "options": {
+        "ক": "",
+        "খ": "সংখ্যালঘুদের ক্ষেত্রে",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মানুষের আচরণ পরিচালনাকারী নীতি ও মানদন্ড",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_190",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 190,
+      "question": "জাতিসংঘের অভিমত অনুসারে সুশাসনের লক্ষ্য ও উদ্দেশ্য হলো- দারিদ্র্য বিমোচন (গ) মৌলিক স্বাধীনতার উন্নয়়ন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মৌলিক স্বাধীনতার উন্নয়ন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_191",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 191,
+      "question": "সুশাসন প্রতিষ্ঠায় নাগরিকের কর্তব্য হলো- সরকার পরিচালনায় সাহায্য করা (গ) সংভাবে ব্যবসা-বাণিজ্য করা",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নিয়মিত কর প্রদান করা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_192",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 192,
+      "question": "মূল্যবোধের চালিকা শক্তি হলো- উন্নয়ন খ) গণতন্ত্র",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সংস্কৃতি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_193",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 193,
+      "question": "অর্থনৈতিক ক্ষেত্রে সুশাসন প্রতিষ্ঠিত হলে- দুর্নীতি দূর হয় (গ) আইনের শাসন প্রতিষ্ঠিত হয়",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বিনিয়োগ বৃদ্ধি পায়",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_194",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 194,
+      "question": "তথ্য পাওয়া মানুষের কী ধরনের অধিকার? রাজনৈতিক (খ) অর্থনৈতিক",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মৌলিক",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_195",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 195,
+      "question": "1[ [ চিত্রে, /POR 55' 90 এবং PO | MR, Po 90 55",
+      "options": {
+        "ক": "",
+        "খ": "মৌলিক অধিকার রক্ষা",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "35",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_196",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 196,
+      "question": "(গ)",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_40_197",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 197,
+      "question": "'UNICEF\" এর আয়নায় প্রতিবিম্ব কোনটি হবে?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "= 3MJ",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_198",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 198,
+      "question": "১ / ০১ > ০০১ = ? ১000১",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": "০০০০০১"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_40_199",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 199,
+      "question": "(গ) (গ) =CINn 1=CINn ddaoair ০০০০১ benchnnaurk 'CeS$",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_40_200",
+      "exam": "40th BCS Preliminary",
+      "examCode": "bcs_40",
+      "questionNo": 200,
+      "question": "১ 3 5 3 [ 9 7 / ৫ B৫$ Foundation Live Batch Other Job's Preparation 11 10 | [ 'গ) মেগ] ছাড়ে ভ্র্তি চলছে.",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "40th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    }
+  ]
+}

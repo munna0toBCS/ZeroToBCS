@@ -1,0 +1,3316 @@
+{
+  "examName": "49th BCS Preliminary",
+  "examCode": "bcs_49",
+  "totalQuestions": 100,
+  "validation": {
+    "totalDetected": 100,
+    "highestQuestionNo": 100,
+    "missing": [],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 98,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_49_001",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 1,
+      "question": "একবি িমান্তি ধািা 4 র্থ ( চ ত ু র্ ) থ এিং 12 তম পশেি য াগফি 20 ।",
+      "options": {
+        "ক": "100",
+        "খ": "150 উত্তি : Conscientious",
+        "গ": "200",
+        "ঘ": "300"
+      },
+      "correctAnswer": "",
+      "rawText": "1. একবি িমান্তি ধািা 4 র্থ ( চ ত ু র্ ) থ এিং 12 তম পশেি য াগফি 20 । ক . Conscintious খ . Consientious ঐ ধািাি ির্ম 15 পশেি য াগফি কত ? গ . Concientious ঘ . Conscientious ক . 100 খ . 150 উত্তি : Conscientious গ . 200 ঘ . 300",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 1
+      }
+    },
+    {
+      "id": "bcs_49_002",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 2,
+      "question": "যকান ধ্ববন পবিিতথনবি র্া র্ নয় ?",
+      "options": {
+        "ক": "ক্রন্দন > কাাঁো",
+        "খ": "অঞ্চি > আাঁচি",
+        "গ": "িংগীত > গীবতকা",
+        "ঘ": "েন্ত > োাঁত উত্তি : িংগীত > গীবতকা উত্তি : হযাবি এি . ট্র ু ম য া ন"
+      },
+      "correctAnswer": "",
+      "rawText": "2. যকান ধ্ববন পবিিতথনবি র্া র্ নয় ? ক . হযাবি এি . ট্র ু ম য া ন খ . ফ্রাঙ্কবিন বে . রুজশর্ল্ট ক . ক্রন্দন > কাাঁো খ . অঞ্চি > আাঁচি গ . বিচােথ বনক্সন ঘ . জজথ েবিও ি ু ে গ . িংগীত > গীবতকা ঘ . েন্ত > োাঁত উত্তি : িংগীত > গীবতকা উত্তি : হযাবি এি . ট্র ু ম য া ন",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Bangla",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 2
+      }
+    },
+    {
+      "id": "bcs_49_003",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 3,
+      "question": "Who wrote ‘A Vindication of the Rights of Women”?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "3. Who wrote ‘A Vindication of the Rights of Women”?",
+      "status": "needs_manual_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 3
+      }
+    },
+    {
+      "id": "bcs_49_004",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 4,
+      "question": "বনশচি ধািাি পিিতথী িংখযা যকানবি ?",
+      "options": {
+        "ক": "[ – 9, 3]",
+        "খ": "[3,  ) ১ , ৯ , ৫ , ৪৯ , ....;",
+        "গ": "( – 9, 3)",
+        "ঘ": "(  , –"
+      },
+      "correctAnswer": "",
+      "rawText": "4. বনশচি ধািাি পিিতথী িংখযা যকানবি ? ক . [ – 9, 3] খ . [3,  ) ১ , ৯ , ৫ , ৪৯ , ....; গ . ( – 9, 3) ঘ . (  , –",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 4
+      }
+    },
+    {
+      "id": "bcs_49_005",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 5,
+      "question": "িাংিাশেশেি িংবিধাশনি আশিাশ",
+      "options": {
+        "ক": "িাক - স্বাধীনতাি অবধকাি উত্তি : ২৬ মাচথ",
+        "খ": "বেক্ষাি অবধকাি",
+        "গ": "১৬ বেশিম্বি",
+        "ঘ": "৫ আগস্ট"
+      },
+      "correctAnswer": "",
+      "rawText": "5. িাংিাশেশেি িংবিধাশনি আশিাশক বনশেি যকান অবধকািবি ক . ২৬ মাচথ খ . ২১ যফব্রুয়াবি যমৌবিক অবধকাশিি অ ন্ত র্ ু ক্ত থ নয় ? গ . ১৬ বেশিম্বি ঘ . ৫ আগস্ট ক . িাক - স্বাধীনতাি অবধকাি উত্তি : ২৬ মাচথ খ . বেক্ষাি অবধকাি",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 5
+      }
+    },
+    {
+      "id": "bcs_49_006",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 6,
+      "question": "িাচীনকাশি যকান যেশে বিবর্ি ধািণা ির্ম",
+      "options": {
+        "ক": "বমেি",
+        "খ": "বিি উত্তি : বিষয়গত িুবনবেথষ্ট অর্থশিাধক েব্দ 1 -",
+        "গ": "চীন",
+        "ঘ": "যিাম"
+      },
+      "correctAnswer": "",
+      "rawText": "6. িাচীনকাশি যকান যেশে বিবর্ি ধািণা ির্ম উ দ্ভ ূ ত হয় ? ঘ . িযিহাবিক িশয়াজশন নিবনবমথত েব্দ ক . বমেি খ . বিি উত্তি : বিষয়গত িুবনবেথষ্ট অর্থশিাধক েব্দ 1 - গ . চীন ঘ . যিাম",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 6
+      }
+    },
+    {
+      "id": "bcs_49_007",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 7,
+      "question": "Pick the correctly spelt word.",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "7. Pick the correctly spelt word.",
+      "status": "needs_manual_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 7
+      }
+    },
+    {
+      "id": "bcs_49_008",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 8,
+      "question": "মাবকথন ু ক্ত ি া শ ে ি যকান যিবিশেন্ট জাপাশন পািমাণবি",
+      "options": {
+        "ক": "যিামা উত্তি : 150 বনশক্ষশপি অ ন ু শ ম া ে ন কশিবিশিন ?",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "8. মাবকথন ু ক্ত ি া শ ে ি যকান যিবিশেন্ট জাপাশন পািমাণবিক যিামা উত্তি : 150 বনশক্ষশপি অ ন ু শ ম া ে ন কশিবিশিন ?",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 8
+      }
+    },
+    {
+      "id": "bcs_49_009",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 9,
+      "question": "বে M = {a, b, 1, 2} এিং N = {1, 2} হয় , তশি N – M এি",
+      "options": {
+        "ক": "{ }",
+        "খ": "{ a, b}",
+        "গ": "{0}",
+        "ঘ": "Mary Shelley উত্তি : { } উত্তি : Mary Wollstonecraft 2"
+      },
+      "correctAnswer": "",
+      "rawText": "9. বে M = {a, b, 1, 2} এিং N = {1, 2} হয় , তশি N – M এি ক . Claire Clairmont মান কত ? খ . Mary Wollstonecraft ক . { } খ . { a, b} গ . Mary Wollstonecraft Godwin গ . {0} ঘ . { – a, – b} ঘ . Mary Shelley উত্তি : { } উত্তি : Mary Wollstonecraft 2",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 9
+      }
+    },
+    {
+      "id": "bcs_49_010",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 10,
+      "question": "x + 6x – 27 < 0 অিমতাবিি িমাধান যিি বনশচি যকানবি ?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "10. x + 6x – 27 < 0 অিমতাবিি িমাধান যিি বনশচি যকানবি ?",
+      "status": "needs_manual_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 10
+      }
+    },
+    {
+      "id": "bcs_49_011",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 11,
+      "question": "িাংিাশেশেি জাতীয় বেিি যকানবি ?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "11. িাংিাশেশেি জাতীয় বেিি যকানবি ? উত্তি : ৯",
+      "status": "needs_manual_review",
+      "examType": "Preliminary",
+      "subject": "Bangladesh Affairs",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 11
+      }
+    },
+    {
+      "id": "bcs_49_012",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 12,
+      "question": "পাবির্াবষ",
+      "options": {
+        "ক": "ইংশিবজ েশব্দি িাংিা রূপান্তি",
+        "খ": "বিশেবে েশব্দি অ ন ু ি া ে উত্তি : বেক্ষাি অবধকাি",
+        "গ": "বিষয়গত িুবনবেথষ্ট অর্থশিাধক েব্দ",
+        "ঘ": "ধমথচচথাি অবধকাি"
+      },
+      "correctAnswer": "",
+      "rawText": "12. পাবির্াবষক েব্দ িিশত যিাঝায় - গ . ির্া িমাশিশেি অবধকাি ক . ইংশিবজ েশব্দি িাংিা রূপান্তি ঘ . ধমথচচথাি অবধকাি খ . বিশেবে েশব্দি অ ন ু ি া ে উত্তি : বেক্ষাি অবধকাি গ . বিষয়গত িুবনবেথষ্ট অর্থশিাধক েব্দ",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Bangla",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 12
+      }
+    },
+    {
+      "id": "bcs_49_013",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 13,
+      "question": "বজএিবপ ( GSP) এি প ূ ণ রূ থ প কী ?",
+      "options": {
+        "ক": "Generalized System of Preference Page",
+        "খ": "Scott Fitzgerald",
+        "গ": "Thomas Fitzgerald উত্তি : Generalized System of Preference",
+        "ঘ": "William Fitzgerald"
+      },
+      "correctAnswer": "",
+      "rawText": "13. বজএিবপ ( GSP) এি প ূ ণ রূ থ প কী ? উত্তি : চীন ক . Generalized System of Preference Page খ . Global System of Positioning BCS, Bank, Primary & Other Job’s Preparation গ . Global Strategic Partnership খ . Scott Fitzgerald ঘ . Government Support Program গ . Thomas Fitzgerald উত্তি : Generalized System of Preference ঘ . William Fitzgerald",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 13
+      }
+    },
+    {
+      "id": "bcs_49_014",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 14,
+      "question": "িাংিাশেে ICCPR - এি স্বাক্ষিকািী একবি যেে । ICCPR এি",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "14. িাংিাশেে ICCPR - এি স্বাক্ষিকািী একবি যেে । ICCPR এি উত্তি : Edward Fitzgerald প ূ ণ রূ থ প কী ?",
+      "status": "needs_manual_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 14
+      }
+    },
+    {
+      "id": "bcs_49_015",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 15,
+      "question": "‘We know that the earth is a planet’ . The underlined",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "15. ‘We know that the earth is a planet’ . The underlined",
+      "status": "needs_manual_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 15
+      }
+    },
+    {
+      "id": "bcs_49_016",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 16,
+      "question": "িিীন্দ্রনার্ ঠ া",
+      "options": {
+        "ক": "ু ি েশব্দি শুরুশত ম া ত্র া ু ক্ত এ - কাি িযিহাি কিশতন 2",
+        "খ": "",
+        "গ": "4( x –",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "16. িিীন্দ্রনার্ ঠ া ক ু ি েশব্দি শুরুশত ম া ত্র া ু ক্ত এ - কাি িযিহাি কিশতন 2 গ . 4( x –",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Bangla",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 16
+      }
+    },
+    {
+      "id": "bcs_49_017",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 17,
+      "question": "ধ্ববন ও িশণথি পার্থকয যকার্ায় ?",
+      "options": {
+        "ক": "যিখাি ধিশন",
+        "খ": "উচ্চািশণি বিবেষ্টতায় উত্তি : ম ু ি ব ি ম িীগ",
+        "গ": "িংখযাগত পবিমাশণ",
+        "ঘ": "জবময়শত - ই - বহন্দ"
+      },
+      "correctAnswer": "",
+      "rawText": "17. ধ্ববন ও িশণথি পার্থকয যকার্ায় ? গ . আিএিএি ক . যিখাি ধিশন ঘ . জবময়শত - ই - বহন্দ খ . উচ্চািশণি বিবেষ্টতায় উত্তি : ম ু ি ব ি ম িীগ গ . িংখযাগত পবিমাশণ",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 17
+      }
+    },
+    {
+      "id": "bcs_49_018",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 18,
+      "question": "“Rubiyat of Khayyam” is attributed to -",
+      "options": {
+        "ক": "Edward Fitzgerald",
+        "খ": "পাবকস্তান যতহবিশক ইনিাফ ( PTI) BCS, Bank, Primary & Other Job’s Preparation",
+        "গ": "ঈশ্বিচন্দ্র গুপ্ত",
+        "ঘ": "ইিমাইি হাশিন বিিাজী উত্তি : পাবকস্তান ম ু ি ব ি ম িীগ ( নওয়াজ ) উত্তি : ঈশ্বিচন্দ্র গুপ্ত"
+      },
+      "correctAnswer": "",
+      "rawText": "18. “Rubiyat of Khayyam” is attributed to - ক . পাবকস্তান বপপিি পাবিথ ( PPP) Page ক . Edward Fitzgerald খ . পাবকস্তান যতহবিশক ইনিাফ ( PTI) BCS, Bank, Primary & Other Job’s Preparation গ . পাবকস্তান ম ু ি ব ি ম িীগ ( নওয়াজ ) গ . ঈশ্বিচন্দ্র গুপ্ত ঘ . জামায়াশত ইিিামী পাবকস্তান ঘ . ইিমাইি হাশিন বিিাজী উত্তি : পাবকস্তান ম ু ি ব ি ম িীগ ( নওয়াজ ) উত্তি : ঈশ্বিচন্দ্র গুপ্ত",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 18
+      }
+    },
+    {
+      "id": "bcs_49_019",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 19,
+      "question": "Select the sentence in which ‘better’ is an adverb -",
+      "options": {
+        "ক": "We’re helping of better weather tomorrow Rights",
+        "খ": "International Conference of Civil and Political",
+        "গ": "International Covenant on Civil and Political উত্তি : Sound travels better in water than in air Rights",
+        "ঘ": "He joined the gym to better his health"
+      },
+      "correctAnswer": "",
+      "rawText": "19. Select the sentence in which ‘better’ is an adverb - ক . International Conference on Civil and Political ক . We’re helping of better weather tomorrow Rights খ . Sound travels better in water than in air খ . International Conference of Civil and Political গ . It’s hard to decide which one is better Rights ঘ . He joined the gym to better his health গ . International Covenant on Civil and Political উত্তি : Sound travels better in water than in air Rights",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 19
+      }
+    },
+    {
+      "id": "bcs_49_020",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 20,
+      "question": "যকান েব্দবি বিিগথিবিি মাধযশম গবঠত ?",
+      "options": {
+        "ক": "নীিি",
+        "খ": "উজ্জ্বি উত্তি : International Covenant of Civil and Political",
+        "গ": "মাশনাত্তীণথ",
+        "ঘ": "িংিাম Rights উত্তি : নীিি"
+      },
+      "correctAnswer": "",
+      "rawText": "20. যকান েব্দবি বিিগথিবিি মাধযশম গবঠত ? ঘ . International Covenant of Civil and Political Rights ক . নীিি খ . উজ্জ্বি উত্তি : International Covenant of Civil and Political গ . মাশনাত্তীণথ ঘ . িংিাম Rights উত্তি : নীিি",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 20
+      }
+    },
+    {
+      "id": "bcs_49_021",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 21,
+      "question": "বনশোক্ত যকান যেেবি ‘ Five Eyes’ র্ ু ক্ত নয় ? part is a/an -",
+      "options": {
+        "ক": "noun clause",
+        "খ": "adverbial clause উত্তি : ফ্রান্স",
+        "গ": "adjective clause 2 2",
+        "ঘ": "কানাো"
+      },
+      "correctAnswer": "",
+      "rawText": "21. বনশোক্ত যকান যেেবি ‘ Five Eyes’ র্ ু ক্ত নয় ? part is a/an - ক . অশেবিয়া খ . ফ্রান্স ক . noun clause গ . বনউবজিযান্ড ঘ . কানাো খ . adverbial clause উত্তি : ফ্রান্স গ . adjective clause 2 2",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 21
+      }
+    },
+    {
+      "id": "bcs_49_022",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 22,
+      "question": "ে ু ই ব ি িংখযাি ি . িা . গু 4 x + 12x – 16x – 48,",
+      "options": {
+        "ক": "x – 4",
+        "খ": "2( x –",
+        "গ": "িা . গু 2 x +",
+        "ঘ": "principal clause 2 4 । একবি িংখযা 4 x + 20x + 24 হশি অপিবি - উত্তি : noun clause 2 2"
+      },
+      "correctAnswer": "",
+      "rawText": "22. ে ু ই ব ি িংখযাি ি . িা . গু 4 x + 12x – 16x – 48, গ . িা . গু 2 x + ঘ . principal clause 2 4 । একবি িংখযা 4 x + 20x + 24 হশি অপিবি - উত্তি : noun clause 2 2 ক . x – 4 খ . 2( x –",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 22
+      }
+    },
+    {
+      "id": "bcs_49_023",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 23,
+      "question": "আবেি নন্দী , েেী র্ারুি ি ম ু",
+      "options": {
+        "ক": "ম ু ি ব ি ম িীগ",
+        "খ": "িিথ র্ািতীয় জাতীয় কংশিি উত্তি : ‘ অযা ’ উচ্চািণ যিাঝাশত",
+        "গ": "‘ এ ’ উচ্চািণ যিাঝাশত",
+        "ঘ": "‘ অযা ’ উচ্চািণ যিাঝাশত"
+      },
+      "correctAnswer": "",
+      "rawText": "23. আবেি নন্দী , েেী র্ারুি ি ম ু খ যিখশকি মশতা বি - জাবত তশেি খ . ‘ এ ’ মাত্রাহীন িণথ িশি ির্ম িিক্তা যকান িংগঠনবি ? গ . ‘ এ ’ উচ্চািণ যিাঝাশত ক . ম ু ি ব ি ম িীগ ঘ . ‘ অযা ’ উচ্চািণ যিাঝাশত খ . িিথ র্ািতীয় জাতীয় কংশিি উত্তি : ‘ অযা ’ উচ্চািণ যিাঝাশত",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Bangladesh Affairs",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 23
+      }
+    },
+    {
+      "id": "bcs_49_024",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 24,
+      "question": "িম্প্রবত িাংিাশেে িফি কশি াওয়া পাবকস্তাশনি",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": "ইবন্দ্রয় িাশহয ও পিিাে মন্ত্রী , ইিহাক োি পাবকস্তাশনি যকান িাজননবতক েশিি 2 উত্তি : ইবন্দ্রয় িাশহয িাশর্ ি ম্প ৃ ক্ত ? -"
+      },
+      "correctAnswer": "",
+      "rawText": "24. িম্প্রবত িাংিাশেে িফি কশি াওয়া পাবকস্তাশনি উপ িধান মন্ত্রী ঘ . ইবন্দ্রয় িাশহয ও পিিাে মন্ত্রী , ইিহাক োি পাবকস্তাশনি যকান িাজননবতক েশিি 2 উত্তি : ইবন্দ্রয় িাশহয িাশর্ ি ম্প ৃ ক্ত ? -",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 24
+      }
+    },
+    {
+      "id": "bcs_49_025",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 25,
+      "question": "Fill in the blanks with appropriate words. ‘Selina",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "25. Fill in the blanks with appropriate words. ‘Selina",
+      "status": "needs_manual_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 25
+      }
+    },
+    {
+      "id": "bcs_49_026",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 26,
+      "question": "The play “Englishmen for My Money” was written",
+      "options": {
+        "ক": "ু ম া ি চশটাপাধযায়",
+        "খ": "Thomas Kyd",
+        "গ": "William Haughton উত্তি : ি ু ন ী ব ত",
+        "ঘ": "Ben Johnson"
+      },
+      "correctAnswer": "",
+      "rawText": "26. The play “Englishmen for My Money” was written ক . ি ু ন ী ব ত ক ু ম া ি চশটাপাধযায় by - খ . হিিিাে োস্ত্রী ক . Christopher Marlowe গ . িাশজন্দ্রিাি বমত্র খ . Thomas Kyd ঘ . ি ু ক ু ম া ি যিন গ . William Haughton উত্তি : ি ু ন ী ব ত ক ু ম া ি চশটাপাধযায় ঘ . Ben Johnson",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 26
+      }
+    },
+    {
+      "id": "bcs_49_027",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 27,
+      "question": "একবি গুশণাত্তি ধািাি পঞ্চম পেবি ৩২ ও অষ্টম পেবি ২৫৬ হশি",
+      "options": {
+        "ক": "৮",
+        "খ": "১৬",
+        "গ": "২",
+        "ঘ": "১ / ২ উত্তি : যিি কাউবন্সি উত্তি : ২"
+      },
+      "correctAnswer": "ক",
+      "rawText": "27. একবি গুশণাত্তি ধািাি পঞ্চম পেবি ৩২ ও অষ্টম পেবি ২৫৬ হশি খ . যিি কাউবন্সি উক্ত ধািাি িাধািণ অ ন ু প া ত কত ? গ . বিবিআিবি ক . ৮ খ . ১৬ ঘ . িাংিাশেে যিবিবর্েন গ . ২ ঘ . ১ / ২ উত্তি : যিি কাউবন্সি উত্তি : ২",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Bangla",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 27
+      }
+    },
+    {
+      "id": "bcs_49_028",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 28,
+      "question": "১৯৫২ িাশিি র্াষা আশন্দািশন য ন ত ৃ ত্ব স্থ া ন ী য় র্ ূ ব ম",
+      "options": {
+        "ক": "িংগঠন ‘ ত ম ু দ্দ ু ন মজবিি ’ । ত ম ু দ্দ ু ন মজবিি - এি উত্তি : পশু িবতষ্ঠাতা অধযাপক আ ি ু ি কাশেম ঢাকা বিশ্ব বিেযািশয়ি যকান",
+        "খ": "বিংহ",
+        "গ": "পশু",
+        "ঘ": "িন ি া ং স্ক ৃ ব ত"
+      },
+      "correctAnswer": "",
+      "rawText": "28. ১৯৫২ িাশিি র্াষা আশন্দািশন য ন ত ৃ ত্ব স্থ া ন ী য় র্ ূ ব ম ক া পািন কশি ক . িানি খ . বিংহ গ . পশু ঘ . িন ি া ং স্ক ৃ ব ত ক িংগঠন ‘ ত ম ু দ্দ ু ন মজবিি ’ । ত ম ু দ্দ ু ন মজবিি - এি উত্তি : পশু িবতষ্ঠাতা অধযাপক আ ি ু ি কাশেম ঢাকা বিশ্ব বিেযািশয়ি যকান",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 28
+      }
+    },
+    {
+      "id": "bcs_49_029",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 29,
+      "question": "বে গতকাি শুক্রিাি হশতা , তাহশি আজ যর্শ",
+      "options": {
+        "ক": "শুক্রিাি",
+        "খ": "ি ু ধ ি া ি",
+        "গ": "",
+        "ঘ": "এি ওয়াশজে আিী িাি হশি ? উত্তি : আ ি ু ি মনিুি আহমে"
+      },
+      "correctAnswer": "",
+      "rawText": "29. বে গতকাি শুক্রিাি হশতা , তাহশি আজ যর্শক ৮১তম বেন কী ঘ . এি ওয়াশজে আিী িাি হশি ? উত্তি : আ ি ু ি মনিুি আহমে ক . শুক্রিাি খ . ি ু ধ ি া ি",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 29
+      }
+    },
+    {
+      "id": "bcs_49_030",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 30,
+      "question": "ম ধ ু ি ূ ে ন েশত্তি প ূ ি ি থ ত ী গু রু ত্ব প ূ ণ থ কবি য",
+      "options": {
+        "ক": "ু ি Page",
+        "খ": "কায়শকািাে BCS, Bank, Primary & Other Job’s Preparation 2",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "30. ম ধ ু ি ূ ে ন েশত্তি প ূ ি ি থ ত ী গু রু ত্ব প ূ ণ থ কবি যক ? - উত্তি : যেনমাকথ ক . িিীন্দ্রনার্ ঠ া ক ু ি Page খ . কায়শকািাে BCS, Bank, Primary & Other Job’s Preparation 2",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 30
+      }
+    },
+    {
+      "id": "bcs_49_031",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 31,
+      "question": "কাজী নজরুি ইিিাশমি যকান",
+      "options": {
+        "ক": "া",
+        "খ": "out of উত্তি :",
+        "গ": "inside",
+        "ঘ": "of f"
+      },
+      "correctAnswer": "",
+      "rawText": "31. কাজী নজরুি ইিিাশমি যকান উপনযাশিি যকন্দ্রীয় চবিত্র knocked it ––– the park with her performance in জাহাঙ্গীি ? ক . িাাঁধন - হািা খ . ম ৃ ত ু য ক্ষ ু ধ া culinary art’. গ . ক ু শ হ ব ি ক া ঘ . বেউবিমািা ক . outside খ . out of উত্তি : ক ু শ হ ব ি ক া গ . inside ঘ . of f",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 31
+      }
+    },
+    {
+      "id": "bcs_49_032",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 32,
+      "question": "চ থাপশেি খবিত পেগুশিা বতব্ববত যর্শ",
+      "options": {
+        "ক": "িাচীন িাংিায় রূপান্তি উত্তি : out of কশিন -",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "32. চ থাপশেি খবিত পেগুশিা বতব্ববত যর্শক িাচীন িাংিায় রূপান্তি উত্তি : out of কশিন -",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 32
+      }
+    },
+    {
+      "id": "bcs_49_033",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 33,
+      "question": "িাংিাশেশেি িংশচশয় িড় গণমাধযম বনয়ন্ত্র",
+      "options": {
+        "ক": "তর্য মন্ত্রণািয়",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "33. িাংিাশেশেি িংশচশয় িড় গণমাধযম বনয়ন্ত্রক িংস্থা যকানবি ? উত্তি : William Haughton ক . তর্য মন্ত্রণািয়",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 33
+      }
+    },
+    {
+      "id": "bcs_49_034",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 34,
+      "question": "‘ ম ৃ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "’ িিশত কী যিাঝাশনা হয় ?",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "34. ‘ ম ৃ গ য় া ’ েশব্দি ‘ ম ৃ গ ’ িিশত কী যিাঝাশনা হয় ?",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Bangla",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 34
+      }
+    },
+    {
+      "id": "bcs_49_035",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 35,
+      "question": "‘ কম - োশম যকনা যিেী োশম যিচা আমাশেি স্বাধীনতা ’ - িইবিি বির্াশগি বেক্ষ",
+      "options": {
+        "ক": "আ ি ু ি কািাম োমিুদ্দীন",
+        "খ": "আ ি ু ি মনিুি আহমে উত্তি : পোর্থ বিজ্ঞান",
+        "গ": "োমিুবদ্দন আ ি ু ি কািাম",
+        "ঘ": "ইিিামী বেক্ষা"
+      },
+      "correctAnswer": "",
+      "rawText": "35. ‘ কম - োশম যকনা যিেী োশম যিচা আমাশেি স্বাধীনতা ’ - িইবিি বির্াশগি বেক্ষক বিশিন ? যিখক যক ? ক . িিায়ন খ . পোর্থ বিজ্ঞান ক . আ ি ু ি কািাম োমিুদ্দীন গ . অর্থনীবত ঘ . ইিিামী বেক্ষা খ . আ ি ু ি মনিুি আহমে উত্তি : পোর্থ বিজ্ঞান গ . োমিুবদ্দন আ ি ু ি কািাম",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 35
+      }
+    },
+    {
+      "id": "bcs_49_036",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 36,
+      "question": "বিনিযান্ড বনশচি যকান িাশেি অ ন্ত র্ ু ক্ত থ ?",
+      "options": {
+        "ক": "িুইশেন",
+        "খ": "যেনমাকথ উত্তি : ি ু ধ ি া ি",
+        "গ": "নিওশয়",
+        "ঘ": "বফনিযান্ড 3"
+      },
+      "correctAnswer": "",
+      "rawText": "36. বিনিযান্ড বনশচি যকান িাশেি অ ন্ত র্ ু ক্ত থ ? গ . যিামিাি ঘ . িবিিাি ক . িুইশেন খ . যেনমাকথ উত্তি : ি ু ধ ি া ি গ . নিওশয় ঘ . বফনিযান্ড 3",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 36
+      }
+    },
+    {
+      "id": "bcs_49_037",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 37,
+      "question": "ax + by = a : bx – ay = ab; এই িহ - িমীকিশণি ( x, y)",
+      "options": {
+        "ক": "( a , b )",
+        "খ": "( a, b)",
+        "গ": "১৫",
+        "ঘ": "৫ এি িমাধান যকানবি ? উত্তি : ১৫ 2 2"
+      },
+      "correctAnswer": "",
+      "rawText": "37. ax + by = a : bx – ay = ab; এই িহ - িমীকিশণি ( x, y) গ . ১৫ ঘ . ৫ এি িমাধান যকানবি ? উত্তি : ১৫ 2 2 ক . ( a , b ) খ . ( a, b)",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 37
+      }
+    },
+    {
+      "id": "bcs_49_038",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 38,
+      "question": "‘ বেক্ষকশ",
+      "options": {
+        "ক": "একিচন যিাঝাশত",
+        "খ": "িহুিচন যিাঝাশত",
+        "গ": "একিচন ও িহুিচন উর্য়ই যিাঝাশত উত্তি : বিচািপবত িাত্তাি",
+        "ঘ": "ির্মবি একিচন , পশিিবি িহুিচন যিাঝাশত"
+      },
+      "correctAnswer": "",
+      "rawText": "38. ‘ বেক্ষকশক ি ু ঝ শ ত হশি বেক্ষার্থী কী চায় ’ - এই িাশকয বেক্ষক ও খ . বিচাি পবত িাশয়ম বেক্ষার্থীি িশয়াগ হশয়শি - ক . একিচন যিাঝাশত গ . বিচািপবত আ ি ু িাঈে য চ ৌ ধ ু ি ী খ . িহুিচন যিাঝাশত ঘ . বিচািপবত হ া ব ম ে ু ি িহমান গ . একিচন ও িহুিচন উর্য়ই যিাঝাশত উত্তি : বিচািপবত িাত্তাি ঘ . ির্মবি একিচন , পশিিবি িহুিচন যিাঝাশত",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 38
+      }
+    },
+    {
+      "id": "bcs_49_039",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 39,
+      "question": "একবি র্বিশত 3 বি ি ি ু জ এিং 2 বি িাি িি আশি । অপি একবি",
+      "options": {
+        "ক": "5/7",
+        "খ": "2/7",
+        "গ": "৯০",
+        "ঘ": "৪৫ িশতযক র্বি যর্শক একবি কশি িি যতািা হশিা । ে ু ই ব ি িশিি মশধয অন্তত একবি ি ি ু জ হওয়াি িম্ভািযতা কত ? উত্তি : ৬০"
+      },
+      "correctAnswer": "",
+      "rawText": "39. একবি র্বিশত 3 বি ি ি ু জ এিং 2 বি িাি িি আশি । অপি একবি ক . ৩০ খ . ৬০ র্বিশত 2 বি ি ি ু জ এিং 5 বি িাি িি আশি । বনিশপক্ষর্াশি গ . ৯০ ঘ . ৪৫ িশতযক র্বি যর্শক একবি কশি িি যতািা হশিা । ে ু ই ব ি িশিি মশধয অন্তত একবি ি ি ু জ হওয়াি িম্ভািযতা কত ? উত্তি : ৬০ ক . 5/7 খ . 2/7",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Bangla",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 39
+      }
+    },
+    {
+      "id": "bcs_49_040",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 40,
+      "question": "‘",
+      "options": {
+        "ক": "যজাি",
+        "খ": "উধ্বথ",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "40. ‘ উৎশক্ষপণ ’ েশব্দ ‘ উৎ ’ উপিগথ যকান অর্থ ধািণ কশিশি ? উত্তি : োক্তািখানা ক . যজাি খ . উধ্বথ",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Bangla",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 40
+      }
+    },
+    {
+      "id": "bcs_49_041",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 41,
+      "question": "হাবিমা ই য় া",
+      "options": {
+        "ক": "ব্রুনাই",
+        "খ": "মািশয়বেয়া",
+        "গ": "ব ি ঙ্গ া প ু ি",
+        "ঘ": "বপ আি ( PR) চ া ি ু কিা উত্তি : ব ি ঙ্গ া প ু ি উত্তি : বি - স্তি বিবেষ্ট িংিে"
+      },
+      "correctAnswer": "",
+      "rawText": "41. হাবিমা ই য় া ক ু ি যকান যেশেি িােপবত বিশিন ? খ . িংিশেি আিন ি ৃ ব ি ক . ব্রুনাই খ . মািশয়বেয়া গ . িংিবক্ষত নািী আিন িাবতি গ . ব ি ঙ্গ া প ু ি ঘ . তানজাবনয়া ঘ . বপ আি ( PR) চ া ি ু কিা উত্তি : ব ি ঙ্গ া প ু ি উত্তি : বি - স্তি বিবেষ্ট িংিে",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 41
+      }
+    },
+    {
+      "id": "bcs_49_042",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 42,
+      "question": "A person who leaves his/her own country to settle",
+      "options": {
+        "ক": "im m igrant",
+        "খ": "expatriate",
+        "গ": "emigrant",
+        "ঘ": "একবি হবিউে ম ু ব র্ উত্তি : emigrant উত্তি : যগাপন কািাগাি"
+      },
+      "correctAnswer": "",
+      "rawText": "42. A person who leaves his/her own country to settle ক . িি কামিা permanently in another is called a/an - খ . পবিশিে িািি ক ৃ ব ষ ক া জ ক . im m igrant খ . expatriate গ . যগাপন কািাগাি গ . emigrant ঘ . migrant ঘ . একবি হবিউে ম ু ব র্ উত্তি : emigrant উত্তি : যগাপন কািাগাি",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 42
+      }
+    },
+    {
+      "id": "bcs_49_043",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 43,
+      "question": "১৫ বমিাি িম্বা একবি যস্কশিি এ",
+      "options": {
+        "ক": "িাশন্ত ১০ যকবজ ওজন িাাঁধা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "43. ১৫ বমিাি িম্বা একবি যস্কশিি এক িাশন্ত ১০ যকবজ ওজন িাাঁধা",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Bangla",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 43
+      }
+    },
+    {
+      "id": "bcs_49_044",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 44,
+      "question": "পাবকস্তাশনি ১৯৭০ িাশিি িাধািণ বনিথাচশন িধান বনিথাচন",
+      "options": {
+        "ক": "বিচািপবত িাত্তাি",
+        "খ": "",
+        "গ": "(0, a)",
+        "ঘ": "( a, 0) কবমেনাি যক বিশিন ? উত্তি : ( a, 0)"
+      },
+      "correctAnswer": "",
+      "rawText": "44. পাবকস্তাশনি ১৯৭০ িাশিি িাধািণ বনিথাচশন িধান বনিথাচন গ . (0, a) ঘ . ( a, 0) কবমেনাি যক বিশিন ? উত্তি : ( a, 0) ক . বিচািপবত িাত্তাি",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 44
+      }
+    },
+    {
+      "id": "bcs_49_045",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 45,
+      "question": "একবি ব ত্র র্ ু শ জ ি ির্ম যকাণ বিতীয় যকাশণি অশধথ",
+      "options": {
+        "ক": "ত ৃ ত ী য় যকাণ উত্তি : িহুিচন যিাঝাশত অপি ে ু ই যকাশণি বিশয়াগফশিি বতনগুণ । বিতীয় যকাণবি কত বেিী ?",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "45. একবি ব ত্র র্ ু শ জ ি ির্ম যকাণ বিতীয় যকাশণি অশধথক । ত ৃ ত ী য় যকাণ উত্তি : িহুিচন যিাঝাশত অপি ে ু ই যকাশণি বিশয়াগফশিি বতনগুণ । বিতীয় যকাণবি কত বেিী ?",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Bangla",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 45
+      }
+    },
+    {
+      "id": "bcs_49_046",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 46,
+      "question": "যকান েব্দবি িতযয়শ াশ",
+      "options": {
+        "ক": "োক্তািখানা",
+        "খ": "হািপাতাি উত্তি : 5/7",
+        "গ": "আকােশিাাঁয়া",
+        "ঘ": "গুণমান"
+      },
+      "correctAnswer": "",
+      "rawText": "46. যকান েব্দবি িতযয়শ াশগ গবঠত ? গ . 5/12 ঘ . 1/4 ক . োক্তািখানা খ . হািপাতাি উত্তি : 5/7 গ . আকােশিাাঁয়া ঘ . গুণমান",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 46
+      }
+    },
+    {
+      "id": "bcs_49_047",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 47,
+      "question": "চবব্বশেি",
+      "options": {
+        "ক": "বি - স্তি বিবেষ্ট িংিে",
+        "খ": "",
+        "গ": "আড়াি",
+        "ঘ": "গবত িংস্কাি বিষশয় ঐকযমশতি অনযতম িস্তাি কী ? উত্তি : উধ্বথ"
+      },
+      "correctAnswer": "",
+      "rawText": "47. চবব্বশেি গ ণ অ র্ ু য ত্থ া শ ন ি পি িাংিাশেশেি জাতীয় িংিশেি গ . আড়াি ঘ . গবত িংস্কাি বিষশয় ঐকযমশতি অনযতম িস্তাি কী ? উত্তি : উধ্বথ ক . বি - স্তি বিবেষ্ট িংিে",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Bangladesh Affairs",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 47
+      }
+    },
+    {
+      "id": "bcs_49_048",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 48,
+      "question": "আয়নাঘি কী ?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "48. আয়নাঘি কী ?",
+      "status": "needs_manual_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 48
+      }
+    },
+    {
+      "id": "bcs_49_049",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 49,
+      "question": "‘ স্বাধীন ’ েশব্দি িযািিাকয যকানবি ? হশয়শি । একই িান্ত যর্শ",
+      "options": {
+        "ক": "৪৫",
+        "খ": "৩০ BCS, Bank, Primary & Other Job’s Preparation",
+        "গ": "স্ব - এি অধীন",
+        "ঘ": "স্বশত্তি অধীন যপশিক িাগাশনা আশি । অপি িাশন্ত কত যকবজ ওজন বেশি উত্তি : স্ব - এি অধীন যস্কশিি র্ািিাময র্াকশি ? Page"
+      },
+      "correctAnswer": "",
+      "rawText": "49. ‘ স্বাধীন ’ েশব্দি িযািিাকয যকানবি ? হশয়শি । একই িান্ত যর্শক যস্কশিি দেশঘথযি ৩ : ২ অ ন ু প া শ ত একবি ক . স্বীয় - এি অধীন খ . িোি অধীন 4 - গ . স্ব - এি অধীন ঘ . স্বশত্তি অধীন যপশিক িাগাশনা আশি । অপি িাশন্ত কত যকবজ ওজন বেশি উত্তি : স্ব - এি অধীন যস্কশিি র্ািিাময র্াকশি ? Page ক . ৪৫ খ . ৩০ BCS, Bank, Primary & Other Job’s Preparation",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 49
+      }
+    },
+    {
+      "id": "bcs_49_050",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 50,
+      "question": "চীন , র্ািত ও িাংিাশেশেি িিাবহত ব্র হ্ম প ু ত্র নেী , চীন িা বতব্বশত",
+      "options": {
+        "ক": "ইয়াংবি",
+        "খ": "বিবজয়া",
+        "গ": "apprehension",
+        "ঘ": "equanimity কী নাশম পবিবচত ? উত্তি : apprehension"
+      },
+      "correctAnswer": "",
+      "rawText": "50. চীন , র্ািত ও িাংিাশেশেি িিাবহত ব্র হ্ম প ু ত্র নেী , চীন িা বতব্বশত গ . apprehension ঘ . equanimity কী নাশম পবিবচত ? উত্তি : apprehension ক . ইয়াংবি খ . বিবজয়া",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 50
+      }
+    },
+    {
+      "id": "bcs_49_051",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 51,
+      "question": "বনশমাক্ত যকান িােবি িাংহাই যকাঅপাশিেন অগথানাইশজেন িা",
+      "options": {
+        "ক": "আজািিাইজান",
+        "খ": "র্ািত",
+        "গ": "ধ া ত ু",
+        "ঘ": "িিক SCO এি িেিয নয় ? উত্তি : িিক"
+      },
+      "correctAnswer": "",
+      "rawText": "51. বনশমাক্ত যকান িােবি িাংহাই যকাঅপাশিেন অগথানাইশজেন িা গ . ধ া ত ু ঘ . িিক SCO এি িেিয নয় ? উত্তি : িিক ক . আজািিাইজান খ . র্ািত",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 51
+      }
+    },
+    {
+      "id": "bcs_49_052",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 52,
+      "question": "″ ... I cannot but conclude the Bulk of your Natives,",
+      "options": {
+        "ক": "Robinson Crusoe",
+        "খ": "৬ to be the most pernicious race of little odious vermin that Nature ever suffered to crawl upon the",
+        "গ": "৭",
+        "ঘ": "৮ surface of the Earth ″ . the statement occurs in উত্তি : ৭"
+      },
+      "correctAnswer": "",
+      "rawText": "52. ″ ... I cannot but conclude the Bulk of your Natives, ক . ৫ খ . ৬ to be the most pernicious race of little odious vermin that Nature ever suffered to crawl upon the গ . ৭ ঘ . ৮ surface of the Earth ″ . the statement occurs in উত্তি : ৭ ক . Robinson Crusoe",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 52
+      }
+    },
+    {
+      "id": "bcs_49_053",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 53,
+      "question": "আহমে েিীশফি মশত ম ধ য ু শ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "চিীোি নাশম কতজন কবি",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "53. আহমে েিীশফি মশত ম ধ য ু শ গ চিীোি নাশম কতজন কবি",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Bangla",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 53
+      }
+    },
+    {
+      "id": "bcs_49_054",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 54,
+      "question": "নর্থ আিিাবন্ট",
+      "options": {
+        "ক": "বট্রবি অগথানইশজেন িা িামবিক যজাি কত িাশি",
+        "খ": "",
+        "গ": "",
+        "ঘ": "The despot is thought to be corrupt. উত্তি : The despot was thought to be corrupt. স্বাক্ষবিত হয় ?"
+      },
+      "correctAnswer": "",
+      "rawText": "54. নর্থ আিিাবন্টক বট্রবি অগথানইশজেন িা িামবিক যজাি কত িাশি ঘ . The despot is thought to be corrupt. উত্তি : The despot was thought to be corrupt. স্বাক্ষবিত হয় ?",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 54
+      }
+    },
+    {
+      "id": "bcs_49_055",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 55,
+      "question": "যকপ র্ািে ( Cape Verde) িীপ িােবি যকার্ায় অিবস্থত ?",
+      "options": {
+        "ক": "গািফ অি বগবন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "55. যকপ র্ািে ( Cape Verde) িীপ িােবি যকার্ায় অিবস্থত ? উত্তি : 400 ক . গািফ অি বগবন",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 55
+      }
+    },
+    {
+      "id": "bcs_49_056",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 56,
+      "question": "Choose the synonym for ′ Fright ′ Page",
+      "options": {
+        "ক": "placidity",
+        "খ": "composure BCS, Bank, Primary & Other Job’s Preparation",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "56. Choose the synonym for ′ Fright ′ Page ক . placidity খ . composure BCS, Bank, Primary & Other Job’s Preparation",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 56
+      }
+    },
+    {
+      "id": "bcs_49_057",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 57,
+      "question": "‘ পবিিাি যর্শ",
+      "options": {
+        "ক": "উপিগথ",
+        "খ": "িতযয়",
+        "গ": "হুয়াইবি",
+        "ঘ": "ইয়ািিাং িাংশো এি িযাকিবণক পবিচয় কী ? উত্তি : ইয়ািিাং িাংশো"
+      },
+      "correctAnswer": "",
+      "rawText": "57. ‘ পবিিাি যর্শক বেক্ষাি শুরু ’ - এখাশন ‘ শর্শকই ’ েশব্দি িাশর্ ‘ ই ’ - গ . হুয়াইবি ঘ . ইয়ািিাং িাংশো এি িযাকিবণক পবিচয় কী ? উত্তি : ইয়ািিাং িাংশো ক . উপিগথ খ . িতযয়",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Bangla",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 57
+      }
+    },
+    {
+      "id": "bcs_49_058",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 58,
+      "question": "একবি িাশক্স ৪িা িাি , ৩িা নীি , ২িা হ ি ু ে ও ১িা ি ি ু জ িি",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "পাবকস্তান",
+        "ঘ": "ইিান আশি । কমপশক্ষ কয়িা িি উঠাশি যিখাশন অন্তত একিা িাি িি উত্তি : আজািিাইজান র্াকশিই ?"
+      },
+      "correctAnswer": "",
+      "rawText": "58. একবি িাশক্স ৪িা িাি , ৩িা নীি , ২িা হ ি ু ে ও ১িা ি ি ু জ িি গ . পাবকস্তান ঘ . ইিান আশি । কমপশক্ষ কয়িা িি উঠাশি যিখাশন অন্তত একিা িাি িি উত্তি : আজািিাইজান র্াকশিই ?",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Bangla",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 58
+      }
+    },
+    {
+      "id": "bcs_49_059",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 59,
+      "question": "PQR ব ত্র র্ ু শ জ ি ∠ Q = 90  এিং ∠ P = 2 ∠ R হশি বনশচি",
+      "options": {
+        "ক": "PR = 2QR",
+        "খ": "PQ = 2PR",
+        "গ": "PR = 2PQ",
+        "ঘ": "QR = 2PQ উত্তি : Gulliver’s Travels উত্তি : PR = 2PQ"
+      },
+      "correctAnswer": "",
+      "rawText": "59. PQR ব ত্র র্ ু শ জ ি ∠ Q = 90  এিং ∠ P = 2 ∠ R হশি বনশচি খ . A Doll’s House যকানবি িবিক ? গ . Vanity Fair ক . PR = 2QR খ . PQ = 2PR ঘ . Gulliver’s Travels গ . PR = 2PQ ঘ . QR = 2PQ উত্তি : Gulliver’s Travels উত্তি : PR = 2PQ",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 59
+      }
+    },
+    {
+      "id": "bcs_49_060",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 60,
+      "question": "Identify the correct passive form, ″ People thought বিশিন ? that the despot was corr upt . ″",
+      "options": {
+        "ক": "The despot had been thought to be corrupt.",
+        "খ": "It was thought that the despot was corrupt. উত্তি : ৩",
+        "গ": "The despot was thought to be corrupt.",
+        "ঘ": "৫"
+      },
+      "correctAnswer": "",
+      "rawText": "60. Identify the correct passive form, ″ People thought বিশিন ? that the despot was corr upt . ″ ক . ২ খ . ৩ ক . The despot had been thought to be corrupt. গ . ৪ ঘ . ৫ খ . It was thought that the despot was corrupt. উত্তি : ৩ গ . The despot was thought to be corrupt.",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 60
+      }
+    },
+    {
+      "id": "bcs_49_061",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 61,
+      "question": "একবি িই 10% ক্ষবতশত বিক্রয় কিা হশিা । ব ি ক্র য় ম ূ ি য 60 িাকা",
+      "options": {
+        "ক": "200",
+        "খ": "300 উত্তি : ১৯৪৯",
+        "গ": "400",
+        "ঘ": "500"
+      },
+      "correctAnswer": "",
+      "rawText": "61. একবি িই 10% ক্ষবতশত বিক্রয় কিা হশিা । ব ি ক্র য় ম ূ ি য 60 িাকা ক . ১৯৩৯ খ . ১৯৪৩ যিবে হশি 5% িার্ হশতা । িইবিি ক্র য় ম ূ ি য কত িাকা ? গ . ১৯৪৯ ঘ . ১৯৬০ ক . 200 খ . 300 উত্তি : ১৯৪৯ গ . 400 ঘ . 500",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Bangla",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 61
+      }
+    },
+    {
+      "id": "bcs_49_062",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 62,
+      "question": "Identify the word that can be used as both singular",
+      "options": {
+        "ক": "light",
+        "খ": "shot",
+        "গ": "criterion",
+        "ঘ": "cannon 5 উত্তি : পবিম আবফ্রকা উত্তি : cannon -"
+      },
+      "correctAnswer": "",
+      "rawText": "62. Identify the word that can be used as both singular খ . যফ্রঞ্চ পবিশনবেয়া and plural. গ . েবক্ষণ আবফ্রকা ক . light খ . shot ঘ . পবিম আবফ্রকা গ . criterion ঘ . cannon 5 উত্তি : পবিম আবফ্রকা উত্তি : cannon -",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 62
+      }
+    },
+    {
+      "id": "bcs_49_063",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 63,
+      "question": "যকান াবন্ত্র",
+      "options": {
+        "ক": "বগয়াশিি চাকা যিাি হশি ি ং ু ক্ত অিস্থায় িড়বিি উত্তি : রূ প ম ূ ি যচশয় যিাি চাকাবি বকর্াশি",
+        "খ": "",
+        "গ": "",
+        "ঘ": "ু ি শ ি ?"
+      },
+      "correctAnswer": "",
+      "rawText": "63. যকান াবন্ত্রক বগয়াশিি চাকা যিাি হশি ি ং ু ক্ত অিস্থায় িড়বিি উত্তি : রূ প ম ূ ি যচশয় যিাি চাকাবি বকর্াশি ঘ ু ি শ ি ?",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 63
+      }
+    },
+    {
+      "id": "bcs_49_064",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 64,
+      "question": "িাংিাশেশেি জ ু ি া ই বিপ্লশিি েবহে আ ি ু িাঈে যকান",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "64. িাংিাশেশেি জ ু ি া ই বিপ্লশিি েবহে আ ি ু িাঈে যকান উত্তি : Ellis Bell বিশ্ববিেযািশয়ি িাত্র বিশিন ?",
+      "status": "needs_manual_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 64
+      }
+    },
+    {
+      "id": "bcs_49_065",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 65,
+      "question": "ত ু ি শ স্",
+      "options": {
+        "ক": "জািাি তািািানী",
+        "খ": "মািুে িািজানী",
+        "গ": "ম া জ ি ু ম আিবে",
+        "ঘ": "বতবন কর্া শুশন যজশগ িইশিন উত্তি : আ ি ে ু ল্ল া হ ওচািান উত্তি : বতবন কর্া শুশন যজশগ িইশিন"
+      },
+      "correctAnswer": "",
+      "rawText": "65. ত ু ি শ স্ক ি বিবিন্নতািােী েি Kurdistan Workers’ Party িা ক . বতবন কর্া না শুশন ঘ ু ম া শ ত পািশিন না PKK এি িবতষ্ঠাতা যক ? খ . বতবন কর্া না শুশন ঘ ু ম া শ ত পািশিন ক . জািাি তািািানী খ . মািুে িািজানী গ . বতবন যজশগ িইশিন কর্া না শুশন গ . ম া জ ি ু ম আিবে ঘ . আ ি ে ু ল্ল া হ ওচািান ঘ . বতবন কর্া শুশন যজশগ িইশিন উত্তি : আ ি ে ু ল্ল া হ ওচািান উত্তি : বতবন কর্া শুশন যজশগ িইশিন",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 65
+      }
+    },
+    {
+      "id": "bcs_49_066",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 66,
+      "question": "বনশোক্ত যকান র্ািতীয় িাশজযি িাংিাশেশেি িাশর্ যকান র্ ূ ব ম",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "66. বনশোক্ত যকান র্ািতীয় িাশজযি িাংিাশেশেি িাশর্ যকান র্ ূ ব ম",
+      "status": "needs_manual_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 66
+      }
+    },
+    {
+      "id": "bcs_49_067",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 67,
+      "question": "একবি যট্রন িবত যিশকশন্ড ১০০ ফ ু ি যিশ",
+      "options": {
+        "ক": "ি গুবিি যিগ যিশকশন্ড ২০০ ফ ু ি । উক্ত িযবক্ত চিন্ত যট্রশনি",
+        "খ": "",
+        "গ": "িযাি ি ব ি ম ু ল্ল া হ ি ন্দ ু শ",
+        "ঘ": "িযাি আ ব্দ ু ি িবহম ৩০০ ফ ু ি িামশন একবি স্তম্ভ িক্ষয কশি গুবি ি ু ড় শ ি কত যিশকন্ড উত্তি : িযাি ি ব ি ম ু ল্ল া হ পি তা স্তম্ভশক আঘাত কিশি ?"
+      },
+      "correctAnswer": "ক",
+      "rawText": "67. একবি যট্রন িবত যিশকশন্ড ১০০ ফ ু ি যিশগ চিশি । এক িযবক্তি গ . িযাি ি ব ি ম ু ল্ল া হ ি ন্দ ু শ ক ি গুবিি যিগ যিশকশন্ড ২০০ ফ ু ি । উক্ত িযবক্ত চিন্ত যট্রশনি ঘ . িযাি আ ব্দ ু ি িবহম ৩০০ ফ ু ি িামশন একবি স্তম্ভ িক্ষয কশি গুবি ি ু ড় শ ি কত যিশকন্ড উত্তি : িযাি ি ব ি ম ু ল্ল া হ পি তা স্তম্ভশক আঘাত কিশি ?",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Bangla",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 67
+      }
+    },
+    {
+      "id": "bcs_49_068",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 68,
+      "question": "Demographic Dividend িিশত কী যিাঝায় ?",
+      "options": {
+        "ক": "বেশু ম ৃ ত ু য হ া ি হ্রাি উত্তি : ৮",
+        "খ": "জমহাি েূশনযি যকািায় আনা",
+        "গ": "১৬",
+        "ঘ": "২"
+      },
+      "correctAnswer": "",
+      "rawText": "68. Demographic Dividend িিশত কী যিাঝায় ? গ . ১৬ ঘ . ২ ক . বেশু ম ৃ ত ু য হ া ি হ্রাি উত্তি : ৮ খ . জমহাি েূশনযি যকািায় আনা",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 68
+      }
+    },
+    {
+      "id": "bcs_49_069",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 69,
+      "question": "র্াষাি অ ন্ত র্ ু ক্ত থ ক্ষ ু দ্র ত ম এক",
+      "options": {
+        "ক": "যকানবি ?",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "69. র্াষাি অ ন্ত র্ ু ক্ত থ ক্ষ ু দ্র ত ম একক যকানবি ?",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 69
+      }
+    },
+    {
+      "id": "bcs_49_070",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 70,
+      "question": "The novel ′ Wuthering Heights ′ was penned by the",
+      "options": {
+        "ক": "Ellise Bellet",
+        "খ": "Ellis Belle উত্তি : যজাশি",
+        "গ": "Ellis Bell",
+        "ঘ": "Una Elis"
+      },
+      "correctAnswer": "",
+      "rawText": "70. The novel ′ Wuthering Heights ′ was penned by the ক . আশস্ত খ . যজাশি author under the penname. গ . একইর্াশি ঘ . যকানবিই নয় ক . Ellise Bellet খ . Ellis Belle উত্তি : যজাশি গ . Ellis Bell ঘ . Una Elis",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 70
+      }
+    },
+    {
+      "id": "bcs_49_071",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 71,
+      "question": "ফিরু",
+      "options": {
+        "ক": "হিশফি িড়া",
+        "খ": "ি ং প ু ি বিশ্ববিেযািয়",
+        "গ": "িাজোহী বিশ্ববিেযািয় উত্তি : হিশফি িড়া",
+        "ঘ": "যিগম যিাশকয়া বিশ্ববিেযািয়"
+      },
+      "correctAnswer": "",
+      "rawText": "71. ফিরুখ আহমশেি িন্থ যকানবি ? ক . ঢাকা বিশ্ববিেযািয় ক . হিশফি িড়া খ . িণথবেক্ষা খ . ি ং প ু ি বিশ্ববিেযািয় গ . িণথপবিচয় ঘ . িহজ িড়া গ . িাজোহী বিশ্ববিেযািয় উত্তি : হিশফি িড়া ঘ . যিগম যিাশকয়া বিশ্ববিেযািয়",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 71
+      }
+    },
+    {
+      "id": "bcs_49_072",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 72,
+      "question": "‘ বতবন কর্া শুশন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": "ু ম া শ ত পািশিন না ’ - িাকযবিি অবস্তিাচক রূপ উত্তি : যিগম যিাশকয়া বিশ্ববিেযািয় কী হশি ?"
+      },
+      "correctAnswer": "",
+      "rawText": "72. ‘ বতবন কর্া শুশন ঘ ু ম া শ ত পািশিন না ’ - িাকযবিি অবস্তিাচক রূপ উত্তি : যিগম যিাশকয়া বিশ্ববিেযািয় কী হশি ?",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 72
+      }
+    },
+    {
+      "id": "bcs_49_073",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 73,
+      "question": "১৯১১ িাশি িঙ্গর্ঙ্",
+      "options": {
+        "ক": "হাবকম আজমি খান উত্তি : নাগািযান্ড",
+        "খ": "যেশি িাংিা এ . যক . ফ জ ি ু ি হক",
+        "গ": "যমঘািয়",
+        "ঘ": "আিাম"
+      },
+      "correctAnswer": "",
+      "rawText": "73. ১৯১১ িাশি িঙ্গর্ঙ্গ িশেি পি ঢাকায় একবি বিশ্ববিেযািয় িবতষ্ঠাি িীমানা যনই ? জনয বব্রবিে িিকাশিি কাশি যেনেিিাি কিাি যক্ষশত্র যকান যনতা ক . নাগািযান্ড খ . বমশজািাম অিণী র্ ূ ব ম ক া পািন কশিন ? গ . যমঘািয় ঘ . আিাম ক . হাবকম আজমি খান উত্তি : নাগািযান্ড খ . যেশি িাংিা এ . যক . ফ জ ি ু ি হক",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Bangla",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 73
+      }
+    },
+    {
+      "id": "bcs_49_074",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 74,
+      "question": "একিা যিাহাি যগাি",
+      "options": {
+        "ক": "৪",
+        "খ": "৮ উত্তি : ৩",
+        "গ": "১",
+        "ঘ": "০ . ৫"
+      },
+      "correctAnswer": "",
+      "rawText": "74. একিা যিাহাি যগািক গবিশয় কয়বি িমান আয়তশনি যগািক ক . ৩ খ . ১ . ৫ দতিী িম্ভি াশেি িশতযশকি িযািাধথ িড় যগািকবিি অশধথক ? গ . ১ ঘ . ০ . ৫ ক . ৪ খ . ৮ উত্তি : ৩",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Bangla",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 74
+      }
+    },
+    {
+      "id": "bcs_49_075",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 75,
+      "question": "বিশশ্বি ির্ম জাবতিং",
+      "options": {
+        "ক": "UNOSOM",
+        "খ": "UNMOGIP",
+        "গ": "UNTSO",
+        "ঘ": "UNEF 1 উত্তি : কমথক্ষম িয়ি যগাষ্ঠীি অ ন ু প া ত ি ৃ ব ি উত্তি : UNTSO 6"
+      },
+      "correctAnswer": "",
+      "rawText": "75. বিশশ্বি ির্ম জাবতিংঘ োবন্তিক্ষী িাবহনী যকানবি ? গ . জনিংখযায় অবধকাংে যিকাি ক . UNOSOM খ . UNMOGIP ঘ . কমথক্ষম িয়ি যগাষ্ঠীি অ ন ু প া ত ি ৃ ব ি গ . UNTSO ঘ . UNEF 1 উত্তি : কমথক্ষম িয়ি যগাষ্ঠীি অ ন ু প া ত ি ৃ ব ি উত্তি : UNTSO 6",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 75
+      }
+    },
+    {
+      "id": "bcs_49_076",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 76,
+      "question": "িাংিাশেশেি িাজনীবত িম্পশকথ একজন আশমবিকান ঐবতহাবি",
+      "options": {
+        "ক": "এন্থবন মািকাশিনহাি",
+        "খ": "রূ প ম ূ ি মন্তিয কশিশিি , “ িাংিাশেশেি িাজনীবত িযবক্তত্বশক যকন্দ্র কশি Page",
+        "গ": "েব্দ",
+        "ঘ": "িানান ও িচশনি ঐবতহাবিশকি নাম বক ? উত্তি : অর্থ ও িচশনি"
+      },
+      "correctAnswer": "",
+      "rawText": "76. িাংিাশেশেি িাজনীবত িম্পশকথ একজন আশমবিকান ঐবতহাবিক - ক . অক্ষি খ . রূ প ম ূ ি মন্তিয কশিশিি , “ িাংিাশেশেি িাজনীবত িযবক্তত্বশক যকন্দ্র কশি Page গ . েব্দ ঘ . িগথ BCS, Bank, Primary & Other Job’s Preparation আিবতথত হয় , ধািণা িা িবতষ্ঠানশক যকন্দ্র কশি নয় ” এই ঘ . িানান ও িচশনি ঐবতহাবিশকি নাম বক ? উত্তি : অর্থ ও িচশনি ক . এন্থবন মািকাশিনহাি",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 76
+      }
+    },
+    {
+      "id": "bcs_49_077",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 77,
+      "question": "র্াষা - পবিিাি অ ন ু া য় ী িাাঁওতাি জনশগাষ্ঠী িধানত যকান পবিিাি",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "77. র্াষা - পবিিাি অ ন ু া য় ী িাাঁওতাি জনশগাষ্ঠী িধানত যকান পবিিাি",
+      "status": "needs_manual_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 77
+      }
+    },
+    {
+      "id": "bcs_49_078",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 78,
+      "question": "‘After lunch we went for a leisurely stroll’. Here",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "78. ‘After lunch we went for a leisurely stroll’. Here উত্তি : Common ‘leisurely’ is a/an -",
+      "status": "needs_manual_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 78
+      }
+    },
+    {
+      "id": "bcs_49_079",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 79,
+      "question": "“ শকিি আশয়ি অর্াি নয় , িিং িামশর্থযি অর্ািই োবিদ্রযতাি",
+      "options": {
+        "ক": "Development as Freedom",
+        "খ": "Women and Human Development উত্তি : The House of Nation",
+        "গ": "Development through Disposition",
+        "ঘ": "The House of Nation"
+      },
+      "correctAnswer": "",
+      "rawText": "79. “ শকিি আশয়ি অর্াি নয় , িিং িামশর্থযি অর্ািই োবিদ্রযতাি ক . Parliament ম ূ ি কািণ ” - অর্থনীবতবিে অমতথয যিন যকান িশন্থ এই ু ব ক্ত ত ু শ ি খ . National Parliament ধশিন ? গ . Legislature ক . Development as Freedom ঘ . The House of Nation খ . Women and Human Development উত্তি : The House of Nation গ . Development through Disposition",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 79
+      }
+    },
+    {
+      "id": "bcs_49_080",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 80,
+      "question": "log",
+      "options": {
+        "ক": "1/2",
+        "খ": "– 1/2",
+        "গ": "১",
+        "ঘ": "১০ x 4 = – 2 হশি x=? উত্তি : ১"
+      },
+      "correctAnswer": "",
+      "rawText": "80. log গ . ১ ঘ . ১০ x 4 = – 2 হশি x=? উত্তি : ১ ক . 1/2 খ . – 1/2",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 80
+      }
+    },
+    {
+      "id": "bcs_49_081",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 81,
+      "question": "‘ িতযশ",
+      "options": {
+        "ক": "িানান ও িতযশয়ি উত্তি : চীন ও ইংিযান্ড",
+        "খ": "অর্থ ও িচশনি Page",
+        "গ": "অর্থ ও িতযশয়ি BCS, Bank, Primary & Other Job’s Preparation",
+        "ঘ": "ইংিযান্ড ও আফগাবনস্তান 7 -"
+      },
+      "correctAnswer": "",
+      "rawText": "81. ‘ িতযশক স্বীকাি কিশত অশনক িযবক্তিাই চায়না ’ । - এখাশন র্ ু ি গ . চীন ও িাবেয়া ঘশিশি - ঘ . ইংিযান্ড ও আফগাবনস্তান 7 - ক . িানান ও িতযশয়ি উত্তি : চীন ও ইংিযান্ড খ . অর্থ ও িচশনি Page গ . অর্থ ও িতযশয়ি BCS, Bank, Primary & Other Job’s Preparation",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 81
+      }
+    },
+    {
+      "id": "bcs_49_082",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 82,
+      "question": "‘Someone sneezed loudly at the back of the hall’. In",
+      "options": {
+        "ক": "causative",
+        "খ": "intransitive",
+        "গ": "transitive",
+        "ঘ": "factitive উত্তি : িশিঞ্চ বজবিং উত্তি : intransitive"
+      },
+      "correctAnswer": "",
+      "rawText": "82. ‘Someone sneezed loudly at the back of the hall’. In খ . িশিঞ্চ বজবিং this sentence the verb ‘sneezed’ is - গ . িশিঞ্চ বিফশুিজ্ ক . causative খ . intransitive ঘ . যহনবি বকবিঞ্জাি গ . transitive ঘ . factitive উত্তি : িশিঞ্চ বজবিং উত্তি : intransitive",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 82
+      }
+    },
+    {
+      "id": "bcs_49_083",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 83,
+      "question": "িাংিাশেশে িশিথাচ্চ িংখয",
+      "options": {
+        "ক": "ইশন্দা - আ থ",
+        "খ": "দ্রাবিড় উত্তি : চটিাম",
+        "গ": "অবেক - অশো এবিয়াবিক ( ম ু ন্ড া )",
+        "ঘ": "পঞ্চগড়"
+      },
+      "correctAnswer": "",
+      "rawText": "83. িাংিাশেশে িশিথাচ্চ িংখযক চা িাগান িশয়শি যকান যজিায় ? র্ ু ক্ত ? ক . বিশিি খ . চটিাম ক . ইশন্দা - আ থ গ . যমৌির্ীিাজাি ঘ . পঞ্চগড় খ . দ্রাবিড় উত্তি : চটিাম গ . অবেক - অশো এবিয়াবিক ( ম ু ন্ড া )",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 83
+      }
+    },
+    {
+      "id": "bcs_49_084",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 84,
+      "question": "Which gender is the noun ‘neighbour’?",
+      "options": {
+        "ক": "Masculine",
+        "খ": "Feminine উত্তি : অবেক - অশো এবিয়াবিক ( ম ু ন্ড া )",
+        "গ": "Neuter",
+        "ঘ": "Common"
+      },
+      "correctAnswer": "",
+      "rawText": "84. Which gender is the noun ‘neighbour’? ঘ . বতব্বত - িমথী ক . Masculine খ . Feminine উত্তি : অবেক - অশো এবিয়াবিক ( ম ু ন্ড া ) গ . Neuter ঘ . Common",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 84
+      }
+    },
+    {
+      "id": "bcs_49_085",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 85,
+      "question": "বনশোক্ত যকান যেেবি ই",
+      "options": {
+        "ক": "ি ু ি শ",
+        "খ": "হাশঙ্গবি",
+        "গ": "যপািযান্ড",
+        "ঘ": "িুইজািিযান্ড উত্তি : িুইজািিযান্ড উত্তি : adjective"
+      },
+      "correctAnswer": "",
+      "rawText": "85. বনশোক্ত যকান যেেবি ইউশিাবপয়ান ইউবনয়শনি ( EU) িেিয নয় ? ক . adverb খ . adjective ক . ি ু ি শ গ ব ি য় া খ . হাশঙ্গবি গ . noun ঘ . conjunction গ . যপািযান্ড ঘ . িুইজািিযান্ড উত্তি : িুইজািিযান্ড উত্তি : adjective",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 85
+      }
+    },
+    {
+      "id": "bcs_49_086",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 86,
+      "question": "িংবিধান অ ন ু া য় ী জাতীয় িংিশেি ইংশিবজ নাম কী ?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "86. িংবিধান অ ন ু া য় ী জাতীয় িংিশেি ইংশিবজ নাম কী ?",
+      "status": "needs_manual_review",
+      "examType": "Preliminary",
+      "subject": "Bangladesh Affairs",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 86
+      }
+    },
+    {
+      "id": "bcs_49_087",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 87,
+      "question": "১ জন যিা",
+      "options": {
+        "ক": "৫",
+        "খ": "২৫",
+        "গ": "",
+        "ঘ": "Development, Environment and Power যিাক ৫ িা কিা যখশত কত বমবনি িময় িাগশি ? উত্তি : Development as Freedom"
+      },
+      "correctAnswer": "",
+      "rawText": "87. ১ জন যিাক ১ িা কিা ১ বমবনশি যখশত পাশি । তাহশি ৫ জন ঘ . Development, Environment and Power যিাক ৫ িা কিা যখশত কত বমবনি িময় িাগশি ? উত্তি : Development as Freedom ক . ৫ খ . ২৫",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 87
+      }
+    },
+    {
+      "id": "bcs_49_088",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 88,
+      "question": "আবফম ু ি যকান ে ু ই ব ি যেশেি মশধয িংঘবিত হয় ?",
+      "options": {
+        "ক": "চীন ও আফগাবনস্তান উত্তি : 1/2",
+        "খ": "চীন ও ইংিযান্ড",
+        "গ": "2",
+        "ঘ": "– 2"
+      },
+      "correctAnswer": "",
+      "rawText": "88. আবফম ু ি যকান ে ু ই ব ি যেশেি মশধয িংঘবিত হয় ? গ . 2 ঘ . – 2 ক . চীন ও আফগাবনস্তান উত্তি : 1/2 খ . চীন ও ইংিযান্ড",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 88
+      }
+    },
+    {
+      "id": "bcs_49_089",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 89,
+      "question": "‘ এ কাজ কিশত আবম িি পবিকি ’ - এখাশন ‘ পবিকি ’ েশব্দি অর্থ",
+      "options": {
+        "ক": "শ্বাি",
+        "খ": "িবতজ্ঞা",
+        "গ": "যকামি",
+        "ঘ": "িবতশ্রুত উত্তি : মবিি িশিাকি উত্তি : িবতশ্রুত"
+      },
+      "correctAnswer": "",
+      "rawText": "89. ‘ এ কাজ কিশত আবম িি পবিকি ’ - এখাশন ‘ পবিকি ’ েশব্দি অর্থ খ . মবিি িশিাকি কী ? গ . পযাবিি চ ু ব ক্ত ক . শ্বাি খ . িবতজ্ঞা ঘ . িামিাি কনশর্নেন গ . যকামি ঘ . িবতশ্রুত উত্তি : মবিি িশিাকি উত্তি : িবতশ্রুত",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Bangla",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 89
+      }
+    },
+    {
+      "id": "bcs_49_090",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 90,
+      "question": "Which sentence is correct? কশণথি দেঘথয কত ?",
+      "options": {
+        "ক": "2 2 বমিাি",
+        "খ": "2 3 বমিাি",
+        "গ": "2 বমিাি",
+        "ঘ": "The picture had hanged on the wall উত্তি : 2 6 বমিাি উত্তি : The picture was hung on the wall"
+      },
+      "correctAnswer": "",
+      "rawText": "90. Which sentence is correct? কশণথি দেঘথয কত ? ক . The picture was hanged on the wall খ . The picture was hung on the wall ক . 2 2 বমিাি খ . 2 3 বমিাি গ . The picture was hunged on the wall গ . 2 বমিাি ঘ . 2 6 বমিাি ঘ . The picture had hanged on the wall উত্তি : 2 6 বমিাি উত্তি : The picture was hung on the wall",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 90
+      }
+    },
+    {
+      "id": "bcs_49_091",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 91,
+      "question": "ির্ম ব ি শ্ব ু ি যকান চ ু ব ক্ত ি মাধযশম িমাপ্ত হয় ? is a/an",
+      "options": {
+        "ক": "participle",
+        "খ": "infinitive উত্তি : পযাবিি চ ু ব ক্ত",
+        "গ": "verbal noun",
+        "ঘ": "যিাম চ ু ব ক্ত"
+      },
+      "correctAnswer": "",
+      "rawText": "91. ির্ম ব ি শ্ব ু ি যকান চ ু ব ক্ত ি মাধযশম িমাপ্ত হয় ? is a/an ক . পযাবিি চ ু ব ক্ত খ . র্ািথাই চ ু ব ক্ত ক . participle গ . যজশনর্া চ ু ব ক্ত ঘ . যিাম চ ু ব ক্ত খ . infinitive উত্তি : পযাবিি চ ু ব ক্ত গ . verbal noun",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 91
+      }
+    },
+    {
+      "id": "bcs_49_092",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 92,
+      "question": "িাংিাশেশেি ওয়াশিন্ট অফ যিবিশেন্ট অ ন ু া য় ী িিথ ির্ম য",
+      "options": {
+        "ক": "ঘ . gerund উত্তি : gerund অিস্থান কশিন ?",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "92. িাংিাশেশেি ওয়াশিন্ট অফ যিবিশেন্ট অ ন ু া য় ী িিথ ির্ম যক ঘ . gerund উত্তি : gerund অিস্থান কশিন ?",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 92
+      }
+    },
+    {
+      "id": "bcs_49_093",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 93,
+      "question": "The idiom ‘icing on the cake’ means -",
+      "options": {
+        "ক": "a slice of the cake উত্তি : ওশয়স্টানথ িাহািা",
+        "খ": "an attractive but unnecessary addition",
+        "গ": "",
+        "ঘ": "যিিাি আবফ্রকান বিপািবিক"
+      },
+      "correctAnswer": "",
+      "rawText": "93. The idiom ‘icing on the cake’ means - ঘ . যিিাি আবফ্রকান বিপািবিক ক . a slice of the cake উত্তি : ওশয়স্টানথ িাহািা খ . an attractive but unnecessary addition",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 93
+      }
+    },
+    {
+      "id": "bcs_49_094",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 94,
+      "question": "র্ািত পাবকস্তাশনি মশধয ইন্দাি ওয়ািাি বট্রবি ( IWT) যকান িাশি",
+      "options": {
+        "ক": "১৯৪৮",
+        "খ": "১৯৭৪",
+        "গ": "",
+        "ঘ": "যকমবব্রজ বিশ্ববিেযািশয়ি উপাচা থ স্বাক্ষবিত হয় ? উত্তি : ু ক্ত ি া শ ে ি স্বাধীনতা ু শ ি বব্রবিে িাবহনীি িধান"
+      },
+      "correctAnswer": "",
+      "rawText": "94. র্ািত পাবকস্তাশনি মশধয ইন্দাি ওয়ািাি বট্রবি ( IWT) যকান িাশি ঘ . যকমবব্রজ বিশ্ববিেযািশয়ি উপাচা থ স্বাক্ষবিত হয় ? উত্তি : ু ক্ত ি া শ ে ি স্বাধীনতা ু শ ি বব্রবিে িাবহনীি িধান ক . ১৯৪৮ খ . ১৯৭৪",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 94
+      }
+    },
+    {
+      "id": "bcs_49_095",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 95,
+      "question": "ODS (Ozone Depleting Substances) এি িযিহাি কমাশনাি",
+      "options": {
+        "ক": "বকয়াশিা িশিাকি উত্তি : preposition Page",
+        "খ": "",
+        "গ": "preposition জনয যকান চ ু ব ক্ত িাক্ষবিত হয় ? 8 -",
+        "ঘ": "pronoun"
+      },
+      "correctAnswer": "",
+      "rawText": "95. ODS (Ozone Depleting Substances) এি িযিহাি কমাশনাি গ . preposition জনয যকান চ ু ব ক্ত িাক্ষবিত হয় ? 8 - ঘ . pronoun ক . বকয়াশিা িশিাকি উত্তি : preposition Page",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 95
+      }
+    },
+    {
+      "id": "bcs_49_096",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 96,
+      "question": "একবি ঘনশকি ি ম্প ূ ণ থ প ৃ শ ষ্ঠ ি যক্ষত্রফি 48 িগথবমিাি । ঘনকবিি",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "96. একবি ঘনশকি ি ম্প ূ ণ থ প ৃ শ ষ্ঠ ি যক্ষত্রফি 48 িগথবমিাি । ঘনকবিি",
+      "status": "needs_manual_review",
+      "examType": "Preliminary",
+      "subject": "Bangla",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 96
+      }
+    },
+    {
+      "id": "bcs_49_097",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 97,
+      "question": "‘They talked about going on a vacation’. Here ‘going’",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "rawText": "97. ‘They talked about going on a vacation’. Here ‘going’",
+      "status": "needs_manual_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 97
+      }
+    },
+    {
+      "id": "bcs_49_098",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 98,
+      "question": "বনশোক্ত যকান যেে িা অঞ্চি জাবতিংশঘি িেিয যেে নয় ?",
+      "options": {
+        "ক": "ব ত ম ু ি বিবস্ট",
+        "খ": "েবক্ষন িুোন উত্তি : িােপবত",
+        "গ": "ওশয়স্টানথ িাহািা",
+        "ঘ": "িধান বিচািপবত"
+      },
+      "correctAnswer": "",
+      "rawText": "98. বনশোক্ত যকান যেে িা অঞ্চি জাবতিংশঘি িেিয যেে নয় ? ক . িধানমন্ত্রী খ . িােপবত ক . ব ত ম ু ি বিবস্ট গ . িধান উপশেষ্টা ঘ . িধান বিচািপবত খ . েবক্ষন িুোন উত্তি : িােপবত গ . ওশয়স্টানথ িাহািা",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "Mathematics",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 98
+      }
+    },
+    {
+      "id": "bcs_49_099",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 99,
+      "question": "িেথ কণথওয়াবিি বব্রবিে র্ািশতি গর্নথি যজনাশিি হওয়ায় প ূ শ ি থ যকান র্ ূ ব ম",
+      "options": {
+        "ক": "বব্রশিশনি পিিাে মন্ত্রী",
+        "খ": "ফ্রাশন্স ব ন ু ু্ ক্ত বব্রশিশনি িােেূত উত্তি : an attractive but unnecessary addition",
+        "গ": "ু ক্ত ি া শ ে ি স্বাধীনতা ু শ ি বব্রবিে িাবহনীি িধান",
+        "ঘ": "an attractive and essential enhancement"
+      },
+      "correctAnswer": "",
+      "rawText": "99. িেথ কণথওয়াবিি বব্রবিে র্ািশতি গর্নথি যজনাশিি হওয়ায় প ূ শ ি থ যকান র্ ূ ব ম ক া য় বিশিন ? গ . an attractive service ক . বব্রশিশনি পিিাে মন্ত্রী ঘ . an attractive and essential enhancement খ . ফ্রাশন্স ব ন ু ু্ ক্ত বব্রশিশনি িােেূত উত্তি : an attractive but unnecessary addition গ . ু ক্ত ি া শ ে ি স্বাধীনতা ু শ ি বব্রবিে িাবহনীি িধান",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 99
+      }
+    },
+    {
+      "id": "bcs_49_100",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 100,
+      "question": "‘We work every day except Friday’. In this sentence",
+      "options": {
+        "ক": "adjective",
+        "খ": "noun",
+        "গ": "১৯৬৫",
+        "ঘ": "১৯৮০ ‘except’ in a/an উত্তি : যনাি : অপেশন িবঠক উত্তি যনই । িবঠক উত্তি ১৯৬০ ।"
+      },
+      "correctAnswer": "",
+      "rawText": "100. ‘We work every day except Friday’. In this sentence গ . ১৯৬৫ ঘ . ১৯৮০ ‘except’ in a/an উত্তি : যনাি : অপেশন িবঠক উত্তি যনই । িবঠক উত্তি ১৯৬০ । ক . adjective খ . noun",
+      "status": "parsed_pending_answer_review",
+      "examType": "Preliminary",
+      "subject": "English",
+      "section": "",
+      "topic": "",
+      "subtopic": "",
+      "explanation": "",
+      "difficulty": "medium",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ],
+      "source": {
+        "exam": "49th BCS Preliminary",
+        "questionNo": 100
+      }
+    }
+  ]
+}

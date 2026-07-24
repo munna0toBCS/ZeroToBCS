@@ -1,0 +1,1681 @@
+{
+  "examName": "33th BCS Preliminary",
+  "examCode": "bcs_33",
+  "totalQuestions": 68,
+  "validation": {
+    "totalDetected": 68,
+    "highestQuestionNo": 100,
+    "missing": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      9,
+      14,
+      15,
+      16,
+      17,
+      20,
+      22,
+      24,
+      25,
+      26,
+      27,
+      34,
+      35,
+      36,
+      37,
+      41,
+      42,
+      44,
+      47,
+      52,
+      53,
+      54,
+      56,
+      59,
+      72,
+      74,
+      77
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 68,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_33_001",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 1,
+      "question": "চর্যাপদ কোন ছন্দে লেখা?",
+      "options": {
+        "ক": "অক্ষরবৃত্ত খ` মাত্রাবৃত্ত",
+        "খ": "ষোড়শ শতকের শেষাধে ও সপ্তদশ শতকের প্রথমাধে",
+        "গ": "সপ্তদশ শতকের শেষাধে আঠারো শতকের প্রথমাধে",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "আঠারো শতকের শেষার্ধে উনিশ শতকের প্রথমার্ধে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_003",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 3,
+      "question": "গানের প্রথম কবি কে?",
+      "options": {
+        "ক": "গোঁজলা পুট (গুই) খ হর ঠাকুর",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "গোঁজলা পুট (গুই)",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_33_008",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 8,
+      "question": "কেন পান্থ ক্ষান্ত হও হেরি দীর্ঘ পথ?'- কার লেখা?",
+      "options": {
+        "ক": "কৃষ্ণচন্দ্র মজুমদার খ . ঈশ্বরচন্দ্র গুপ্ত",
+        "খ": "",
+        "গ": "ধণ্যে ধান্যে পুষ্প ভরা you1 succeSঘ ধন্যে ধান্য পুষ্পে",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "দরিদ্রতা আমাদের প্রধান সমস্যা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_010",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 10,
+      "question": "",
+      "options": {
+        "ক": "সরল খ মিশ বা জটিল",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "মিশ্র বা জটিল",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_011",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 11,
+      "question": "কোনটি 'অগ্গনি'-র সমার্থক শব্দ নয়?",
+      "options": {
+        "ক": "পবক খ বৈশ্বানর",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "প্রজ্বলিত",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_33_012",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 12,
+      "question": "কোনটি সঠিক বানান?",
+      "options": {
+        "ক": "নিশিথিনী খ নীশিথিনী",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নিশীথিনী",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_33_013",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 13,
+      "question": "কোনটি 'কলন'? খ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_018",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 18,
+      "question": "",
+      "options": {
+        "ক": "১৯২৩ সালে খ ১৯২৪ সালে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "পিপীলিকা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_019",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 19,
+      "question": "গীতাঞ্জলির ইংরেজি অনুবাদ সম্পাদনা করেছেন g ক এজরা পাউন্ড খ টিএস এলিয়ট",
+      "options": {
+        "ক": "",
+        "খ": "দরিদ্রতা আমাদের প্রধান সমস্যা",
+        "গ": "যৌগিক ঘ সংযুক্ত",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ডব্লিউবি ইয়েটস",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_021",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 21,
+      "question": "Pick appropriate preposition for the following sentence: Noureen will discuss the issue with Nasir Put appropriate preposition for the sentence below: Some writers sink oblivion in course of time ২০",
+      "options": {
+        "ক": "ড মুহাম্মদ শহীদুল্লাহ",
+        "খ": "",
+        "গ": "হরপ্রসাদ শাস্ত্রী",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "into",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_33_023",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 23,
+      "question": "'Call to mind' means -",
+      "options": {
+        "ক": "Fantasize খ Atten]",
+        "খ": "ড. সুনীতিকুমার চট্টোপাধ্যায়",
+        "গ": "By ঘ 011",
+        "ঘ": "স্যার জজ গ্রিয়ারসন"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_33_028",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 28,
+      "question": "'Subject-Verb Agreement' refers to person only",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "number and person",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "number and person",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_33_029",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 29,
+      "question": "by the authorities\" 1s- Recommnenlation খ . Was",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "recommenlation",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_33_030",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 30,
+      "question": "The French' refers to the French people",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "+he Frenchi mnanners",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "the French people",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_33_031",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 31,
+      "question": "If a person cannot taking 111g$, he or she is",
+      "options": {
+        "ক": "attachel +o them",
+        "খ": "",
+        "গ": "addicted to them",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "adlicte1 +o then",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_33_032",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 32,
+      "question": "The word 'officialese' means- plural number of officialuu1",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "plural number of office",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "language used in offices",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_33_033",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 33,
+      "question": "The verb 'succumb' means-",
+      "options": {
+        "ক": "Achieve খ Subnit",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "submit",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_33_038",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 38,
+      "question": "Fill in the blank with the appropriate part: We look forward",
+      "options": {
+        "ক": "+০ receiving খ +o receive",
+        "খ": "",
+        "গ": "Whose চা",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "The test should be based on experience",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_33_039",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 39,
+      "question": "The idiom 'put up with' means-",
+      "options": {
+        "ক": "stay together Tolerate",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "tolerate",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_33_040",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 40,
+      "question": "In many ways, riding a bicycle is similar to - driving a car'",
+      "options": {
+        "ক": "২৫ বছর খ ৩০ বছর",
+        "খ": "",
+        "গ": "the driving of a car",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "144",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_33_043",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 43,
+      "question": "একটি সমকোণী ত্রিভুজের লম্ব ভূমি অপেক্ষা ১ অতিভুজের দৈর্ঘ্য কত?",
+      "options": {
+        "ক": "১০ সেমি খ ৮ সেমি",
+        "খ": "The authorities took him to book",
+        "গ": "think seriously ঘ asses",
+        "ঘ": "The authorities took him to task"
+      },
+      "correctAnswer": "",
+      "answerText": "|",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_33_045",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 45,
+      "question": "হয় তবে Y এর মান কত? a",
+      "options": {
+        "ক": "8 খ 3",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_33_046",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 46,
+      "question": "a 3 কত?",
+      "options": {
+        "ক": "২৬৪০ টি খ ১৩২০ টি",
+        "খ": "]",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "২৬৪০ টি",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_33_048",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 48,
+      "question": "যদি সেট A = {5, 15, 20, 30) এবং B",
+      "options": {
+        "ক": "{3, 18, 30} খ {3, 5, 15, 18, 20, 30}",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "{5, 15, 20}",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_33_049",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 49,
+      "question": "১, ১, ২, ৩, ৫, ৮, ১৩, ২১ ধারার ১০ম পদটি কত?",
+      "options": {
+        "ক": "98",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৫৫",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_33_050",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 50,
+      "question": "4' + 4' + 4' + 4' এর মান নিচের কোনটি? suCcesগ",
+      "options": {
+        "ক": "16' খ`",
+        "খ": "",
+        "গ": "দা",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "22x + 2",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_33_051",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 51,
+      "question": "রকীব সাহেব ৩,৭৩,৮৩৩ টাকা ব্যাংকে রাখলেন! ৭(১/>) বছর ব্যাংকের সুদের হার কত?",
+      "options": {
+        "ক": "১২১/ ২)% ছ ১৬(২/৩)%",
+        "খ": "3",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "2",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_33_055",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 55,
+      "question": "",
+      "options": {
+        "ক": "সমকোণী খ সমবাহু",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(1, 1)",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_057",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 57,
+      "question": "Y এর সাথে কত যোগ করলে যোগফল ] হবে? 1' _ ,2 2x' _ _2",
+      "options": {
+        "ক": "খ`",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_33_058",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 58,
+      "question": "একটি আয়তাকার ঘরের প্রস্থ তার দৈর্ঘ্যরে অংশ ৩",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_33_060",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 60,
+      "question": "বর্গমিটার খ ৯৬ বর্গমিটার পর তিনি আসল টাকার ১(১/৪) অংশ সুদ পেলেন !",
+      "options": {
+        "ক": "৭.৫ সেমি খ ৬৫ সেমি",
+        "খ": "(1, 3) L1 SUCCeSগ (- 1,21) C ঘ (- 3, 1) R",
+        "গ": "৮ ১/৩)% ১১(>/৯)%",
+        "ঘ": "২৪ সেমি"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "২৪ সেমি",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_33_061",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 61,
+      "question": "বাংলাদেশের সংবিধানে এখন পর্যন্ত কতটি সংশোধনী আনা হয়েছে?",
+      "options": {
+        "ক": "১৭ খ ১৫",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৭",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_33_062",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 62,
+      "question": "পূর্বাশা দীপের অপর নাম কি?",
+      "options": {
+        "ক": "নিঝুম দ্বীপ খ সন্দীপ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "দক্ষিণ তালপট্টি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_063",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 63,
+      "question": "মুজিবনগর কোন জেলায় অবস্থিত?",
+      "options": {
+        "ক": "যশোর খ কুষ্টিয়া",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মেহেরপুর",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_064",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 64,
+      "question": "বাংলাদেশের সেন্টমাটিন দ্ীপ কোন জেলায়?",
+      "options": {
+        "ক": "ভোলা নোয়াখালী",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কক্সবাজার",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_33_065",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 65,
+      "question": "বাংলাদেশের সর্বাধিক বৈদেশিক মুদ্রা বিষয় কী?",
+      "options": {
+        "ক": "প্রবাসী শ্রমিক পট",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "রেডিমেড গার্মেন্টস",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_33_066",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 66,
+      "question": "'শালবন বিহার' কোথায়?",
+      "options": {
+        "ক": "গাজীপুর খ মধুপুর",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কুমিল্লার ময়নামতি পাহাড়ের পাশে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_067",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 67,
+      "question": "'সাবাস বাংলাদেশ' ভাস্কর্যটি কোথায় অবস্থিত?",
+      "options": {
+        "ক": "টিএসসি মোড়ে খ ঢাকা বিশ্ববিদ্যালয়ে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "রাজশাহী বিশ্ববিদ্যালয়ে",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_33_068",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 68,
+      "question": "এশিয়া কাপ ক্রিকেট, ২০১২ কোন স্টেডিয়ামে অনুষ্ঠিত হয়?",
+      "options": {
+        "ক": "বঙ্গবন্ধু জাতীয় স্টেডিয়াম",
+        "খ": "শেরে বাংলা জাতীয় স্টেডিয়াম",
+        "গ": "বাংলাদেশ আর্মি স্টেডিয়াম",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_33_069",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 69,
+      "question": "বাংলাদেশের জাতীয় দিবস কবে?",
+      "options": {
+        "ক": "১৬ ডিসম্বের খ ৭ মাচ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "২৬ মাচ",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_33_070",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 70,
+      "question": "শ্রীলঙ্কার মুদ্রার নাম কী?",
+      "options": {
+        "ক": "ডলার খ পাউন্ড",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "রূপী",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_071",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 71,
+      "question": "সার্ক-এর সদস্য দেশ কয়টি?",
+      "options": {
+        "ক": "৭",
+        "খ": "",
+        "গ": "লে জে এইচ এম এরশাদ",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "জে আতাউল গনি ওসমানী",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_073",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 73,
+      "question": "বাংলাদেশের রাজধানী কোথায়?",
+      "options": {
+        "ক": "ঢাকা উত্তর খ ঢাকা দক্ষিণ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "দাম্মামে",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_33_075",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 75,
+      "question": "পৃথিবীর গভীরতম স্থান কোন মহাসাগরে?",
+      "options": {
+        "ক": "ভারত মহসাগরে খ আটলান্টিক মহাসাগরে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "প্রশান্ত মহাসাগরে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_076",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 76,
+      "question": "পৃথিবীর গভীরতম হ্রদ কোনটি?",
+      "options": {
+        "ক": "কাস্পিয়ান খ`| বৈকাল",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ব্রাজিল",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_078",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 78,
+      "question": "শিল্পী জয়নুল আবেদিনের সংগ্রহশালাটি কোথায়?",
+      "options": {
+        "ক": "ঢাকায় খ মযমনসিংহে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ময়মনসিংহে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_079",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 79,
+      "question": "",
+      "options": {
+        "ক": "ওরা এগার জন",
+        "খ": "",
+        "গ": "আবার তোরা মানুষ হ",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_080",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 80,
+      "question": "বাংলাদেশের আপিল বিভাগের মোট বিচারক কতজন?",
+      "options": {
+        "ক": "১১ খ ২১",
+        "খ": "গেরিলা",
+        "গ": "১৬ মাচ ঘ ১৭ এপল",
+        "ঘ": "জে আতাউল গনি ওসমানী"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_33_081",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 81,
+      "question": "কোনটি এন্টিবায়োটিক?",
+      "options": {
+        "ক": "ইনসুলিন খ . পেপসিন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "পেনিসিলিন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_082",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 82,
+      "question": "জন্ডিসে আক্রান্ত হয়",
+      "options": {
+        "ক": "যকৃত খ কিডনি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "যকৃত",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_083",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 83,
+      "question": "কোনটি বিদ্যুৎ পরিবাইহী নয়?",
+      "options": {
+        "ক": "৩ম খ . লহ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "রাবার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_084",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 84,
+      "question": "কোনটি নবায়নযোগ্য শক্তির উৎস?",
+      "options": {
+        "ক": "সূর্যরশ্মি খ পীট কয়লা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "সূর্যরশ্মি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_085",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 85,
+      "question": "ইন্টারনেট চালুর বছর-",
+      "options": {
+        "ক": "১৯৫৯ খ . ১৯৬৫",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৯৬৯",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_086",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 86,
+      "question": "MKS পদ্ধতিতে ভরের একক-",
+      "options": {
+        "ক": "কিলোগাম খ পাউন্ড",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কিলোগ্রাম",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_33_087",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 87,
+      "question": "কোনটিকে চুমবকে পরিণত করা যায়?",
+      "options": {
+        "ক": "তমা ইস্পাত",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ইস্পাত",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_088",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 88,
+      "question": "অ্যালটিমিটার (Altimeter)",
+      "options": {
+        "ক": "তাপ পরিমাপক যন্ত্র",
+        "খ": "",
+        "গ": "গ্যাসের চাপ পরিমাপক যন্ত্র",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "উচ্চতা পরিমাপক",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_33_089",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 89,
+      "question": "কোনটি মৌলিক পদার্থ? লোহ বঞ্জ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "লোহা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_090",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 90,
+      "question": "কোন ধাতু স্বাভাবিক তাপমাত্রায় তরল থাকে?",
+      "options": {
+        "ক": "পারদ খ লিথিয়াম",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "পারদ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_091",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 91,
+      "question": "স্টেইনলেস স্টালের অন্যতম উপাদান-",
+      "options": {
+        "ক": "তমা খ . দস্তা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ক্রোমিয়াম",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_092",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 92,
+      "question": "সর্বাপেক্ষা হালকা গ্যাস- : ক অক্সিজেন খ` হাইড্রোজেন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "পেনিসিলিন ঘ ইথিলিন",
+        "ঘ": "উচ্চতা পরিমাপক যন্ত্র"
+      },
+      "correctAnswer": "",
+      "answerText": "হাইড্রোজেন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_093",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 93,
+      "question": "ভারী পানির রাসায়নিক সংকেত-",
+      "options": {
+        "ক": "2HI2 2",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "D2)",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_094",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 94,
+      "question": "লোহাকে গ্যালভানাইজিং করতে ব্যবহৃত হয়-",
+      "options": {
+        "ক": "তাম খ দস্তা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "দস্তা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_095",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 95,
+      "question": "সংকর ধাতু পিতলের (Brass) উপাদান-",
+      "options": {
+        "ক": "তাম ঢিন খ তামা ও দস্তা",
+        "খ": "তামা ও দস্তা",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "তামা ও দস্তা",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_33_096",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 96,
+      "question": "কোনটি সিমেন্ট তৈরির অন্যতম কাঁচামাল?",
+      "options": {
+        "ক": "জিপসাম খ সালফার",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "জিপসাম",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_097",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 97,
+      "question": "বিগব্যাঙ তত্ত্বের প্রবক্তা-",
+      "options": {
+        "ক": "আইনস্টাইন খ জি ল্যামেটার",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "জি ল্যামেটার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_098",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 98,
+      "question": "মহাজাগতিক রশ্মির আবিষ্কারক-",
+      "options": {
+        "ক": "হেস আইনস্টাইন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "হেস",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_099",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 99,
+      "question": "ইউরি গ্যাগারিন মহাশূন্যে যান-",
+      "options": {
+        "ক": "১৯৫৬ সালে খ ১৯৬১ সালে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৯৬১ সালে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_33_100",
+      "exam": "33th BCS Preliminary",
+      "examCode": "bcs_33",
+      "questionNo": 100,
+      "question": "গ্রিনিচ মানমন্দির অবস্থিত",
+      "options": {
+        "ক": "যুক্তরাজ্য খ যুক্তরা",
+        "খ": "",
+        "গ": "Dগ ঘ HD2 2",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "যুক্তরাজ্য 1/01/1",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "33th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    }
+  ]
+}

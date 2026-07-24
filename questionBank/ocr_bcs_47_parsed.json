@@ -1,0 +1,4472 @@
+{
+  "examName": "47th BCS Preliminary",
+  "examCode": "bcs_47",
+  "totalQuestions": 185,
+  "validation": {
+    "totalDetected": 185,
+    "highestQuestionNo": 200,
+    "missing": [
+      9,
+      44,
+      46,
+      47,
+      52,
+      54,
+      55,
+      56,
+      57,
+      59,
+      74,
+      77,
+      127,
+      128,
+      144
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 102,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_47_001",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 1,
+      "question": "ই কমারসে সুরক্ষিত অনলাইন লেনদেনে প্রধানত কোন প্রটোকল ব্যবহৃত হয়?",
+      "options": {
+        "ক": "DIICP",
+        "খ": "SMTP",
+        "গ": "HTTPS",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "HTTPS",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_002",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 2,
+      "question": "বিভিন্ন নেটওয়ারকের মধ্যে যোগাযোগ স্থাপনের জন্য নিচের কোন ডিভাইসটি ব্যবহৃত হয়?",
+      "options": {
+        "ক": "রাউটার",
+        "খ": "সুইচ",
+        "গ": "ব্রিজ",
+        "ঘ": "হাব"
+      },
+      "correctAnswer": "ক",
+      "answerText": "রাউটার",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_003",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 3,
+      "question": "ক্লাউড কম্পিউটিং এর কোন মডেলটি অ্যাপ্লিকেশন তৈরি করার জন্য প্রোগ্রামারদেরকে প্লাটফর্ম সরবরাহ করে? Iaas",
+      "options": {
+        "ক": "",
+        "খ": "Saas",
+        "গ": "Paas",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "Paas",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_004",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 4,
+      "question": "একটি কম্পিউটার সিস্টেমে ১১০০১০১১২ বাইনারি সংখ্যাটির মান ডেসিমেল এ কত হবে?",
+      "options": {
+        "ক": "৫>",
+        "খ": "৫9",
+        "গ": "২০৩",
+        "ঘ": "উপরের সবকটি হতে পরে"
+      },
+      "correctAnswer": "গ",
+      "answerText": "২০৩",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_005",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 5,
+      "question": "কোন CPTJ আর্কিটেকচার স্মার্টফোনে বেশি ব্যবহৃত হয়?",
+      "options": {
+        "ক": "186",
+        "খ": "164",
+        "গ": "Oualcomm",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_006",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 6,
+      "question": "কম্পিউটার টার্ন অন এর সময় সঠিক অর্ডার নিচের কোনটি?",
+      "options": {
+        "ক": "PST Kernel > Bootloaleer",
+        "খ": "Kernel POST Bootloadleer",
+        "গ": "Iernel Bootloaleer > PST",
+        "ঘ": "POST > Bootloaleer [ernel"
+      },
+      "correctAnswer": "খ",
+      "answerText": "POST- Bootloadeer",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_007",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 7,
+      "question": "কোন ধরনের Storage Device সবচেয়ে দ্রুত গতি সম্পন্ন?",
+      "options": {
+        "ক": "IID]",
+        "খ": "",
+        "গ": "$S]",
+        "ঘ": "SSIID"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_008",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 8,
+      "question": "ধরা যাক Algorithm এর running time O(n') এবং Algorithm B এর running time 0(n) তাহলে নিচের কোনটি সবচেয়ে সঠিক?",
+      "options": {
+        "ক": "Algorithm A, Algorithm B এর চেয়ে ধীর গতির",
+        "খ": "Algorithm A, Algorithm B এর চেয়ে দ্রুত গতির",
+        "গ": "Algorithm A, Algorithm এর চযয asymptotically",
+        "ঘ": "Graphics Card"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "Graphics Card",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_010",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 10,
+      "question": "Quantum Computing এর জনক কাকে মনে করা হয়? Davi] Deutsch",
+      "options": {
+        "ক": "David Deutsch",
+        "খ": "Richard Feynman",
+        "গ": "Paul Benloff",
+        "ঘ": "Alerei Iitaev"
+      },
+      "correctAnswer": "ক",
+      "answerText": "David Deutsch",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_011",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 11,
+      "question": "একটি কম্পিউটারের প্রোসেসর ক্লক স্পিড ৪.০০ গিগা হার্জ হলে এর ক্লক মাইকেল টাইম কত?",
+      "options": {
+        "ক": "২৫ ন্যানো সেকেন্ড (ns)",
+        "খ": "২৫ মাইক্রো সেকেন্ড (ms)",
+        "গ": "8 1ns)",
+        "ঘ": "৪ ns)"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_012",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 12,
+      "question": "Precision Agriculture এ সাধারণত নিচের কোন প্রযুক্তি ব্যবহৃত হয়?",
+      "options": {
+        "ক": "ইনফ্রা রেড ইমেজিং",
+        "খ": "আইওটি (loT) , সেপ্সর",
+        "গ": "তার মাধ্যম সম্পন্ন নেটওয়ারক",
+        "ঘ": "ও এল ইডি (OLED), ডিসপ্লে"
+      },
+      "correctAnswer": "খ",
+      "answerText": "আইওটি (loT), সেন্সর",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_013",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 13,
+      "question": "অপারেটিং সিস্টেমে ভাচুয়াল মেমোরি ব্যবহার করা হয়-",
+      "options": {
+        "ক": "অনেক বেশি ডেটা সংরক্ষণের জন্য",
+        "খ": "ক্লাউডে ডেটা সংরক্ষণের জন্য",
+        "গ": "সেকেন্ডারি স্টোরেজ ব্যবহার করে RAM বাড়াতে",
+        "ঘ": "এক্সটারনাল মেমোরি সংযোগের জন্য"
+      },
+      "correctAnswer": "গ",
+      "answerText": "সেকেন্ডারি স্টোরেজ ব্যবহার করে RAM বাড়াতে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_014",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 14,
+      "question": "কম্পিউটার সিস্টেমের বেঞচমার্কিং করা হয় কী পরিমাপের জন্য? সিস্টেমের দাম",
+      "options": {
+        "ক": "",
+        "খ": "সিস্টেমের কর্ম ক্ষমতা (Performance)",
+        "গ": "শুধু বিদ্যুৎ শক্তি খরচের পরিমাণ",
+        "ঘ": "স্টোরেজের ধারণ ক্ষমতা"
+      },
+      "correctAnswer": "খ",
+      "answerText": "সিস্টেমের কর্ম ক্ষমতা Performance)",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_015",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 15,
+      "question": "নিচের কোন ডিভাইসটি প্রধানত এম্বেডেড সিস্টেম ব্যবহৃত হয়?",
+      "options": {
+        "ক": "রাউটার",
+        "খ": "সুপার কম্পিউটার",
+        "গ": "হাই-অ্যান্ড সার্ভার",
+        "ঘ": "মাইক্রোকন্ট্রোলার"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "মাইক্রোকন্ট্রোলার",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_016",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 16,
+      "question": "যদি 5x3 2x2 + Y + k = ০ এর একটি উতপাদক x - 3) হয়, তাহলে শ এর মান কত?",
+      "options": {
+        "ক": "৫",
+        "খ": "৬০",
+        "গ": "১০",
+        "ঘ": "-১২০"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "-১২০",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_017",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 17,
+      "question": "নিচের সিরিজের ফাঁকা জায়গায় কোন সংখ্যা হবে? 243, 81, 9, 3, you1 SuLC ক 9 $ benchnark",
+      "options": {
+        "ক": "",
+        "খ": "27",
+        "গ": "12",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "27",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_018",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 18,
+      "question": "324 4 হয়, তবে x এর মান কত?",
+      "options": {
+        "ক": "3 2",
+        "খ": "4 2",
+        "গ": "5 2",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "51 2",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_019",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 19,
+      "question": "একটি গুণোত্তর ধারার প্রথম ও দ্বিতীয় পদ যথাক্রমে 27 এবং 9, তাহলে ধারাটির দশম পদ কত? 1 ক 3 1_ খ 525 1",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_020",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 20,
+      "question": "একটি বৃত্তস্থ বর্গের প্রত্যেক বাহুর দৈর্ঘ্য 2 সেমি হলে, ব্ত্তের ক্ষেত্রফল কত? ক",
+      "options": {
+        "ক": "",
+        "খ": "21T",
+        "গ": "",
+        "ঘ": "2 27"
+      },
+      "correctAnswer": "খ",
+      "answerText": "2T",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_021",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 21,
+      "question": "4 জন তাঁতী 4 দিনে 4টি মাদুর তৈরি করতে পারে একই হারে ৪ জন তাঁতী ৪ দিনে কতটি মাদুর তৈরি করতে পারবে?",
+      "options": {
+        "ক": "৮টি",
+        "খ": "১২টি",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "২০টি উ: গ V0u1 SUC খ: 0.9",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_022",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 22,
+      "question": "(0, ০) এবং (3, 3) বিন্দুগামী সরলরেখার সমীকরণ কোনটি?",
+      "options": {
+        "ক": "y = x",
+        "খ": "! = 31",
+        "গ": "y = Y + 3",
+        "ঘ": "` = 31 + 3"
+      },
+      "correctAnswer": "ক",
+      "answerText": "y = x",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_023",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 23,
+      "question": "যাদ nc12 nc8 হয়, তবে 22cn এর মান কত?",
+      "options": {
+        "ক": "230",
+        "খ": "231",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "231",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_024",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 24,
+      "question": "A = {x = IN: 2 < Y < 6} এবং B = {x = IN: Y জোড় সংখ্যা এবং Y _ ৪} হলে, A B এর মান কত?",
+      "options": {
+        "ক": "{3, 2}",
+        "খ": "{4, 6}",
+        "গ": "{5, 61",
+        "ঘ": "{4, 8}"
+      },
+      "correctAnswer": "খ",
+      "answerText": "{4, 6}",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_025",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 25,
+      "question": "একটি ব্যাগে 2টি লাল, 3টি সবুজ এবং 2টি নীল বল আছে যদি দৈবভাবে 2টি বল নেওয়া হয়, তাহলে বল দুটির কোনটিই নীল না হওয়ার সম্ভাবনা কত? 10 ক 21 11 21 5 ঘ 21",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "10",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_026",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 26,
+      "question": "0.6 কে 0.9 দবারা ভাগ করলে, নিচের কোনটি সঠিক? 0.6 benchnaurk",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "0.23",
+        "ঘ": "0.3"
+      },
+      "correctAnswer": "",
+      "answerText": "0.6",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_027",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 27,
+      "question": "যদি কোনো বর্গক্ষেত্রের প্রত্যেক বাহুর পরিমাণ 10% বৃদ্দধি করা হয়, তবে তার ক্ষেত্রফল শতকরা কত বৃদ্ধি পাবে?",
+      "options": {
+        "ক": "20%",
+        "খ": "25%",
+        "গ": "21%",
+        "ঘ": "16%"
+      },
+      "correctAnswer": "গ",
+      "answerText": "21%",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_028",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 28,
+      "question": "100 টাকা 10% হারে 5 বছরের জন্য বিনিয়়োগ করা হলে, সরল ও চক্রবৃদ্দধি মুনাফার পার্থক্য কত?",
+      "options": {
+        "ক": "10.05 টাকা",
+        "খ": "11.05 টাকা",
+        "গ": "12.05 টাকা",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "11.05 টাকা",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_029",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 29,
+      "question": "যদি x = ^ 5 + ^ 3 হয়, তবে x3 + এর মান কত?",
+      "options": {
+        "ক": "18 5",
+        "খ": "22 5",
+        "গ": "28",
+        "ঘ": "32 5"
+      },
+      "correctAnswer": "গ",
+      "answerText": "281 5",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_030",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 30,
+      "question": "|x - 5| < 2, Y = N অসমতাটির সমাধান সেট কোনটি?",
+      "options": {
+        "ক": "3, 7)",
+        "খ": "[3, 7]",
+        "গ": "{4, 5, 6}",
+        "ঘ": "{3, 4, 5, 6, 7}"
+      },
+      "correctAnswer": "ক",
+      "answerText": "(3, 7)",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_031",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 31,
+      "question": "একজন ব্যক্তি ৪ মাইল উত্তরে; ১২ মাইল পূর্বে এবং তারপরে ১২ মাইল উত্তরে ভ্রমণ করেন ! তিনি শুরুর বিন্দু থেকে কত দূরে আছেন?",
+      "options": {
+        "ক": "২৮ মাইল",
+        "খ": "২৪ মাইল you1 SUC",
+        "গ": "২১ মাইল",
+        "ঘ": "২০ মাইল"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "২০ মাইল",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_032",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 32,
+      "question": "পাঁচজন ব্যক্তি গোল হয়ে বসে আছে এবং মাঝখানে তাকিয়ে তাস খেলছে রাজিবের বামদিকে রয়েছে মুকুল, বিজয়় রয়েছে অনিক ও নুরুলের মাঝখানে এবং অনিকের ডান দিকে তাহলে নুরুলের ডান দিকে কে রয়েছে?",
+      "options": {
+        "ক": "অনিক",
+        "খ": "বিজয়",
+        "গ": "মুকুল",
+        "ঘ": "রাজিব"
+      },
+      "correctAnswer": "গ",
+      "answerText": "মুকুল",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_033",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 33,
+      "question": "A যদি B এর সাথে খাপখায় যেমনভাবে C, D এর সাথে, তাহলে নিচের জোড়াগুলোর মধ্যে কোন জোড়া যুক্তিযুক্তভাবে খাপ খায়?",
+      "options": {
+        "ক": "পাখিকে যেমন দৌড়াতে হয়, মাছকে তেমন সাঁতার কাটতে হয়",
+        "খ": "আঁধারের বিপরীত যেমন উজ্জল, তেমনি নীরবতার বিপরীত",
+        "গ": "খাদ্য যেমন খাবারের জন্য, পানি তেমনি পান করার জন্য",
+        "ঘ": "রঙ যেমন ছায়াযুক্ত হয়, গতি তেমনি দ্রুত হয়"
+      },
+      "correctAnswer": "গ",
+      "answerText": "খাদ্য যেমন খাবারের জন্য, পানি তেমনি পান করার জন্য",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_034",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 34,
+      "question": "হাত; চোখ ও মস্তিস্কের কার্যাবলি এতটাই- যে শৈশব কালের প্রথম দিকে হাতের ব্যবহার সম্পূর্ণ- বিকাশকে ত্বরা্বিত করতে সাহায্য করে উপরের ফাঁকা জায়গাগুলো নিম্নে উল্লিখিত জোড়াশব্দ দিয়ে পূরণ করুন অপরিবর্তনীয়-বুদ্ধিসম্পর্কিত ছ রহস্যময়-মনস্তাত্ত্বিক",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "নিয়ন্ত্রিত-কিশোর",
+        "ঘ": "ঘনিষ্টভাবে যুক্ত-প্রত্যক্ষণমূলক"
+      },
+      "correctAnswer": "গ",
+      "answerText": "নিয়ন্ত্রিত-কিশোর",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_47_035",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 35,
+      "question": "নিম্নে উল্লিখিত শব্দগুলোর মধ্যে কোন বানানটি সঠিক খুঁজে বের করুন?",
+      "options": {
+        "ক": "Randezvos",
+        "খ": "Renlezvous",
+        "গ": "Ronlezvous",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "Rendezvous",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_47_036",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 36,
+      "question": "একটি গিয়ার ট্রেনে তিনটি গিয়ার আছে, গিয়ার 'এ'এর ১২টি দাঁত, গিয়ার 'বি' এর ৩৬টি দাঁত, এবং গিয়ার 'সি' এর ২৪টি দাঁত আছে যদি গিয়ার 'এ' কে ঘড়ির কাঁটা যেদিকে ঘোরে সেদিকে ঘোরানো হয়, তাহলে গিয়ার 'সি' কোন দিকে ঘুরবে?",
+      "options": {
+        "ক": "ঘড়ির কাঁটার দিকে",
+        "খ": "ঘড়ির কাঁটার বিপরীত দিকে",
+        "গ": "স্থির",
+        "ঘ": "একেবারে ঘুরবে না"
+      },
+      "correctAnswer": "ক",
+      "answerText": "ঘড়ির কাঁটার দিকে",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_037",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 37,
+      "question": "যখন দুটি বস্তুর সংঘর্ষ হয় এবং তারা একসাথে লেগে থাকে; তখন তাকে কোন ধরনের সংঘর্ষ বলে?",
+      "options": {
+        "ক": "স্থিতিস্থাপক সংঘর্ষ",
+        "খ": "প্লাষ্টিক সংঘর্ষ",
+        "গ": "",
+        "ঘ": "ঘর্ষনীয় সংঘর্ষ"
+      },
+      "correctAnswer": "ক",
+      "answerText": "অস্থিতিস্থাপক সংঘর্ষ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_038",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 38,
+      "question": "নিচের ছবিগুলোর পাশের প্রশ্নবোধক চিহ্নের স্থানে কোন বিকল্পটি বসবে?",
+      "options": {
+        "ক": "১",
+        "খ": "$",
+        "গ": "৩",
+        "ঘ": "8"
+      },
+      "correctAnswer": "গ",
+      "answerText": "৩",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_039",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 39,
+      "question": "পৃথিবীর কক্ষপথের বিভিন্ন বিন্দু থেকে দেখলে কোন ঘটনার কারণে একটি নক্ষত্রের অবস্থানের আপাত পরিবর্তন ঘটে?",
+      "options": {
+        "ক": "ডপলার ইফেক্ট",
+        "খ": "রেডশিক্ট",
+        "গ": "কসমিক",
+        "ঘ": "প্যারালেক্স"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "প্যারালেক্স",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_040",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 40,
+      "question": "প্রশ্নবোধক চিহ্নিত ঘরে কোন সংখ্যাটি বসবে? SUC ংক ১৮S 17 5 5 13 5 4 12 3 10",
+      "options": {
+        "ক": "8",
+        "খ": "৫",
+        "গ": "৬",
+        "ঘ": "৪"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "৪",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_041",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 41,
+      "question": "Seed Sapling Egg : ?",
+      "options": {
+        "ক": "Onlette",
+        "খ": "Chicken",
+        "গ": "1olk",
+        "ঘ": "Chick"
+      },
+      "correctAnswer": "খ",
+      "answerText": "Chick",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_042",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 42,
+      "question": "MFNPO অর্থ 'Lemon' হয়, তবে NBOHP অর্থ কী?",
+      "options": {
+        "ক": "Mango",
+        "খ": "Table",
+        "গ": "Light",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "Mango",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_043",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 43,
+      "question": "প্রদত্ত চিত্রে ত্রিভুজের সংখ্যা নির্ণয় করুন?",
+      "options": {
+        "ক": "১৫",
+        "খ": "১৬",
+        "গ": "৭",
+        "ঘ": "৯"
+      },
+      "correctAnswer": "খ",
+      "answerText": "১৬",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_045",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 45,
+      "question": "enchnark খ১৬ ৭ ৪৫. পানিতে প্রদত্ত প্রতিচ্ছবিগুলোর সাথে কোনটি ইংরেজিতে একটি শব্দের সাথে সাদৃশ্যপূর্ণ? ক ছ EYWWIIL গ[ EYWITL",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_048",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 48,
+      "question": "জনস্বাস্থ্য ও নৈতিকতা নিশ্চিতকরণে রাষ্ট্র কার্যকর ব্যবস্থা গ্রহণ উত্তর: ১৯৯২ খ্রিষ্টাব্দে ৪৬. নিচের কোনটি পেশাগত নৈতিকতার উপাদান?",
+      "options": {
+        "ক": "স্বজনপ্রীতি",
+        "খ": "সাম্প্রদায়িকতা",
+        "গ": "দরিদ্রতা",
+        "ঘ": "দক্ষতা"
+      },
+      "correctAnswer": "",
+      "answerText": "অনুচ্ছেদ ১৮",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_049",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 49,
+      "question": "'সরকারি নিয়োগ লাভে সুযোগের সমতা' বিষয়টি সংবিধান মতে",
+      "options": {
+        "ক": "নৈতিক বিষয়",
+        "খ": "মানবাধিকার",
+        "গ": "মৌলিক অধিকার",
+        "ঘ": "নিয়োগ ও করমের শত"
+      },
+      "correctAnswer": "গ",
+      "answerText": "মৌলিক অধিকার",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_47_050",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 50,
+      "question": "মানুষের মধ্যে সামাজিক মূল্যবোধ গড়ে উঠে",
+      "options": {
+        "ক": "আইনের বাধ্যবাধকতার মাধ্যমে",
+        "খ": "সামাজিকীকরণের মাধ্যমে",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "সামাজিকীকরণের মাধ্যমে",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_051",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 51,
+      "question": "বাংলাদেশ নামক প্রজাতন্ত্রের ভিত্তি--",
+      "options": {
+        "ক": "মৌলিক মানবাধিকার ও স্বাধীনতা নিশ্চিত করা",
+        "খ": "মানবসত্তার মর্যাদা ও মূল্যের প্রতি শ্রদ্ধাবোধ নিশ্চিত করা",
+        "গ": "প্রশাসনের সকল পর্যায়ে নির্বাচিত প্রতিনিধির মাধ্যমে",
+        "ঘ": "উপরের সবকটি"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "উপরের সবকটি",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_47_053",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 53,
+      "question": "সুশাসন বিষয়ক ধারণাটি কোন আন্তর্জাতিক সংস্থা প্রথম তাদের প্রতিবেদনে বিস্তারিতভাবে তুলে ধরে?",
+      "options": {
+        "ক": "ইউএনডিপি",
+        "খ": "বিশ্বব্যাংক",
+        "গ": "ইসলামি উন্নয়ন ব্যংক",
+        "ঘ": "ট্রান্সপারেন্সি ইন্টারন্যাশনাল"
+      },
+      "correctAnswer": "খ",
+      "answerText": "বিশ্বব্যাংক",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_058",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 58,
+      "question": "জাতিসংঘের সাধারণ পরিষদে দুর্নীতির বিরুদ্ধে আন্তর্জাতিক কনভেনশনটি গৃহীত হয়? you1 SULC ক ৩১ জান্ময়ারি ২০০৩ nnaurk",
+      "options": {
+        "ক": "১৯২টি",
+        "খ": "৩১ অক্টোবর ২০০৬",
+        "গ": "৩১ অক্টোবর ২০০৩",
+        "ঘ": "১১ ফেব্রুয়ারি ২০০৮"
+      },
+      "correctAnswer": "",
+      "answerText": "বিরাট শব্দটি হাটকে বিশেষিত করছে",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_060",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 60,
+      "question": "'অজর' শব্দের বিপরীত কোনটি?",
+      "options": {
+        "ক": "অমলিন",
+        "খ": "বাধক্য",
+        "গ": "তমর",
+        "ঘ": "ব্যাধিগ্রস্ত"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "ব্যাধিগ্রস্ত",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_47_061",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 61,
+      "question": "'ব্যাং' শব্দটি ং দিয়ে লিখতে হবে, কারণ-",
+      "options": {
+        "ক": "ঙ-এর হসন্ত উচ্চারণ 9 হয়",
+        "খ": "য-এর পর ? হয়",
+        "গ": "9 বাংলা ভাষার নিজস্ব বর্ণ",
+        "ঘ": "ব্যাং একটি একাক্ষর শব্দ"
+      },
+      "correctAnswer": "ক",
+      "answerText": "ঙ- এর হসন্ত উচ্চারণ হয়",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_47_062",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 62,
+      "question": "সে কৌতুক করার কৌতূহল সংবরণ করতে পারল না' - এই বাক্য কী কারণে ত্রুটিপূর্ণ?",
+      "options": {
+        "ক": "বানান ভুল আছে",
+        "খ": "বাক্যের পদবিন্যাস যথাযথ নয়",
+        "গ": "অর্থ অনুযায়ী শব্দের প্রয়োগ হয়নি",
+        "ঘ": "বিশেষ্য-বিশেষণের অপপ্রয়োগ ঘটেছে"
+      },
+      "correctAnswer": "গ",
+      "answerText": "অর্থ অনুযায়ী শব্দের প্রয়োগ হয়নি",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_47_063",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 63,
+      "question": "'নিত্য তোমার যে ফুল ফোটে ফুলবনে'- এখানে 'নিত্য' শব্দের প্রতিশব্দ কোনটি?",
+      "options": {
+        "ক": "অতিশয়",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "অহরহ",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_47_064",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 64,
+      "question": "বাক্যের মধ্যে শব্দ অবস্থান করে কীভাবে?",
+      "options": {
+        "ক": "কর্তা ও ক্রিয়ার পদবিন্যাস অনুযায়ী",
+        "খ": "অর্থ ও ভাব অনুযায়ী",
+        "গ": "বর্গ বা গুচ্ছ আকারে",
+        "ঘ": "স্বাধীন পদের পরিচয় নিয়ে"
+      },
+      "correctAnswer": "খ",
+      "answerText": "অর্থ ও ভাব অনুযায়ী",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_47_065",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 65,
+      "question": "বাংলা একাডেমির 'আধুনিক বাংলা অভিধানে'র সম্পাদক ক?",
+      "options": {
+        "ক": "আনিসুজ্জামান",
+        "খ": "আবু ইসহাক",
+        "গ": "মনসুর মুসা",
+        "ঘ": "জামিল চৌধুরি"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "জামিল চৌধুরি",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_066",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 66,
+      "question": "কোন মঙ্গলকাব্যে ঐতিহাসিক চরিত্র আছে?",
+      "options": {
+        "ক": "মনসামঙ্গল",
+        "খ": "চণ্ডীমঙ্গল",
+        "গ": "অন্নদামঙ্গল",
+        "ঘ": "ধর্মমঙ্গল"
+      },
+      "correctAnswer": "গ",
+      "answerText": "অন্নদামঙ্গল",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_067",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 67,
+      "question": "কোন কাব্যে আলাওল ব্যক্তিগত জীবনের কথা লিখেছেন?",
+      "options": {
+        "ক": "পদ্মাবতী",
+        "খ": "হপ্তপয়কর",
+        "গ": "সিকান্দরনামা",
+        "ঘ": "তোেহফা"
+      },
+      "correctAnswer": "ক",
+      "answerText": "পদ্মাবতী",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_068",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 68,
+      "question": "'তুরস্ক-ভ্রমণ' কার লেখা?",
+      "options": {
+        "ক": "ইসমাইল হোসেন সিরাজী",
+        "খ": "সৈয়দ মুজতবা আলী",
+        "গ": "আবু জাফর শামসুদ্দীন",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ইসমাইল হোসেন সিরাজী",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_069",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 69,
+      "question": "সৈয়দ ওয়ালীউল্লাহ 'চাঁদের অমাবস্যা' উপন্যাসে )I00 কোন জীবনদর্শনের রূপায়ণ ঘটেছে?",
+      "options": {
+        "ক": "মাকসবাদ",
+        "খ": "বাস্তববাদ",
+        "গ": "অস্তিত্ববাদ",
+        "ঘ": "পরাবাস্তববাদ"
+      },
+      "correctAnswer": "গ",
+      "answerText": "অস্তিত্ববাদ",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_47_070",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 70,
+      "question": "'প্রভাতফেরির মিছিল যাবে ছড়াও ফুলের বন্যা; বিষাগীতি গাইছে পথে তিতুমীরের কন্যা' - কার লেখা?",
+      "options": {
+        "ক": "শামসুর রাহমান",
+        "খ": "আল মাহমুদ",
+        "গ": "",
+        "ঘ": "আবদুল গাফ্ফার চৌধুরী"
+      },
+      "correctAnswer": "খ",
+      "answerText": "আল মাহমুদ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_071",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 71,
+      "question": "'হরফের ছড়া' কার লেখা বর্ণশিক্ষার বই?",
+      "options": {
+        "ক": "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+        "খ": "রবীন্দ্রনাথ ঠাকুর",
+        "গ": "ফরুখ আহমদ",
+        "ঘ": "বন্দে আলী মিয়া"
+      },
+      "correctAnswer": "গ",
+      "answerText": "ফরুখ আহমদ",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_072",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 72,
+      "question": "'রক্তকরবী' নাটকের অন্তর্গত বিষয় কী?",
+      "options": {
+        "ক": "নতুণের জয়গন",
+        "খ": "সামন্তবাদের বিলুপ্তি দেখানো",
+        "গ": "শ্রমিদকের অপ্রাপ্তি তুলে ধরা",
+        "ঘ": "পুঁজিবাদের নেতিবাচক প্রভাব দেখানো"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "পুঁজিবাদের নেতিবাচক প্রভাব দেখানো",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_47_073",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 73,
+      "question": "মীর মশাররফ হোসেন সম্পর্কে কোন তথ্যটি যথার্থ নয়?",
+      "options": {
+        "ক": "তিন খণ্ডে 'বিষাদ-সিন্ধু' রচনা করেন",
+        "খ": "নিজের জীবনী রচনা করেন",
+        "গ": "জমিদারি দেখাশোনার কাজ করেছেন",
+        "ঘ": "বিবি কুলসুম তাঁর প্রথম স্ত্রী"
+      },
+      "correctAnswer": "",
+      "answerText": "রূপসী বাংলা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_075",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 75,
+      "question": "'তুমি অধম তাই বলিয়া আমি উত্তম না হইব কেন?'- কোন উপন্যাসে আছে?",
+      "options": {
+        "ক": "বঙ্কিমচন্দ্রের 'কপালকুণ্ডলা'",
+        "খ": "রবীন্দ্রনাথের 'গোরা'",
+        "গ": "শরংচন্দ্রের 'চরিত্রহীন'",
+        "ঘ": "বিভূতিভূষণের 'আরণ্যক'"
+      },
+      "correctAnswer": "ক",
+      "answerText": "বঙ্কিমচন্দ্রের 'কপালকুণ্ডলা'",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_47_076",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 76,
+      "question": "লুই ভণই গুরু পুছিত জান' - এখানে 'ভণই' শব্দের অর্থ ক",
+      "options": {
+        "ক": "নৌকা খণ্ড",
+        "খ": "ভবে",
+        "গ": "সয়",
+        "ঘ": "দেখে"
+      },
+      "correctAnswer": "",
+      "answerText": "পণয় খণ্ড",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_47_078",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 78,
+      "question": "বিবৃত স্বরধ্বনি বলতে বোঝায়-",
+      "options": {
+        "ক": "স্বরধ্বনি উচ্চারণে ঠোঁট বেশি খোলে",
+        "খ": "স্বরধ্বনি উচ্চারণে জিভ উঁচু হয়",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "স্বরধ্বনি উচ্চারণে ঠোঁট বেশি খোলে",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_47_079",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 79,
+      "question": "মনোয়েল দ্যা আসসুম্পসাঁও অভিধান প্রকাশের আগে )100 কত বছর ধরে শব্দ সংগ্রহ করেন?",
+      "options": {
+        "ক": "১৩ বছর",
+        "খ": "৫-৭ বছর",
+        "গ": "৯-১০ বছর",
+        "ঘ": "১৪-১৫ বছর"
+      },
+      "correctAnswer": "গ",
+      "answerText": "১-১০ বছর",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_47_080",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 80,
+      "question": "'আলালের ঘরে দুলাল' প্রথমে কোন পত্রিকায় ধারাবাহিকভাবে প্রকাশিত হয়?",
+      "options": {
+        "ক": "বিবিধার্থ সংগ্রহ",
+        "খ": "সংবাদ প্রভাকর",
+        "গ": "মাসিক পত্রিকা",
+        "ঘ": "বঙ্গদর্শন"
+      },
+      "correctAnswer": "গ",
+      "answerText": "মসিক পত্রিকা",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_081",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 81,
+      "question": "'সকলের তরে সকলে আমরা প্রত্যেকে আমরা পরের তরে' - কোন কবিতার অংশ?",
+      "options": {
+        "ক": "পরাথে",
+        "খ": "পাছে লোকে কিছু বলে",
+        "গ": "বড়",
+        "ঘ": "সুখ"
+      },
+      "correctAnswer": "ক",
+      "answerText": "পরাথে",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_47_082",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 82,
+      "question": "কাজী নজরুল ইসলামের কোন গ্রন্থটি বাজেয়াপ্ত হয়নি?",
+      "options": {
+        "ক": "অগ্নিবীণা",
+        "খ": "বিষের বাঁশি",
+        "গ": "ভাঙার গণ",
+        "ঘ": "চন্দ্রবিন্দু"
+      },
+      "correctAnswer": "ক",
+      "answerText": "অগ্নিবীণা",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_47_083",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 83,
+      "question": "জসীম উদদীনের 'কবর' কবিতাটি কোন কাব্যের অন্তর্গত?",
+      "options": {
+        "ক": "বালুচর",
+        "খ": "রাখালী",
+        "গ": "ধানক্ষেত",
+        "ঘ": "মা যে জননী কান্দে"
+      },
+      "correctAnswer": "খ",
+      "answerText": "রাখালী",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_47_084",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 84,
+      "question": "গৌড়ী প্রাকৃত বলতে বোঝায়-",
+      "options": {
+        "ক": "গৌড় অঞ্চলের মুখের ভাষা",
+        "খ": "",
+        "গ": "",
+        "ঘ": "গৌড় ভাষার বিকৃত উচ্চারণ"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_085",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 85,
+      "question": "'Glossary' শব্দের বাংলা পরিভাষা-",
+      "options": {
+        "ক": "জ্ঞাপনপত্র",
+        "খ": "সর্বসাকল্যে",
+        "গ": "শব্দার্থপঞ্জি",
+        "ঘ": "গুদামজাত"
+      },
+      "correctAnswer": "গ",
+      "answerText": "শব্দার্থপঞ্জি",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_086",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 86,
+      "question": "'ঐক্যমত' শব্দটি কোন বিবেচনায় অশুদ্ধ নয?",
+      "options": {
+        "ক": "মতের ঐক্য-এভাবে সমাসসাধিত ধরলে",
+        "খ": "একমত | য-এভাবে প্রত্যয়সাধিত ধরলে",
+        "গ": "ঐক্য মত-এভাবে উপসর্গসাধিত ধরলে",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "মতের ঐক্য-এভাবে সমাসসাধিত ধরলে",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_47_087",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 87,
+      "question": "১৯৩৬ সালে কলিকাতা বিশ্ববিদ্যালয়ের বানান সংস্কারের মূল উদ্দেশ্য ছিল-",
+      "options": {
+        "ক": "বনানকে উচ্চারণের কাছাকাছি নেওয়া",
+        "খ": "বানানের ঐতিহ্যকে বজায় রাখা",
+        "গ": "বানানের নিয়ম প্রণয়ন করা",
+        "ঘ": "বানানে বিকল্প বর্জন করা"
+      },
+      "correctAnswer": "গ",
+      "answerText": "বানানের নিয়ম প্রণয়ন করা",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_47_088",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 88,
+      "question": "অভিধানে ং, ঃ :: এই বর্ণগুলোর অবস্থান কোথায়?",
+      "options": {
+        "ক": "স্বরবর্ণের আগে",
+        "খ": "স্বরবর্ণের শেষে",
+        "গ": "ব্যঞ্জনবর্ণের শেষে",
+        "ঘ": "এদের নির্দিষ্ট অবস্থান নেই"
+      },
+      "correctAnswer": "খ",
+      "answerText": "স্বরবর্ণের শেষে",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_089",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 89,
+      "question": "পূর্ববঙ্গীয় উচ্চারণে 'স্মরণ' শব্দের ক্ষেত্রে কোনটি ঘটে?",
+      "options": {
+        "ক": "স-এর উচ্চারণ শ হয়ে যায়",
+        "খ": "ণ-এর উচ্চারণ ন হয়ে যায়",
+        "গ": "ম-ফলার উচ্চারণ ম হয়ে যঘয়",
+        "ঘ": "শুরুতে নাসিক্য উচ্চারণ হয় না"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "শুরুতে নাসিক্য উচ্চারণ হয় না @",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_47_090",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 90,
+      "question": "'গড্ডলিকা প্রবাহ' বাগধারার 'গড্ডল' শব্দের অর্থ কী? ক",
+      "options": {
+        "ক": "",
+        "খ": "স্রোত",
+        "গ": "",
+        "ঘ": "মশা"
+      },
+      "correctAnswer": "",
+      "answerText": "ভেড়া",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_47_091",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 91,
+      "question": "Which sentence is correct?",
+      "options": {
+        "ক": "One of my sisters are a 1u11'se",
+        "খ": "One of my sister is a 1u11se",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "One of my sisters is 1u11'se",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_092",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 92,
+      "question": "Select the right determiner: 'She works as FBI analyst:' ক ছ a11",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "+h1e",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "a11",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_093",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 93,
+      "question": "We met Medha carrying a bouquet of red roses Here 'carrying' is a/an----__",
+      "options": {
+        "ক": "gerund",
+        "খ": "infinitive",
+        "গ": "verbal noun",
+        "ঘ": "participle"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "participle",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_094",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 94,
+      "question": "'Five years have passed since his father died'. Identify the correct simple form of the sentence from the folowing potions:",
+      "options": {
+        "ক": "His father nas dliedl five years",
+        "খ": "His father died five ag",
+        "গ": "His father has died for five years",
+        "ঘ": "His father lied since five Tears:"
+      },
+      "correctAnswer": "খ",
+      "answerText": "His father died five years ago",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_095",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 95,
+      "question": "Choose the antonym of `controversy' you1 SuLC ক contention nchnnark",
+      "options": {
+        "ক": "",
+        "খ": "bickering",
+        "গ": "unanimity",
+        "ঘ": "dispute"
+      },
+      "correctAnswer": "গ",
+      "answerText": "unanimity",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_096",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 96,
+      "question": "'For God's sake hold your tongue, and let love:' This line is taken from the poem --",
+      "options": {
+        "ক": "To IIis Coy Mistress",
+        "খ": "The Canonization",
+        "গ": "The Definition Of Love",
+        "ঘ": "The sun rising"
+      },
+      "correctAnswer": "খ",
+      "answerText": "The Canonization",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_097",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 97,
+      "question": "The one-act play 'Riders to the Sea' was written by----.",
+      "options": {
+        "ক": "ড B",
+        "খ": "Oscar Wille",
+        "গ": "J. M. Synge",
+        "ঘ": "John Galsworthy"
+      },
+      "correctAnswer": "গ",
+      "answerText": "J. M. Synge",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_098",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 98,
+      "question": "'Neither a borrower 1101' lender be, For loan oft loses both itself and friend ' This extract is taken from Shakespeare's play . Macbeth",
+      "options": {
+        "ক": "",
+        "খ": "Lear",
+        "গ": "Measure for Measure",
+        "ঘ": "Hannlet"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "Hanlet",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_099",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 99,
+      "question": "Who composed the elegiac poem 'Thyrsis'?",
+      "options": {
+        "ক": "Thomas Gray",
+        "খ": "Matthew Arnoll",
+        "গ": "John Milto11",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "Matthew Arnold",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_100",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 100,
+      "question": "Who 1s the writer 0[ the famous essay Tradition and the Individual Talent'? George Orwell SUC",
+      "options": {
+        "ক": "",
+        "খ": "Aldous Leonard] Huxley",
+        "গ": "T. S. Eliot",
+        "ঘ": "Francis Bacon"
+      },
+      "correctAnswer": "গ",
+      "answerText": "T. $. Eliot",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_101",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 101,
+      "question": "'Our sweetest songs are those that saddest thought ' This oft-quoted line occurs in Sheley's notable poem To a Skylark",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "Adonais",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "skylark",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_102",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 102,
+      "question": "Who authored the futuristic novel 'Brave New Worldl'?",
+      "options": {
+        "ক": "E. M Forster",
+        "খ": "Virginia Woolf",
+        "গ": "Aldous Leonard Huxley",
+        "ঘ": "Grahan ভreene"
+      },
+      "correctAnswer": "গ",
+      "answerText": "Aldous Leonard Huxley",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_103",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 103,
+      "question": "Good fences make neighbors' .---The line was written",
+      "options": {
+        "ক": "Robert Graves",
+        "খ": "Robert Frost",
+        "গ": "Ezra Pound",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "Robert Frost",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_104",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 104,
+      "question": "'Cowards die many times before their deaths: The valiant never taste of death but once' . In which play of Shakespeare do you find this quote?",
+      "options": {
+        "ক": "Julius Caesar",
+        "খ": "Romeo anl Juliet",
+        "গ": "The Tempest",
+        "ঘ": "Twelfth Night"
+      },
+      "correctAnswer": "ক",
+      "answerText": "Julius Caesar",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_105",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 105,
+      "question": "'Knowledge comes but wisdom lingers' This quote is eসtracted from Tennyson's poem titled__.",
+      "options": {
+        "ক": "'Morte !' Arthur",
+        "খ": "The Lotos-Eaters",
+        "গ": "Tithonus",
+        "ঘ": "Locksley Hall"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_106",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 106,
+      "question": "The tragedy 'Samson Agonistes Was penned 0]_'",
+      "options": {
+        "ক": "Christopher Marlowe",
+        "খ": "Henrick Ibsen",
+        "গ": "Jonh Milton",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "Jonh Milton",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_107",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 107,
+      "question": "Who is the playwright of the absurd drama 'Waiting for Godot?'",
+      "options": {
+        "ক": "Jean Genet",
+        "খ": "Samuel Beckett",
+        "গ": "Haroll Printer",
+        "ঘ": "Tom Stoppard"
+      },
+      "correctAnswer": "খ",
+      "answerText": "Samnuel Beckett",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_108",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 108,
+      "question": "It's strange-but true; for truth always strange; Stranger than fiction' This is taken from a poem of",
+      "options": {
+        "ক": "Mark Twain",
+        "খ": "Robert Herrick",
+        "গ": "Lord Byron",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "Lord Byron",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_109",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 109,
+      "question": "Who wrote the novella 'Heart of Darkness'?",
+      "options": {
+        "ক": "Joseph Conrad",
+        "খ": "Doris Lessing",
+        "গ": "Jonh Osborne",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "Joseph Conrad",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_110",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 110,
+      "question": "Who was the writer of the autobiographical as and Elephant? well as political easy 'Shooting and SUCখখ verb Francis Bacon",
+      "options": {
+        "ক": "",
+        "খ": "George Orwell",
+        "গ": "Joseph Addison",
+        "ঘ": "Charles Lamb"
+      },
+      "correctAnswer": "খ",
+      "answerText": "George Orwell",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_111",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 111,
+      "question": "speech made without any previous thought, preparation or practice is called alan free speech",
+      "options": {
+        "ক": "",
+        "খ": "extempore speech",
+        "গ": "maiden speech",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "extempore speech",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_112",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 112,
+      "question": "Which one has the identical singular and plural form?",
+      "options": {
+        "ক": "Memorandunn",
+        "খ": "Stimnulus",
+        "গ": "Dice",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "Dice",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_113",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 113,
+      "question": "Select the sentence in which 'fast' is an adverb: Don't drive so fast!",
+      "options": {
+        "ক": "",
+        "খ": "Technology is expanding at a fast pace.",
+        "গ": "",
+        "ঘ": "Tslashi went 011 a 24 hour fast to detox"
+      },
+      "correctAnswer": "",
+      "answerText": "Don' Irive $o fast!",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_114",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 114,
+      "question": "'It was a cowardly attack on a defenceless man' . Here 'cowardly' is a/an",
+      "options": {
+        "ক": "auverb",
+        "খ": "adjective",
+        "গ": "",
+        "ঘ": "conjunction"
+      },
+      "correctAnswer": "খ",
+      "answerText": "adjective",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_115",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 115,
+      "question": "'The river flows the village' . Here 'past' is a an-",
+      "options": {
+        "ক": "1101111",
+        "খ": "",
+        "গ": "alverb",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "preposition",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_116",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 116,
+      "question": "'Ihana sleeps only for four hours a night:' In this sentence the verb 'sleeps' is causative",
+      "options": {
+        "ক": "",
+        "খ": "intransitive",
+        "গ": "transitive",
+        "ঘ": "factitive"
+      },
+      "correctAnswer": "খ",
+      "answerText": "intransitive",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_117",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 117,
+      "question": "'He started teaching Hamlet' . Here 'teaching' is a/an-",
+      "options": {
+        "ক": "participle",
+        "খ": "infinitive",
+        "গ": "verbal noun",
+        "ঘ": "gerund"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "gerund",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_118",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 118,
+      "question": "Fil] 111 +he blank with the appropriate preposition: 'She was married a rich man'.",
+      "options": {
+        "ক": "with",
+        "খ": "",
+        "গ": "0r",
+        "ঘ": "off"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_119",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 119,
+      "question": "Which gender is the word 'sibling'?",
+      "options": {
+        "ক": "Masculine",
+        "খ": "Feninine",
+        "গ": "Neuter <",
+        "ঘ": "co111111011"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "co111111011",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_120",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 120,
+      "question": "Find out the correctly spelt word. you1 SUC",
+      "options": {
+        "ক": "renniniscence",
+        "খ": "reninescence",
+        "গ": "remeniscence",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "renniniscence",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_121",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 121,
+      "question": "The idiom 'smell a rat' means to",
+      "options": {
+        "ক": "detect bad smell",
+        "খ": "be 111 ba1 noo]",
+        "গ": "suspect something wrong",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "suspect something wrong",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_122",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 122,
+      "question": "Select the synonym for 'inclement':",
+      "options": {
+        "ক": "affable",
+        "খ": "mill",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "rough",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_123",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 123,
+      "question": "Tell frankly why yo11 did this. the underlined part is a/an",
+      "options": {
+        "ক": "adjective clause",
+        "খ": "",
+        "গ": "adverbial clause",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "nou11 clause",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_124",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 124,
+      "question": "The prefix 'non' can be added to ক ছ regular",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "partisan",
+        "ঘ": "be]"
+      },
+      "correctAnswer": "গ",
+      "answerText": "partisan",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_125",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 125,
+      "question": "Identify the correct passive form: I heard her sing'_ aLT R",
+      "options": {
+        "ক": "She was heard sing by me",
+        "খ": "She was hearl to be sung by me",
+        "গ": "She was heard sung by 111e",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "She was heard to sing by 11e.",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_126",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 126,
+      "question": "ক্ষুদ্রঋণ কার্যক্রম বাংলাদেশের গ্রামীণ অর্থনীতিতে প্রধানত-",
+      "options": {
+        "ক": "দারিদ্র্য হ্রাস করে",
+        "খ": "",
+        "গ": "নারীর অংশগ্রহণ বৃদ্ধি করে",
+        "ঘ": "নারীর অংশগ্রহণ হ্রাস করে"
+      },
+      "correctAnswer": "গ",
+      "answerText": "নারীর অংশগ্রহণ বৃদ্ধি করে",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_47_129",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 129,
+      "question": "বাংলাদেশ ব্যাংকের রিজার্ভ থেকে চুরি করা অর্থ পাচার করা বিধানাবলি পরিবর্তনযোগ্য নয়? ১২৭: বর্তমানে পৃথিবীর কোন দেশে বেশি প্রবাসী বাংলাদেশী কর্মরত রয়েছে?",
+      "options": {
+        "ক": "সৌদি আরব",
+        "খ": "মালয়েশিয়া",
+        "গ": "সংযুক্ত আরব আমিরাত",
+        "ঘ": "ইতালি"
+      },
+      "correctAnswer": "",
+      "answerText": "শ্রীলংকা ও ফিলিপাইনে",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_47_130",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 130,
+      "question": "অর্থ পাচারের কারণ নয় কোনটি?",
+      "options": {
+        "ক": "অবৈধভাবে উপাজিত অর্থ গোপন করা?",
+        "খ": "কর ফাঁকি না দেওয়া you1 SUCc",
+        "গ": "কোম্পানির মুনাফা লুকানো",
+        "ঘ": "দেশে বিনিয়োগ পরিস্থিতি না থাকা"
+      },
+      "correctAnswer": "খ",
+      "answerText": "কর ফাঁকি না দেওয়া",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_131",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 131,
+      "question": "বাংলাদেশ কোন দুটি দেশ হতে সিংহভাগ সয়াবিন েল আমদানী করে?",
+      "options": {
+        "ক": "মালয়েশিয়া ও ইন্দোনেশিয়া",
+        "খ": "ভারত ও চীন",
+        "গ": "জার্মানি ও ভিয়েতনাম",
+        "ঘ": "আর্জেন্টিনা ও ব্রাজিল"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "আজেনন্িনা ও ব্রাজিল",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_47_132",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 132,
+      "question": "বিশ্বব্যাংকের মতে বাংলাদেশের মূল্যস্ফীতি বাড়ার কারণ নয় কোনটি?",
+      "options": {
+        "ক": "বৈদেশিক মুদ্রা বৃদ্ধি পাওয়া",
+        "খ": "অভ্যন্তরীণ জ্বালানীর মূল্যবৃদ্ধি",
+        "গ": "",
+        "ঘ": "টাকার অবমূল্যায়ন"
+      },
+      "correctAnswer": "ক",
+      "answerText": "বৈদেশিক মুদ্রা বৃদ্ধি পাওয়া",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_47_133",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 133,
+      "question": "বাংলাদেশের বৃহত্তম সার কারখানার নাম-",
+      "options": {
+        "ক": "ইউরিয়া ফাটিলাইজার ফ্যাক্টরি লিমিটেড",
+        "খ": "যমুনা ফাটিলাইজার কোম্পানি লিমিটেড",
+        "গ": "পলাশ ইউরিয়া ফাটিলাইজার কোম্পানি লিমিটেড",
+        "ঘ": "ন্যাচারাল গ্যাস ফাটিলাইজার কোম্পানি লিমিটেড"
+      },
+      "correctAnswer": "গ",
+      "answerText": "পলাশ ইউরিয়া ফাটিলাইজার কোম্পানি লিমিটেড",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_47_134",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 134,
+      "question": "কোন অনুচ্ছেদ মূলে বাংলাদেশের সংবিধানের মৌলিক",
+      "options": {
+        "ক": "অনুচ্ছেদ",
+        "খ": "অনুচ্ছেদ ৮",
+        "গ": "অনুচ্ছেদ ক)",
+        "ঘ": "অনুচ্ছেদ ৭(খ)"
+      },
+      "correctAnswer": "ক",
+      "answerText": "অনুচ্ছেদ ৭(খ)",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_47_135",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 135,
+      "question": "বাংলাদেশের সংবিধানের রক্ষাকর্তা-",
+      "options": {
+        "ক": "প্রেসিডেন্ট",
+        "খ": "জাতীয় সংসদ 1chnark",
+        "গ": "বাংলাদেশ সুপ্রীম কোট",
+        "ঘ": "হাইকোট"
+      },
+      "correctAnswer": "গ",
+      "answerText": "বাংলাদেশ সুপ্রীম কোট",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_47_136",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 136,
+      "question": "তত্ত্বাবধায়ক সরকার ব্যবস্থা পুনঃপ্রবর্তনের জন্য সংবিধানের সংশোধন বাতিল করতে হবে-",
+      "options": {
+        "ক": "পঞচদশ",
+        "খ": "দবাদশ",
+        "গ": "একাদশ",
+        "ঘ": "এয়োদশ"
+      },
+      "correctAnswer": "ক",
+      "answerText": "পঞ্চদশ",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_47_137",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 137,
+      "question": "জুলাই শহিদ দিবস কোনটি?",
+      "options": {
+        "ক": "9১ জুলাই",
+        "খ": "২৯ জুলাই",
+        "গ": "৫ আগস্ট",
+        "ঘ": "১৬ জুলাই"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "১৬ জুলাই",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_138",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 138,
+      "question": "বর্তমান অন্তর্বর্তী সরকারের প্রধান উপদেষ্টা কবে শপথ গ্রহণ করেন?",
+      "options": {
+        "ক": "২০২৪ সালের ০৫ আগস্ট",
+        "খ": "২০২৪ সালের ০৮ আগস্ট",
+        "গ": "২০২৪ সালের ০৬ আগস্ট",
+        "ঘ": "২০২৪ সালের ০৯ আগস্ট"
+      },
+      "correctAnswer": "খ",
+      "answerText": "২০২৪ সালের ০৮ আগস্ট",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_139",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 139,
+      "question": "বাংলাদেশে মোট কতবার জরুরি অবস্থা জারী করা হয়েছে?",
+      "options": {
+        "ক": "৫ বর",
+        "খ": "৩ বার",
+        "গ": "",
+        "ঘ": "৭ বার"
+      },
+      "correctAnswer": "ক",
+      "answerText": "৫ বর",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_47_140",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 140,
+      "question": "ঢাকা বিশ্ববিদ্যালয় বিল কত সালে আইনে পরিণত হয়?",
+      "options": {
+        "ক": "১৭ মাচ ১৯১৭ Didd",
+        "খ": "১৮ মাচ ১৯২০",
+        "গ": "২১ মাচ ১৯১৯",
+        "ঘ": "১১ মাচ ১৯১৮"
+      },
+      "correctAnswer": "খ",
+      "answerText": "১৮ মাচ ১৯২০",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_141",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 141,
+      "question": "একুশে পদক ও স্বাধীনতা পদক দুটোই পেয়েছেন-",
+      "options": {
+        "ক": "ভাস্কর শামীম শিকদার",
+        "খ": "ভাস্কর হামিদুর রহমান",
+        "গ": "ভাস্কর নিতুন কুন্ডু",
+        "ঘ": "ভাস্কর নভেরা আহমেদ"
+      },
+      "correctAnswer": "গ",
+      "answerText": "ভাস্কর নিতুন কুন্ডু",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_142",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 142,
+      "question": "বাংলাদেশের প্রশাসনিক কাঠামো",
+      "options": {
+        "ক": "বিকেন্দ্রীভূত",
+        "খ": "ফেডারেল",
+        "গ": "রাজতান্ত্রিক",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "কেন্দ্রীভূত",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_47_143",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 143,
+      "question": "টেস্ট ক্রিকেটে প্রথম বাংলাদেশি হিসেবে ডাবল সেঞ্চুরি করেন-",
+      "options": {
+        "ক": "সাকিব-আল-হাসান",
+        "খ": "বাংলাদেশ অবজাভার",
+        "গ": "নাজমুল হোসেন শান্ত",
+        "ঘ": "মুশফিকুর রহিম"
+      },
+      "correctAnswer": "",
+      "answerText": "দৈনিক গণকন্ঠ",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_47_145",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 145,
+      "question": "ওয়াসফিয়া নাজরীন বিখ্যাত-",
+      "options": {
+        "ক": "অ্যাথলেট হিসেবে",
+        "খ": "ক্রিকেটার হিসেবে",
+        "গ": "এভারেস্টজয়ী হিসেবে",
+        "ঘ": "নারী উদ্যোক্তা হিসেবে"
+      },
+      "correctAnswer": "গ",
+      "answerText": "এভারেস্টজয়ী হিসেবে",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_146",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 146,
+      "question": "কোন মুসলিম চিন্তাবিদ প্রথম 'দ্বি-জাতি তত্ত্ব' সম্পর্কে স্পষ্ট &II ধারণা দেন?",
+      "options": {
+        "ক": "আল্লামা ইকবাল",
+        "খ": "",
+        "গ": "মোহাম্মদ আলী জিন্নাহ",
+        "ঘ": "মওলানা আকরম খাঁ"
+      },
+      "correctAnswer": "গ",
+      "answerText": "মোহাম্মদ আলী জিন্নাহ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_147",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 147,
+      "question": "কোন বছর পাকিস্তান সরকার বাংলাকে অন্যতম রাষ্ট্রভাষা হিসেবে স্বীকৃতি দেয়?",
+      "options": {
+        "ক": "১৯৫২",
+        "খ": "১৯৫৪",
+        "গ": "১৯৫৬",
+        "ঘ": "১৯৬৯"
+      },
+      "correctAnswer": "গ",
+      "answerText": "১৯৫৬",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_148",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 148,
+      "question": "'তমদ্দুন মজলিস'- এর নেতা জনাব আবুল কাশেম ঢাকা বিশ্ববিদ্যালয়ের কোন বিষয়ের শিক্ষক ছিলেন?",
+      "options": {
+        "ক": "রসায়ন বিজ্ঞান",
+        "খ": "গণিত",
+        "গ": "ইতিহাস",
+        "ঘ": "পদার্থ বিজ্ঞান"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "পদার্থ বিজ্ঞান",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_149",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 149,
+      "question": "স্বাধীন বাংলা বেতার কেন্দ্রের জনপ্রিয় অনুষ্ঠান 'জল্লাদের দরবার' এর রচয়িতা কে ছিলেন?",
+      "options": {
+        "ক": "কল্যাণ মিত্র",
+        "খ": "রাজু আহমেদ",
+        "গ": "এম আর আকতার মুকুল",
+        "ঘ": "নারায়ণ ঘোষ {মিতা)"
+      },
+      "correctAnswer": "ক",
+      "answerText": "কল্যাণ মিত্র",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_150",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 150,
+      "question": "কোন তারিখে আসাদুজ্জামান আসাদ পুলিশের গুলিতে শহিদ হন?",
+      "options": {
+        "ক": "১ জানুয়ারি ১৯৬৯",
+        "খ": "২০ জানুয়ারি ১৯৬৯",
+        "গ": "",
+        "ঘ": "২৪ জানুয়ারি ১৯৬৯"
+      },
+      "correctAnswer": "খ",
+      "answerText": "২০ জানুয়ারি ১৯৬৯",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_151",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 151,
+      "question": "ঢাকা প্রকাশ' সাপ্তাহিক পত্রিকাটির প্রথম সম্পাদক ক?",
+      "options": {
+        "ক": "কৃষ্ণচন্দ্র মজুমদার you1 SUC",
+        "খ": "সিকান্দর আবু জাফর",
+        "গ": "শামসুর রাহমান",
+        "ঘ": "রামানন্দ চট্টোপাধ্যায়"
+      },
+      "correctAnswer": "ক",
+      "answerText": "কৃষ্ণচন্দ্র মজুমদার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_152",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 152,
+      "question": "সেরিকালচার বলতে বোঝায়---",
+      "options": {
+        "ক": "তুলা চাব",
+        "খ": "নীল চাব",
+        "গ": "রেশম পোকা চাষ",
+        "ঘ": "তমাক চাব"
+      },
+      "correctAnswer": "গ",
+      "answerText": "রেশম পোকা চাষ",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_153",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 153,
+      "question": "ছায়া প্রেমী (Shadow loving) অর্থনৈতিক ফসল কোনটি?",
+      "options": {
+        "ক": "আখ",
+        "খ": "তামাক",
+        "গ": "ধান",
+        "ঘ": "চা"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_154",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 154,
+      "question": "বিগত ৫০ বছরে বাংলাদেশে কোন ফসলের চাষ তুলনামূলকভাবে সবচেয়ে বেশি বৃদ্দধি পেয়েছে? ভুট্টা",
+      "options": {
+        "ক": "ভুট্টা",
+        "খ": "পাট",
+        "গ": "ধান",
+        "ঘ": "গোল আলু"
+      },
+      "correctAnswer": "ক",
+      "answerText": "ভুট্টা",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_47_155",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 155,
+      "question": "২০২২ সালের জনশুমারি অনুযায়ী বাংলাদেশের জনসংখ্যা-",
+      "options": {
+        "ক": "প্রায় ঊনিশ কোটি",
+        "খ": "প্রায় সাড়ে ষোলো কোটি",
+        "গ": "প্রায় আঠারো কোটি",
+        "ঘ": "প্রায় সতেরো কোটি"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "প্রায় সতেরো কোটি",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_47_156",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 156,
+      "question": "আফগানিস্তানের তালেবান সরকারকে বৈধ কর্তৃপক্ষ হিসেবে স্বীকৃতি প্রদানকারী প্রথম রাষ্ট্র কোনটি?",
+      "options": {
+        "ক": "ইরাক",
+        "খ": "চীন",
+        "গ": "রাশিয়া",
+        "ঘ": "পাকিস্তান"
+      },
+      "correctAnswer": "গ",
+      "answerText": "রাশিয়া",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_157",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 157,
+      "question": "The One Big Beautiful Bill Act' ৫ USA প্রণ করতে কী পরিমাণ কর ধার্য করা হয়েছে?",
+      "options": {
+        "ক": "৫%",
+        "খ": "9%",
+        "গ": "১%",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "১%",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_158",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 158,
+      "question": "বিশ্ব পরিবেশ দিবস কোনটি?",
+      "options": {
+        "ক": "৫ জুন",
+        "খ": "২২ এ্রিল",
+        "গ": "৬ জুলাই",
+        "ঘ": "জুলাই"
+      },
+      "correctAnswer": "ক",
+      "answerText": "৫ জুন",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_159",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 159,
+      "question": "কিয়োটো প্রটোকলের বিষয়বস্তু কী?",
+      "options": {
+        "ক": "ওজোনস্তরের ক্ষয় হ্রাস",
+        "খ": "জৈব নিরাপত্তা",
+        "গ": "জীববৈচিত্র্যের সুরক্ষা",
+        "ঘ": "গ্রিন হাউস নির্গমন হ্রাস"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "গ্রিন হাউস নির্গমন হ্রাস",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_160",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 160,
+      "question": "Climate Vulnerable Form (CVF) কবে প্রতিষ্ঠিত হয়?",
+      "options": {
+        "ক": "২০০য",
+        "খ": "২০০৯",
+        "গ": "২০১১",
+        "ঘ": "২০১০"
+      },
+      "correctAnswer": "খ",
+      "answerText": "২০০৯",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_161",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 161,
+      "question": "ভারত ও পাকিস্তানের মধ্যে সিন্ধু নদের পানিবণ্টন চুক্তি কবে সম্পাদিত হয়?",
+      "options": {
+        "ক": "১৯৬০",
+        "খ": "১৯৬৬",
+        "গ": "১৯৭৪",
+        "ঘ": "১৯৭৫"
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৯৬০",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_162",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 162,
+      "question": "UNOPS এর পূর্ণরূপ কী? you1 SUC খ ১৮১ United Nations Organization for Peace and Security",
+      "options": {
+        "ক": "",
+        "খ": "Unitel Nations Office for Public Service",
+        "গ": "United Nations Office for Project Service",
+        "ঘ": "United Nations Operations and planning System"
+      },
+      "correctAnswer": "গ",
+      "answerText": "United Nations Office for Project Service",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_163",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 163,
+      "question": "বর্তমানে অর্থনীতির ব্যাপতি অনুসারে বিশ্বের বৃহত্তম অর্থনৈতিক জোট কোনটি?",
+      "options": {
+        "ক": "E০",
+        "খ": "",
+        "গ": "RCEP",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "RCEP",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_164",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 164,
+      "question": "জাতিসংঘের বিশ্ব পর্যটন সংস্থা বা জাতিসংঘ পর্যটন (পূর্বতন UNWTO) এর সদর দপ্তর কোথায়?",
+      "options": {
+        "ক": "তুরিন, ইতালি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মাদ্রিদ; স্পেন",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_165",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 165,
+      "question": "কোন দেশটি OPEC এর সদস্য নয়? ইন্দোনেশিয়া",
+      "options": {
+        "ক": "",
+        "খ": "নাইজেরিয়া",
+        "গ": "বাংলাদেশ",
+        "ঘ": "গ্যাবন"
+      },
+      "correctAnswer": "গ",
+      "answerText": "বাংলাদেশ",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_166",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 166,
+      "question": "সম্প্রতি পেরুতে খুঁজে পাওয়া ৩৫০০ বছরের পুরোনো শহরের নাম কী?",
+      "options": {
+        "ক": "মাচুপিচু",
+        "খ": "কোরাল",
+        "গ": "পেনিকো",
+        "ঘ": "কুস্কো"
+      },
+      "correctAnswer": "গ",
+      "answerText": "পেনিকো",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_167",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 167,
+      "question": "১৯৪৭ সালে প্যালেস্টাইনকে বিভাজনের পরিকল্পনা জাতিসংঘের কোন প্রস্তাবের মাধ্যমে গৃহত হয়?",
+      "options": {
+        "ক": "১৮০ নং প্রস্তাব",
+        "খ": "",
+        "গ": "১৬০ নং প্রস্তাব",
+        "ঘ": "১৬১ নং প্রস্তাব"
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৮১ নং প্রস্তাব",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_168",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 168,
+      "question": "নিম্নের কোন দেশটি 'গোলান 'হাইটস' বিরোধের একটি পক্ষ?",
+      "options": {
+        "ক": "লেবানন",
+        "খ": "জডান",
+        "গ": "সিরিয়া",
+        "ঘ": "সৌদি আরব"
+      },
+      "correctAnswer": "গ",
+      "answerText": ". সিরিয়া",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_169",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 169,
+      "question": "নিচের কোন সভ্যতার সময়কালে ওজন পরিমাপ ও দৈর্ঘ্য মাপার পদ্ধতি আবিষ্কার হয়েছিল?",
+      "options": {
+        "ক": "সিন্ধু সভ্যতা",
+        "খ": "মিশরীয় সভ্যতা",
+        "গ": "গগিক সভ্যতা",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "সিন্ধু সভ্যতা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_170",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 170,
+      "question": "ন্যাটো (NATO) চাটারের কোন ধারায় সম্মিলিত প্রতিরক্ষার কথা উল্লেখ আছে?",
+      "options": {
+        "ক": "আটিকেল-",
+        "খ": "আটিকেল-৩",
+        "গ": "আটিকেল-৫",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "আটিকেল-৫",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_171",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 171,
+      "question": "রোম সংবিধি এর ফলে কোন সংস্থাটি প্রতিষ্ঠিত হয়? International Court of Justice (ICJ)",
+      "options": {
+        "ক": "",
+        "খ": "International Criminal Court (ICc)",
+        "গ": "International Atomic Energy Agency (IAEA)",
+        "ঘ": "European Union (EU)"
+      },
+      "correctAnswer": "খ",
+      "answerText": "International Criminal Court (ICC)",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_172",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 172,
+      "question": "কোন দেশগুলো মেডিসিন লাইন/ সীমানা দ্বারা বিভক্ত? [0[ 0",
+      "options": {
+        "ক": "ব্রাজিল ও বলিভিয়া",
+        "খ": "যুক্তরাষ্ট্র ও কানাডা",
+        "গ": "জার্মানি ও পোল্যান্ড",
+        "ঘ": "মিশর ও সুদান"
+      },
+      "correctAnswer": "খ",
+      "answerText": "যুক্তরাষ্ট্র ও কানাডা",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_173",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 173,
+      "question": "দূরীকরণ সনদে সম্মতি জানায়?",
+      "options": {
+        "ক": "১০ ডিসেম্বর ১৯৪৮",
+        "খ": "৬ নভেমবর ১৯৮৪",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "৬ নভেমর ১৯৮৪",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_174",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 174,
+      "question": "যুক্তরাষ্টের পরিচালিত 'অপারেশন মিডনাইট হ্যামার' ইরানে কবে হামলা করে?",
+      "options": {
+        "ক": "২০ জুন ২০২৫",
+        "খ": "২১ জুন ২০২৫",
+        "গ": "২২ জুন ২০২৫",
+        "ঘ": "২৩ জুন ২০২৫"
+      },
+      "correctAnswer": "গ",
+      "answerText": "২২ জুন ২০২৫",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_175",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 175,
+      "question": "ইরানের ফর্দো (Fordow) পারমাণবিক সমৃদ্ধকরণ কেন্দ্রটি কোন প্রদেশে অবস্থিত?",
+      "options": {
+        "ক": "ইসফাহান",
+        "খ": "ইলাম",
+        "গ": "বুমেহর",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_176",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 176,
+      "question": "বাংলাদেশে দীর্ঘতম স্থলসীমান্ত ভারতের কোন রাজ্যের সাথে?",
+      "options": {
+        "ক": "মঘালয়",
+        "খ": "আসাম",
+        "গ": "পশ্চিমবঙ্গ",
+        "ঘ": "ত্রিপুরা"
+      },
+      "correctAnswer": "গ",
+      "answerText": "পশ্চিমবঙ্গ",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_47_177",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 177,
+      "question": "প্রতি ৩০০ দ্রাঘিমার স্থানান্তরে সময়ের ব্যবধান কত মিনিট হয়? SUC ক ১৫ মিনিট enchnark",
+      "options": {
+        "ক": "",
+        "খ": "৩০ মিনিট",
+        "গ": "৬০ মিনিট",
+        "ঘ": "১২০ মিনিট"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_178",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 178,
+      "question": "বাংলাদেশের ভৌগোলিক অবস্থান কোন দুটি গুরুত্বপূর্ণ সামুদ্রিক করিডরের মাঝখানে?",
+      "options": {
+        "ক": "মালাক্কা ও হরমুজ প্রণালী",
+        "খ": "হরমুজ ও পক প্রণালী",
+        "গ": "সুয়েজ খাল ও জিব্রাল্টার প্রণালী",
+        "ঘ": "জিব্রাল্টার ও বসফরাস প্রণালী"
+      },
+      "correctAnswer": "ক",
+      "answerText": "মালাক্কা হরমুজ প্রণালী",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_47_179",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 179,
+      "question": "হিমালয় পবর্তমালার উদ্ভব কোন দুটি টেকটোনিক প্লেটের সংঘরষে হয়েছে?",
+      "options": {
+        "ক": "ইউরেশিয়ান ও আফ্রিকান",
+        "খ": "ইন্দোঅস্ট্রেলিয়ান ৩ ইউরেশিয়ান",
+        "গ": "আমেরিকান ৩ ইউরেশিয়ান",
+        "ঘ": "প্যাসিফিক ও ইন্দোঅস্ট্রেলিয়ান"
+      },
+      "correctAnswer": "খ",
+      "answerText": "ইন্দোঅস্ট্রেলিয়ান ও ইউরেশিয়ান",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_180",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 180,
+      "question": "বায়ুমণ্ডলের কোন স্তরে ওজোন গ্যাসের স্তর অবস্থান করে?",
+      "options": {
+        "ক": "ট্রপোমণ্ডল",
+        "খ": "থা্মোমণ্ডল",
+        "গ": "স্ট্র্যাটোমণ্ডল",
+        "ঘ": "মেসোমণ্ডল"
+      },
+      "correctAnswer": "গ",
+      "answerText": "স্ট্র্যাটোমণ্ডল",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_181",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 181,
+      "question": "ভূতাত্ত্বিক গঠন অনুযায়ী বাংলাদেশের কোন অঞ্চলে সবচেয়ে পুরাতন শিলা গঠন পাওয়া যায়?",
+      "options": {
+        "ক": "সিলেট",
+        "খ": "দিনাজপুর",
+        "গ": "পার্বত্য চট্টগ্রাম",
+        "ঘ": "মধ্যভাগের উচ্চভূমি"
+      },
+      "correctAnswer": "ক",
+      "answerText": "সিলেট",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_47_182",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 182,
+      "question": "কোন মাঝে অবস্থান করে?",
+      "options": {
+        "ক": "সিয়়াল ও সিমা",
+        "খ": "অশ্বমন্ডল ও গুরুমন্ডল you1 SUCCড স্িট",
+        "গ": "গুরুমন্ডল ও কেন্দমন্ডল",
+        "ঘ": "সিমা ও অশ্বমন্ডল"
+      },
+      "correctAnswer": "খ",
+      "answerText": "অশ্বমন্ডল ও গুরুমন্ডল",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_183",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 183,
+      "question": "বাংলাদেশের উত্তর পশ্চিমাঞ্চলের প্রধান খনিজ সম্পদ কোনটি?",
+      "options": {
+        "ক": "চুনাপাথর",
+        "খ": "কাঁচাবালি",
+        "গ": "কয়লা",
+        "ঘ": "খনিজ লবণ"
+      },
+      "correctAnswer": "গ",
+      "answerText": "কয়ল",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_47_184",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 184,
+      "question": "এল নিনো বাংলাদেশ ও দক্ষিণ পূর্ব এশিয়ার আঞ্চলিক আবহাওয়ায় কীভাবে প্রভাব ফেলে?",
+      "options": {
+        "ক": "শীতকালীন তাপমাত্রা বৃদ্ধি",
+        "খ": "বর্ষার বৃষ্টিপাতের ধরনে অনিয়ম সৃষ্টি করে",
+        "গ": "গ্রীষ্মকালীন তাপমাত্রা কমায়",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "বর্ষার বৃষ্টিপাতের ধরনে অনিয়ম সৃষ্টি করে",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_47_185",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 185,
+      "question": "বাংলাদেশের দুর্যোগ ব্যবস্থাপনা আইন' কবে প্রণীত হয়?",
+      "options": {
+        "ক": "১০০৫",
+        "খ": "২০০৮",
+        "গ": "২০১২",
+        "ঘ": "১০১৫"
+      },
+      "correctAnswer": "গ",
+      "answerText": "২০১<",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_47_186",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 186,
+      "question": "EPI -এর পূর্ণরূপ কী?",
+      "options": {
+        "ক": "Extended Program 011 innmnunizatio11",
+        "খ": "Expanded program o11 innmnunization",
+        "গ": "Essential polio innmnunization",
+        "ঘ": "Extended pediatric immunization"
+      },
+      "correctAnswer": "খ",
+      "answerText": "Expanded program on immunization",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_187",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 187,
+      "question": "কোন স্পেস টেলিস্কোপ ২০২১ সালে হাবল টেলিস্কোপের স্থলাভিষিক্ত হয়?",
+      "options": {
+        "ক": "জেমস ওয়েব",
+        "খ": "",
+        "গ": "স্সপিটজার",
+        "ঘ": "জন কেপলার"
+      },
+      "correctAnswer": "ক",
+      "answerText": "জমস ওযব",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_47_188",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 188,
+      "question": "OR কোডে ব্যবহৃত হয়-",
+      "options": {
+        "ক": "তড়িৎ চৌম্বকত্ব",
+        "খ": "রেডিও ফ্রিকুয়েন্সি",
+        "গ": "স্সপিটজার",
+        "ঘ": "অপটিক্যাল রিডিং"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "অপটিক্যাল রিডিং",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_189",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 189,
+      "question": "ইথার সম্বন্ধে কোন্টি মিথ্যা?",
+      "options": {
+        "ক": "এটি একটি রাসায়নিক তরল পদার্থ",
+        "খ": "এটি একটি কাল্পনিক মাধ্যম যা মহাবিশ্বে সর্বত্র বিরাজমান",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "এ মাধ্যম ছাড়া তাড়িং চৌম্বক তরঙ্গ সঞ্চালন সম্ভব নয়",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_190",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 190,
+      "question": "আল্ট্রাসনোগাফিতে ব্যবহৃত শব্দের কম্পাঙ্ক কত?",
+      "options": {
+        "ক": "০ ০১-০১ মেগাহাজ",
+        "খ": "১১-১০ মেগাহার্জ",
+        "গ": "১০-২০ মেগাহাজ",
+        "ঘ": "২০-৩০ মেগাহাজ"
+      },
+      "correctAnswer": "খ",
+      "answerText": "১১-১0 মেগাহাজ",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_47_191",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 191,
+      "question": "কোনটি শরীরে নাইট্রোজেন সরবরাহ করে?",
+      "options": {
+        "ক": "খনিজ লবণ",
+        "খ": "ভিটামিন",
+        "গ": "",
+        "ঘ": "আমিব"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "আমিষ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_192",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 192,
+      "question": "হাইড্রোজেন বোমায় ক্রিয়া করে- idd|",
+      "options": {
+        "ক": "ফিশন বিক্রিয়া",
+        "খ": "ফিউশন বিক্রিয়া",
+        "গ": "ফিশন ও ফিউশন উভয়টিই",
+        "ঘ": "সাধারণ রাসায়নিক বিক্রিয়া you1 SUC' ক এর ম"
+      },
+      "correctAnswer": "খ",
+      "answerText": "ফিউশন বিক্রিয়া",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_193",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 193,
+      "question": "কোন গ্রহে 'Curiosity' মহাকাশযানটি প্রেরণ করা হয়?",
+      "options": {
+        "ক": "শনি",
+        "খ": "মঙ্গল",
+        "গ": "বৃহস্পতি",
+        "ঘ": "ইউরেনাস"
+      },
+      "correctAnswer": "খ",
+      "answerText": "মঙ্গল",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_194",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 194,
+      "question": "ফিটকিরিতে কত অণু পানি থাকে?",
+      "options": {
+        "ক": "১8",
+        "খ": "১৫",
+        "গ": "0৭",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_195",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 195,
+      "question": "'Necessary evil' কোনটি?",
+      "options": {
+        "ক": "পস্বেদন",
+        "খ": "অভিস্রবন",
+        "গ": "ব্যাপন",
+        "ঘ": "শোষণ"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_196",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 196,
+      "question": "তরঙ্গের বেলায় কোনটি সত্য?",
+      "options": {
+        "ক": "তড়িংৎ চৌম্বকতরঙ্গ আলোর বেগে গমন করে",
+        "খ": "শব্দ তরঙ্গ এক ধরনের তড়িৎ চৌম্বকতরঙ্গ",
+        "গ": "সকল তরঙ্গেই প্রতিফলন-প্রতিসরণ হয় না",
+        "ঘ": "তরঙ্গবেগ হলো এর কম্পাঙ্ক ও তরঙ্গ দৈর্ঘ্যের অনুপাত"
+      },
+      "correctAnswer": "ক",
+      "answerText": "তড়িৎ চৌম্বকতরঙ্গ আলোর বেগে গমন করে",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_197",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 197,
+      "question": "হিগের কণার (Higgs Particle) প্রকৃতির সাথে কোন বাংলাদেশি বিজ্ঞানীর নাম জড়িয়ে আছে? স্যার জগদীশ চন্দ্র বসু",
+      "options": {
+        "ক": "",
+        "খ": "সত্যেন্দ্র নাথ বসু",
+        "গ": "প্রফেসর জামাল নজরুল ইসলাম",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "স্যার জগদীশ চন্দ্র বসু",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_198",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 198,
+      "question": "কোন গ্যাস গ্রিন হাউস ইফেক্ট ঘটায়?",
+      "options": {
+        "ক": "হাইড্রোজেন",
+        "খ": "নাইট্রোজেন",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মিথেন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_47_199",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 199,
+      "question": "বিরল ভূতল খনিজ (Rare-Earth Minerals) সম্পর্কিত কোন তথ্যটি সঠিক? C রয়েছে auT k মধ্যে ১৫",
+      "options": {
+        "ক": "১৫টি ধাতু",
+        "খ": "লিথিয়াম এই খনিজের মধ্যে অন্যতম সদস্য",
+        "গ": "এর অসাধারণ চৌম্বক ধরম রয়েছে",
+        "ঘ": "ইউক্রেন এ খনিজ উতপাদনে শীর্ষ অবস্থানে আছে"
+      },
+      "correctAnswer": "গ",
+      "answerText": "এর অসাধারণ চৌম্বক ধর্ম রয়েছে",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_47_200",
+      "exam": "47th BCS Preliminary",
+      "examCode": "bcs_47",
+      "questionNo": 200,
+      "question": "কোন ধাতু পানিতে ফেললে আগুন ধরে যায়?",
+      "options": {
+        "ক": "সোডিয়াম",
+        "খ": "ম্যাগনেসিয়াম",
+        "গ": "রডিয়াম",
+        "ঘ": "ইউরেনিযাম"
+      },
+      "correctAnswer": "ক",
+      "answerText": "সোডিয়াম",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "47th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    }
+  ]
+}

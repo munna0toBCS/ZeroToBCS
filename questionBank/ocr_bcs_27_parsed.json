@@ -1,0 +1,1658 @@
+{
+  "examName": "27th BCS Preliminary",
+  "examCode": "bcs_27",
+  "totalQuestions": 67,
+  "validation": {
+    "totalDetected": 67,
+    "highestQuestionNo": 100,
+    "missing": [
+      11,
+      16,
+      18,
+      19,
+      23,
+      24,
+      27,
+      28,
+      29,
+      31,
+      33,
+      34,
+      42,
+      44,
+      47,
+      50,
+      51,
+      53,
+      55,
+      56,
+      57,
+      74,
+      75,
+      76,
+      77,
+      83,
+      84,
+      90,
+      91,
+      92,
+      94,
+      96,
+      97
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 45,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_27_001",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 1,
+      "question": "কোনটি উপন্যাস?",
+      "options": {
+        "ক": "নতুন চাঁদ",
+        "খ": "কন্যাকুমারী",
+        "গ": "গড্ডলিকা",
+        "ঘ": "নেমেসিস"
+      },
+      "correctAnswer": "খ",
+      "answerText": "কন্যাকুমারী",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_27_002",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 2,
+      "question": "লৌকিক কাহিনির প্রথম রচয়িতা কে?",
+      "options": {
+        "ক": "আলাওল",
+        "খ": "কোরেশী মগন",
+        "গ": "দৌলত কাজী",
+        "ঘ": "সৈয়দ সুলতান"
+      },
+      "correctAnswer": "গ",
+      "answerText": "দৌলত কাজী",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_27_003",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 3,
+      "question": "সাপ্তাহিক 'সুধাকর'-এর সম্পাদক কে?",
+      "options": {
+        "ক": "মুন্সি মোহাম্মদ রিযাজউদ্দিন আহমদ",
+        "খ": "মুন্সি মোহাম্মদ মেহের উল্লাহ",
+        "গ": "শেখ আব্দুর রহিম",
+        "ঘ": "ইসমাইল হোসেন সিরাজী"
+      },
+      "correctAnswer": "গ",
+      "answerText": "শেখ আব্দুর রহিম",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_27_004",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 4,
+      "question": "মাসিক 'মোহম্মদী' কোন সালে প্রকাশিত হয়?",
+      "options": {
+        "ক": "১৯২৬",
+        "খ": "১৯২৭",
+        "গ": "১৯২৮",
+        "ঘ": "১৯২৯"
+      },
+      "correctAnswer": "খ",
+      "answerText": "১৯২৭",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_27_005",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 5,
+      "question": "কোন পত্রিকাটি ১৯২৩ সালে প্রকাশিত হয়?",
+      "options": {
+        "ক": "কালিকলম",
+        "খ": "প্রগতি",
+        "গ": "কল্লোল",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "কল্লোল",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_27_006",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 6,
+      "question": "ঢাকা থেকে প্রকাশিত হয় কোন পত্রিকাটি?",
+      "options": {
+        "ক": "অরণি",
+        "খ": "পরিচয়",
+        "গ": "নবশক্তি",
+        "ঘ": "ক্রান্তি"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "ক্রান্তি",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_27_007",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 7,
+      "question": "গিক শব্দ কোনটি?",
+      "options": {
+        "ক": "তুফান",
+        "খ": "লুঙ্গী",
+        "গ": "কুশন",
+        "ঘ": "দাম"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "দাম",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_27_008",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 8,
+      "question": "বাংলা ভাষায় কয়টি খাঁটি বাংলা উপসর্গ আছে?",
+      "options": {
+        "ক": "উনিশ",
+        "খ": "কুড়ি",
+        "গ": "একুশ",
+        "ঘ": "বাইশ"
+      },
+      "correctAnswer": "গ",
+      "answerText": "একুশ",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_27_009",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 9,
+      "question": "",
+      "options": {
+        "ক": "একরাত্রি",
+        "খ": "শুভা",
+        "গ": "সমাপ্তি",
+        "ঘ": "পোস্টমাস্টার"
+      },
+      "correctAnswer": "গ",
+      "answerText": "সমাপ্তি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_27_010",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 10,
+      "question": "বাংলা সাহিত্যের প্রথম ইতিহাস গ্রন্থ কোনটি?",
+      "options": {
+        "ক": "বাঙ্গালা সাহিত্যের ইতিহাস",
+        "খ": "বঙ্গভাষা ও সাহিত্য",
+        "গ": "বাংলা সাহিত্যের কথা",
+        "ঘ": "বাংলা সাহিত্যের রূপরেখা"
+      },
+      "correctAnswer": "",
+      "answerText": "১৯২৩",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_27_012",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 12,
+      "question": "রাজা রামমোহন রচিত বাংলা ব্যাকরণের নাম কী?",
+      "options": {
+        "ক": "মাগধীয় ব্যাকরণ",
+        "খ": "গৌড়ীয় ব্যাকরণ",
+        "গ": "মাতৃভাষা ব্যাকরণ",
+        "ঘ": "ভাবা ও ব্যাকরণ"
+      },
+      "correctAnswer": "খ",
+      "answerText": "গৌড়ীয় ব্যাকরণ",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_27_013",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 13,
+      "question": ": 'মছো' শব্দের প্রকৃতি-প্রত্যয় কী?",
+      "options": {
+        "ক": "মছ + ও",
+        "খ": "মেছ + ও",
+        "গ": "মাছি + উয়া > ও",
+        "ঘ": "মাছ + উযা > ও"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "মাছ + উয়া > ও",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_27_014",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 14,
+      "question": "কোন সন্নিটি নিপাতনে সিদ্ধ?",
+      "options": {
+        "ক": "বাক | দণ বাগদান",
+        "খ": "উৎ + ছেদ উচ্ছেদ",
+        "গ": "পর + পর = পরস্পর",
+        "ঘ": "সম + সার সংসার"
+      },
+      "correctAnswer": "গ",
+      "answerText": "পর + পর = পরস্পর",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_27_015",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 15,
+      "question": "বাংলা মৌলিক নাটকের যাত্রা শুরু হয় কোন নাট্যকারের হাতে?",
+      "options": {
+        "ক": "মধুসূদন দত্ত",
+        "খ": "দীনবন্ধু মিত্র",
+        "গ": "জ্যোতিন্দ্রনাথ ঠাকুর",
+        "ঘ": "রূপক"
+      },
+      "correctAnswer": "",
+      "answerText": "উপমেয়",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_27_017",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 17,
+      "question": "'পাখি সব করে রব রাতি পোহাইল' পঙক্তিটির রচয়িতা কে? you1 success benchnark",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_27_020",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 20,
+      "question": "'এ মাটি সোনার বাড়া'-এ উদ্ধৃতিতে 'সেনা' কোন অর্থে ব্যবহার করা হয়েছে? রামনারায়ণ তকরত্ন",
+      "options": {
+        "ক": "সিকানৃদার আবু জাফর",
+        "খ": "বিহারী লাল",
+        "গ": "কৃষ্ণচন্দ্র মজুমদার",
+        "ঘ": "মদনমোহন তর্কালংকার"
+      },
+      "correctAnswer": "",
+      "answerText": "বিশেষণের অতিশায়ন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_27_021",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 21,
+      "question": "What would have happened if _ -? The bridge is broken",
+      "options": {
+        "ক": "",
+        "খ": "The bridge wouldl break",
+        "গ": "The bridge had broken",
+        "ঘ": "The bridge had been broke"
+      },
+      "correctAnswer": "গ",
+      "answerText": "The bridge had broken",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_27_022",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 22,
+      "question": "Explain the meaning of 'Bring to pass' . gঁ ক cause t destroy happen",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "Cause to carry out",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_27_025",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 25,
+      "question": "Give the correct passive form of 'My teacher embodies all the",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_27_026",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 26,
+      "question": "Choose the correct indirect speech- She asked me, 'Are you ২৩. Which of the following sentences is the correct one?",
+      "options": {
+        "ক": "Paper is made of wood",
+        "খ": "Paper is made from wood",
+        "গ": "Paper is made by wood",
+        "ঘ": "She asked me if I in1 my new"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "She asked me if I in1 my new",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_27_030",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 30,
+      "question": "What will be the correct preposition to complete the sentence? I",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_27_032",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 32,
+      "question": "Fill in the blank with appropriate preposition 'Hurry up! we have to go very fat",
+      "options": {
+        "ক": "liar]",
+        "খ": "ugly",
+        "গ": "tardy",
+        "ঘ": "0bnorious"
+      },
+      "correctAnswer": "",
+      "answerText": "Beauty",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_27_035",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 35,
+      "question": "Choose the correct alternative and mark its letter on your answer sheet The rich should 7[ by",
+      "options": {
+        "ক": "[ shall go to college",
+        "খ": "Matini 1s singing a so11g",
+        "গ": "Stand up",
+        "ঘ": "fo1"
+      },
+      "correctAnswer": "",
+      "answerText": "for",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_27_036",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 36,
+      "question": "I took a map with me, as I didn't want to",
+      "options": {
+        "ক": "lose",
+        "খ": "lose",
+        "গ": "lost",
+        "ঘ": "lss"
+      },
+      "correctAnswer": "ক",
+      "answerText": "lose",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_27_037",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 37,
+      "question": "Every driver must be held his own actions gঁ ক responsible for responsible to",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "liable t০",
+        "ঘ": "Llane] for"
+      },
+      "correctAnswer": "",
+      "answerText": "responsible for",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_27_038",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 38,
+      "question": "'Through thick and thin' means - un1ler all conlitions",
+      "options": {
+        "ক": "under all conditions",
+        "খ": "Lo nake thik anl thin",
+        "গ": "not lear in1 understanding",
+        "ঘ": "of great density"
+      },
+      "correctAnswer": "ক",
+      "answerText": "under all conditions",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_27_039",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 39,
+      "question": "'Prior to' means after",
+      "options": {
+        "ক": "",
+        "খ": "before",
+        "গ": "immediately",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "before",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_27_040",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 40,
+      "question": "Nobody knocked him down; it was an- inicilent occ111e11ce",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "accilent",
+        "ঘ": "event"
+      },
+      "correctAnswer": "গ",
+      "answerText": "accilent",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_27_041",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 41,
+      "question": "১`+ $`+ ৩` ৫০ কত?",
+      "options": {
+        "ক": "৩৫৭২৫",
+        "খ": "৪২৯২৫",
+        "গ": "৪৫৫০০",
+        "ঘ": "8ণ২২৫"
+      },
+      "correctAnswer": "খ",
+      "answerText": "৪২৯২৫",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_27_043",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 43,
+      "question": "এক সর্বপ্রথম মূল্যের তুলনায়-",
+      "options": {
+        "ক": "৪৫% কমানো হয়েছে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_27_045",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 45,
+      "question": "শিক্ষা সফরে যাওয়ার জন্য ২৪০০ টাকা বাস ভাড়া করা হলো এবং প্রত্যেক Diuuaba1i",
+      "options": {
+        "ক": "80",
+        "খ": "৬২৫% কমনো হয়েছে",
+        "গ": "৬২৫% বাড়ানো হয়েছে",
+        "ঘ": "৫% বাড়ানো হয়েছে"
+      },
+      "correctAnswer": "",
+      "answerText": "৬0",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_27_046",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 46,
+      "question": "পিতা, মাতা ও পুত্রের বয়সের গড় ৩৭ বছর",
+      "options": {
+        "ক": "৩৮ ছর",
+        "খ": "৪ বছর",
+        "গ": "৪৫ বছর",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "৪১ বছর",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_27_048",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 48,
+      "question": "বৃত্তের ব্যাস তিনগুণ বৃদ্দধি করলে ক্ষেত্রফল কতগুণ বৃদ্দধি পাবে?",
+      "options": {
+        "ক": "8",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_27_049",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 49,
+      "question": "একটি সমদ্বিবাহু সমকোণী ত্রিভুজের অতিভুজের দৈর্ঘ্য ১২ সেমি হলে ত্রিভুজটির ক্ষেত্রফল কত বর্গ সেমি:?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_27_052",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 52,
+      "question": "সংবিধানের কোন অনুচ্ছেদে 'রাষ্ট্র ও গণজীবনের সর্বস্তরে নারী পুরুষের সমান অধিকার লাভ করিবেন' বলা ৫ে UNDP রিপোর্ট সেপ্টেম্বর ২০০৫ সাল মোতাবেক বাংলাদেশের মাথাপিছু আয় কত? নোট: বিবিএস তথ্য অনুযায়ী; ২০২৪-২৫ অর্থবছরে মাথাপিছু আয় ২৮২০ ডলার !",
+      "options": {
+        "ক": "৩৬",
+        "খ": "8৮",
+        "গ": "১>",
+        "ঘ": "১৬"
+      },
+      "correctAnswer": "",
+      "answerText": "২৮০২) নং অনুচ্ছেদে",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_27_054",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 54,
+      "question": "স্বাধীনতা যুদ্ধে অবদানের জন্যে 'বীরপ্রতীক' উপাধি লাভ করে কতজন?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_27_058",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 58,
+      "question": "চট্টগ্রাম-কক্সবাজার সাবমেরিন কেবলস অপটিক্যাল ফাইবার স্থাপন করার জন্য বাংলাদেশ সরকারকে কত",
+      "options": {
+        "ক": "৭ জন",
+        "খ": "৬৮ জন",
+        "গ": "১৭৫ জন",
+        "ঘ": "৪ ৬ জন"
+      },
+      "correctAnswer": "",
+      "answerText": "১৭০ কিমি",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_27_059",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 59,
+      "question": "রাজেন্দ্রপুর সেনানিবাসে অবস্থিত মুক্তিযুদ্দের স্মৃতিস্তম্ভের নাম কী?",
+      "options": {
+        "ক": "বিজয়স্তম্ভ",
+        "খ": "বিজয়কেতন",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "রক্ত সোপান",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_27_060",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 60,
+      "question": "বাংলাদেশের পোস্টাল একাডেমি কোথায় অবস্থিত?",
+      "options": {
+        "ক": "রাজশাইী",
+        "খ": "ঢাক",
+        "গ": "চট্টগ্রাম",
+        "ঘ": "খুলনা"
+      },
+      "correctAnswer": "ক",
+      "answerText": "রাজশাহী",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_27_061",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 61,
+      "question": "প্রস্তাবিত পদ্মা সেতুর দৈর্ঘ্য কত কিমি:?",
+      "options": {
+        "ক": "৫09",
+        "খ": "৬09",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_27_062",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 62,
+      "question": "বাংলাদেশে সর্বপ্রথম কোন মহিলা টেস্টটিউব শিশুর মা হন?",
+      "options": {
+        "ক": "পারভীন ফাতেমা",
+        "খ": "ফিরোজা বেগম",
+        "গ": "রওশন জাহান",
+        "ঘ": "কানিজ ফাতেমা"
+      },
+      "correctAnswer": "খ",
+      "answerText": "ফিরোজা বেগম",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_27_063",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 63,
+      "question": "বাংলাদেশ জাতীয়সংঘের কততম সদস্য?",
+      "options": {
+        "ক": "১৩৬",
+        "খ": "১৩৭ তম",
+        "গ": "১৩৮৮",
+        "ঘ": "১৩৯"
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৩৬ তম",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_27_064",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 64,
+      "question": "কেন্দ্রীয় শহীদ মিনারের স্থপতি কে?",
+      "options": {
+        "ক": "তানভীর কবীর",
+        "খ": "হামিদুর রহমান",
+        "গ": "হামিদুজ্জামান",
+        "ঘ": "অকর বাদল"
+      },
+      "correctAnswer": "খ",
+      "answerText": "হামিদুর রহমান",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_27_065",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 65,
+      "question": "জাতিসংঘ সাধারণ পরিষদের প্রথম বাংলাদেশী সভাপতি কে? daball you1 success benchnark",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_27_066",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 66,
+      "question": "স্বাধীনতা যুদ্ধে অবদান রাখার জন্য কতজন মহিলাকে বীরপ্রতীক উপাধিতে ভূষিত করা হয়?",
+      "options": {
+        "ক": "বি এ সিদ্দিকী",
+        "খ": "৭ জন",
+        "গ": "$ জন",
+        "ঘ": "শমসের মবিন চৌধুরী"
+      },
+      "correctAnswer": "খ",
+      "answerText": "১ জন",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_27_067",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 67,
+      "question": "কর্মসংস্থান ব্যাংক প্রতিষ্ঠিত হয় কোন সনে?",
+      "options": {
+        "ক": "১৯৯৫",
+        "খ": "১৯৯৬",
+        "গ": "১৯৯৮",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "১৯৯৮",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_27_068",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 68,
+      "question": "লোকসংখ্যার দিক থেকে বাংলাদেশ বিশ্বের কততম স্থানে?",
+      "options": {
+        "ক": "গে",
+        "খ": "৭ম",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৮ম",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_27_069",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 69,
+      "question": "সেন্ট মার্টিন দীপের আয়তন ক",
+      "options": {
+        "ক": "",
+        "খ": "১০",
+        "গ": "১২",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৮",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_27_070",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 70,
+      "question": "বাংলাদেশে পরমাণু শক্তি কমিশন গঠিত হয় কোন সনে?",
+      "options": {
+        "ক": "১৯৭২",
+        "খ": "১৯৭৩",
+        "গ": "১৯৭৫",
+        "ঘ": "১৯৯৭"
+      },
+      "correctAnswer": "খ",
+      "answerText": "১৯৭৩",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_27_071",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 71,
+      "question": "কোন ইঞ্জিনে কার্বুরেটর থাকে?",
+      "options": {
+        "ক": "পেট্রোল ইঞ্জিনে",
+        "খ": "ডিজেল ইঞ্জিনে",
+        "গ": "রকেট ইঞ্জিনে",
+        "ঘ": "বিমান ইঞ্জিন"
+      },
+      "correctAnswer": "ক",
+      "answerText": "পেট্রোল ইঞ্জিনে",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_27_072",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 72,
+      "question": "সর্বাপেক্ষা ছোট তরঙ্গ দৈর্ঘ্যরে বিকিরণ হচ্ছে",
+      "options": {
+        "ক": "আলফা রশমি",
+        "খ": "বিটা রশমি",
+        "গ": "গামা রশম",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "গামা রশ্মি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_27_073",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 73,
+      "question": "মানুষের হৃংপিণ্ডে কতটি প্রকোষ্ঠ থাকে?",
+      "options": {
+        "ক": "দুটি",
+        "খ": "চারটি",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "চারটি",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_27_078",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 78,
+      "question": "প্রেসার কুকারে রান্না তাড়াতাড়ি হয়, কারণ-",
+      "options": {
+        "ক": "রান্নার জন্য শুধু তাপ নয় চাপও কাজে",
+        "খ": "বদ্ধ পাত্রে তাপ সংরাক্ষিত হয়",
+        "গ": "উচ্চচাপে তরলের স্ফুটনাংক বৃদ্ধি পায়",
+        "ঘ": "সঞঞচত বাষ্পের তাপ রান্না সহায়ক"
+      },
+      "correctAnswer": "",
+      "answerText": "মেলানিন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_27_079",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 79,
+      "question": "বাদুড় অন্ধকারে চলাফেরা করে কীভাবে?",
+      "options": {
+        "ক": "তীক্ষ্ম দৃষ্টসম্পন্ন চোখের সাহায্যে",
+        "খ": "ক্রমাগত শব্দ উৎপন্নের মাধ্যমে অবস্থান নির্ণয় করে",
+        "গ": "1, B, 1, $ ও Al",
+        "ঘ": "1, P,T, $ ও Al"
+      },
+      "correctAnswer": "",
+      "answerText": "গোয়ানিন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_27_080",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 80,
+      "question": "11e$011 > ne11t1'011",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "proton",
+        "ঘ": "electron"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "electro11",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_27_081",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 81,
+      "question": "২০০৫ সালে",
+      "options": {
+        "ক": "ডেনিস",
+        "খ": "ক্যাটরিনা",
+        "গ": "আইভান",
+        "ঘ": "রিটা"
+      },
+      "correctAnswer": "গ",
+      "answerText": "আইভান",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_27_082",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 82,
+      "question": "কোন দেশটি স্ক্যানডিনেভিয়ার অন্তর্ভুক্ত নয়? you1 success benchnark মুসলমান প্রধান না হয়েও কোন দেশটি ইসলামী সহযোগিতা সংস্থার সদস্য?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_27_085",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 85,
+      "question": "মার্কিন যুক্তরাষ্টের কোন প্রেসিডেন্ট ১২ বছর ক্ষমতায় অধিষ্ঠিত ছিলেন? ডেনমাক",
+      "options": {
+        "ক": "নাইজেরিয়া",
+        "খ": "ফিনল্যান্ড",
+        "গ": "নেদারর্যন্ডস",
+        "ঘ": "হ্যারি এস ট্রুম্যান"
+      },
+      "correctAnswer": "",
+      "answerText": "ফ্রাঙ্কলিন রুজভেল্ট",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_27_086",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 86,
+      "question": "ভারতীয় লোকসভার নির্বাচিত সদস্য সংখ্যা কত?",
+      "options": {
+        "ক": "৫89",
+        "খ": "৫৪৫",
+        "গ": "8১8",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "৫89",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_27_087",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 87,
+      "question": "কোন দেশের মহিলারা সর্বপ্রথম ভোটাধিকার লাভ করে?",
+      "options": {
+        "ক": "মার্কিন যুক্তরাষ্ট্র",
+        "খ": "নিউজিল্যান্ড",
+        "গ": "বাহামা",
+        "ঘ": "সুইজারল্যান্ড"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_27_088",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 88,
+      "question": "রাসায়নিক অস্ত্র চুক্তি নুমো (Chemical Weapons Convention) কোন সালে স্বাক্ষরিত হয়?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_27_089",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 89,
+      "question": "কোন পরিষদের সুপারিশক্রমে জাতিসংঘে নতুন সদস্য গ্রহণ করা হয়?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_27_093",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 93,
+      "question": "কোনটি বিংশ শতাব্দীর শেষ ভাগে উপনিবেশবাদের নিগড় থেকে মুক্ত হয়? ১৯৯০",
+      "options": {
+        "ক": "তছি পরিষদ",
+        "খ": "১৯৯৩",
+        "গ": "১৯৯৬",
+        "ঘ": "১৯৯৯"
+      },
+      "correctAnswer": "",
+      "answerText": "লন্ডন",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_27_095",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 95,
+      "question": "Amnesty International কত সালে নোবেল শান্তি পুরস্কার পেয়েছিল?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_27_098",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 98,
+      "question": "মালয়েশিয়ার সাবেক প্রধানমন্ত্রী ড মাহাথির মোহাম্মদ কত বছর ক্ষমতায় ছিলেন? 7[ ম্যাকাউ",
+      "options": {
+        "ক": "এবিএম চুক্তি (ABM)",
+        "খ": "সল্ট-১ চুক্তি (SALT-1)",
+        "গ": "সল্ট-২ চুক্তি (SALT-2)",
+        "ঘ": "বাংলাদেশ"
+      },
+      "correctAnswer": "",
+      "answerText": "২২ বছর",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_27_099",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 99,
+      "question": "বাংলাদেশ কত সালে ইসলামী সম্মেলন সংস্থার সদস্যপদ লাভ করে? জ ball you1 success benchnark",
+      "options": {
+        "ক": "১৯৭২ সালে",
+        "খ": "১৯৭৩ সালে",
+        "গ": "১৯৭৪ সালে",
+        "ঘ": "১৯৭৫ সালে"
+      },
+      "correctAnswer": "গ",
+      "answerText": "১৯৭৪ সালে",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_27_100",
+      "exam": "27th BCS Preliminary",
+      "examCode": "bcs_27",
+      "questionNo": 100,
+      "question": "ইরাকের বর্তমান প্রেসিডেন্ট জালাল তালাবানি কোন সম্প্রদায়ের?",
+      "options": {
+        "ক": "সুন্নি",
+        "খ": "শিয়া",
+        "গ": "কুদি",
+        "ঘ": "খরিস্টান"
+      },
+      "correctAnswer": "গ",
+      "answerText": "কুর্দি",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "27th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    }
+  ]
+}

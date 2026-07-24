@@ -1,0 +1,120 @@
+{
+  "examName": "45th BCS Preliminary",
+  "examCode": "bcs_45",
+  "totalQuestions": 4,
+  "validation": {
+    "totalDetected": 4,
+    "highestQuestionNo": 11,
+    "missing": [
+      1,
+      2,
+      3,
+      5,
+      7,
+      8,
+      10
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 4,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_45_004",
+      "exam": "45th BCS Preliminary",
+      "examCode": "bcs_45",
+      "questionNo": 4,
+      "question": "> Which of the following novels was written by George Orwell? 2) 1984 A Clockworl Orange 89. Identify the correct sentence: (a) She speaks English like English (c) She speaks the English like the English 88. When one makes a promise, one must not go ta) forwar] (b) back ৪৫. I can't put up with him anymore Here (a) To protect ৩) T terminate ৪৬. The poem 'To His Coy Mistress\" was written by: gঁ (a) Andrew Marvell (b) John Donne",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "জাহানারা ইমাম ঘ মুশতারি শফী",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Ia]",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "45th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_45_006",
+      "exam": "45th BCS Preliminary",
+      "examCode": "bcs_45",
+      "questionNo": 6,
+      "question": "= ADHISSION 096 444 333 03 চঢলদন boibaritcom ৫ inay be considered courteous i11 on1e underlined word \"arrogant\" means- a) rude (b) gracious SUCCeS ৫১ Don Juan Was composed by- ta) WB Teats (c) George Gordon Byron Identify the imperative sentence: (a) Shut up! I shall cook dinner now ৫ \"Black Death is the name or a- a) fever (c) plague pandemic (c) length (d1) depth (L) Tess of the D'llrberville",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "plague pandemic",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "45th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_45_009",
+      "exam": "45th BCS Preliminary",
+      "examCode": "bcs_45",
+      "questionNo": 9,
+      "question": "Jane Eyre might (1) woul] সব চাকরির English প্রস্তুতি trammar & Literature এখন একসাথেেই culture may be arrogant in another . Here the coarse 7 L C /(d) pretentious b) E B. Browning (d) Alexander Pope (b) Shahin is playing football ) What is your name? (b) black fever (1) death of black people 3jddaba_i ৫8 'Ulysses' is a poem written by- (a) Robert Browning Coleridge ৬ Alfred Tennyson ৫৫. Who wrote the poen 'Ozymandias'? a) Thomas Hardy (b) Robert Frost ৫৬ Clym Yeobright is the protagonist of the novel- (a) David Copperfield Passage to India ত্তর: The Return of the Native ৫৭. The train 1s running forty miles an hour 2) 011 () +০ ৫ে. He divided the money the two children (a) between ৩) over ৫ No one can that he is clever ta) lefy () ৬০ Choose the right form of verb: The 'bo] (a) lies ৬১. She played on the flute. Passive form a) The flute Was played by her The flute played to her ত্তর: Tle flute played on by her UCcess ৬২ Antonym for Adieu- 'a) Farewell (b) Good bye ৬২ 'Wall fast lest you should miss the train'. This is a- (a) Simple sentence (c) Complex sentence ৬৩. number of singers in a church is called- a) Choir ৬8. Put the right word in the blank. \"He reached the ta) abattoir (9) acine (b) Worlswortl (d) Alfred Tennyson P.B. Sheley (1) Edmund Spenser (L) Adlan Bele (1) The Return of the Native at (1) for among (d) in between admire (1) lenounce (to lie) on the floor yesterday 2] (1) layed The flute was played on by her (1) The flute played by her Hello (1) Valediction (b) Compound sentence (০) Interrogative sentence (d) clump of his literary career adnonish (1) abdicate ৬৫. Anger may be compared fire. () within ৬৬. Choose the correct sentence: (a) He discussed the matter ৬৭ Identify the correctly spelt word. (a) Horroscope (৩) Pneumonia ৬৮ Desdemona 1s a character in the (a) Macheth () thello LearEnglisট TRICKS TU. ছ = ছুঁ MAYEDULISLAM PRODHAN 09& 444 333 03 ৬৯ Meteorology is related to- (a) concrete slabs (c) weather forecasting ৭১. ভারত ছাড়' আন্দোলন শুরু হয়-",
+      "options": {
+        "ক": "১৯১৭ সালে খ ১৯২৭ সালে",
+        "খ": "১৫ জুন থেকে ২ জুন, ২০২২",
+        "গ": "১৯৩৭ সালে ঘ ১৯৪২ সালে",
+        "ঘ": "হিরন পয়েন্ট"
+      },
+      "correctAnswer": "",
+      "answerText": "10, 25",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "45th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_45_011",
+      "exam": "45th BCS Preliminary",
+      "examCode": "bcs_45",
+      "questionNo": 11,
+      "question": "১৬৬. p + ৭ = 5 এবং p ৭ = 3 হলে p2 + 92 এর মান কত?",
+      "options": {
+        "ক": "৪ খ. 17",
+        "খ": "সI02স",
+        "গ": "ব্রীজ ঘ. হাব",
+        "ঘ": "আইনের শাসন"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "আইনের শাসন",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "45th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    }
+  ]
+}

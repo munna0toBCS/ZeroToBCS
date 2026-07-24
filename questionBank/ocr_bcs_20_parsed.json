@@ -1,0 +1,1681 @@
+{
+  "examName": "20th BCS Preliminary",
+  "examCode": "bcs_20",
+  "totalQuestions": 68,
+  "validation": {
+    "totalDetected": 68,
+    "highestQuestionNo": 100,
+    "missing": [
+      4,
+      5,
+      6,
+      7,
+      21,
+      23,
+      24,
+      25,
+      27,
+      28,
+      37,
+      38,
+      39,
+      44,
+      45,
+      46,
+      47,
+      52,
+      53,
+      54,
+      56,
+      61,
+      70,
+      71,
+      73,
+      74,
+      75,
+      77,
+      78,
+      81,
+      82,
+      83
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 68,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_20_001",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 1,
+      "question": "'পদ' বলতে কী বোঝায়? (ক) কবিতার চরণ",
+      "options": {
+        "ক": "",
+        "খ": "যেকোনো শব্দ",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(ঘ) বিভক্তিযুক্ত শব্দ ও ধাতু",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_20_002",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 2,
+      "question": "কোন বানানটি শুদ্ধ? 'ক) শুশ্রুষা (খ) সুশ্রুষা (গ) শুশ্রষা (ঘ) সুশ্রুসা",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(গ) শুশ্রূষা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_20_003",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 3,
+      "question": "'ঠোঁট-কাটা' বলতে কী বুঝায়?",
+      "options": {
+        "ক": "অহংকার",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(খ) স্পষ্টভাষী",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_20_008",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 8,
+      "question": "'বিষাদ-সিন্ধু' কার রচনা? 'ক) কায়কোবাদ Other Job's Preparation oenchnaur ? SUCCeSS ddabali (খ) মীর মশাররফ হোসেন (গ) মোজাম্মেল হক (ঘ) ইসমাইল হোসেন সিরাজী ৫ কোনটি কাব্যগ্রন্থ? (ক) শেষ প্রশ্ন (খ) শেষ লেখা (গ) শেষের কবিতা (৭) শেষের পরিচয় ৬ নজরুল ইসলামের প্রথম প্রকাশিত গ্রন্থ (ক) রাজবন্দীর জবানবন্দী",
+      "options": {
+        "ক": "",
+        "খ": "ব্যথার দান",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(খ) আগুণের পরশমণি",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_20_009",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 9,
+      "question": "'বৃষ্টি পড়ে টাপুর টুপুর নদে এল বান'- এখানে 'টাপুর টুপুর' কোন ধরনের শব্দ? Idaball যা সহজে অতিক্রম করা যায় না'- এ বাক্যাংশের সংক্ষিপ্ত রূপ কী? (গ) নিরালোকে দিব্যরথ (ঘ) নির্বাণ (ক) অবস্থাবাচক শব্দ (খ) বাক্যালঙ্কার শব্দ (গ) ধ্বন্যাত্মক শব্দ (ঘ) দ্বিরুক্তি শব্দ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(গ) ধ্বন্যাত্মক শব্দ",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_20_010",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 10,
+      "question": "কোনটি দন্দ সমাসের উদাহরণ? (ক) সিংহাসন (খ) ভাই-বোন (গ) কানাকানি ৭) গাছপাকা",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(খ) ভাই-বোন",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_20_011",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 11,
+      "question": "y0u1' (ক) অনতিক্রম্য (খ) অলঙ্ঘ্য (গ) দুরতিক্রম্য (ঘ) দুর্গম",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(গ) দুরতিক্রম্য",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_20_012",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 12,
+      "question": "'ব্যাঙের সর্দি' অর্থ কী? (ক) রোগ বিশেষ (খ) সম্ভাব্য ঘটনা (গ) অসম্ভব ঘটনা g Other Job's Preparation oenchnaur ? ICCeS$ (ঘ) প্রতারণা",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(গ) অসম্ভব ঘটনা",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_20_013",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 13,
+      "question": "'সংশপ্তক' কার রচনা? (ক) মুনীর চৌধুরী (খ) শহীদুল্লাহ কায়সার (গ) জহির রায়হান (ঘ) শওকত ওসমান",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(খ) শহীদুল্লাহ কায়সার",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_20_014",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 14,
+      "question": "'একুশে ফেব্রুয়ারি' প্রথম সংকলনের সম্পাদক কে? শওকত ওসমান (খ) জহির রায়হান (গ) আব্দুল গণি হাজারী (ঘ) হাসান হাফিজুর রহমান",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(ঘ) হাসান হাফিজুর রহমান",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_20_015",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 15,
+      "question": "'নদী ও নারী' কার রচনা? (ক) কাজী আব্দুল ওদুদ কালাম LT (খ) শামসুদ্দিন আবুল (গ) আবুল ফজল (ঘ) হুমায়ুন কবির",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(ঘ) হুমায়ুন কবির",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_20_016",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 16,
+      "question": "কাজী নজরুল ইসলাম রচিত গ্রন্থ কোনটি?",
+      "options": {
+        "ক": "আগ্নকোণ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(ঘ) রাঙাজবা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_20_017",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 17,
+      "question": "'আত্মঘাতী বাঙালি' কার রচিত গ্রন্থ?",
+      "options": {
+        "ক": "অশোক মিত্র",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(গ) নীরদচন্দ্র চৌধুরী",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_20_018",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 18,
+      "question": "'সংস্কৃতির ভাঙা সেতু' গ্রন্থ কে রচনা করেছেন? মোতাহের হোসেন চৌধুরী (খ) বিনয় ঘোষ (গ) আখতারুজ্জামান ইলিয়াস (ঘ) রাধারমণ মিত্র",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(গ) আখতারুজ্জামান",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_20_019",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 19,
+      "question": "কাক ভূষণ্ডির অর্থ (ক) ষড়যন্ত্রকারী (খ) বাকসবস্ব y0u1 (গ) দীর্ঘ প্রতীক্ষমাণ (ঘ) দীর্ঘায়ু ব্যক্তি",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(ঘ) দীর্ঘায়ু ব্যক্তি",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_20_020",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 20,
+      "question": "নিত্য মূর্ধন্য-ষ কোন শব্দে বর্তমান? (ক) কষ্ট (খ) উপনিষৎ (গ) কল্যাণীয়েষু (৭) আষাঢ় g Other Job's Preparation oenchnaur ? SUCCeSS that best expresses a relationship similar to that expressed in the original Each question below consists of pair. (২১-২৪) ১১. EXCITE CALM restrai1l co111]0se (খ) agitate trouble (গ) upset preturb (ঘ) stimulate co0l lown",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(ঘ) stimulate cool down",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_20_022",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 22,
+      "question": "DELAY EXPEDITE relate] halt",
+      "options": {
+        "ক": "penury wealtl",
+        "খ": "block obstruct",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(গ) Although",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_20_026",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 26,
+      "question": "criminals, who- have had escaped (খ) had escaped",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "a1e escaping",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(গ) the University will employ me",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_20_029",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 29,
+      "question": "If a substance is cohesive, it tends to retain heat (খ) bend without much difficulty (গ) stick together (ঘ) break easily",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(গ) stick together",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_20_030",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 30,
+      "question": "He stopped his car--. abruptly equitably (গ) ambiguously (ঘ) incisively 011 Eacl sentence contains blanks. blank that best completes the sentence",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(ক) abruptly",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_20_031",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 31,
+      "question": "The influence of the technological revolution us all. Proliferating-diminishing (খ) Undermining-neutralizing 'গ) Accelerating-intensifying gঁ Other Job's Preparation by the University oenchnaur ? SUCCeSS Choose the set of worls for each 111 and the",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_20_032",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 32,
+      "question": "Few people would care to take the negative side of the proposition (খ) Description of a disagreeable thing by an agreeable name (গ) Contrast of wordls is mnade in the sane sentence (ঘ) Aggravating-demolishing that the women of the world are admired-provoked (খ) oppressed- scorned (গ) rebuked-regaled (ঘ) slighted-celebrated",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(খ) oppressed- scorned",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_20_033",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 33,
+      "question": "Anger, even when it is sinful-sloth inevitable dlesire (গ) unnecessary mnalice",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": "intense hate"
+      },
+      "correctAnswer": "",
+      "answerText": "(খ) inevitable desire",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_20_034",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 34,
+      "question": "The word 'dilly dally' 011",
+      "options": {
+        "ক": "To dlilute",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(ঘ) Waste time",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_20_035",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 35,
+      "question": "The word 'Euphemism' means- Stating one -hing like another Other Job's Preparation and oenchnaur ? has one virtue, it overcomes meansuLCcess The passive form of the sentence 'Some children were helping the Rumor is the most primitive way of spreading stories-by passing them on from mouth to mouth But civilized countries in normal times have newspapers. In times of stress and confusion, however; rumor emerges Since the people cannot learn through legitimate repeated even by those who do not believe the tales There is a fascination with them. The reason is that the cleverly designed gives expression to something deep in the hearts of the victims- the fears. suspicions, forbidden hopes, or daydreams which they hesitate to voice directly pessimistic rumors about defeat and disasters show that 9 (ঘ) A statemnent is mnadle",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(খ) Description of a disagreeable thing by an agreeable name",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_20_036",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 36,
+      "question": "wounded man' The woundlel as",
+      "options": {
+        "ক": "",
+        "খ": "The woundlel Was",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(গ) The wounded man",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_20_040",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 40,
+      "question": "Which of the folowing best describes the author's personal attitude about record production 01' confidence- and often to overconfidence ৩৭. The author is mainly concerned with-- -he nature of rumnor (খ) +he fascination of rumors (গ) rumor as primitive man's newspaper (ঘ) the breeding places of rumors ৩৮ The author suggests that rumors alarm their hearers (খ) are hardy in their growth (গ) are disheartening",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": "can be suppressed by censorship"
+      },
+      "correctAnswer": "",
+      "answerText": "(গ) limited information",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_20_041",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 41,
+      "question": "গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধান কার্যকর হয় কোন তারিখ থেকে? ddabali (খ) Philosophical interest (গ) Acute indignation (ঘ) Morbid curiosity (ক) জানুয়ারি ১০, ১৯৭৩ (খ) ডিসেম্বর ১৬, ১৯৭২ (গ) নভেম্বর ৪, ১৯৭২ (৭) অক্টোবর ১১, ১৯৭২",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(খ) ডিসেম্বর ১৬, ১৯৭২",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_20_042",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 42,
+      "question": "বাংলাদেশের জেলার সংখ্যা কত? (ক) ৩৬টি (খ) ৫৪টি (গ) ৬৪টি (ঘ) ৪8টি y0&",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(গ) ৬৪টি",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_20_043",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 43,
+      "question": "বাংলাদেশের সংসদীয়",
+      "options": {
+        "ক": "অষ্ট",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(ঘ) দ্বাদশ",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_20_048",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 48,
+      "question": "বাংলাদেশে কোনো ব্যক্তির ভোটাধিকার প্রাপ্তির ন্যূনতম বয়স কত? (গ) হাজী শরীয়তুল্লাহ (ঘ) হাজী মোহাম্মদ দানেশ ৪৫. বাংলার প্রাচীনতম জায়গা কোনটি? (ক) সোনারগাঁও (খ) বিক্রমপুর (গ) পুণ্ড্র (ঘ) গোপালগঞ্জ ৪৬. মুজিবনগর কোথায় অবস্থিত? (ক) সাতক্ষীরায়",
+      "options": {
+        "ক": "১৬ বছর",
+        "খ": "মেহেরপুরে",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(গ) তৎকালীন রেসকোরস ময়দানে",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_20_049",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 49,
+      "question": "বাংলাদেশের জাতীয় সংসদে সংরক্ষিত মহিলা আসনের সংখ্যা কত? ddabar ৫. বাংলার ১৯৪৩ সালের দুর্ভিক্ষের ওপর ছবি এঁকে বিখ্যাত হন কোন শিল্পী'? (ঘ) ২১ বছর (ক) ২০ (খ) ২৫ (গ) ৩০ (ঘ) ৪০ [নোটঃ ৩০ জুন,২০১১ সালে সংবিধানের পঞ্চদশ সংশোধনীর সংসদে সংরক্ষিত মহিলা আসন ৫েিটি করা হয় ]",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(গ) ৩০",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_20_050",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 50,
+      "question": "বঙ্গবন্ধু সেতুর দৈর্ঘ্য কত? 'ক) ৪.৫ কিমি (খ) ৪.৮ কিমি (গ) ৫২ কিমি (ঘ) ৬ ২ কিমি",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": "ইপিজেড'"
+      },
+      "correctAnswer": "",
+      "answerText": "(খ) ৪৮ কিমি",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_20_051",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 51,
+      "question": "বাংলাদেশের প্রথম (ক) সাভারে (খ) চট্টগ্রামে (গ) মংলায় (ঘ) ঈশ্বরদীতে (ক) এস এম সুলতান (খ) জয়নুল আবেদীন : Other Job's Preparation জাতীয় oenchnar ? SUCCeSS কোথায় স্থাপিত হয়? ৫8. ১৯৭১ সালে মুক্তিযুদ্ধদকালে বাংলাদেশকে কয়টি সামরিক সেক্টরে বিভক্ত করা ৫ে বাংলাদেশ কোন সালে কমনওয়েলথ এর সদস্যপদ লাভ করে? (গ) কামরুল হাসান (ঘ) শফিউল আলম ৩ে পার্বত্য চট্টগ্রামে শান্তিচুক্তি কবে সম্পাদিত হয়?",
+      "options": {
+        "ক": "নভেমবর ১২, ১৯৯৭",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(খ) ১১ টি",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_20_055",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 55,
+      "question": "বাংলাদেশের অন্তর্গত সুন্দরবনের আয়তন কত? y017' (ক) ২৪০০ বর্গমাইল (খ) ১৯৫০ বর্গমাইল (গ) ৯২৫ বর্গমাইল (ঘ) ২০০ বর্গমাইল",
+      "options": {
+        "ক": "১৯৭২ সালে",
+        "খ": "১৯৭৩ সালে",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "(ক) ১৯৭২ সালে",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_20_057",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 57,
+      "question": "নিম্নলিখিত কোনটির ওপর বাংলাদেশ অবস্থিত? (ক) ট্রপিক অব ক্যাপ্রিকন (খ) ট্রপিক অব ক্যানসার (গ) ইকুয়েটর (ঘ) আর্কটিক সার্কেল",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(খ) ট্রপিক অব ক্যানসার",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_20_058",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 58,
+      "question": "মুক্তিযুদ্ধে বীরত্বপূর্ণ অবদানের জন্য কতজনকে বীরউত্তম",
+      "options": {
+        "ক": "৪২ জন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(গ) ৬৮ জন",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_20_059",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 59,
+      "question": "১৯৭১ সালে মুক্তিযুদ্দের শুরুতে বঙ্গবন্ধু নিম্নরূপ: 'লোকটি এবং তার দল পাকিস্তানের ) 6% 1 এ দম্ভোক্তিকারী ব্যক্কতি কে (ক) জেনারেল নিয়াজী (খ) জেনারেল টিক্কা খান (গ) জেনারেল ইয়াহিয়া খান (৭) জেনারেল হামিদ খান",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(গ) জেনারেল ইয়াহিয়া খান",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_20_060",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 60,
+      "question": "যুদ্ধই জীবন; যুদ্দই সর্বজনীন'-এটি কার উক্তি? (ক) সালজার",
+      "options": {
+        "ক": "",
+        "খ": "ফরাঙ্কো",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_20_062",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 62,
+      "question": "ঢাকাতে সমাপ্ত উইলস ইন্টারন্যাশনাল কাপ ক্রিকেট প্রতিযোগিতায় কয়টি দল (গ) হিটলার (ঘ) মুসোলিনী ৬১ এশিয়ার দীর্ঘতম নদী কোনটি? 'ক) হোয়াংহেো (খ) ইয়াংসিকিয়াং (গ) গঙ্গা (ঘ) সিন্ধু নেয়? (ক) ৭ টি (খ) ৯ টি (গ) ১১ টি (ঘ) ১২ টি",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(খ) ৯ টি y00",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_20_063",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 63,
+      "question": "আমলাতন্ত্রের প্রধান কে?",
+      "options": {
+        "ক": "এফএম: মাকস",
+        "খ": "ম্যাক্সওয়েবার",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "(খ) ম্যাক্সওয়েবার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_20_064",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 64,
+      "question": "সাহিত্যে ১৯৯৮ এর নোবেল পুরস্কার কে পেয়েছেন? (ক) অরুন্ধতি রায় (খ) সালমান রুশদী Other Job's Preparation oenchnna অংশ SULCCeSS",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_20_065",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 65,
+      "question": "কোন দেশটি অতীতে কখনো অন্য কোনো দেশের উপনিবেশে পরিণত হয়নি?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_20_066",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 66,
+      "question": "ইউরোপিয়ান ইউনিয়ন (EU)-এর একক মুদ্রা কবে থেকে চালু হচ্ছে? (গ) ভি এস নাইপল (ঘ) হোসে সারামাগো 'ক) থাইল্যান্ড (খ) মিয়ানমার (গ) ইন্দোনেশিয়া (ঘ) মালয়েশিয়া (ক) ১ জানুয়ারি, ১৯৯৯ (খ) ১ জুলাই, ১৯৯৯ (গ) ১ মার্চ, ২০০০ (ঘ) ১ জুলাই, ২০০০",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ক) ১ জানুয়ারি, ১৯৯৯",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_20_067",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 67,
+      "question": "চানের 'দ্বৈত অর্থনীতির' ধারণা (ক) বাজার অর্থনীতিকে গ্রহণযোগ্য করা (খ) মতাদর্শগত ধারণার সমন্বয় সাধন (গ) হংকং এর অর্থনীতিকে সচল রাখা (ঘ) তাইওয়ানকে চীনের অন্তর্ভুক্তকরণ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(গ) হংকং এর অর্থনীতিকে সচল রাখা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_20_068",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 68,
+      "question": "রাশিয়ার পূর্বাঞ্চলের সর্ববৃহৎ শহর কোনটি? (ক) সাইবেরিয়া (খ) ভ্লাদিভস্টক (গ) খায়বারভস্ক gঁ Other Job's Preparation 4[1 oenchnar ? প্রধানত কোন বাস্তবতার নিরীখে গৃহীত?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_20_069",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 69,
+      "question": "কানাডার ফরাসি ভাষী জনগোষ্ঠা কোন অঙ্গরাজ্যে সর্বাধিক বাস করে?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_20_072",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 72,
+      "question": "(ঘ) বোখারা (ক) আলবাটা (খ) কুইবেক (গ) মিনেসোটা (ঘ) নোভাস্কোশিয়া ৭০. কসোভো নগরীর সাথে সার্বিয়দের স্পর্শকাতর সম্পর্কের এর রণকৌশলগত গুরুত্ব (খ) এর ধর্মীয় ঐতিহ্য ও ঐতিহাসিক স্মৃতি (গ) মুসলিম বিদ্বেষের প্রবণতা (ঘ) আলবেনীয়দের ঔদ্ধত্য ৭১. আফ্গানিস্তানের কোন শহরে তালেবানরা 'ক) মাজার-ই-শরীফ (খ) হেরাত (গ) জালালাবাদ (৭) কান্দাহার (ক) জ্যামিতিক সীমারেখা (খ) ঔপনিবেশিক সীমারেখা (গ) উপজাতিক ভিত্তিক সীমারেখা (ঘ) অচিহ্নিত সীমারেখা Other Job's Preparation 1] abধ oenchnaur ? ইরানের $ $ কূটনীতিবিদদের হত্যা করেছে? ৭8. নিম্নলিখিত কোন আঞ্চলিক আন্তর্জাতিক প্রতিষ্ঠানটির সদর দপ্তর ঢাকায় অবস্থিত?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(ক) মাজার-ই-শরীফ",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_20_076",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 76,
+      "question": "কোন দেশের একজন উপ-পরধানমন্ত্রী সম্প্রতি বরখাস্ত হয়েছেন? ৭৩. কোন দেশে প্রথম আণবিক বোমা ফেলা হয়? (ক) ইতালি (খ) জার্মানি (গ) জাপান (ঘ) চীন APEC (গ) ADB (৭) CIRDAP ৭৫. সার্ক কোন বছর",
+      "options": {
+        "ক": "১৯৭৫ সালে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(ঘ) মালয়েশিয়া",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_20_079",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 79,
+      "question": "ইউরোপের কোন দেশে সম্প্রতি জাতিগত সংঘাতের সমস্যাটির সমাপ্তি হয়েছে একটি",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_20_080",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 80,
+      "question": "কোন চুক্তি অনুসারে বসনিয়া সংকট সমাধানের পথ সুগম হয়েছিল? শান্তি চুক্তির মাধ্যমে?",
+      "options": {
+        "ক": "স্কটল্যান্ড",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(গ) পর্তুগাল",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_20_084",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 84,
+      "question": "যে মসৃণতলে আলোর নিয়মিত প্রতিফলন ঘটে তাকে কী বলে? ৮১. কোনটি তেজস্ক্রিয় পদার্থ নয়? (ক) লৌহ (খ) ইউরেনিয়াম (গ) প্লুটোনিয়াম (ঘ) নেপচুনিয়াম ৮২ কোন বস্তুটির স্থিতিস্থাপকতা বেশি?",
+      "options": {
+        "ক": "রাবার",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(ক) দর্পণ",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_20_085",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 85,
+      "question": "রাডারে যে তড়িং চৌম্বক তরঙ্গ ব্যবহার করা হয় তার নাম কী?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_20_086",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 86,
+      "question": "মহাজাগতিক রশ্মি আবিষ্কার করে কোন বিজ্ঞানী নোবেল পুরস্কার পান? 'ক) গামা রশ্মি (খ) মাইক্রোওয়েভ (গ) অবলোহিত বিকিরণ (ঘ) আলোক তরঙ্গ হেস (খ) গোল্ডস্টাইন (গ) রাদারফোর্ড (ঘ) আইনস্টাইন 10@\"",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(ক) হেস",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_20_087",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 87,
+      "question": "তড়িংশক্তি শব্দশক্তিতে 'ক) এম্লিফায়ার (খ) জেনারেটর (গ) লাউড স্পিকার (ঘ) মাইক্রোফোন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(গ) লাউড স্পিকার",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_20_088",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 88,
+      "question": "সমুদ্রের গভীরতা মাপা হয় কোন যন্ত্র দিয়ে? ফ্যাদোমিটার (খ) জাইরো কম্পাস (গ) সাবমেরিন (ঘ) অ্যানিমোমিটার",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(ক) ফ্যাদোমিটার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_20_089",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 89,
+      "question": "কম্পিউটার কে আবিষ্কার করেন? \"enchnare\" হয় কোন যন্ত্রের SUCCeSS (ক) উইলিয়াম অটরেড (খ) ব্লইসি প্যাসকেল (গ) হাওয়ার্ড এইকিন (ঘ) অ্যাবাকাস",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(গ) হাওয়ার্ড এইকিন",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_20_090",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 90,
+      "question": "কোন হরমোনের অভাবে ডায়াবেটিস রোগ হয়? থাইবোসিন (খ) গ্লকাগন (গ) অ্যাড্রিনালিন (ঘ) ইনসুলিন 1d@ic",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(ঘ) ইনসুলিন",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_20_091",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 91,
+      "question": "| বার্ষিক ৪১২ সরল সুদে কত টাকা বিনিয়়োগ করলে, ৪ বছরে ৪৫৮ টাকা (খ) ৬৫০ টাকা (গ) ৭০০ টাকা (ঘ) ৭২৫ টাকা 011",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(গ) ৭০০ টাকা",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_20_092",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 92,
+      "question": "পিতার বর্তমান বয়স পুত্রের বয়সের চারগুণ দশগুণ ছিল ! পিতা ও পুত্রের বর্তমান বয়স কত?",
+      "options": {
+        "ক": "৫৬ বছর এবং ১৪ বছর",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "(গ) ৩৬ বছর এবং ৯ বছর",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_20_093",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 93,
+      "question": "দুটি নল দবারা একটি চৌবাচ্চা ৮ মিনিটে পূর্ণ হয় দারা পৃথকভাবে চৌবাচ্চাটি পূর্ণ হতে কত সময় লাগবে? (ক) ১৮ এবং ১২ মিনিট (খ) ২৪ এবং ১২ মিনিট (গ) ১৫ এবং ১২ মিনিট (ঘ) ১০ এবং ১৫ মিনিট",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(খ) ২৪ এবং ১২ মিনিট",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_20_094",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 94,
+      "question": "xy এর সঙ্গে কত যোগ করলে যোগফল 2yx হবে? (ক) 2,2 (গ) 2y'xy | 2yূ] (ঘ) yxy",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(ক) 2y2",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_20_095",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 95,
+      "question": "x' + y2 ৪ এবং xy = 7 হলে (x |",
+      "options": {
+        "ক": "১৪ y0u1",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(গ) ২২",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_20_096",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 96,
+      "question": "ঢাকা ও চট্টগ্রামের দূরত্ব 300 কিমি বিকেল 3 টায় চট্টগ্রাম পৌঁছে | (ক) 24.5 কিমি (খ) 37.5 কিমি (গ) 42.0 কিমি gঁ Other Job's Preparation নল দুটি খুলে দেয়ার ৪ মিনিট পর daball oenchnar ? ?S$ এর মান কত? ঢাকা হতে একটি ট্রেন সকাল 7 টায় ছেডে গিয়ে ট্রেনটির গড় গতিবেগ ঘণ্টায় কত ছিল?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_20_097",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 97,
+      "question": "একটি সমদ্বিবাহু ত্রিভুজের ভূমি ১৬ মি এবং অপর দুটি বাহুর প্রতিটি ১০ মি হলে",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_20_098",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 98,
+      "question": "দুটি সংখ্যার অনুপাত ৫ : ৮। উভয়ের সাথে ২ যোগ করলে (ঘ) 45.0 কিমি ত্রিভুজটির ক্ষেত্রফল কত?",
+      "options": {
+        "ক": "৩৬ বর্গমি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(ঘ) ১০ ও ১৬",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_20_099",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 99,
+      "question": ": একটি সরল রেখার কত গুণ? (ক) দ্িগুণ (খ) তিনগুণ (গ) চারগুণ (৭) পাঁচগুণ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(গ) চারগুণ",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_20_100",
+      "exam": "20th BCS Preliminary",
+      "examCode": "bcs_20",
+      "questionNo": 100,
+      "question": "ও y এর মানের গড় 9 এবং হবে? gঁ Other Job's Preparation oenchnnua' হ্য় অনুপাতটি ২ : ৩ SULCCeSS অঙ্কিত বর্গ ঐ সরল রেখার অর্ধেকের ওপর অঙ্কিত বর্গের 12 হলে) Y, J এবং Z এর মানের গড়় কত (ক) (গ) @ ১০ (ঘ) ১২ y0u1 Other Job's Preparation oenchnaur ? SUCCeSS",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(গ) ১০",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "20th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1612 @@
+{
+  "examName": "13th BCS Preliminary",
+  "examCode": "bcs_13",
+  "totalQuestions": 65,
+  "validation": {
+    "totalDetected": 65,
+    "highestQuestionNo": 100,
+    "missing": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      9,
+      22,
+      23,
+      24,
+      25,
+      28,
+      32,
+      34,
+      35,
+      36,
+      37,
+      41,
+      42,
+      43,
+      44,
+      47,
+      52,
+      53,
+      54,
+      56,
+      64,
+      65,
+      66,
+      67,
+      72,
+      74,
+      77,
+      84,
+      86,
+      87
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 65,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_13_001",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 1,
+      "question": "| \"শৈবাল দীঘিরে কহে উচ্চ করি শির; লিখে রেখ, এক বিন্দু দিলেম শিশির \" এ অংশটুকুর প্রতিপাদ্য- প্রতিদান (খ) প্রত্যুপকার (গ) অকৃতজ্ঞতা (ঘ) অসহিষ্ণুতা ১ মোসলেম ভারত' নামক সাহিত্য পত্রিকার সম্পাদক ছিলেন- মীর মশাররফ হোসেন মুন্সী মোহাম্মদ রেয়াজুদ্দীন আহমদ 'গ) মোজাম্মেল হক রেয়াজুদ্দীন আহমদ মাশহাদী",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মোজাম্মেল হক",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_13_003",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 3,
+      "question": "কোন দুটি অঘোষ ধ্বনি? idd চ,ছ খ) ড, ঢ (গ) ব, ভ দ, ধ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "চ,ছ",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_13_008",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 8,
+      "question": "/ আরামপ্রিয় (খ) উদাসীন (গ) নিতান্ত অলস পরমুখাপেক্ষী ৫1 বঙ্কিমচন্দ্র চট্টোপাধ্যায়ের কৃষ্ণকান্তের উইল' উপন্যাসের প্রধান দুটি চরিত্রের নাম- নগেন্দ্রনাথ ও কুন্দনন্দিনী",
+      "options": {
+        "ক": "",
+        "খ": "মধুসূদন ও কুমুদিনী",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নারি নারী",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_13_010",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 10,
+      "question": "অনল প্রবাহ' রচনা করেন কে? মোজাম্মেল হক (খ) সৈয়দ ইসমাইল হোসেন সিরাজী (গ) এয়াকুব আলী চৌধুরী (ঘ) মুনিরুজ্জামান ইসলামাবাদী",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সৈয়দ ইসমাইল হোসেন সিরাজী",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_13_011",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 11,
+      "question": "কোন বাক্যে সমাপিকা ক্রিয়া ব্যবহৃত হয়েছে- আমি ভাত খাচ্ছি (খ) আমি ভাত খেয়ে স্কুলে যাব (গ) আমি দুপুরে ভাত খাই (ঘ) তাড়াতাড়ি ভাত খেয়ে উঠ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "আমি দুপুরে ভাত খাই",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_13_012",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 12,
+      "question": "! জীবনানন্দ দাশ রচিত কাব্যগ্রন্থ- ধূসর পান্ডুলিপি (খ) নাম রেখেছি কোমল গান্ধার (গ) একক সন্ধ্যায় বসন্ত (ঘ) অন্ধকারে একা",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ধূসর পান্ডুলিপি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_13_013",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 13,
+      "question": "! মানিক বন্দ্যোপাধ্যায়ের 'পদ্মানদীর মাঝি নামক উপন্যাসের উপজীব্য- মাঝি-মল্লার সংগ্রামশীল জীবন জেলে জীবনের বিচিত্র সুখ- দুঃখ (গ) চাষী জীবনের করুণ চিত্র চরবাসীদের দুঃখী জীবন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "জেলে জীবনের বিচিত্র সুখ- দুঃখ",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_13_014",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 14,
+      "question": "কোন বাক্যে নাম পুরুষের ব্যবহার করা হয়েছে ? ওরা কযরে ? (খ) আপনি আসবেন (গ) আমরা যাচ্ছি তোরা খাসনে",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ওরা কি কযর",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_13_015",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 15,
+      "question": "! মধ্যপদলোপী কর্মধারয় এর দৃষ্টান্ত ঘর থেকে ছাড়া ঘরছাড়া",
+      "options": {
+        "ক": "",
+        "খ": "অরুণের মত রাঙা অরুণরাঙা",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "হাসি মাখা মুখ হাসিমুখ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_13_016",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 16,
+      "question": "কোনটি ঐতিহাসিক নাটক ? শমিষ্ঠা (খ) রাজসিংহ (গ) পলাশীল যুদ্ধ রক্তাক্ত প্রান্তর",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "রক্তকত পওতর",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_13_017",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 17,
+      "question": "মাইকেল মধুসূদন দত্তের দেশপ্রেমের প্রবল প্রকাশ ঘটেছে মহাকাব্যে খ) নাটকে (গ) পত্রকাব্যে (ঘ) সনেটে Other Job's Preparation",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সনেটে",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_13_018",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 18,
+      "question": "কোন বাক্যে ঢাক ঢাক গুড় গুড়' প্রবাদটির বিশেষ অর্থ প্রকাশ পেয়েছে ? ঢাক্ ঢাক্ গুড় গুড় করে কি লাভ; কাজে লেগে যাও (খ) ঢাক্ ঢাক্ গুড় গুড় করে কি লাভ, আসল কথাটি বল (গ) ঢাক ঢাক গুড় গুড় করে লাভ, খাবে বল ঢাক ঢাক গুড় গুড় করে লাভ, নিজের পায়ে দাঁড়াও",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ঢাক্ ঢাক্ গুড় গুড় করে কি লাভ, আসল কথাটি বল",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_13_019",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 19,
+      "question": "ইসলামের ইতিহাস ও ঐতিহ্য কোন কাব্যের উপজীব্য জিঞ্জির কাজী নজরুল ইসলাম (খ) সাত সাগরের মাঝি -ফররুখ আহমদ (গ) দিলরুবা -আবদুল কাদির (ঘ) নূরণামা আবদুল হাকিম",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সাত সাগরের মাঝি -ফররুখ আহমদ",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_13_020",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 20,
+      "question": "বন্যেরা বনে সুন্দর শিশুরা মাতৃক্রোড়ে এ উত্তিটির প্রকৃত তাৎপর্য হচ্ছে আদিবাসী মানুষ অরণ্য জনপদে বাস করে",
+      "options": {
+        "ক": "",
+        "খ": "বনের পশু বনে থাকতে ভালোবাসে",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "জীব মাত্রই স্বাভাবিক অবস্থানে সুন্দর",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_13_021",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 21,
+      "question": "! Select the answer of the word 'Stagflation' controlled prices youT suCces(খ) economics slow down ` < (গ) disintegrating government cultural dullness ২১ What is the meaning of the word 'Scuttle' Lo tease খ) abandon (গ) pile up ঘ) gossip ১৩ What is the meaning of the word 'stanch' ? to reinforce be weak (গ) snooth out put an enl +০ ১৪ What is the meaning of the word 'Belated'? complaining খ) off hand (গ) weal tardy ১৫ What is the meaning of the word 'Sequences'? to follow roundl up",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "withlraw question closely",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "to follow",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_13_026",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 26,
+      "question": "What is the meaning of the word 'euphemism'? vague idea inoffensive expression",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "verbal play wise saying",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "inoffensive expression",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_13_027",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 27,
+      "question": "/ 'The Rainbow' is poem by Wordsworth a short story by Somerset Maugham novel by DH. Lawrence a Terse by Coleridge ১৮ Tom Jones' by Henry] Fielding Was first published in ৫0 the 1st half of 19th century half of 18th century the 1st half of 18th century the half of 19th centuryOUT SULCo%",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "the 1st nalf of 18th century",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_13_029",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 29,
+      "question": "The literary work Kubla Khan 1s history by Vincent Smith verse by Coleridge drama by Oscar Wilde short story by Somerst Maugham",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "a verse by Coleridge",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_13_030",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 30,
+      "question": "TS Eliot was born in g Irelan] খ) England (গ) Wales Other Job's Preparation",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "TSA",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_13_031",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 31,
+      "question": "What is the real name of the great American short story writer O'Henry ? Sanuel Clemen Wiliam Sydeney Porter",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "Fitz-James `' Brien William Huntington Wright",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "innocuous",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_13_033",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 33,
+      "question": "not worry, English grammar 1s understand. Which of the following best fits in the blank space? $0 difficult (খ) very difficult (গ) too difficult difficult enough",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "too difficult",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_13_038",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 38,
+      "question": "We (not have ) a holiday since the beginning of the year Which of the following verb forms best completes the above sentence? did not have খ) have not hadl (গ) are not having had not dal If 1 you g I handle the situation more carefully Which of the folowing verb forms best completes the above sentence? woull handlle খ) will handlle (গ) handlle woul] have hanlled ৩৬ It's time you realize) your mistakes Which of the following clause best fit 111 the above sentence? you realized (খ) that you realize",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "you woull realize you have realized",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "woull rather",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_13_039",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 39,
+      "question": "It is too difficult to 'tolerate' bad temper for Which the following phrases best replaces 'tolerate' in the above sentence? cope up with put up with (গ) stand up with uূ with",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "put up with",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_13_040",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 40,
+      "question": "I have never seen such a slow coach like you This work has taken yo1 three fu]l months. What does the idiom a mnean? a11 irresponsible person a careless person a11 unthoughtful person a Tery laz] person 8১ প্রাচীন পুন্ড্রবর্ধন নগর কোন স্থানে অবস্থিত? ময়নামতি (খ) বিক্রমপুর (গ) মহাস্থানগড় পাহাডপুর 8> ভাষা আন্দোলনের সময় পাকিস্তানের প্রধানমন্ত্রী কে ছিলেন? খাজা নাজিমউদ্দীন (খ) নুরুল আমিন (গ) লিয়াকত আলী খান (ঘ) মুহাম্মদ আলী জিন্নাহ Other Job's Preparation 89 / পূর্ববঙ্গ জমিদারী দখল ও প্রজাস্বত্ব আইন কবে প্রণীত হয়? ১৯৫০ খ) ১৯৪৮ (গ) ১৯৪৭ ঘ) ১৯৫৪ 88 প্রাচীন গৌড় নগরীর অংশবিশেষ বাংলাদেশের কোন জেলায় অবস্থিত? কুষ্টিয়া খ) বগুড়া (গ) কুমিল্লা চাঁপাইনবাবগঞ্জ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "চাঁপাইনবাবগঞ্জ",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_13_045",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 45,
+      "question": "! আওয়ামী লীগের ছয় দফা কোন সালে পেশ করা হয়েছিল? ১৯৬৫ খ) ১৯৬৬ (গ) ১৯৬৭ ১৯৫৫",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৯৬৬",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_13_046",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 46,
+      "question": "রাজশাহী বিশ্ববিদ্যালয় স্থাপিত হয় কত সালে? ১৯৫২ খ) ১৯৫৩ (গ) ১৯৫৪ {ঘ) ১৯৫৫ 89 সুন্দরবনের আয়়তন প্রায় কত বর্গ কিলোমিটার? ৩৮০০ বর্গকিমি (খ) ৪১০০ বর্গ কিমি (গ) ৫৮০০ বর্গকিমি (ঘ) ৬৯০০ বর্গকিমি",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৫৮০০ বর্গকিমি",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_13_048",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 48,
+      "question": "জাতীয় স্মৃতিসৌধের স্থপতি কে? (গ) মাইনুল হোসেন (ঘ) মাযহারুল ইসলাম",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মাইনুল হোসেন",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_13_049",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 49,
+      "question": "বীরশ্রেষ্ঠ পদকপ্রাপ্তদের সংখ্যা কত? সত আট (গ) ছয় পাচ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সাত",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_13_050",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 50,
+      "question": "! বীরশ্রেষ্ঠ হামিদুর রহমানের পদবী কি ছিল? সিপাই খ) ল্যান্স নায়েক (গ) লেফটেন্যান্ট {ঘ) ক্যাপ্টেন youT SULCCeS(ক) ইউরোপে C h (খ) উত্তর আমেরিকায় বাংলাদেশে শহীদ বুদ্ধিজীবী দিবস-",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সিপাই",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_13_051",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 51,
+      "question": "১৪ ডিসেম্বর (খ) ১৬ ডিসেম্বর (গ) ২১ ডিসেম্বর ২৩ ডিসেম্বর ৫১ বাংলাদেশের পঞ্চম জাতীয় সংসদ নির্বাচন ১৯৯১ সালের কত তারিখে অনুষ্ঠিত হয়? ১৬ ফেব্রুয়ারি (খ) ২৭ ফেব্রুয়ারি (গ) ২ মাচ ৪ মাচ ৩ে! ব্রহ্মপুত্র নদ হিমালয়ের কোন শৃঙ্গ থেকে উৎপন্ন হয়েছে? বরাইল খ) কৈলাশ (গ) কাঞ্জনজঙ্ঘা গডউইন অস্টিন বাংলাদেশের সবচেয়ে উঁচু পাহাড়ের চূড়ার নাম কি? লুসাই খ) গারো (গ) কেওক্রাডং (ঘ) জয়ন্তিকা",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "গারো",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_13_055",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 55,
+      "question": "বাকল্যান্ড বাঁধ কোন নদীর তীরে অবস্থিত? শীতলক্ষ্যা (খ) বুড়িগঙ্গা (গ) মেঘনা তুরাগ ৫ে৬ চলন বিল কোথায় অবস্থিত? নাটোর জেলায়",
+      "options": {
+        "ক": "",
+        "খ": "নাটোর ও বগুড়া জেলায়",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "পাবনা ও নাটোর জেলায়",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_13_057",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 57,
+      "question": "ফারাক্কা বাঁধ বাংলাদেশের সীমান্ত থেকে কত দূরে অবস্থিত? ২৪.৭ কিমি (খ) ২১০ কিমি (গ) ১৯৩ কিমি ১৬৫ কিমি",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৬৫ কিমি",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_13_058",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 58,
+      "question": "'দহগ্রাম' ছিটমহল কোন জেলায় অবস্থিত? নীলফামারী (খ) কুড়িগ্রাম (গ) লালমনিরহাট দিনাজপুর",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "লালমনিরহাট",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_13_059",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 59,
+      "question": "আমার ভাইয়ের রক্তে রাঙানো একুশে ফেব্রুয়ারি,আমি কি ভুলিতে পারি'- গানটির সুরকার কে? (ক) আবদুল লতিফ খ) আবদুল আহাদ (গ) আলতাফ মাহমুদ (ঘ) মাহমুদুন্নবী",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "আলতাফ মাহমুদ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_13_060",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 60,
+      "question": "বাংলাদেশে ডিগ্রিপ্রাপ্ত চিকিংসক প্রতি জনসংখ্যা কত? প্রায় 8৭৯৭ জন খ) প্রায় ৪৫৭২ জন (গ) প্ায় ১৭৯১ জন ঘ) প্ায় ৮ ১১ জন নোট: অপশনে সঠিক উত্তর নেই",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_13_061",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 61,
+      "question": "! ১৯৯১ সালের Business International এর সমীক্ষায় জীবনযাত্রার ব্যয়ভার (Living cost) সবচেয়ে বেশি- টোকিওতে (খ) নিউইয়ক",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "তেহরানে (ঘ) আবিদজানে",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "টোকিওতে",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_13_062",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 62,
+      "question": "/ উতপাদিত পণ্য বিক্রয় হিসাব অনুযায়ী ১৯৯০ সালে সর্ববৃহং বিক্রেতা- (ক) আইবিএম খ) জেনারেল মটরস (গ) রয়াল ডাচ শেল (ঘ) ইক্সন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "আইবিএম",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_13_063",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 63,
+      "question": "/ আঞ্চলিক ভিততিতে জীবন প্রত্যাশা Life expectancy) সবচেয়ে বেশি- (গ) মধ্য এশিয়ায় (ঘ) অস্ট্রেলিয়া ও নিউজিল্যান্ডে নোট: ২০২৫ সালে UNDP (জাতিসংঘ উন্নয়ন কর্মসূচি) এর মণব উন্নয়ন প্রতিবেদন অনুযায়ী গড় আয়ুতে শীর্ষ দেশ মোনাকো",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "অস্ট্রেলিয়া ও নিউজিল্যান্ডে",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_13_068",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 68,
+      "question": "১৯৮৮ সালের সমীক্ষায় জনপ্রতি বিদ্যুৎ খরচ সবচেয়ে বেশি কোন দেশে? ভারতে (খ) পাকিস্তানে (গ) শ্রীলঙ্কায় ঘ) বাংলাদেশে ৬৫ ১৯৯০ সালের সমীক্ষায় এশিয়ার কোন দেশ থেকে আগত যুক্তরাষ্ট্ে বসবাসকারীদের সংখ্যা সবচেয়ে বেশি? ফিলিপাইন খ) জাপান (গ) চীন ঘ) ভারত ৬৬ ১৯৮৯ সালের সমীক্ষা অনুসারে সবচেয়ে বেশি চাল রপ্তানি কারক দেশ- চীন (খ) যুক্তরাষ্ট্র (গ) পাকিস্তান থাইল্যান্ড ৬৭ 'এশিয়া ওয়াচ' কর্তৃক উৎঘাটিত কোন অপরাধের জন্য চীনের বিরুদ্ধে যুক্তরাষ্ট্র Special 301 প্রয়োগ করার বিবেচনা করে? জুন ১৯৮৯ সালে তিয়ানমেন স্কয়ারে সংঘটিত ট্রাজেডি",
+      "options": {
+        "ক": "",
+        "খ": "জেলখানার কয়েদীদের শ্রমে উৎপাদিত দ্রব্য",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "APE",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_13_069",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 69,
+      "question": "জেনারেল অ্যাগ্রিমেন্ট অন ট্যারিফ অ্যান্ড 'ট্রেড' (GATT) একমাত্র বহুমুখী সহায়ক সংস্থা হিসেবে বর্তমানে বিশ্ব বাণিজ্যের কত অংশের সমন্বয় সাধন করে থাকে? প্রায় ৭৫ শতাংশ খ) প্রায় ৮০ শতাংশ (গ) প্রায় ৮৫ শতাংশ (ঘ) প্রায় ৯০ শতাংশ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "প্রায় ৯০ শতাংশ",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_13_070",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 70,
+      "question": "মিয়ানমারের ১৯৯০ সালের মে মাসে অনুষ্ঠিত সাধারণ নির্বাচনে বিপুলভাবে বিজয়ী হয়েও কোন পারটি সামরিক জান্তার কাছ থেকে ক্ষমতা লাভ করতে পারেনি? g (ক) এনডিএল (খ) এলএনডি (গ) এনএলডি (ঘ) বিএসপিপি",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "এনএলডি",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_13_071",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 71,
+      "question": "১৯৯০ সালের কোন তারিখে পূর্ব ও পশ্চিম জার্মানি পুনরায় একটি রাষ্ট্র গঠন করে? $ অক্টোবর সকালে",
+      "options": {
+        "ক": "",
+        "খ": "$ অক্টোবর মাঝরাতে",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ভিয়েনা",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_13_073",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 73,
+      "question": "'পিএলও' এর ন্যাশনাল কাউন্সিল কর্তৃক আন্তর্জাতিক শান্তি সম্মেলন অনুষ্ঠানের প্রস্তাব সম্পর্কে ১৯৮৮ সনে জাতিসংঘ কোথায় রেজুলেশন গ্রহণ করে? নিউইয়রক খ) প্যারিস (গ) জেনেভা 'ঘ) ভিয়েনা International Institute on Ageing' কোথায় প্রতিষ্ঠিত হয়েছে? জেনেভা 'গ) প্যারিস ch () ভ্যালেটা ভ্যালেটা ২e উত্তরঃ ভ্যালেটা",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নিউইয়ক",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_13_075",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 75,
+      "question": "কখন থেকে এশীয় উন্নয়ন ব্যাংকের লেনদেন শুরু হয়? ১৯৬৬ সাল থেকেখ) ১৯৬৭ সাল থেঁকে (গ) ১৯৬৮ সাল থেকে ঘ) ১৯৮৯ সাল থেকে",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৯৬৬ সাল থেকে",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_13_076",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 76,
+      "question": "কোন দেশ প্রথম ওপেক ((OPEC) সংঘ প্রতিষ্ঠার উদ্যোগ গ্রহণ করিছিল? কুয়েত (খ) নাইজেরিয়া (গ) সৌদি আরব (ঘ) ভেনিজুয়েলা 99 প্রকৃতি ও প্রাকৃতিক সম্পদ সংরক্ষণ সংস্থার প্রথম অধিবেশন কোথায় অনুষ্ঠিত হয়? জাপানের নাগাসাকিতে (খ) অস্ট্রেলিয়ার ক্যানবেরায় (গ) রাশিয়ার আশাখাবাদে (ঘ) কানাডার ভেনকুবারে",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "রাশিয়ার আশাখাবাদে",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_13_078",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 78,
+      "question": "! জাতিসংঘের কারিগরি সহায়তা কার্যক্রম সংশ্লিষ্ট বিভিন্ন তহবল ও সংস্থার মধ্যে সমন্বয়ের দায়িত্ব পালনকারী বিভাগের নাম কি? UJLTFPL",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "UJNDP",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_13_079",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 79,
+      "question": "১৯৯১ সালের উইম্বলডন টেনিস প্রতিযোগীতায় কে শিরোপা লাভ করেন? মাইকেল চ্যাং (খ) জিন ফিলিপস (গ) মাইকেল স্টিচ পিট সাম্প্রাস",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মাইকেল স্টিচ",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_13_080",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 80,
+      "question": "কোন দেশটি 'আসিয়ান' (ASEAN) জোটভুক্ত নয়? সিঙ্গাপুর খ) মালয়েশিয়া (গ) থাইল্যান্ড দক্ষিণ কোরিয়",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "দক্ষিণ কোরিয়া",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_13_081",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 81,
+      "question": "! একটি ১০,০০০ টাকার 'বিলের উপর এককালীন 8০% কমতি এবং পরপর ৩৬% ও 8% কমতির পার্থক্য কত টাকা? শূন্য ১88 (গ) ২৫৬ 800",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১88",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_13_082",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 82,
+      "question": "কোন পরীক্ষায় একজন ছাত্র n সংখ্যক প্রশ্নের প্রথম ২০টি প্রশ্ন হতে ১৫টি প্রশ্নের শুদ্ধ উত্তর দেয় এবং বাকি প্রশ্নগুলোর এক তৃতীয়াংশের শুদ্ধ উত্তর দিতে পারে! এভাবে সে যদি ৫০% প্রশ্নের শুদ্ধ উত্তর দিয়ে থাকে তবে ঐ পরীক্ষায় প্রশ্নের সংখ্যা কত ছিল? ২০টি ৩০টি (গ) ৪০টি ৫ৈ০টি Other Job's Preparation",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৫০টি",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_13_083",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 83,
+      "question": "/ একটি লোক খাড়া উত্তর দিকে 111 মাইল অতিক্রম করে প্রতি মাইল ২ মিনিটে এবং খাড়া দক্ষিণ দিকে পূর্ব স্থানে ফিরে আসে প্রতি মিনিটে এবং খাড়া দক্ষিণ দিকে পূর্ব স্থানে ফিরে আসে প্রতি মিনিটে ২ মাইল হিসেবে ! লোকটির গড় গতিবেগ ঘণ্টায় কত মাইল?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_13_085",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 85,
+      "question": "",
+      "options": {
+        "ক": "",
+        "খ": "৪৮",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "৪৮",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_13_088",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 88,
+      "question": "Y3 + Ix + 10 = ০ এর একটি সমাধান 2 হয়, তবে h এর মান কত? 10 (খ) (গ) -9 (ঘ) -2 ৮৫ বালক ও বালিকার একটি দলে নিম্নরূপ খেলা হচ্ছে প্রথম বালক ৫ জন বালিকার সঙ্গে খেলছে, দ্বিতীয় বালক ৬ জন বালিকার সঙ্গে খেলছে; এভাবে শেষ বালক সব কটি বালিকার সঙ্গে খেলছে যদি ৮ বালকের সংখ্যা এবং g বালিকার সংখ্যা প্রকাশ করে, তবে ৮ = কত? (ক)৮ = g (খ) b = g 5 (গ) ৮ = g - 4 9( (ঘ) ৮ = g - 5 ceকতs benchmaffk' - ৮৬ ১]-১ এর মান _৫ (গ) ১|৫ {ঘ) -১|৫ ৮৭ একটি গোল মুদ্রা টেবিলে রাখা হলো এই মুদ্রার চারপাশে একই মুদ্রা কতটি রাখা যেতে পারে যেন তারা মাঝের মুদ্রাটিকে এবং তাদের দু'পাশে রাখা দুটি মুদ্রাকে স্পর্শ করে? 8 (গ) ৮ ১0 Bjddabati ৮৮ y= 3x +2, y= -3x + 2 , y = -2 দারা গঠিত জ্যামিতিক চিত্রটি কোনটি হবে? একটি সমকোণী ত্রিভুজ একটি সমবাহু ত্রিভুজ (গ) একটি সমদ্বিবাহু ত্রিভুজ একটি বিষমবাহু ত্রিভুজ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "একটি সমদ্বিবাহু ত্রিভুজ",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_13_089",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 89,
+      "question": "! একটি সমবাহু ষড়ভুজের অভ্যন্তরে অঙ্কিত বৃহত্তম বৃত্তের আয়়তন 10011 হলে ঐ ষড়ভুজের আয়়তন কত? 200 খ) 2001 2",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "2001 3",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "2001 3",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_13_090",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 90,
+      "question": "! ৩২ এর ২ ভিত্তিক লগারিদম কত? 8 i] dd",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(গ) ৫",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_13_091",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 91,
+      "question": "কোনটি চৌম্বক পদার্থ? পারদ খ) (গ) এন্টিমনি কোবাল্ট / Out1",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কোবাল্ট",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_13_092",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 92,
+      "question": "! একজন সাধারন মানুষের দেহে মোট কত টুকরা হাড় থাকে? ২০৬ ৩0৬",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "৪০৬ ৫৬",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "২০৬",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_13_093",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 93,
+      "question": "কোন মৌলিক অধাতু সাধারণ তাপমাত্রায় তরল থাকে? ব্রোমিন খ) পারদ (গ) আয়োডিন জেণন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ব্রোমিন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_13_094",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 94,
+      "question": "উচ্চ পর্বতের চূড়ায় উঠলে নাক দিয়ে রক্তপাতের সম্ভাবনা থাকে; কারণ উচ্চ চূড়ায়- অক্সিজেন কম (খ) ঠাণ্ডা বেশি (গ) বায়ুর চাপ বেশি (ঘ) বায়ুর চাপ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বায়ুর চাপ কম",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_13_095",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 95,
+      "question": "কোন স্থানে মধ্যাকর্ষণজনিত ত্বরণ ৯ গুণ করলে সেখানে একটি সরল দোলকের দোলঙ্কাল কতগুণ বাড়বে বা কমবে? ৯ গুণ বাড়বে খ) ৯ গুণ কমবে (গ) ৩ গুণ বাড়বে ৩ গুণ কমবে",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৩ গুণ কমবে",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_13_096",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 96,
+      "question": "কোন মাধ্যমে শব্দের গতি সবচেয়ে বেশি? শূন্য খ) লোহা (গ) পানি বাতাস",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "লোহা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_13_097",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 97,
+      "question": "/ সমটান সম্পন্ন একটি টানা তারের দৈর্ঘ্য দ্বিগুণ করলে কম্পাঙ্কের কতটা পরিবর্তন ঘটবে? অর্ধেক হবে (খ) দ্বিগুণ হবে (গ) তিনগুণ হবে চারগুণ হবে",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "অর্ধেক হবে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_13_098",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 98,
+      "question": "সিনেমাস্কোপ প্রজেক্টরে কোন ধরনের লেন্স ব্যবহৃত হয়? SULC e $(ক) উত্তাল 1nLch (খ) অবতল < (গ) (ঘ) সিলিনড্রিক্যাল",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "অবতল",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_13_099",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 99,
+      "question": "পারমাণবিক বোমার আবিষ্কারক কে? আইনস্টাইন (খ) ওপেনহেইমার (গ) অটোহ্যান (ঘ) রোজেন বাগ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ওপেনহেইমার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_13_100",
+      "exam": "13th BCS Preliminary",
+      "examCode": "bcs_13",
+      "questionNo": 100,
+      "question": "মঙ্গল গ্রহে প্রেরিত নভোযান কোনটি? সয়ুজ খ) এপোলো (গ) ভয়েজার ভাইকিং",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ভাইকিং",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "13th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    }
+  ]
+}

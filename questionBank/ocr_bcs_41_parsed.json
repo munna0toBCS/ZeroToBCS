@@ -1,0 +1,3598 @@
+{
+  "examName": "41th BCS Preliminary",
+  "examCode": "bcs_41",
+  "totalQuestions": 147,
+  "validation": {
+    "totalDetected": 147,
+    "highestQuestionNo": 200,
+    "missing": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      9,
+      14,
+      15,
+      16,
+      17,
+      20,
+      26,
+      27,
+      34,
+      35,
+      36,
+      37,
+      43,
+      44,
+      47,
+      50,
+      54,
+      55,
+      56,
+      57,
+      59,
+      64,
+      65,
+      66,
+      67,
+      72,
+      74,
+      77,
+      80,
+      84,
+      85,
+      86,
+      87,
+      98,
+      100,
+      101,
+      103,
+      144,
+      147,
+      150,
+      151,
+      153,
+      154,
+      174,
+      175,
+      176,
+      177,
+      179
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 146,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_41_001",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 1,
+      "question": "বাংলাদেশের সর্বদক্ষিণে কোনটি অবস্থিত?",
+      "options": {
+        "ক": "দক্ষিণ তালপট্টি খ সেন্টমাটিন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "সেন্টমাটিন",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_41_003",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 3,
+      "question": "বাংলাদেশের সীমান্তবর্তী ভারতের রাজ্য কয়টি?",
+      "options": {
+        "ক": "৩টি খ ৪টি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ঘেটি",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_41_008",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 8,
+      "question": "",
+      "options": {
+        "ক": "সিপাইী মোস্তফা কামাল",
+        "খ": "",
+        "গ": "ল্যান্স নায়েক নূর মোহাম্মদ শেখ",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "২৩ মে ১৯৭৩",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_010",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 10,
+      "question": "ঐতিহাসিক 'ছয় দফা দাবিতে' যে বিষয়টি অন্তর্ভুক্ত ছিল না-",
+      "options": {
+        "ক": "শাসনতান্ত্রিক কাঠামো",
+        "খ": "ল্যান্স নায়েক মুন্সি আব্দুর রউফ",
+        "গ": "স্বতন্ত্র মুদ্রা ব্যবস্থা",
+        "ঘ": "২৭-২৮ ফেব্রুয়ারি ১৯৭৪"
+      },
+      "correctAnswer": "",
+      "answerText": "বিচার ব্যবস্থা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_011",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 11,
+      "question": "'মাৎস্যন্যায়' বাংলার কোন সময়কাল নির্দেশ করে?",
+      "options": {
+        "ক": "মেম-৬ষ্ঠ শতক খ ৬ষ্ঠ-এম শতক",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৭ম-৮ম শতক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_012",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 12,
+      "question": "বাংলায় কোন সুলতানের শাসনামলকে স্বর্ণযুগ বলা হয়?",
+      "options": {
+        "ক": "শামসুদ্দীন ইলিয়াস শাহ",
+        "খ": "",
+        "গ": "আলাউদ্দিন হোসেন শাহ",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "আলাউদ্দিন হোসেন শাহ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_013",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 13,
+      "question": "ঢাকা বিশ্ববিদ্যালয় প্রতিষ্ঠায় কে অগ্রণী ভূমিকা পালন করেন?",
+      "options": {
+        "ক": "নওয়াব আব্দুল লতিফ",
+        "খ": "",
+        "গ": "নওয়াব স্যার সলিমুল্লাহ",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "নওয়াব আব্দুল লতিফ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_018",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 18,
+      "question": "ভাষা আন্দোলনের সময় পাকিস্তানের প্রধানমন্ত্রী কে ছিলেন?",
+      "options": {
+        "ক": "খাজা নাজিম উদ্দীন",
+        "খ": "",
+        "গ": "লিয়াকত আলী খান",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সন্তোষে",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_41_019",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 19,
+      "question": "",
+      "options": {
+        "ক": "এপ্রিল ১০, ১৯৭১ খ এপ্রিল ১১, ১৯৭১",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "অনুচ্ছেদ ৭(খ)",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_021",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 21,
+      "question": "বাংলাদেশের সংবিধানের ত্রয়োদশ সংশোধনীর মূল বিষয় কী ছিল?",
+      "options": {
+        "ক": "বহুদলীয় ব্যবস্থা",
+        "খ": "নাসিরুদ্দীন মাহমুদ শাহ",
+        "গ": "৭ম-৮ম শতক ঘ 'যম-১ম শতক",
+        "ঘ": "খাজা নাজিমুদ্দিন"
+      },
+      "correctAnswer": "",
+      "answerText": "তত্ত্বাবধায়ক সরকার",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_41_022",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 22,
+      "question": "",
+      "options": {
+        "ক": "৪থ তফসিল খ ৫ম তফসিল",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "8থ তফসিল",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_023",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 23,
+      "question": "কোন উপজাতিটির আবাসস্থল 'বিরিশিরি' নেত্রকোনায়?",
+      "options": {
+        "ক": "সাওতাল খ গরা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "গারো",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_024",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 24,
+      "question": "বাংলাদেশর বাণিজ্য ভারসাম্য কীভাবে রক্ষা হয়?",
+      "options": {
+        "ক": "IDAL crelit -এর মাধ্যমে",
+        "খ": "",
+        "গ": "প্রবাসীদের পাঠানো remittance -এর মাধ্যমে",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "প্রবাসীদের পাঠানো remittance -এর মাধ্যমে",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_41_025",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 25,
+      "question": "অবিভক্ত বাংলার সর্বপ্রথম রাজা কাকে বলা হয়?",
+      "options": {
+        "ক": "অশোক খ শশাঙ্ক",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মুঘল আমলে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_028",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 28,
+      "question": "স্টিভ চেন",
+      "options": {
+        "ক": "জাবেদ করিম > ফজলুল করিম",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "জাবেদ করিম",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_029",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 29,
+      "question": "পাকিস্তান কবে বাংলাদেশকে একটি সার্বভৌম রাষ্ট্র হিসেবে স্বীকৃতি দেয়?",
+      "options": {
+        "ক": "ফেব্রুয়ারি ২০, ১৯৭৪",
+        "খ": "",
+        "গ": "ফেব্রুয়ারি ২২, ১৯৭৪ you1 suCceSঘ ফেব্রুয়ারি ২৩;",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "ফেব্রুয়ারি ২২, ১৯৭৪",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_41_030",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 30,
+      "question": "বাংলাদেশের জাতীয় সংসদের প্রথম সংসদ নেতা কে?",
+      "options": {
+        "ক": "বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+        "খ": "",
+        "গ": "তাজউদ্দিন আহমেদ",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_41_031",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 31,
+      "question": "ট্রান্সপারেন্সি ইন্টারন্যাশনাল কোন দেশভিত্তিক আন্তর্জাতিক সংস্থা?",
+      "options": {
+        "ক": "সুইডেন খ মার্কিন যুক্তরাষ্ট্র",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "জার্মানি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_032",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 32,
+      "question": "সামরিক ভাষায় 'WMD' অর্থ কী?",
+      "options": {
+        "ক": "Weapons of Mass Destruction",
+        "খ": "ফেব্রুয়ারি ২১, ১৯৭৪",
+        "গ": "৬ষ্ঠ তফসিল দা ৭ম তফসিল",
+        "ঘ": "বিশ্ব ব্যাংকের budgetary support -এর মাধ্যমে"
+      },
+      "correctAnswer": "ক",
+      "answerText": "Weapons of Mass Destruction",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_033",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 33,
+      "question": "",
+      "options": {
+        "ক": "ডেনমাক",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ডেনমাক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_038",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 38,
+      "question": "জাতিসংঘের কোন সংস্থা বার্ষিক বিশ্ব বিনিয়োগ প্রকাশ করে?",
+      "options": {
+        "ক": "খ. MIGA",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "তুরস্ক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_039",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 39,
+      "question": "নর্থ আটলান্টিক ট্রিটি অর্গানাইজেশন কোন বছর প্রতিষ্ঠিত হয়?",
+      "options": {
+        "ক": "১৯৪৫ সালে ` ১৯৪৯ সালে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৯৪৯ সালে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_040",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 40,
+      "question": "জার্মানির প্রথম নারী চ্যান্সেলর",
+      "options": {
+        "ক": "অ্যানেগরেট ক্রাম্প খ. লিনা হেডরিচ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "অ্যাঞ্জেলা মারকেল",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_41_041",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 41,
+      "question": "গ্রহণের কথা বলেছে?",
+      "options": {
+        "ক": "৩টি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৪টি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_042",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 42,
+      "question": "",
+      "options": {
+        "ক": "ক্যামেরুন এবং ইথিওপিয়া",
+        "খ": "পেরু এবং ভেনেজুয়েলা",
+        "গ": "ইথিওপিয়া এবং ইরিত্রিয়া",
+        "ঘ": "ভিয়েতনাম"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "ভিয়েতনাম",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_045",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 45,
+      "question": "ফিনল্যান্ড কোন দেশের উপনিবেশ ছিল? রাশিয়া ছ ডেনমাক",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "রাশিয়া",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_046",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 46,
+      "question": "এশিয়াকে আফ্রিকা মহাদেশ থেকে পথক করেছে কোন প্রণালী?",
+      "options": {
+        "ক": "জিব্রাল্টার প্রণালী",
+        "খ": "",
+        "গ": "বাব এল মান্দেব প্রণালী",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৯১২ সালে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_048",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 48,
+      "question": "আন্তর্জাতিক মুদ্রা তহবিল কোন সালে গঠিত হয়?",
+      "options": {
+        "ক": "১৯৪৪ সালে খ ১৯৪৫ সালে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৯৪৫ সালে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_049",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 49,
+      "question": "",
+      "options": {
+        "ক": "২৫০০ খ ১৯৯১",
+        "খ": "FAD",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৯৯১",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_051",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 51,
+      "question": "মার্বেল কোন ধরনের",
+      "options": {
+        "ক": "রূপান্তরিত শিলা খ আগ্নেয় শিলা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "রূপান্তরিত শিলা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_052",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 52,
+      "question": "মধ্যম উচ্চতার মেঘ কোনটি?",
+      "options": {
+        "ক": "সিরাস নিশ্বাস",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কিউম্যুলাস",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_053",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 53,
+      "question": "২০১৫ সালের প্যারিস চুক্তির সাথে সম্পর্কিত বিষয়বস্তু হলো-",
+      "options": {
+        "ক": "আপদ ঝুঁকি হ্রাস খ জলবায়ু পরিবর্তন হ্রাস",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "জলবায়ু পরিবর্তন হ্রাস",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_41_058",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 58,
+      "question": "বঙ্গবন্ধু দীপ' কোথায় অবস্থিত?",
+      "options": {
+        "ক": "মেঘনা মোহনায়",
+        "খ": "বসফরাস প্রণালী",
+        "গ": "উজবেকিস্তান ঘ সোমালিয়া",
+        "ঘ": "বেরিং প্রণালী"
+      },
+      "correctAnswer": "",
+      "answerText": "গোবী মরুভূমি ভারতে অবস্থিত",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_060",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 60,
+      "question": "দক্ষিণ গোলাধে উষ্ণতম মাস কোনটি?",
+      "options": {
+        "ক": "জানুয়ারি খ ফেব্রুয়ারি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "জানুয়ারি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_061",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 61,
+      "question": "গ্রাফিন (graphene) কার বহুরূপী?",
+      "options": {
+        "ক": "কাবন খ কার্বন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "কার্বন",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_062",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 62,
+      "question": "আইনস্টাইন নোবেল পুরস্কার পান-",
+      "options": {
+        "ক": "আপোক্ষক তত্ত্বের উপর O11",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "আলোক তড়িং ক্রিয়ার ব্যাখ্যা প্রদানের জন্য",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_063",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 63,
+      "question": "কোন পানিতে অক্সিজেনের পরিমাণ বেশি?",
+      "options": {
+        "ক": "পুকুরের পানিতে খ . লেকের পানিতে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নদীর পানিতে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_068",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 68,
+      "question": "হাট থেকে রক্ত বাইরে নিয়ে যায় যে রক্তনালী-",
+      "options": {
+        "ক": "ভেইন খ আটারি",
+        "খ": "Union Disaster Management Committee",
+        "গ": "হাওর অঞ্চলে দা টারশিয়ারি পাহাড়ে",
+        "ঘ": "আলোক তড়িৎ ক্রিয়ার ব্যাখ্যা প্রদানের জন্য"
+      },
+      "correctAnswer": "",
+      "answerText": "১৯৯৭",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_069",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 69,
+      "question": "ওজোন স্তর বায়ুমণ্ডলের কোন স্তরে অবস্থিত?",
+      "options": {
+        "ক": "স্ট্রাটোমণ্ডল খ ট্রপোমণ্ডল",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "স্ট্রাটোমণ্ডল",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_070",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 70,
+      "question": "কাঁদুনে গ্যাসের অপর নাম কী?",
+      "options": {
+        "ক": "ক্লোরোপিক্রিন খ মিথেন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ক্লোরোপিক্রিন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_071",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 71,
+      "question": "আলোকবর্ষ ব্যবহার করে কী পরিমাণ করা হয়?",
+      "options": {
+        "ক": "দূরত্ব সময়",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "দূরত্ব",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_073",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 73,
+      "question": "সূর্যের নিকটতম নক্ষত্রের নাম-",
+      "options": {
+        "ক": "ভেগা খ প্রক্সিমা সেন্টাউরি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "টাংস্টেন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_075",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 75,
+      "question": "Apache এক ধরনের-",
+      "options": {
+        "ক": "Database Management System (DBMS)",
+        "খ": "",
+        "গ": "WWeb Browser",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Web server",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_076",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 76,
+      "question": "ক্লাউড কম্পিউটিং-এর সার্ভিস মডেল কোনটি?",
+      "options": {
+        "ক": "অবকাঠামোগত খ প্ল্যাটফর্মভিত্তিক",
+        "খ": "Web server",
+        "গ": "সোডিয়াম ক্লোরাইড ঘ ক্যালসিয়াম কার্বোনেট",
+        "ঘ": "স্টার টপোলজি"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "স্টার টপোলজি",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_078",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 78,
+      "question": "একটি কম্পিউটার boot করতে পারে না যদি তাতে না থাকে-",
+      "options": {
+        "ক": "compiler",
+        "খ": "",
+        "গ": "operating system",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "operating system",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_079",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 79,
+      "question": "মাইক্রোসফট IIS হচ্ছে একটি-",
+      "options": {
+        "ক": "ইমেইল সার্ভার ছ ওয়েব সাভার",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১০-১০০ মিটার",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_081",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 81,
+      "question": "নিচের কোনটি anti-virus সফ্টওয়্যার নয? oracle McAfee",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Oracle",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_082",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 82,
+      "question": "কম্পিউটার ভাষায় সবকিছু",
+      "options": {
+        "ক": "Machine language খ 0",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": ". Machine language",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_083",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 83,
+      "question": "API মানে Advanced Processing Information গ[. Application Programming Interface",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Application Programming Interface",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_088",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 88,
+      "question": "",
+      "options": {
+        "ক": "AND গেইট OR গেইট",
+        "খ": "loader",
+        "গ": "Radio Frequency Information",
+        "ঘ": "Radio Frequency Identification"
+      },
+      "correctAnswer": "",
+      "answerText": "( A + B ) = L + B",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_089",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 89,
+      "question": "1 22 64 1 22",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_41_090",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 90,
+      "question": "০১২ + ১০০১২ + ০০০০০১২ | 4 খ 33 99 33",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_41_091",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 91,
+      "question": "_ 8 > ^ - 2 কত?",
+      "options": {
+        "ক": "4 খ . 41",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_41_092",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 92,
+      "question": "Ix - 2| < 3 হলে, m এবং n এর কোন মানের জন্য m",
+      "options": {
+        "ক": "i1 = 1, 1 = 10 খ nn = 2, 11 = 20",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "111 = 2, 11 = 20",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_41_093",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 93,
+      "question": "",
+      "options": {
+        "ক": "৫% খ ১০%",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "৫%",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_094",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 94,
+      "question": "",
+      "options": {
+        "ক": "৮% 8",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "119 %",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_095",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 95,
+      "question": "৬ সেমি: ব্যাসার্ধ বিশিষ্ট বৃত্তের অন্তঃস্থ একটি",
+      "options": {
+        "ক": "211 3 বর্গ সেমি",
+        "খ": "",
+        "গ": "25 3 বর্গ সেমি",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "271 3 বর্গ সেমি",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_41_096",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 96,
+      "question": "AABC এর A 409 এবং /B",
+      "options": {
+        "ক": "1109 খ. 1009",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "1109",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_097",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 97,
+      "question": "কমিটি গঠন করা যাবে? ? ক ১০ খ ১৫ 2",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৩০",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_41_099",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 99,
+      "question": "99 গ1 চা 41 3x হবে? গ`. I = 3,11 = 30 I11 = 4, 1 = 40",
+      "options": {
+        "ক": "",
+        "খ": "231 2 বর্গ সেমি",
+        "গ": "২০% ঘা ২৫%",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_41_102",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 102,
+      "question": "বার্ষিক ১০% মুনাফায় ৮০০ টাকার ২ বছরের চক্রবৃদ্দধি মূলধন কত?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_41_104",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 104,
+      "question": "নিচের কোন অক্ষরগুলো পুনর্বিন্যাস করে একটি অর্থবোধক শব্দ তৈরি করা যায়? তাঁরা হলেন ক; খ, গ, ঘ, ঙ! ক হলেন গ এর মা; গ আবার ঙ এর স্ত্রী ! ঘ হলেন ক এর ভাই এবং খ হলেন ক এর স্বামী! ঙ এর সঙ্গে খ এর সম্পর্ক কী? যদি মাসের ২য় দিন সোমবার হয়, তবে মাসের ১৮তম দিন কী বার হবে? ৯৮ Y + 23 + 23 = ০ হলে, x3 3 + 6 এর মান কত?",
+      "options": {
+        "ক": "ছ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "রা ত্র হো অ",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_41_105",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 105,
+      "question": "পাঁজন ব্যক্তি ট্রেনে ভ্রমণ করছেন",
+      "options": {
+        "ক": "শ্শুর খ পিতা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "শ্বশুর",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_106",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 106,
+      "question": ": রবিবার খ . োমবার",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "4 চা 8",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বুধবার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_107",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 107,
+      "question": "প্রশ্নবোধক চিহ্নিত স্থানে কোন সংখ্যা বসবে?",
+      "options": {
+        "ক": "১৮",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৬৮",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_41_108",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 108,
+      "question": "",
+      "options": {
+        "ক": "১৫ মিনিট খ` ২০ মিনিট",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "২৫ মিনিট",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_109",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 109,
+      "question": "স্ক্রু ও ঘড়ির কাঁটার ঘুর্ণন গতির দিক-",
+      "options": {
+        "ক": "একই দিকে খ উল্টো দিকে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "একই দিকে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_110",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 110,
+      "question": "নিচের কোনটি সবচেয়ে ছোট সংখ্যা? 18 3 36 12",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_41_111",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 111,
+      "question": "১ > ৩৩৩ > ৭.১ =?",
+      "options": {
+        "ক": "৭.১৫ খ ৫১৮",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "২৩৬",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_41_112",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 112,
+      "question": "0[& শতকরা কত বৃদ্দধি বা হ্রাস পেয়েছে?",
+      "options": {
+        "ক": "৩৫% বেড়েছে খ ০ ২৫% বেড়েছে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "০ ২৫% কমেছে y0u1",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_41_113",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 113,
+      "question": "কোন বানানটি শুদ্ধ? Incyclopedia Encyclopedia",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Encyclopedia",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_114",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 114,
+      "question": "ঘাড়ি কাঁটা থার্মোমিটার ?",
+      "options": {
+        "ক": "ফারেনহাইট খ তাপমাত্রা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "পারদ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_115",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 115,
+      "question": "১০০ থেকে ২০০ এর মধ্যে ৩ দারা বিভাজ্য সংখ্যা কয়টি?",
+      "options": {
+        "ক": "৩১ খ ৩>",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৩৩",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_41_116",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 116,
+      "question": "তিনি আমার কথা রাখলেন না, তিনি রাখলেন",
+      "options": {
+        "ক": "আইয়ুব খান খ ইয়াহিয়া খান",
+        "খ": "",
+        "গ": "৮১ চা 88",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ভুট্টো",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_117",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 117,
+      "question": "রহিম উত্তর দিকে ১০ মাইল হেঁটে ডানদিকে ঘুরে ৫ মাইল হাঁটেন তিনি কোন দিকে হাঁটছেন?",
+      "options": {
+        "ক": "পূর্ব খ পশ্চিম",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "দক্ষিণ",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_41_118",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 118,
+      "question": "",
+      "options": {
+        "ক": "এইচ ডি স্টেইন খ জন স্মিথ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মিশেল ক্যামডেসাস",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_119",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 119,
+      "question": "'Political Ideals' গ্রন্থের লেখক কে?",
+      "options": {
+        "ক": "মেকিয়াভেল খ রাসেল",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "রাসেল",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_120",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 120,
+      "question": "",
+      "options": {
+        "ক": "অনুচ্ছেদ-১৩ খ অনুচ্ছেদ-১৮",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "অনুচ্ছেদ-১৮",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_121",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 121,
+      "question": "মূল্যবোধের গুরুত্বপূর্ণ বৈশিষ্ট্য হলো-",
+      "options": {
+        "ক": "বিভিন্নতা খ পরিবর্তনশীলতা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "উপরের সবগুলো",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_122",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 122,
+      "question": "প্লেটো 'সদগুণ' বলতে বুঝিয়েছেন-",
+      "options": {
+        "ক": "প্রজ্ঞা) সাহস, আত্মনিয়ন্ত্রণ ও ন্যায়",
+        "খ": "",
+        "গ": "সুখ, ভালোত্ব ও পেেম",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "প্রজ্ঞা, সাহস, আত্মনিয়ন্ত্রণ ও ন্যায়",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_123",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 123,
+      "question": "মূল্যবোধ দৃঢ় হয়-",
+      "options": {
+        "ক": "শিক্ষার মাধ্যমে খ` সুশাসনের",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "শিক্ষার মাধ্যমে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_124",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 124,
+      "question": "কোন মূল্যবোধ রাষ্ট্র; সরকার ও গোষ্ঠা কর্তৃক স্বীকৃত?",
+      "options": {
+        "ক": "সামাজিক মূল্যবোধ",
+        "খ": "",
+        "গ": "গণতান্ত্রিক মূল্যবোধ",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "গণতান্ত্রিক মূল্যবোধ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_125",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 125,
+      "question": "কে 'কর্তব্যের নৈতিকতা'র ধারণা প্রবর্তন করেন?",
+      "options": {
+        "ক": "হ্যারণ্ড উইলসন",
+        "খ": "",
+        "গ": "জন স্টুয়ার্ট মিল",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ইমানুয়েল কান্ট",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_126",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 126,
+      "question": "সভ্যতার অন্যতম প্রতিচ্ছবি হলো-",
+      "options": {
+        "ক": "সুশাসন খ রাষ্ট্র",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সমাজ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_127",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 127,
+      "question": "",
+      "options": {
+        "ক": "জাতিসংঘ খ জাতিসংঘ উন্নয়ন কর্মসূচি",
+        "খ": "আত্মপ্রত্যয়, প্রেষণা নিয়ন্ত্রণ",
+        "গ": "উত্তর ঘ দক্ষিণ",
+        "ঘ": "নৈতিকতা মূল্যবোধ"
+      },
+      "correctAnswer": "",
+      "answerText": "বিশ্বব্যাংক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_128",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 128,
+      "question": "বিধবার প্রেম নিয়ে রচিত উপন্যাস কোনটি?",
+      "options": {
+        "ক": "শরংচন্দ্র চট্টোপাধ্যায়ের 'শেষ প্রশ্ন'",
+        "খ": "",
+        "গ": "কাজী নজরুল ইসলামের 'কুহেলিকা'",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "কাজী নজরুল ইসলামের 'কুহেলিকা'",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_41_129",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 129,
+      "question": "জেলে জীবন কেন্দ্রিক উপন্যাস কোনটি?",
+      "options": {
+        "ক": "গঙ্গ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "পুতুলনাচের ইতিকথা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_41_130",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 130,
+      "question": "'ডিঙি টেনে বের করতে হবে '- কোন ধরনের বাক্যের উদাহরণ?",
+      "options": {
+        "ক": "কর্মবচ্য খ ভাববাচ্য",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ভাববাচ্য",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_41_131",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 131,
+      "question": "বাংলা সাহত্য 'কালকূট' নামে পরিচিত কোন লেখক?",
+      "options": {
+        "ক": "সমরেশ মজুমদার খ শওকত ওসমান",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সমরেশ বসু",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_132",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 132,
+      "question": "পরানের গহীন ভিতর' কাব্যের কবি কে?",
+      "options": {
+        "ক": "তসীম সাহা",
+        "খ": "",
+        "গ": "আবু জাফর ওবায়দুল্লাহ",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সৈয়দ শামসুল হক",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_41_133",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 133,
+      "question": "'এবার আমার একটি বিচিত্র অভিজ্ঞতা হলো'",
+      "options": {
+        "ক": "অনুজ্ঞাবাচক খ নির্দেশাত্মক",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "নির্দেশাত্মক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_134",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 134,
+      "question": "ভাষা আন্দোলন নিয়ে লেখা কবিতা কোনটি?",
+      "options": {
+        "ক": "হুলিয়া খ তোমাকে অভিবাদন প্রিয়া",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "স্মৃতিস্তম্ভ",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_41_135",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 135,
+      "question": "",
+      "options": {
+        "ক": "রসতত্ত্ব রূপতত্ত্ব",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বাক্যতত্ত্ব",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_136",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 136,
+      "question": "কোন বানানটি শুদ্ধ?",
+      "options": {
+        "ক": "মনোকষ্ট খ মনঃকষ্ট",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "মনঃকষ্ট",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_41_137",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 137,
+      "question": "প্রচুর + য = প্রাচুর্য; কোন প্রত্যয়?",
+      "options": {
+        "ক": "কৃৎ প্রত্যয় খ তদবিত প্রত্যয়",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "তদ্বিত প্রত্যয়",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_138",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 138,
+      "question": "ব্যঞ্জন ধ্বনির সংক্ষিপ্ত রূপকে বলে-",
+      "options": {
+        "ক": "খ . হসন্ত",
+        "খ": "রবীন্দ্রনাথ ঠাকুরের চৈখের বালি'",
+        "গ": "যৌগিক ঘ. কর্মকর্তৃবাচ্য",
+        "ঘ": "গৃহদাহ"
+      },
+      "correctAnswer": "",
+      "answerText": "ফলা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_41_139",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 139,
+      "question": "পাঁচালিকার হিসেবে সর্বাধিক খ্যাতি কার ছিল?",
+      "options": {
+        "ক": "দাশরথি রায় খ রামনিধি গুপ্ত",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "দাশরথি রায়",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_140",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 140,
+      "question": "চারণকবি হিসেবে বিখ্যাত কে?",
+      "options": {
+        "ক": "আলাওল চন্দ্রাবতী",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মুকুন্দদাস",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_41_141",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 141,
+      "question": "রবীন্দ্রনাথ ঠাকুরের 'নষ্টনীড়' গল্পের একটি বিখ্যাত চরিত্র-",
+      "options": {
+        "ক": "বিনোদিনী হৈমন্তী",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "চারুলতা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_41_142",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 142,
+      "question": "উপমান কর্মধারয় সমাসের উদাহরণ কোনটি?",
+      "options": {
+        "ক": "শশব্যস্ত খ কালচক্র",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "শশব্যস্ত",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_41_143",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 143,
+      "question": "অপিনিহিতির উদাহরণ কোনটি?",
+      "options": {
+        "ক": "জন্ম > জম্ম খ আজি আইজ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সুদখোর",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_145",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 145,
+      "question": "'অভাব' অর্থে ব্যবহৃত হয়েছে কোন উপসর্গটি?",
+      "options": {
+        "ক": "অকাজ ছ আবছায়া",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "আলূনি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_146",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 146,
+      "question": "বাংলা ভাষায় প্রথম অভিধান সংকলন করেন কে?",
+      "options": {
+        "ক": "রামচন্দ্র বিদ্যাবাগীশ খ রাজশেখর বসু",
+        "খ": "",
+        "গ": "আখতারুজ্জমান ইলিয়াস",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সৈয়দ শামসুল হক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_148",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 148,
+      "question": "'সবকিছু নষ্টদের অধিকারে যাবে' গ্রন্থটির রচয়িতা কে?",
+      "options": {
+        "ক": "সৈয়দ আলী আহসান",
+        "খ": "",
+        "গ": "হুমায়ুন আজাদ",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "হুমায়ুন আজাদ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_149",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 149,
+      "question": "",
+      "options": {
+        "ক": "স্যার ৭ এফ রহমন",
+        "খ": "সেলিনা হোসেন",
+        "গ": "সৈয়দ সাজ্জাদ হোসায়েন",
+        "ঘ": "বিচারপতি আবু সাঈদ চৌধুরী"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "বিচারপতি আবু সাঈদ চৌধুরী",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_152",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 152,
+      "question": "কাজী নজরুল ইসলামের মোট ৫টি গ্রন্থ বিভিন্ন সময়ে ব্রিটিশ ঔপনিবেশিক সরকার বাজেয়াপ্ত করে ! কোন বইটি তারাশঙ্কর বন্দ্যোপাধ্যায় বাংলাদেশের মুক্তিযুদ্ধ চলাকালেই এই মুক্তিযুদ্ধ নিয়ে উপন্যাস রচনা করেছেন, যা ১৯৭২",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_41_155",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 155,
+      "question": "নিঃশ্বাসের স্বল্পতম প্রয়াসে উচ্চারিত ধ্বনি বা ধ্বনিগুচ্ছকে কী বলে? ১৫০. মুক্তিযুদ্ধভিত্তিক নাটক কোনটি?",
+      "options": {
+        "ক": "ছেঁড়াতার খ চাক",
+        "খ": "",
+        "গ": "বায়ান্ন বাজার তিপ্পান্ন গলি",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "অক্ষর",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_41_156",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 156,
+      "question": "ইংরেজি ভাষায় জীবনানন্দ দাশের ওপর গ্রন্থ লিখেছেন কে?",
+      "options": {
+        "ক": "ডব্লিউ বি ইয়েটস খ ক্লিনটন বি সিলি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ক্লিনটন বি সিলি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_157",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 157,
+      "question": "'বাবা ছেলের দীর্ঘায়ু কামনা করলেন'.... এ পরোক্ষ উক্তির প্রত্যক্ষরূপ হবে !",
+      "options": {
+        "ক": "বাবা ছেলেকে বললেন, বাবা তুমি দীর্ঘজীবী হও",
+        "খ": "",
+        "গ": "বাবা ছেলেকে বললেন, তুমি দীর্ঘজীবী হও'",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "বাবা ছেলেকে বললেন, 'তুমি দীর্ঘজীবী হও'",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_158",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 158,
+      "question": "'গ্রামবার্তা প্রকাশিকা' প্রত্রিকাটি কোন স্থান থেকে প্রকাশিত?",
+      "options": {
+        "ক": "ঢাকার পল্টন",
+        "খ": "",
+        "গ": "কুষ্টয়ার কুমারখালী",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "কুষ্টিয়ার কুমারখালী",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_159",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 159,
+      "question": "জীবনী সাহিত্যের ধারা গড়ে ওঠে কাকে কেন্দ্র করে? ! শ্রীচৈতন্যদেব খ কাহ্নপা",
+      "options": {
+        "ক": "",
+        "খ": "রক্তের অক্ষর",
+        "গ": "বাকী ইতিহাস ঘ কী চাহ হে শঙ্খচিল",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "শ্রীচৈতন্যদেব",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_41_160",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 160,
+      "question": "চর্যাপদের টাকাকারের নাম কী?",
+      "options": {
+        "ক": "মীননাথ খ প্রবোধচন্দ্র বাগটী",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মুনিদত্ত",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_161",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 161,
+      "question": "কোন বানানটি শুদ্ধ?",
+      "options": {
+        "ক": "পুরষ্কার খ . আবিষ্কার",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "স্বত্ব",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_41_162",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 162,
+      "question": "ঊনসত্তরের গণ-অভ্যুত্থানের পটভূমিকায় লেখা উপন্যাস কোনটি?",
+      "options": {
+        "ক": "ভূমিপুত্র খ মাটির জাহাজ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "চিলেকোঠার সেপাই",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_41_163",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 163,
+      "question": "uTo win a prize is my ambition'",
+      "options": {
+        "ক": "adjective phrase",
+        "খ": "",
+        "গ": "adverb phrase",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "noun phrase",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_164",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 164,
+      "question": "Choose the word opposite in meaning to 'terse'",
+      "options": {
+        "ক": "co11c1se Detailel",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "letaile1",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_165",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 165,
+      "question": "'Who's that? In this sentence 'that 1s a/an pronoun খ . Conjunction সব চাকরির এম আই প্রধান মুকুল স্যারের English প্রস্তুতি এক বইয়ে ! ? GRAMMAR LITERETURE ADMISSION 096 444 333 03 হটলটন ভসিটকঞন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "pronoun",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_166",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 166,
+      "question": "What is the noun form or the word Know? knowing Knowledge",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "knowledge",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_167",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 167,
+      "question": "'Why, then, 'it's none to you, for there is nothing either it $০.' This extract is taken from the drama-",
+      "options": {
+        "ক": "king খ Macbeth",
+        "খ": "",
+        "গ": "হরপ্রসাদ শাস্তট্রী মুনিদত্ত",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Hamlet",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_168",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 168,
+      "question": "yield' is taken from the poem written by",
+      "options": {
+        "ক": "Robert Browning",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Alfred Tennyson",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_169",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 169,
+      "question": "'Give somebody a piece of your mind' means to",
+      "options": {
+        "ক": "tell someone that you are very angry with them",
+        "খ": "say exactly what you feel or think",
+        "গ": "return or to help somebody return to",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "tell someone that you are very angry with them",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_170",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 170,
+      "question": "I shall help you provided you obey me.",
+      "options": {
+        "ক": "adverb ছ Adjective",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "conjunction",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_171",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 171,
+      "question": "Identify the correct spelling: questionaire খ Cuestionoir",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "questionnaire",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_172",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 172,
+      "question": "Which 'but' is a preposition?",
+      "options": {
+        "ক": "It is but right to admit our faults",
+        "খ": "",
+        "গ": "We tried hard, but did not succeed",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "What can we 1 but sit anl",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_173",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 173,
+      "question": "Who is not a romantic poet? P.B Shely খ $.T. Coleridge",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Ts. Eliot",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_178",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 178,
+      "question": "In Shakespeare's play Hamlet, Hamlet was prince of Norway Britain ১৭৫.",
+      "options": {
+        "ক": "David Copperfield",
+        "খ": "The Return of the Native",
+        "গ": "conjunction ঘ verb",
+        "ঘ": "There is no one but likes hin"
+      },
+      "correctAnswer": "",
+      "answerText": "The Merchant of Venice",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_180",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 180,
+      "question": "Identify the word that can be used as both singular and plural: Find out the correct passive form of the sentence 'Who taught you French?' The old man was tired of walling ' Here 'walking' is a/an-- ১৭৭. Vanity Fair' is a novel written by DH. Lawrence",
+      "options": {
+        "ক": "| christinas Carol",
+        "খ": "",
+        "গ": "Joseph Conrad",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "fish",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_181",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 181,
+      "question": "",
+      "options": {
+        "ক": "By whom you taught French?",
+        "খ": "",
+        "গ": "French as taught you by whom?",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "By whon were you taught French?",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_182",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 182,
+      "question": "",
+      "options": {
+        "ক": "Present participle",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Gerund",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_183",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 183,
+      "question": "Which one is a correct sentence?",
+      "options": {
+        "ক": "The doctor found my pulse",
+        "খ": "William Makepeace Thackeray",
+        "গ": "The doctor examined my pulse",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "The doctor examined my pulse.",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_184",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 184,
+      "question": "I will not let you go:' In this sentence 'go' is a/an-",
+      "options": {
+        "ক": "infinitive খ Cerun]",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "infinitive",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_185",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 185,
+      "question": "When TJshashi entered the roon int0 ছ I11",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "110 preposition required",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_186",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 186,
+      "question": "The play 'The Birthday Party' is written by - Samuel Beckett খ Henry livings",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Haroll Pinter",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_187",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 187,
+      "question": "Time held me green and dying Though [ have been quoted from Dylan Thomas' poem The Flower খ . Fern Hill",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Fern Hill",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_188",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 188,
+      "question": "One whose attitude is eat, drink and be merry' 1s- mnaterialistic খ Epicurean",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "epicurean",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_189",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 189,
+      "question": "Was this the face that Launch'd a thousand Who speaks the famous lines?",
+      "options": {
+        "ক": "Antony",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Faustus",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_190",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 190,
+      "question": "The Character Alfred Doolittle' is taken from Shaw's play titled - Pygmalion",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "The Doctor's Dilemma",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Pygmalion",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_191",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 191,
+      "question": "",
+      "options": {
+        "ক": "[/.B. >` TS. Eliot",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "TS. Eliot",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_192",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 192,
+      "question": "",
+      "options": {
+        "ক": "II.6. WWells খ Samuel Butler",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "IIG. Wells",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_193",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 193,
+      "question": "gerund >` Apposition",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "preposition",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_194",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 194,
+      "question": "Select the correct comparative form of the sentence as her teeth'",
+      "options": {
+        "ক": "Her teeth was more brighter than",
+        "খ": "",
+        "গ": "Participle ঘ verbal noun",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "Her teeth were brighter than a string of",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_195",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 195,
+      "question": "Come on, it's time to go home ' Here 'home' is alan - 1101111 খ`",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "adverb",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_196",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 196,
+      "question": "'In this sentence the verb 'arrived' is intransitive খ . Transitive",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Defective",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_197",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 197,
+      "question": "Which one of the following is a common gender?",
+      "options": {
+        "ক": "Sovereign",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "sovereign",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_198",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 198,
+      "question": "Array খ Linked list",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Queue",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_41_199",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 199,
+      "question": "নদীর পানির ক্ষেত্রে কোনটি সত্য?",
+      "options": {
+        "ক": "B0] 00] Bo]",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "> B])",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_41_200",
+      "exam": "41th BCS Preliminary",
+      "examCode": "bcs_41",
+      "questionNo": 200,
+      "question": "RELATION'-এর আয়নায় প্রতিবিম্ব কোনটি?",
+      "options": {
+        "ক": "খ. ^0|_7|_}&",
+        "খ": "",
+        "গ": "adjective চ adverb",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "IIOITA_ITR",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "41th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    }
+  ]
+}

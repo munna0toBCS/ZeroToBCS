@@ -1,0 +1,1474 @@
+{
+  "examName": "34th BCS Preliminary",
+  "examCode": "bcs_34",
+  "totalQuestions": 59,
+  "validation": {
+    "totalDetected": 59,
+    "highestQuestionNo": 100,
+    "missing": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      21,
+      22,
+      23,
+      24,
+      26,
+      27,
+      28,
+      32,
+      34,
+      35,
+      36,
+      37,
+      41,
+      43,
+      44,
+      47,
+      48,
+      51,
+      52,
+      54,
+      55,
+      56,
+      57,
+      59,
+      60,
+      64,
+      65,
+      66,
+      67,
+      72,
+      74,
+      77,
+      84,
+      85,
+      86,
+      87
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 53,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_34_001",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 1,
+      "question": "সাহিত্যের প্রাচীন যুগ?",
+      "options": {
+        "ক": "৪৫০-৬৫ খ ৬৫০-৯৫০",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৬৫০-১২০০",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_003",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 3,
+      "question": "মধ্যযুগের কবি নন কে?",
+      "options": {
+        "ক": "জয়নন্দী ছ বড়-চণ্ডীদাস",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": ". জয়নন্দী",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_34_008",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 8,
+      "question": "/ বাংলা সাহিত্যে অন্ধকার যুগ বলতে-",
+      "options": {
+        "ক": "১১৯৯-১২৫০ পর্যন্ত খ ১২০১-১৩৫০ পর্যন্ত",
+        "খ": "",
+        "গ": "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "রামনারায়ণ তর্করত্ন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_009",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 9,
+      "question": "! নীল দর্পণ' নাটকটির বিষয়বস্তু কী?",
+      "options": {
+        "ক": "নীলকরদের অত্যাচার",
+        "খ": "রাজা রামমোহন রায়",
+        "গ": "অসহযোগ আন্দোলন",
+        "ঘ": "রবীন্দ্রনাথ ঠাকুর"
+      },
+      "correctAnswer": "ক",
+      "answerText": "নীলকরদের অত্যাচার",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_34_010",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 10,
+      "question": "! 'ঘরে বাইরে' উপন্যাসটি কার লেখা?",
+      "options": {
+        "ক": "আলাওল",
+        "খ": "",
+        "গ": "কাজী মোতাহের হোসেন",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "রবীন্দ্রনাথ ঠাকুর",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_34_011",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 11,
+      "question": "সৈয়দ মুজতবা আলীর প্রবন্ধ গ্রন্থ কোনটি?",
+      "options": {
+        "ক": "পঞ্চতন্ত্র খ. কালান্তর",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "পঞ্চতন্ত্র",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_012",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 12,
+      "question": "'তত্ত্ববোধিনী' পত্রিকার সম্পাদক কে ছিলেন?",
+      "options": {
+        "ক": "অক্ষয়কুমার দত্ত খ প্যারীচাঁদ মিত্র",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "অক্ষয়কুমার দত্ত",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_013",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 13,
+      "question": "ভাষা-আন্দোলন ভিত্তিক নাটক কোনটি?",
+      "options": {
+        "ক": "কবর",
+        "খ": "",
+        "গ": "জন্ডিস ও বিবিধ বেলুন",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "কবর",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_34_014",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 14,
+      "question": "ভানুসিংহ 'ঠাকুর' কার ছদ্মনাম?",
+      "options": {
+        "ক": "দীনবন্ধু মিত্র খ রবীন্দ্রনাথ ঠাকুর",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "রবীন্দ্রনাথ ঠাকুর",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_015",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 15,
+      "question": "! কোন কাব্যটি পল্লীকবি জসীমউদ্দীন রচিত?",
+      "options": {
+        "ক": "চৈতালী ছ রাখালী",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "রাখালী",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_34_016",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 16,
+      "question": "তুমি আসবে বলে হে স্বাধীনতা'-কার কবিতা?",
+      "options": {
+        "ক": "শওকত ওসমান খ. . সিকান্দার",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "শামসুর রাহমান",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_34_017",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 17,
+      "question": "/ 'দেয়াল' রচনাটি কার?",
+      "options": {
+        "ক": "হুমায়ূন আহমেদ খ তারাশঙ্কর বন্দ্যোপাধ্যায়",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "হুমায়ূন আহমেদ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_018",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 18,
+      "question": "মুক্তিযুদ্ধভিত্তিক উপন্যাস কোনটি? ক্রীতদাসের হাসি খ মাটি আর অশ্রু",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "হাঙর নদী গ্রেনেড",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_34_019",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 19,
+      "question": "",
+      "options": {
+        "ক": "আবদুল গাফ্ফার চৌধুরী",
+        "খ": "কাজী দীন মোহাম্মদ",
+        "গ": "প্রবন্ধ সংগ্রহ ঘ শাশ্বত বঙ্গ",
+        "ঘ": "আব্দুল লতিফ"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "আব্দুল লতিফ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_020",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 20,
+      "question": "! ১৯৮৫ সালে নাসিরউদ্দিন স্বর্ণপদক কে পান?",
+      "options": {
+        "ক": "সৈয়দ আলী আহসান খ. সৈয়দ ওয়ালীউল্লাহ",
+        "খ": "",
+        "গ": "Maid servant's speech",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "First speech",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_34_025",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 25,
+      "question": "NB. stands for",
+      "options": {
+        "ক": "Note before No bar",
+        "খ": "১০",
+        "গ": "সৈয়দ শামসুল হক ঘ সিকান্দার আবু জাফর",
+        "ঘ": "Final speech"
+      },
+      "correctAnswer": "খ",
+      "answerText": "১০",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_34_029",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 29,
+      "question": "একটি ক্ষেত্রফল অপরিবর্তিত থাকে 225 বর্গমিটার ছ 144 বর্গমিটার (5\" + 2 + 35 > 5\" -1)",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "196 বর্গমিটার",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_34_030",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 30,
+      "question": "এর মান কত? (4 > 5\")",
+      "options": {
+        "ক": "খ` 8",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_34_031",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 31,
+      "question": "বর্গমিটার AABC এর ক্ষেত্রফল কত? da বর্গমিটার বর্গমিটার {1, 2, 3}, B = ০ হলে, A B = কত?",
+      "options": {
+        "ক": "{1, 2, 31 খ {1, 2, ৭}",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "{1, 2, 3}",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_34_033",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 33,
+      "question": "Y + J = 2, Y' + y' = 4 হলে, x3 + y' = কত?",
+      "options": {
+        "ক": "8 খ 9",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৪",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_34_038",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 38,
+      "question": "খ gঁ",
+      "options": {
+        "ক": "৬৬ সেন্টিমিটার খ ৪২ সেন্টিমিটার",
+        "খ": "",
+        "গ": "Mountains ঘ Animnals",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৬ সমকোণ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_039",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 39,
+      "question": "ঘড়িতে এখন ৮ টা বাজে ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যকার কোণটি হলো-",
+      "options": {
+        "ক": "১৫০",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১২০",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_34_040",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 40,
+      "question": "১৭ দিন আগে আবদুর রহিম বলেছিল যে তার জন্মদিন 'আগামীকাল' you1 success তারিখে?",
+      "options": {
+        "ক": "খ ৮",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৯২",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_34_042",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 42,
+      "question": "! ২০ ফুট লম্বা একটি বাঁশ এমনভাবে কেটে দু'ভাগ করা হলো যেন ছোট অংশের দৈর্ঘ্য কত ফুট?",
+      "options": {
+        "ক": "খ এর পুত্র। খ এবং গ পরস্পর বোেন! ঘ হচ্ছে গ এর মা; চ, ঘ এর পুত্র! চ এর সংগে ক এর সম্পর্ক কী?",
+        "খ": "৭",
+        "গ": "২১ সৌন্টিমিটার ঘ ২২ সেন্টিমিটার",
+        "ঘ": "১১"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "১১",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_34_045",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 45,
+      "question": "",
+      "options": {
+        "ক": "ক এর মামা চ খ ক এর খালু চ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ক এর মামা চ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_046",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 46,
+      "question": "প্রাণদ জল : : মহীজ :?",
+      "options": {
+        "ক": "সমর খ গহ",
+        "খ": "",
+        "গ": "Florence Nightingale",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "Florence Nightingale",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_049",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 49,
+      "question": "Physics and Chemistry",
+      "options": {
+        "ক": "All of the above",
+        "খ": "বন্ধুদের সাথে বিষয়টি আলাপ করবেন",
+        "গ": "Literature, Peace anl Econonics",
+        "ঘ": "ক্ষোভ ও দুঃখ প্রকাশ করে মন খারাপ করব"
+      },
+      "correctAnswer": "ক",
+      "answerText": "All of the above",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_34_050",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 50,
+      "question": "Lunar eclipse occurs 011",
+      "options": {
+        "ক": "1110011 day",
+        "খ": "",
+        "গ": "nalf-moon",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Marine Ecosysten",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_34_053",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 53,
+      "question": "yards ছ` 23",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "22",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_34_058",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 58,
+      "question": "IMF (International Monetary Fund) is the result of- Hawana Conference",
+      "options": {
+        "ক": "Aedes aegypti mosquito",
+        "খ": "A full moon",
+        "গ": "Rome Conference",
+        "ঘ": "Europe"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "Europe",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_34_061",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 61,
+      "question": "! ১৯৭১ সনের কত তারিখে মুজিবনগরে স্বাধীন বাংলাদেশের অস্থায়ী সরকার গঠিত হয়? Photosynthesis takes place in- Roots of the plants",
+      "options": {
+        "ক": "৭ মার্চ, ১৯৭১ খ্রি খ ২৬ মাচ, ১৯৭১ খি",
+        "খ": "",
+        "গ": "Green parts of the plants",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১০ এপ্রিল, ১৯৭১",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_34_062",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 62,
+      "question": "/ বঙ্গবন্ধু শেখ মুজিবুর রহমান কত তারিখে জন্মগ্রহণ করেন?",
+      "options": {
+        "ক": "মার্চ, ১৯১৯ খি",
+        "খ": "",
+        "গ": "১৪ আগস্ট, ১৯৪৭ খ্রি",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৭ মাচ, ১৯২০ খি",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_34_063",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 63,
+      "question": "বহুল আলোচিত মুহুরীর চর কোন জেলায় অবস্থিত?",
+      "options": {
+        "ক": "নোয়াখালী খ . ফেণী",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ফেন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_068",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 68,
+      "question": "বাংলাদেশ টেলভিশনের যাত্রা শুরু হয় কত সনে?",
+      "options": {
+        "ক": "১৯৪৭ খ খ ১৯৫৮ খ",
+        "খ": "Stems of the plants",
+        "গ": "১০ এপ্রিল; ১৯৭১ খ্রি ঘ ১৬ ডিসেম্বর, ১৯৭১ খ্রি",
+        "ঘ": "২১ জুন; ১৯৪১ খ্রি"
+      },
+      "correctAnswer": "",
+      "answerText": "নাফ",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_34_069",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 69,
+      "question": "বাংলাদেশে শেয়ারবাজার কার্যক্রম কোন সংস্থা নিয়ন্ত্রণ করে?",
+      "options": {
+        "ক": "অর্থ মন্ত্রণালয় খ প্রধানমন্ত্রীর কার্যালয়",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সিকিউরিটিজ এক্সচেঞ্জ কমিশন",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_34_070",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 70,
+      "question": "জামাল নজরুল ইসলাম কে?",
+      "options": {
+        "ক": "ফুটবল খেলোয়াড় ছ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বৈজ্ঞানিক",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_34_071",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 71,
+      "question": "৭ঠ তাহরির স্কয়ার' কোথায় অবস্থিত?",
+      "options": {
+        "ক": "সিউল খ আম্মান",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কায়রো",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_34_073",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 73,
+      "question": "কোনটি D-৮ ভুক্ত দেশ নয়?",
+      "options": {
+        "ক": "নাইজেরিয়া ভারত",
+        "খ": "৭ এপ্রিল, ১৯৭৩ খ্রি",
+        "গ": "১৮৫৭ খ্রি ঘ ১৭৯৩ খ্রি",
+        "ঘ": "লন্ডন"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "লন্ডন",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_34_075",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 75,
+      "question": "আরব বসন্ত' বলতে কি বুঝায়?",
+      "options": {
+        "ক": "আরবের বিভিন্ন দেশে গণজাগরণ",
+        "খ": "",
+        "গ": "আরব রাজতন্ত্র",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "আরবের বিভিন্ন দেশে গণজাগরণ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_076",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 76,
+      "question": "! আয়তনে পৃথিবীর সবচেয়ে ছোট দেশ?",
+      "options": {
+        "ক": "ফিজি খ ভ্যাটিকান",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নেপাল",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_078",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 78,
+      "question": "লয়া জিরগা' কোন দেশের আইন সভা?",
+      "options": {
+        "ক": "ফিজ খ সিরিয়া",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "আফগানিস্তান",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_079",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 79,
+      "question": "'কোপেনহেগেন' কোন দেশের রাজধানী?",
+      "options": {
+        "ক": "ডেনমাক খ . বেলজয়াম",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ডেনমাক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_080",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 80,
+      "question": "'শ্যামদেশ' কোন দেশের পুরাতন নাম?",
+      "options": {
+        "ক": "মিসর ছ` ইরাক",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "থাইল্যান্ড",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_081",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 81,
+      "question": "ইউরিয়া সার থেকে উদ্দভিদ কী খাদ্য উপাদান গ্রহণ করে?",
+      "options": {
+        "ক": "ফসফরাস খ নাইট্রোজেন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "নাইট্রোজেন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_082",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 82,
+      "question": "পরমাণুর নিউক্লিয়াসে কি কি থাকে?",
+      "options": {
+        "ক": "নিউট্রন প্রোটন খ ইলেকট্রন প্োটন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নিউট্রন ও প্রোটন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_083",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 83,
+      "question": "রক্তে হিমোগ্লোবিনের কাজ কী?",
+      "options": {
+        "ক": "আক্সজেন পরিবহন করা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "অক্সিজেন পরিবহন করা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_088",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 88,
+      "question": "সুষম খাদ্যের উপাদান কয়টি? : ক ৪টি খ ৬টি",
+      "options": {
+        "ক": "পটকা মাছ খ হাঙ্গর",
+        "খ": "আরব অঞচলে পসওকাল",
+        "গ": "কুয়েত ঘ মালদীপ",
+        "ঘ": "আরবীয় মহিলাদের ক্ষমতায়ন"
+      },
+      "correctAnswer": "",
+      "answerText": "জেনেটিক্স",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_34_089",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 89,
+      "question": "কোন খাদ্যে প্রোটিন বেশি?",
+      "options": {
+        "ক": "৬ত খ গরুর মাংস",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মসুর ডাল",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_090",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 90,
+      "question": "হাড় ও দাঁতকে মজবুত করে-",
+      "options": {
+        "ক": "আয়োডিন খ আয়রন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ক্যালসিয়াম ও ফসফরাস",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_091",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 91,
+      "question": "সুনামির কারণ হলো-",
+      "options": {
+        "ক": "আগ্নেয়গিরির অগ্ন্যুৎপাত",
+        "খ": "",
+        "গ": "চন্দ সূর্যের আকর্ষণ",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সমুদ্রের তলদেশে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_092",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 92,
+      "question": "ডায়াবেটিস রোগ সম্পর্কে যে তথ্যটি সঠিক নয় তা হলো-",
+      "options": {
+        "ক": "এ রোগে মানবদেহের কিডনি নষ্ট করে",
+        "খ": "",
+        "গ": "৭ রোগ হলে রক্তে গ্লুকোজের পরিমাণ পায়",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "চিনি জাতীয় খাবার খেলে ৭ রোগ হয়",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_093",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 93,
+      "question": "প্রাকৃতিক কোন উৎস হতে সবচেয়ে বেশি মৃদু পানি পাওয়া যায়?",
+      "options": {
+        "ক": "",
+        "খ": "সাগর",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বৃষ্টিপাত",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_094",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 94,
+      "question": "নবায়নযোগ্য জ্বালানি কোনটি? পরমাণ শক্ক্তি খ . কয়লা",
+      "options": {
+        "ক": "",
+        "খ": "চিনি জাতীয় খাবার খেলে এ রোগ হয়",
+        "গ": "লিভার হতে ঘ পিটুইটারী গ্লান্ড হতে",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "পরমাণু শক্তি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_095",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 95,
+      "question": "জমির লবণাক্ততা নিয়ন্ত্রণ করে কোনটি?",
+      "options": {
+        "ক": "কৃত্রিম সার প্রয়োগ",
+        "খ": "",
+        "গ": "পানি সেচ",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "পানি সেচ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_096",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 96,
+      "question": "নিচের কোনটির বিদ্যুৎ পরিবাহিতা সবচেয়ে বেশি? তাম রূপ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "রূপা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_097",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 97,
+      "question": "কোন ডালের সঙ্গে ল্যাথারাইজম রোগের সম্পর্ক আছে?",
+      "options": {
+        "ক": "অড়হর খ. ছোলা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "খেসারি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_098",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 98,
+      "question": "মানবদেহে শক্তি উতপাদনের প্রধান উৎস-",
+      "options": {
+        "ক": "পরিপাক খ খাদ্য গ্রহণ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "শ্বসন",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_34_099",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 99,
+      "question": "বরফ পানিতে ভাসে কারণ বরফের তুলনায় পানির-",
+      "options": {
+        "ক": "ঘণত্ব খ ঘনত্ব বেশি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ঘনত্ব বেশি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_34_100",
+      "exam": "34th BCS Preliminary",
+      "examCode": "bcs_34",
+      "questionNo": 100,
+      "question": "1 169 1s equal to-",
+      "options": {
+        "ক": "11 13",
+        "খ": "মাটিতে নাইট্রোজেন ধরে রাখা",
+        "গ": "সোণা ঘ কার্বন",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "13",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "34th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2279 @@
+{
+  "examName": "49th BCS Preliminary",
+  "examCode": "bcs_49",
+  "totalQuestions": 94,
+  "validation": {
+    "totalDetected": 94,
+    "highestQuestionNo": 100,
+    "missing": [
+      23,
+      30,
+      35,
+      45,
+      69,
+      87
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 74,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_49_001",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 1,
+      "question": "একটি সমান্তর ধারা 4থ (চতুর্থ) এবং 12তম পদের যোগফল 20 ঐ ধারার প্রথম 15 পদের যোগফল কত? 100 খ. 150",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "200 300",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "150",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_49_002",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 2,
+      "question": "কোন ধ্বনি পরিবর্তনটি যথাযথ নয়?",
+      "options": {
+        "ক": "ঐন্দন > কাঁদা খ . অঞ্চল > আঁচল",
+        "খ": "",
+        "গ": "সংগীত গীতিকা ঘ. দন্ত দাঁত",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "সংগীত গীতিকা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_49_003",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 3,
+      "question": "Who wrote 'A Vindication of the Rights of Women\"?",
+      "options": {
+        "ক": "Claire Clairmont",
+        "খ": "",
+        "গ": "",
+        "ঘ": "Mary Shelley"
+      },
+      "correctAnswer": "",
+      "answerText": "Mar ] Wollstonecraft",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_004",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 4,
+      "question": "নিচের ধারার পরবর্তী সংখ্যা কোনটি? ১,",
+      "options": {
+        "ক": "` খ 0",
+        "খ": "",
+        "গ": "১0 ১< you1 SUC",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_49_005",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 5,
+      "question": "বাংলাদেশের সংবিধানের আলোকে নিম্নের কোন অধিকারটি মৌলিক অধিকারের অন্তর্ভুক্ত নয়?",
+      "options": {
+        "ক": "বাক-স্বাধীনতার অধিকার",
+        "খ": "শিক্ষার অধিকার",
+        "গ": "সভা সমাবেশের অধিকার",
+        "ঘ": "ধর্মচ্চার অধিকার"
+      },
+      "correctAnswer": "খ",
+      "answerText": "শিক্ষার অধিকার",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_49_006",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 6,
+      "question": "প্রাচীনকালে কোন দেশে সিভিল ধারণা প্রথম উদ্ভূত হয়?",
+      "options": {
+        "ক": "মিশর খ. গিস",
+        "খ": "",
+        "গ": "চীন রোস",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "চীন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_49_007",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 7,
+      "question": "Pick the correctly spelt word.",
+      "options": {
+        "ক": "Conscintiou1s খ Consientious",
+        "খ": "",
+        "গ": "Concientious conscientious",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "conscientious",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_008",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 8,
+      "question": "মার্কিন যুক্তরাষ্টের কোন প্রেসিডেন্ট জাপানে পারমাণবিক বোমা নিক্ষেপের অনুমোদন করেছিলেন?",
+      "options": {
+        "ক": "হ্যারি এস ট্রুম্যান খ ফ্রাঙ্কলিন ডি রুজভেল্ট",
+        "খ": "",
+        "গ": "রিচার্ড নিক্সন ঘ জজ ডব্লিও বুশ",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "হ্যারি এস ট্রুম্যান",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_49_009",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 9,
+      "question": "M = ২a, ৮, 1, 2} এবং N = {1, 2} হয়, তবে N - M এর মান কত?",
+      "options": {
+        "ক": "{ } খ {a, ৩}",
+        "খ": "",
+        "গ": "{০} ঘ {-a, -১}",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "{ }",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_49_010",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 10,
+      "question": "x' + 6X 27 < 0 অসমতাটির সমাধান সেট নিচের কোনটি?",
+      "options": {
+        "ক": "[-9, 3] খ [3,",
+        "খ": "",
+        "গ": "(-9, 3) ঘ {০, -9)",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "(-9, 3)",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_49_011",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 11,
+      "question": "Cবাংলাদেশের জাতীয় দিবস কোনটি?",
+      "options": {
+        "ক": "২৬ মাচ খ ২১ ফেব্রুয়ারি",
+        "খ": "",
+        "গ": "১৬ ডিসেম্বর ঘ ৫ আগস্ট",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "২৬ মার্চ",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_49_012",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 12,
+      "question": "পারিভাষিক শব্দ বলতে বোঝায়-",
+      "options": {
+        "ক": "ইংরোজ শব্দের বাংলা রূপান্তর",
+        "খ": "বিদেশি শব্দের অনুবাদ",
+        "গ": "বিষয়গত সুনির্দিষ্ট অর্থবোধক শব্দ",
+        "ঘ": "ব্যবহারিক প্রয়োজনে নবনিমিত শব্দ"
+      },
+      "correctAnswer": "গ",
+      "answerText": "বিষয়গত সুনির্দিষ্ট অর্থবোধক শব্দ",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_49_013",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 13,
+      "question": "জিএসপি (GSP) এর পূর্ণরূপ কী?",
+      "options": {
+        "ক": "Generalized System of Preference",
+        "খ": "Global System of Positioning",
+        "গ": "Global Strategic Partnership",
+        "ঘ": "Government Support Program"
+      },
+      "correctAnswer": "ক",
+      "answerText": "Generalized System of Preference",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_014",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 14,
+      "question": "বাংলাদেশ ICCPR-এর স্বাক্ষরকারী একটি দেশ ICCPR এর পূর্ণরূপ কী?",
+      "options": {
+        "ক": "International conrerence 011 anl Tolitical",
+        "খ": "International conference and Political",
+        "গ": "International covenant 011 an] Political",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "International covenant of Civil andl Tolitical",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_015",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 15,
+      "question": "'We Inow that the earth is a planet'. The underlined part is a/an-",
+      "options": {
+        "ক": "noun clause",
+        "খ": "",
+        "গ": "adjective clause",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "nou11 clause",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_016",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 16,
+      "question": "রবীন্দ্রনাথ ঠাকুর শব্দের শুরুতে মাত্রাযুক্ত এ-কার করতেন কেন?",
+      "options": {
+        "ক": "এ-কার মাত্রা যুক্ত বলে",
+        "খ": "'এ' মাত্রাহীন বর্ণ বলে",
+        "গ": "'এ' উচ্চারণ বোঝাতে",
+        "ঘ": "'অ্যা' উচ্চারণ বোঝাতে"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "'অ্যা' উচ্চারণ বোঝাতে",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_49_017",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 17,
+      "question": "ধ্বনি ও বর্ণের পার্থক্য কোথায়?",
+      "options": {
+        "ক": "লেখার ধরণে",
+        "খ": "উচ্চারণের বিশিষ্টতায়়",
+        "গ": "সংখ্যাগত পরিমাণে",
+        "ঘ": "ইন্দ্রিয় গ্রাহ্যে"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "ইন্দ্রিয় গ্রাহ্যে",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_49_018",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 18,
+      "question": "\"Rubiyat of Khayyam 1s attributed to-",
+      "options": {
+        "ক": "Elwar| Fitzgerald",
+        "খ": "Scot- Fitzgerald",
+        "গ": "Thonas Fitzgerald",
+        "ঘ": "Williann Fitzgerald"
+      },
+      "correctAnswer": "ক",
+      "answerText": "Edward Fitzgerald",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_019",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 19,
+      "question": "Select the sentence in which 'better' is an adverb",
+      "options": {
+        "ক": "We're helping of better weather tomorrow",
+        "খ": "Soundl travels better in water than in air",
+        "গ": "It's har] to leciile which one is better",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "Sound travels better in water than in air",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_020",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 20,
+      "question": "কোন শব্দটি বিসর্গসন্ধির মাধ্যমে গঠিত?",
+      "options": {
+        "ক": "নীরব খ. উজ্জ্বল",
+        "খ": "",
+        "গ": "মানোত্তীর্ণ ঘ সংগম",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "নীরব",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_49_021",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 21,
+      "question": "নিম্নোক্ত কোন দেশটি 'Five Eyes' ভুক্ত নয়? কু অস্ট্রেলিয়া খ . ফান্স",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "নিউজিল্যান্ড ঘ কানাডা",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ফরান্স",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_022",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 22,
+      "question": "দুইটি সংখ্যার লসাগু 4r' | 48, গসাগু 2X + 4 / একটি সংখ্যা 4i2 | 20X + 24 হলে অপরটি-",
+      "options": {
+        "ক": "1 খ 2 12 4)",
+        "খ": "স্ব ভারতীয় জাতীয় কংগ্রেস",
+        "গ": "4 12 4) ঘ L + 2)",
+        "ঘ": "জমিয়তে-ই-হিন্দ"
+      },
+      "correctAnswer": "",
+      "answerText": "মুসলিম লীগ",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_49_024",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 24,
+      "question": "সম্প্রতি বাংলাদেশ সফর করে যাওয়া পাকিস্তানের উপ প্রধান মন্ত্রী পররাষ্ট্র মন্ত্রী, ইসহাক দার পাকিস্তানের কোন রাজনৈতিক দলের সাথে সম্পৃক্ত?",
+      "options": {
+        "ক": "পাকিস্তান পিপলস পাটি (PPP)",
+        "খ": "",
+        "গ": "পাকিস্তান মুসলিম লীগ (নওয়াজ)",
+        "ঘ": "জামায়াতে ইসলামী পাকিস্তান"
+      },
+      "correctAnswer": "গ",
+      "answerText": "পাকিস্তান মুসলিম লীগ (নওয়াজ)",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_49_025",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 25,
+      "question": "Fill in the blanks with appropriate words 'Selina knocked it the park with her performance in culinary art'.",
+      "options": {
+        "ক": "outsile খ out 0f",
+        "খ": "",
+        "গ": "inisile ঘ off",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "out of",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_026",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 26,
+      "question": "The play \"Englishmen for Money' was written by- Christopher Marlowe 9| Thomas Iyd",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "William Haughton",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "William Haughton",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_027",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 27,
+      "question": "একটি গুণোত্তর ধারার পঞ্চম পদটি ৩১ ও অষ্টম পদটি ২৫৬ হলে ধারার সাধারণ অনুপাত কত?",
+      "options": {
+        "ক": "খ. ১৬",
+        "খ": "",
+        "গ": "$ ঘ ১ <",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "২",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_49_028",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 28,
+      "question": "১৯৫১ সালের ভাষা আন্দোলনে নেতৃত্বস্থানীয় ভূমিকা পালন করে সাংস্কৃতিক সংগঠন তমুদ্দুন মজলিস' তমুদ্দুন মজলিস-এর প্রতিষ্ঠাতা অধ্যাপক আবুল কাশেম ঢাকা বিশ্ব বিদ্যালয়ের কোন ]001 বিভাগের শিক্ষক ছিলেন? রসায়ন খ পদার্থ বিজ্ঞান গ[. অর্থনীতি 7. ইসলামী শিক্ষা",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "পদার্থ বিজ্ঞান",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_49_029",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 29,
+      "question": "যদি গতকাল শুক্রবার হতো, তাহলে আজ থেকে ৮ঠ১তম দিন কী বার হবে?",
+      "options": {
+        "ক": "শু্বার খ . বুধবার",
+        "খ": "কায়কোবদ",
+        "গ": "সোমবার ঘ রবিবার",
+        "ঘ": "ঈশ্বরচন্দ্র গুপ্ত"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "ঈশ্বরচন্দ্র গুপ্ত",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_49_031",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 31,
+      "question": "কাজী নজরুল ইসলামের কোন উপন্যাসের কেন্দ্রীয় চরিত্র জাহাঙ্গীর?",
+      "options": {
+        "ক": "বাঁধন-হারা খ মৃত্যুক্ষুধা",
+        "খ": "",
+        "গ": "কুহেলিকা ঘ শিউলিমালা",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "কুহেলিকা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_49_032",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 32,
+      "question": "চর্যাপদের খণ্ডিত পদগুলো তিব্বতি থেকে প্রাচীন বাংলায় রূপান্তর করেন-",
+      "options": {
+        "ক": "সুনীতিকুমার চট্টোপাধ্যায়",
+        "খ": "হরপ্রসাদ শাস্ত্রী",
+        "গ": "রাজেন্দ্রলাল মিত্র",
+        "ঘ": "সুকুমার সেন"
+      },
+      "correctAnswer": "ক",
+      "answerText": "সুনীতিকুমার চট্টোপাধ্যায়",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_49_033",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 33,
+      "question": "বাংলাদেশের সংচেয়ে বড় গণমাধ্যম নিয়ন্ত্রক সংস্থা কোনটি?",
+      "options": {
+        "ক": "তথ্য মন্ত্রণালয়",
+        "খ": "প্রেস কাউন্সিল",
+        "গ": "বিটিআরসি",
+        "ঘ": "বাংলাদেশ টেলিভিশন"
+      },
+      "correctAnswer": "খ",
+      "answerText": "প্রেস কাউন্সিল",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_49_034",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 34,
+      "question": "'মৃগয়া' শব্দের 'মৃগ' বলতে কী বোঝানো হয়?",
+      "options": {
+        "ক": "বাণর সিংহ",
+        "খ": "আবুল মনসুর আহমদ",
+        "গ": "ঘ",
+        "ঘ": "এস ওয়াজেদ আলী"
+      },
+      "correctAnswer": "খ",
+      "answerText": "আবুল মনসুর আহমদ",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_49_036",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 36,
+      "question": "গিনল্যান্ড নিচের কোন রাষ্টের অন্তর্ভুক্ত?",
+      "options": {
+        "ক": "সুইডেন খ ডেনমাক",
+        "খ": "",
+        "গ": "নরওয়ে ঘ ফিনল্যান্ড",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ডেনমাক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_49_037",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 37,
+      "question": "ax | by = a' ! bx ay = ab; এই সহ-সমীকরণের x, y) এর সমাধান কোনটি?",
+      "options": {
+        "ক": "(a', ,2) খ (a, ৮)",
+        "খ": "",
+        "গ": "0, a) ঘ. (a, 0)",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(a, ০)",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_49_038",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 38,
+      "question": "শিক্ষককে বুঝতে হবে শিক্ষার্থী কী চায়' - এই বাক্যে শিক্ষক ও শিক্ষার্থীর প্রয়োগ হয়েছে-",
+      "options": {
+        "ক": "একবচন বোঝাতে",
+        "খ": "বহুবচন বোঝাতে",
+        "গ": "একবচন ও বহুবচন উভয়ই বোঝাতে",
+        "ঘ": "প্রথমটি একবচন; পরেরটি বহুবচন বোঝাতে"
+      },
+      "correctAnswer": "খ",
+      "answerText": "বহুবচন বোঝাতে",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_49_039",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 39,
+      "question": "একটি থলিতে 3টি সবুজ এবং 2টি লাল বল আছে অপর একটি থলিতে 2টি সবুজ এবং 5টি লাল বল আছে নিরপেক্ষভাবে প্রত্যেক থলি থেকে একটি করে বল তোলা হলো ! দুইটি বলের মধ্যে অন্তত একটি সবুজ হওয়ার সম্ভাব্যতা কত?",
+      "options": {
+        "ক": "5/ 7 খ 2/7",
+        "খ": "",
+        "গ": "5/12 ঘ 1/4",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "5/7",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_49_040",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 40,
+      "question": "'উৎক্ষেপণ' শব্দে 'উৎ' উপসর্গ কোন অর্থ ধারণ করেছে?",
+      "options": {
+        "ক": "জর খ উর্ধ্ব",
+        "খ": "",
+        "গ": "আড়াল গত",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "উর্ধ্ব",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_49_041",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 41,
+      "question": "হালিমা ইয়াকুব কোন দেশের রাষ্ট্রপতি ছিলেন?",
+      "options": {
+        "ক": "বুনাই খ মালয়েশিয়া",
+        "খ": "",
+        "গ": "সিঙ্গাপুর ঘ তানজানিয়া",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "সিঙ্গাপুর",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_49_042",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 42,
+      "question": "person who leaves his/her own country to settle permanently in another is called a/an-",
+      "options": {
+        "ক": "inmigrant খ expatriate",
+        "খ": "",
+        "গ": "emigrant migrant",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "emigrant",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_043",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 43,
+      "question": "১৫ মিটার লম্বা একটি স্কেলের এক প্রান্তে ১০ কেজি ওজন বাঁধা হয়েছে | একই প্রান্ত থেকে স্কেলের দৈর্ঘ্যের ৩ : ২ অনুপাতে একটি পেরেক লাগানো আছে অপর প্রান্তে কত কৌজি ওজন দিলে স্কেলের ভারসাম্য থাকবে?",
+      "options": {
+        "ক": "8৫ খ. 90",
+        "খ": "",
+        "গ": "১৫ ঘ ৫",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "১৫",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_49_044",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 44,
+      "question": "পাকিস্তানের ১৯৭০ সালের সাধারণ নির্বাচনে প্রধান নির্বাচন কমিশনার কে ছিলেন?",
+      "options": {
+        "ক": "বিচারপতি সাত্তার",
+        "খ": "বিচারপতি সায়েম",
+        "গ": "বিচারপতি আবু সাঈদ চৌধুরী",
+        "ঘ": "৬০"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "৬০",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_49_046",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 46,
+      "question": "কোন শব্দটি প্রত্যয়যোগে গঠিত?",
+      "options": {
+        "ক": "ডাক্তারখানা খ হাসপাতাল",
+        "খ": "",
+        "গ": "আকাশছোয়া ৭ . গুণমান",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ডক্তারখণা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_49_047",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 47,
+      "question": "চব্বিশের গণঅভ্যুত্থানের পর বাংলাদেশের জাতীয় সংসদের সংস্কার বিষয়ে ঐক্যমতের অন্যতম প্রস্তাব কী?",
+      "options": {
+        "ক": "দ্বি-স্তর বিশিষ্ট সংসদ",
+        "খ": "সংসদের আসন বৃদ্ধি",
+        "গ": "সংরক্ষিত নারী আসন বাতিল",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "দ্বি-স্তর বিশিষ্ট সংসদ",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_49_048",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 48,
+      "question": "আয়নাঘর কী?",
+      "options": {
+        "ক": "বন্ধ কামরা",
+        "খ": "পরিবেশ বান্ধব কৃষিকাজ",
+        "গ": "গোপন কারাগার",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "গোপন কারাগার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_49_049",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 49,
+      "question": "'স্বাধীন' শব্দের ব্যাসবাক্য কোনটি?",
+      "options": {
+        "ক": "স্বীয়-এর অধীন খ. সত্ত্বার অধীন",
+        "খ": "",
+        "গ": "স্ব-এর অধীন ঘ সততের অধীন",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "স্ব-এর অধীন",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_49_050",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 50,
+      "question": "চীন; ভারত ও বাংলাদেশের প্রবাহিত ব্রহ্মপুত্র নদী, চীন বা তিব্বতে নামে পরিচিত?",
+      "options": {
+        "ক": "ইয়াংলি খ. লিজিয়া",
+        "খ": "",
+        "গ": "হুয়াইলি ইয়ারলাং সাংশো",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "ইয়ারলাং সাংশো",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_49_051",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 51,
+      "question": "নিম্মোক্ত কোন রাষ্ট্টটি সাংহাই কোঅপারেশন অর্গানাইজেশন বা S৫০ এর সদস্য নয?",
+      "options": {
+        "ক": "আজারবাইজান খ. ভারত",
+        "খ": "",
+        "গ": "পাকিস্তান ঘ ইরান",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "আজারবাইজান",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_49_052",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 52,
+      "question": "I cannot but conclude the Bulk of your Natives, be the most pernicious of little odious vermin that Nature ever suffered to crawl upon the surrace of the Earth the statement occurs in Robinson Crusoe A Doll's House",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "Vanity Fair",
+        "ঘ": "Gulliver's Travels"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "৫ulliver' s Travels",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_053",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 53,
+      "question": "আহমদ শরীফের মতে মধ্যযুগে চণ্ডীদাস নামে কতজন কবি ছিলেন?",
+      "options": {
+        "ক": "খ",
+        "খ": "",
+        "গ": "8",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৩",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_49_054",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 54,
+      "question": "নর্থ আটলান্টিক ট্রিটি অর্গানইজেশন বা সামরিক জোট কত সালে স্বাক্ষরিত হয়? y0u1",
+      "options": {
+        "ক": "১৯৩৯ খ . ১৯৪৩",
+        "খ": "",
+        "গ": "১৯৪৯ ঘ. ১৯৬০",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "১৯৪৯",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_49_055",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 55,
+      "question": "কেপ ভারদ (Cape Verde) দীপ রাষ্ট্টটি কোথায় অবস্থিত?",
+      "options": {
+        "ক": "গালফ অব গিনি",
+        "খ": "ফ্রেঞচ পলিনেশিয়া",
+        "গ": "দক্ষিণ আফ্রিকা",
+        "ঘ": "পশ্চিম আফ্রিকা"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "পশ্চিম আফ্রিকা",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_056",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 56,
+      "question": "Choose the synonym for 'Fright'",
+      "options": {
+        "ক": "placidity খ composure",
+        "খ": "",
+        "গ": "apprehension ঘ equanimity",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "apprehension",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_057",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 57,
+      "question": "পরিবার থেকে শিক্ষার শুরু'-এখানে 'থেকেই' শব্দের সাথে 'ই'- এর ব্যাকরণিক পরিচয় কী?",
+      "options": {
+        "ক": "উপসর্গ ছ প্র৩্যযয়",
+        "খ": "",
+        "গ": "ধাতু ঘ বলক",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "বলক",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_49_058",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 58,
+      "question": "একটি বাক্সে ৪টা লাল, ৩টা নীল, ২টা হলুদ ও ১টা সবুজ বল আছে ! কমপক্ষে কয়টা বল উঠালে সেখানে অন্তত একটা লাল বল থাকবেই?",
+      "options": {
+        "ক": "খ.",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৭",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_49_059",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 59,
+      "question": "POR ত্রিভুজের 20 = 909 এবং LP = 2 _ R হলে নিচের কোনটি সটিক? PR 20R খ Po 2PR",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "PR 2P0",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "PR",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_060",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 60,
+      "question": "Identify the correct passive form, \"People thought that the despot was corrupt:'",
+      "options": {
+        "ক": "Tle despot had been thought to be corrupt",
+        "খ": "",
+        "গ": "The despot was thought to be corrupt",
+        "ঘ": "The despot is thought to be corrupt"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_061",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 61,
+      "question": "বই 10% ক্ষতিতে বিক্রয় করা হলো ! বিক্রয়মূল্য 60 টাকা হলে 5% লাভ হতো বইটির ক্রয়মূল্য কত টাকা? 200 খ 300",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "400 500",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "400",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_49_062",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 62,
+      "question": "Identify the word that can be used as both singular and plural.",
+      "options": {
+        "ক": "light খ. s110+",
+        "খ": "",
+        "গ": "criterion \"21111011",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "cannon",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_063",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 63,
+      "question": "কোন যান্ত্রিক গিয়ারের চাকা ছোট হলে সংযুক্ত অবস্থায় বড়টির চেয়ে ছোট চাকাটি কিভাবে ঘুরবে?",
+      "options": {
+        "ক": "আস্তে খ . জরে",
+        "খ": "",
+        "গ": "একইভাবে ঘ কোনটিই নয়",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "জোরে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_49_064",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 64,
+      "question": "বাংলাদেশের জুলাই বিপ্লবের শহিদ আবু সাঈদ কোন বিশ্ববিদ্যালয়ের ছাত্র ছিলেন?",
+      "options": {
+        "ক": "ঢাকা বিশ্ববিদ্যালয়",
+        "খ": "রংপুর বিশ্ববিদ্যালয়",
+        "গ": "রাজশাহী বিশ্ববিদ্যালয়",
+        "ঘ": "বেগম রোকেয়া বিশ্ববিদ্যালয়"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "বেগম রোকেয়া বিশ্ববিদ্যালয়",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_49_065",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 65,
+      "question": "তুরস্কের বিচ্ছিন্নতাবাদী দল Kurdistan Workers Party বা PIL এর প্রতিষ্ঠাতা কে?",
+      "options": {
+        "ক": "জালাল তালাবানী মাসুদ বারজানী",
+        "খ": "",
+        "গ": "মাজলুম আবদি ঘ আবদুল্লাহ ওচালান",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "আবদুল্লাহ ওচালান",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_066",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 66,
+      "question": "নিম্নোক্ত কোন ভারতীয় রাজ্যের বাংলাদেশের সাথে কোন ভূমি সীমানা নেই?",
+      "options": {
+        "ক": "নাগাল্যান্ড খ মিজোরাম",
+        "খ": "",
+        "গ": "মেঘালয় ঘ. আসম",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "নাগাল্যান্ড",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_49_067",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 67,
+      "question": "একটি ট্রেন প্রতি সেকেন্ডে ১০০ ফুট বেগে চলছে এক ব্যক্তির বন্দুকের গুলির বেগ সেকেন্ডে ২০০ ফুট | উক্ত ব্যক্তি চলন্ত ট্রেনের ৩০০ ফুট সামনে একটি স্তম্ভ লক্ষ্য করে গুলি ছুড়লে কত সেকেন্ড পর তা স্তম্ভকে আঘাত করবে? you1 SUC",
+      "options": {
+        "ক": "9 খ ১৫",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_068",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 68,
+      "question": "Demographic Dividend বলতে বোঝায়?",
+      "options": {
+        "ক": "শিশু মৃত্যুহার হ্রাস",
+        "খ": "জন্মহার শূন্যের কোটায় আনা",
+        "গ": "জনসংখ্যায় অধিকাংশ বেকার",
+        "ঘ": "কর্মক্ষম বয়স গোষ্ঠীর অনুপাত"
+      },
+      "correctAnswer": "",
+      "answerText": "রূপমূল",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_070",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 70,
+      "question": "The novel 'Wuthering Heights Was penned by the author under the penname",
+      "options": {
+        "ক": "Ellise Bellet খ Ellis Belle",
+        "খ": "",
+        "গ": "Ellis Bell Una Elis",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "Ellis Bell",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_071",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 71,
+      "question": "ফররুখ আহমদের গ্রন্থ কোনটি?",
+      "options": {
+        "ক": "হরফের ছড়া খ বর্ণশিক্ষা",
+        "খ": "",
+        "গ": "বর্ণপরিচয় ঘ. সহজ ছড়া",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "হরফের ছড়া",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_49_072",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 72,
+      "question": "তিনি কথা শুনে ঘুমাতে পারলেন না'- বাক্যটির অস্তিবাচক রূপ হবে?",
+      "options": {
+        "ক": "তিনি কথা না শু ঘুমাতে পারলেন না",
+        "খ": "তিনি কথা না শুনে ঘুমাতে পারলেন",
+        "গ": "তিনি জেগে রইলেন কথা না শুনে",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "তিনি কথা শুনে জেগে রইলেন",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_49_073",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 73,
+      "question": "১৯১১ সালে বঙ্গভঙ্গ রদের পর ঢাকায় একটি বিশ্ববিদ্যালয় প্রতিষ্ঠার জন্য ব্রিটিশ সরকারের কাছে দেনদরবার করার ক্ষেত্রে কোন নেতা অগ্রণী ভূমিকা পালন করেন?",
+      "options": {
+        "ক": "হাকম আজমল খান",
+        "খ": "শেরে বাংলা এ কে ফজলুল হক",
+        "গ": "স্যর সলিমুল্লাহ",
+        "ঘ": "স্যার আব্দুর"
+      },
+      "correctAnswer": "গ",
+      "answerText": "স্যার সলিমুল্লাহ",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_49_074",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 74,
+      "question": "Cএকটা লোহার গোলক_গলিয়ে কয়টি সমান আয়তনের গোলক তৈরী সম্তব যাদের প্রত্যেকের ব্যাসার্ধ বড় গোলকটির অর্ধেক?",
+      "options": {
+        "ক": "8 খ )",
+        "খ": "",
+        "গ": "১৬ ঘ $",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৮",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_49_075",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 75,
+      "question": "বিশ্বের প্রথম জাতিসংঘ শান্তিরক্ষী বাহিনী কোনটি?",
+      "options": {
+        "ক": "ULIDSOM খ UNM )GIP",
+        "খ": "",
+        "গ": "TJLTT$0 ঘ TLTEF",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "TJlT$0",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_49_076",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 76,
+      "question": "বাংলাদেশের রাজনীতি সম্পর্কে একজন আমেরিকান ঐতিহাসিক মন্তব্য করেছের; 'বাংলাদেশের রাজনীতি ব্যক্তিত্বকে কেন্দ্র করে আবর্তিত হয়, ধারণা বা প্রতিষ্ঠানকে কৈেন্দ্র করে নয়\" এই ঐতিহাসিকের নাম কি?",
+      "options": {
+        "ক": "এন্থনি মাসকারেনহাস",
+        "খ": "লরেঞচ জিরিং",
+        "গ": "লরেঞচ লিফশুলজ",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "লরেঞ্চ জিরিং",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_49_077",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 77,
+      "question": "ভাষা-পরিবার অনুযায়ী সাওতাল জনগোষ্ঠা প্রধানত কোন পরিবার ভুক্ত?",
+      "options": {
+        "ক": "ইন্দো-আর্য",
+        "খ": "দ্রাবিড়",
+        "গ": "অস্স্ট্রিক-অস্ট্রো এসিয়াটিক (মুন্ডা)",
+        "ঘ": "তিব্বত-বর্মী"
+      },
+      "correctAnswer": "গ",
+      "answerText": "অস্স্রিক-অস্ট্রো এসিয়াটিক (মুন্ডা)",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_49_078",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 78,
+      "question": "'After lunch We went for a leisurely stroll'. Here 'leisurely' is a/an-",
+      "options": {
+        "ক": "adverb খ adljective",
+        "খ": "",
+        "গ": "nou11 ঘ conjunction",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "adjective",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_079",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 79,
+      "question": "কেেবল আয়ের অভাব নয়, বরং সামথ্যের অভাবই দারিদ্র্যতার মূল কারণ\"- অর্থনীতিবিদ অমর্ত্য সেন কোন গ্রন্থে যুক্তি তুলে ধরেণ? Development as Freedom Women and Human Development Development through DispositionwuT SULCC8 S) জ গ[. Development, Environment and Power",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Development as Freedom",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_080",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 80,
+      "question": "log 4 -2 হলে Y=?",
+      "options": {
+        "ক": "1/2 খ -1/2",
+        "খ": "",
+        "গ": "2",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "1/2",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_081",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 81,
+      "question": "সত্যকে স্বীকার করতে অনেক ব্যক্তিরাই চায়না' -এখানে ভুল ঘটেছে-",
+      "options": {
+        "ক": "বানান প্রত্যযের",
+        "খ": "অর্থ ও বচণনের",
+        "গ": "অর্থ ও প্রত্যয়ের",
+        "ঘ": "বানান ও বচণের"
+      },
+      "correctAnswer": "খ",
+      "answerText": "অর্থ ও বচণর",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_49_082",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 82,
+      "question": "'Someone sneezed loudly at the back of the hall' . In this sentence the verb 'sneezed' is-",
+      "options": {
+        "ক": "causative খ . intransitive",
+        "খ": "",
+        "গ": "transitive ঘ factitive",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "intransitive",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_083",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 83,
+      "question": "বাংলাদেশে সর্বোচ্চ সংখ্যক চা বাগান রয়েছে কোন জেলায়?",
+      "options": {
+        "ক": "সিলেট চট্টগ্রাম",
+        "খ": "",
+        "গ": "মৌলভীবাজার ঘ পঞ্চগড়",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "চট্টগ্রাম",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_49_084",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 84,
+      "question": "gender is the noun 'neighbour'?",
+      "options": {
+        "ক": "Masculine খ. Feninine",
+        "খ": "",
+        "গ": "Neuter co11111011",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Common",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_085",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 85,
+      "question": "নিম্নোক্ত কোন দেশটি ইউরোপিয়ান ইউনিয়নের (EU) সদস্য নয়?",
+      "options": {
+        "ক": "বুলগেরিযা খ হাঙ্গের",
+        "খ": "",
+        "গ": "পল্যান্ড ঘ. সুইজারল্যান্ড",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "সুইজারল্যান্ড",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_49_086",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 86,
+      "question": "সংবিধান অনুযায়ী জাতীয় সংসদের ইংরেোজ নাম কী?",
+      "options": {
+        "ক": "Parliament",
+        "খ": "National Parlianent",
+        "গ": "Legislature",
+        "ঘ": "The House of Nation"
+      },
+      "correctAnswer": "",
+      "answerText": "১",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_49_088",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 88,
+      "question": "আফিম যুদ্ধ কোন দুইটি দেশের মধ্যে সংঘটিত হয়?",
+      "options": {
+        "ক": "চীন আফগানিস্তান",
+        "খ": "চীন ইংল্যান্ড",
+        "গ": "চীন ও রাশিয়া",
+        "ঘ": "ইংল্যান্ড ও আফগানিস্তান"
+      },
+      "correctAnswer": "খ",
+      "answerText": "চীন ৩ ইংল্যান্ড",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_49_089",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 89,
+      "question": "'এ কাজ করতে আমি বদ্ধ পরিকর'- এখানে 'পরিকর' শব্দের অর্থ",
+      "options": {
+        "ক": "শ্বাস খ. প্রতজ্ঞা",
+        "খ": "",
+        "গ": "কেমর ঘ. প্রতিশ্রত",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "প্রতিশ্রুত",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_49_090",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 90,
+      "question": "Which sentence is correct? The picture was hanged on the wall",
+      "options": {
+        "ক": "",
+        "খ": "The picture was o11 the wall",
+        "গ": "The picture was hunged on the wal",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "The picture was o11 the wall",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_091",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 91,
+      "question": "প্রথম বিশ্বযুদ্ধ কোন চুক্তির মাধ্যমে সমাপ্ত হয়?",
+      "options": {
+        "ক": "প্যারিস চুক্তি খ ভাসাই চুক্তি",
+        "খ": "",
+        "গ": "জেনেভা চু ঘ রোম চুক্তি",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "প্যারিস চুক্তি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_49_092",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 92,
+      "question": "বাংলাদেশের ওয়ারেন্ট অফ প্রেসিডেন্ট অনুযায়ী স্ব প্রথম অবস্থান করেন?",
+      "options": {
+        "ক": "প্রধানমন্ত্রী খ. রাষ্ট্রপতি",
+        "খ": "",
+        "গ": "প্রধান উপদেষ্টা ঘ প্রধান বিচারপতি",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "রাষ্ট্রপতি",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_49_093",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 93,
+      "question": "The idiom 'icing on the cake' means-",
+      "options": {
+        "ক": "slice of -he cake",
+        "খ": "",
+        "গ": "an attractive service",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "an attractive but unnecessary addition",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_094",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 94,
+      "question": "ভারত পাকিস্তানের মধ্যে ইন্দাস ওয়াটার ট্রিটি (IWT) কোন সালে স্বাক্ষরিত হয়?",
+      "options": {
+        "ক": "১৯৪৮ খ . ১৯৭৪",
+        "খ": "",
+        "গ": "১৯৬৫ ঘ. ১৯৮০",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নোট: অপশনে সঠিক উত্তর নেই সঠিক উত্তর ১৯৬০",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_095",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 95,
+      "question": "ODS Ozone Depleting Substances) এর ব্যবহার কমানোর জন্য কোন চুক্তি সাক্ষরিত হয়? ?",
+      "options": {
+        "ক": "কিয়াটো প্রটোকল",
+        "খ": "মন্দ্রিল প্রটোকল",
+        "গ": "প্যারিস চুক্তি",
+        "ঘ": "রামসার কনভেনশন"
+      },
+      "correctAnswer": "খ",
+      "answerText": "মন্দ্রিল প্রটোকল",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_096",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 96,
+      "question": "একটি ঘনকের সম্পূর্ণ পৃষ্ঠের ক্ষেত্রফল 48 বর্গমিটার ! ঘনকটির করণের দৈর্ঘ্য কত?",
+      "options": {
+        "ক": "2 2 মিটার খ 2 3 মিটার",
+        "খ": "",
+        "গ": "2 মিটার ঘ 2 6 মিটার",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "2 মিটার",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_49_097",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 97,
+      "question": "They talked about going on a vacation' . Here 'going' is a/an",
+      "options": {
+        "ক": "participle",
+        "খ": "infinitive",
+        "গ": "verbal noun",
+        "ঘ": "gerund"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "gerund",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_098",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 98,
+      "question": "নিম্নোক্ত কোন দেশ বা অঞ্চল জাতিসংঘের সদস্য দেশ নয়?",
+      "options": {
+        "ক": "তিমুর লিস্টি",
+        "খ": "দক্ষিন সুদান",
+        "গ": "ওয়েস্টান সাহারা",
+        "ঘ": "সেন্ট্রাল আফ্রিকান রিপাবলিক"
+      },
+      "correctAnswer": "গ",
+      "answerText": "ওয়েস্টান সাহারা",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_49_099",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 99,
+      "question": "লর্ড কর্ণওয়ালিস ব্রিটিশ ভারতের গভর্নর জেনারেল হওয়ায় পূর্বে কোন ভূমিকায় ছিলেন? SUCCeSক ব্রিটেনের পররাষ্ট্র মন্ত্রী nauT k",
+      "options": {
+        "ক": "",
+        "খ": "ফানসে নিযুক্ত ব্রিটেনের রাষ্ট্রদূত",
+        "গ": "যুক্তরাষ্ট্রের স্বাধীনতা যুদ্ধে ব্রিটিশ বাহিনীর প্রধান",
+        "ঘ": "কেমব্রিজ বিশ্ববিদ্যালয়ের উপাচার্য"
+      },
+      "correctAnswer": "গ",
+      "answerText": "যুক্তরাষ্ট্রের স্বাধীনতা যুদ্ধে ব্রিটিশ বাহিনীর প্রধান",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_49_100",
+      "exam": "49th BCS Preliminary",
+      "examCode": "bcs_49",
+      "questionNo": 100,
+      "question": "'We work every except Friday' . In this sentence 'except' in alan",
+      "options": {
+        "ক": "adjective",
+        "খ": "",
+        "গ": "preposition",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "preposition",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "49th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    }
+  ]
+}

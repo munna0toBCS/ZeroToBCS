@@ -1,0 +1,1681 @@
+{
+  "examName": "30th BCS Preliminary",
+  "examCode": "bcs_30",
+  "totalQuestions": 68,
+  "validation": {
+    "totalDetected": 68,
+    "highestQuestionNo": 100,
+    "missing": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      22,
+      27,
+      32,
+      34,
+      36,
+      37,
+      38,
+      41,
+      44,
+      46,
+      47,
+      52,
+      53,
+      56,
+      58,
+      59,
+      61,
+      74,
+      75,
+      76,
+      77,
+      81,
+      82,
+      83,
+      92,
+      94,
+      96
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 67,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_30_001",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 1,
+      "question": "বাংলা ভাষার আদি নিদর্শন চর্যাপদ আবিষ্কৃত হয় কত সালে?",
+      "options": {
+        "ক": "২০০৭ সালে খ ১৯০৭ সালে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "অনিলা দেবী",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_003",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 3,
+      "question": "'আধ্যাত্মিকা' উপন্যাসের লেখক কে?",
+      "options": {
+        "ক": "প্যারীচাঁদ মিত্র",
+        "খ": "",
+        "গ": "দমেদর বন্দ্যোপাধ্যায়",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "প্যারীচাঁদ মিত্র",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_30_008",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 8,
+      "question": "'অনীক' শব্দের অর্থ-",
+      "options": {
+        "ক": "সূরয খ সমুদ্র",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "অক",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_30_009",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 9,
+      "question": "বাগাড়ম্বর শব্দের সন্ধি-বিচ্ছেদ-",
+      "options": {
+        "ক": "বাগ | অবর খ বাগ | আড়ম্বর",
+        "খ": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+        "গ": "১৯০৯ সালে ঘ ১৯১৬ সালে",
+        "ঘ": "বাক্ আড়ম্বর"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "বাক্ আড়ম্বর",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_30_010",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 10,
+      "question": "",
+      "options": {
+        "ক": "রবীন্দ্রনাথ ঠাকুর",
+        "খ": "",
+        "গ": "মদনমোহন তকালঙ্কার",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "মদনমোহন তর্কালঙ্কার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_011",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 11,
+      "question": "ঠাকুরমার ঝুলি' কী জাতীয় রচনার সংকলন?",
+      "options": {
+        "ক": "রূপকথা খ ছোটগল্প",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "রূপকথা",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_30_012",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 12,
+      "question": "বাংলা ভাষায় ছন্দ প্রধানত কত প্রকার?",
+      "options": {
+        "ক": "খ` 8",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৩",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_013",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 13,
+      "question": "'কাঁঠালপাড়া'য় জন্মগ্রহণ করেন কোন লেখক?",
+      "options": {
+        "ক": "শরংচন্দ্র চট্টোপাধ্যায়",
+        "খ": "",
+        "গ": "কাজী ইমদাদুল হক",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_014",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 14,
+      "question": "নিচের কোনটি অঘোষ অল্পপ্রাণ ধ্বনি?",
+      "options": {
+        "ক": "খ ১",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "চ",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_30_015",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 15,
+      "question": "'অপ' কী ধরনের উপসর্গ?",
+      "options": {
+        "ক": "সংস্কৃত বাংলা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "সংস্কৃত",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_016",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 16,
+      "question": "নিচের কোনটি মীর মশাররফ হোসেনের জন্ম-মৃত্যু সাল?",
+      "options": {
+        "ক": "১৮৪৭-১৯১১ খ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৮৪৭-১৯১১",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_017",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 17,
+      "question": "রবীন্দ্রনাথের 'সোনার তরী' কবিতা কোন ছন্দে রচিত?",
+      "options": {
+        "ক": "স্বরবৃত্ত খ অক্ষরবৃত্ত",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মাত্রাবৃত্ত",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_30_018",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 18,
+      "question": "'সাহচর্য' শব্দের শুদ্ধ গঠন কোনটি?",
+      "options": {
+        "ক": "সহ + চর + য খ সহচর + ফলা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সহচর / য",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_30_019",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 19,
+      "question": "'পাহাড়তলী' গ্রামে জন্মগ্রহণ করেন-",
+      "options": {
+        "ক": "মুকুন্দরাম চক্রবর্তী খ সৈয়দ শামসুল হক",
+        "খ": "সুভাষ মুখোপাধ্যায়",
+        "গ": "গ্রাম্যগীতিকা ঘ রূপকথা-উপকথা",
+        "ঘ": "কৃষ্ণচন্দ্র মজুমদার"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_020",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 20,
+      "question": "'পূর্বাশা' পত্রিকার সম্পাদক ছিলেন-",
+      "options": {
+        "ক": "মুন্সী মেহেরুল্লাহ খ সঞ্জয় ভট্টাচায",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সঞ্জয় ভট্টাচার্য",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_021",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 21,
+      "question": "expresses the meaning of the given word (২১-২১): IMPROVEMENT: Pronnotio11 খ Advancement নোট: অপশনে 'খ' এবং গ' উভয়ই সঠিক উত্তর ! ১২ AMICABLE Interesting Loving",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Friendly",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_30_023",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 23,
+      "question": "Opposite word for LIABILITY: Treasure Debt",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Assets",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_30_024",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 24,
+      "question": "Opposite word for HATE:",
+      "options": {
+        "ক": "Anire Abhor",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Admire",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_30_025",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 25,
+      "question": "In each of the following questions, out of the be substituted for the given words sentence:- A song embodying religious and sacred emotions",
+      "options": {
+        "ক": "Lyric খ. 00e",
+        "খ": "",
+        "গ": "কামিনী রায় ঘ: মোজাম্মেল হক",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Hymn",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_30_026",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 26,
+      "question": "Time after twilight and before night-",
+      "options": {
+        "ক": "Evening ছ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "adherence",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_30_028",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 28,
+      "question": "Reason is the highest faculty 011 entrusted endowed",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "bestowed",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_30_029",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 29,
+      "question": "Rishan walks as if he lame.",
+      "options": {
+        "ক": "1$ ছ had been",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "were",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_30_030",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 30,
+      "question": "his your answer:",
+      "options": {
+        "ক": "Neither you 1101' _ ann 111 a sou11d position",
+        "খ": "Laziness is letrimental for success",
+        "গ": "He begged the favour of my granting him leave.",
+        "ঘ": "Iour action 1s 119[ in conformity with the law"
+      },
+      "correctAnswer": "খ",
+      "answerText": "Laziness is detrimental for success",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_30_031",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 31,
+      "question": "Which sentence 1s incorrest? 1",
+      "options": {
+        "ক": "He has 1O lesire for fane",
+        "খ": "",
+        "গ": "He is too miserly to part with his money",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "[0",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_30_033",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 33,
+      "question": "To put the cart before the horse-",
+      "options": {
+        "ক": "to offer a person what he cannot eat",
+        "খ": "I intend going to Rajshahi",
+        "গ": "Dusk চা Eclipse",
+        "ঘ": "to reverse the natural order of things"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "to reverse the natural order of things",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_30_035",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 35,
+      "question": "In each of the following questions, a sentence has been given in Active (or Passive) voice",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_30_039",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 39,
+      "question": "Of the four alternatives given under each sentence, find the one that best fits into the ৩8. To read between the lines-",
+      "options": {
+        "ক": "Lo co11cen1trate",
+        "খ": "",
+        "গ": "Lo real carefully",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "wits",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_30_040",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 40,
+      "question": "The people who carry a coffin at a funeral are called - un1lertakers ছ supporters",
+      "options": {
+        "ক": "১২১২ খ ১২০০",
+        "খ": "to grasp the hidden meaning",
+        "গ": "pallbearers চা",
+        "ঘ": "L০ suspect"
+      },
+      "correctAnswer": "",
+      "answerText": "১২০৪",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_30_042",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 42,
+      "question": "প্রাচীন চন্দ্রদীপের বর্তমান নাম কী?",
+      "options": {
+        "ক": "মালদ্বীপ সন্দীপ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বরিশাল",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_30_043",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 43,
+      "question": "গণপ্রজাতন্ত্রী বাংলাদেশের মনোগ্রামে কতটি তারকা চিহ্ন রয়েছে?",
+      "options": {
+        "ক": "৪টি খ ৫টি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ফরিদপুর",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_30_045",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 45,
+      "question": "সাগরকন্যা কোন এলাকার ভৌগোলিক নাম? UCCeS$",
+      "options": {
+        "ক": "টেকনাফ খ কক্সবজার",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "লাহোের",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_30_048",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 48,
+      "question": "দেশের প্রথম ঔষধ পার্ক কোথায় স্থাপিত হচ্ছে? gঁ ক গজারিয়া খ গাজীপুর সল্্স সল্স ENCLISH শেখা হৌক আনন্দময়!",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "১২০৪ ঘ ১২১১",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "গজারিয়া",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_30_049",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 49,
+      "question": "ক্রিকেটে বাংলাদেশ কোন সালে টেস্ট মর্যাদা পায়?",
+      "options": {
+        "ক": "১৯৯ খ . ১৯৯৯",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "২০০০",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_30_050",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 50,
+      "question": "বাংলাদেশের জাতীয় ফল কোনটি?",
+      "options": {
+        "ক": "আম খ কাঁঠাল",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "কাঁঠাল",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_30_051",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 51,
+      "question": "ষোড়শ সার্ক সম্মেলন কোথায় অনুষ্ঠিত হয়?",
+      "options": {
+        "ক": "ঢাক খ কাঠমাণ্ডু",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ডিনামাইট",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_054",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 54,
+      "question": "নিম্নের কোন দেশটি জি-৮ এর সদস্য নয়?",
+      "options": {
+        "ক": "জাপন খ যুক্তরাজ্য",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সুইডেন",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_30_055",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 55,
+      "question": "হাজার হ্রদের দেশ কোনটি?",
+      "options": {
+        "ক": "নরওয় ফিনল্যান্ড",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ফিনল্যান্ড",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_057",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 57,
+      "question": "কবে রেডক্রস প্রতিষ্ঠিত হয়?",
+      "options": {
+        "ক": "১৮৬৩ সালে খ ১৮৬৮ সালে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৯০৪",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_060",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 60,
+      "question": "কিরগিজস্তানের রাজধানী কোথায়?",
+      "options": {
+        "ক": "বিশকেক খ আলমাআতা",
+        "খ": "",
+        "গ": "১000 চা ২০০১",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "বিশকেক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_062",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 62,
+      "question": "গ্রিনহাউস ইফ্েক্টের পরিণতিতে বাংলাদেশের সবচেয়ে গুরুতর ক্ষতি কী হবে? ৬১. রাসায়নিক অগ্নিনির্বাপক কাজ করে অগ্নিতে-",
+      "options": {
+        "ক": "হাইড্রোজেন সরবরাহ করে",
+        "খ": "",
+        "গ": "অক্সিজেন সরবরাহ করে",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নিম্নভূমি নিমজ্জিত হবে",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_30_063",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 63,
+      "question": "সংকর ধাতু পিতলের উপাদান-",
+      "options": {
+        "ক": "তামা ও টিন খ তম ও দস্তা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "তামা ও দস্তা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_064",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 64,
+      "question": "বৈদ্যুতিক পাখা ধীরে ধীরে ঘুরলে বিদ্যুৎ খরচ-",
+      "options": {
+        "ক": "কম হয় খ খুব কম হয়",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "একই হয়",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_065",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 65,
+      "question": "রঙিন টেলিভিশন থেকে ক্ষতিকর রশ্মি বের হয়?",
+      "options": {
+        "ক": "গামা রশি খ বিটা রশ্মি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "রঞ্জন রশি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_066",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 66,
+      "question": "ডায়াবেটিস রোগ সম্পর্কে যে তথ্যটি সত্য নয় তা হলো-",
+      "options": {
+        "ক": "এ রোগ মানবদেহের কিডনী নষ্ট করে !",
+        "খ": "",
+        "গ": "এ রোগ হলে রক্তে গ্লকোজের মাত্রা বৃদ্ধি পায় /",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "চিনি জাতীয় খাবার বেশি খেলে এ রোগ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_067",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 67,
+      "question": "এনজিওপ্লাস্টি হচ্ছে-",
+      "options": {
+        "ক": "হৃংপিন্ডের বন্ধ শিরা বেলুনের সাহায্যে ফুলানো",
+        "খ": "",
+        "গ": "হৃংপিন্ডের মৃত টিস্যু কেটে দেয়া",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "হৃংপিন্ডের বন্ধ শিরা বেলুনের সাহায্যে ফুলানো",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_068",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 68,
+      "question": "অ্যালুমিনিয়াম সালফেটকে চলতি বাংলায় কী বলে?",
+      "options": {
+        "ক": "ফিটকিরি খ চুন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ফিটকিরি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_069",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 69,
+      "question": "ডেঙ্গু জ্বরের বাহক কোন মশা?",
+      "options": {
+        "ক": "কিউলেক্স খ এডিস",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "এডিস",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_070",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 70,
+      "question": "সুনামির (Tsunami)) কারণ হলো-",
+      "options": {
+        "ক": "আগ্নেয়গিরির অগ্নুৎপাত",
+        "খ": "নাইট্রোজেন সরবরাহ করে",
+        "গ": "তম নিকেল ঘ তামা ও সিসা",
+        "ঘ": "অক্সিজেন সরবরাহে প্রতিবন্ধকতা সৃষ্টি করে"
+      },
+      "correctAnswer": "",
+      "answerText": "সমুদ্র তলদেশের ভূমিকম্প",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_30_071",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 71,
+      "question": "কত বছর পর পর হ্যালির ধূমকেতু দেখা যায়?",
+      "options": {
+        "ক": "খ ৬৫ বছর",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "৭৬ বছর",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_072",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 72,
+      "question": "জমির লবণাক্ততা নিয়ন্ত্রণ করে কোনটি?",
+      "options": {
+        "ক": "কৃত্রিম সার প্রয়োগ খ জমিতে নাইট্রোজেন ধরে রাখা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "পানি সেচ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_073",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 73,
+      "question": "কিসের অভাবে ফসলের পরিপকতা বিলম্বিত হয়?",
+      "options": {
+        "ক": "দস্তা খ সালফার",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "সালফার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_078",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 78,
+      "question": "নবায়নযোগ্য জ্বালানি কোনটি?",
+      "options": {
+        "ক": "পরমাণু শক্তি খ কয়লা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ইন্টারনেট",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_079",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 79,
+      "question": "কোন মাধ্যমে শব্দের গতি সর্বাপেক্ষা কম? ruda",
+      "options": {
+        "ক": "শূন্যতায়",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "পদার্থবিদ",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_30_080",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 80,
+      "question": "ফল পাকানাের জন্য দায়ী কী?",
+      "options": {
+        "ক": "ইথিলিন খ প্রপিন",
+        "খ": "",
+        "গ": "৭৬ বছর দা. 9 বর",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৭০",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_084",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 84,
+      "question": "একটি সংখ্যা ৩০১ হতে যত বড় ৩৮১ হতে তত ছোট। সংখ্যাটি কত?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_30_085",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 85,
+      "question": "",
+      "options": {
+        "ক": "ও খ একত্রে একটি কাজ ১২ দিনে করতে পারে! ক একা কাজটি ২০ দিনে করতে পারে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৩০ দিনে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_086",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 86,
+      "question": "ftx) = r3 +Li' _ 6x - 9; k এর মান কত হলে {(3)",
+      "options": {
+        "ক": "1 1",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "0",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_30_087",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 87,
+      "question": "Y > J এবং 2 < ০ হলে নিচের কোনটি সঠিক?",
+      "options": {
+        "ক": "ZZ > JZ খ`",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "YZ <",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_30_088",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 88,
+      "question": "একটি",
+      "options": {
+        "ক": "30 মিটার ছ 40",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "50 মিটার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_089",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 89,
+      "question": "নিচের কোনটি বৃত্তের সমীকরণ?",
+      "options": {
+        "ক": "2 / | = 0 খ ,2",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "x2 you1 success",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_090",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 90,
+      "question": "a = 3 হলে a 3 + 3 এর মান কত? a",
+      "options": {
+        "ক": "৯ ১৮",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_30_091",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 91,
+      "question": "কত? 11",
+      "options": {
+        "ক": "logam logan খ` logam |",
+        "খ": "একা কাজটি",
+        "গ": "৬৩ ঘ ৫",
+        "ঘ": "12"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "12",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_30_093",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 93,
+      "question": "দুটি সন্নিহিত কোণের সমষ্টি দুই সমকোণ হলে একটিকে অপরটির কী বলে?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_095",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 95,
+      "question": "দুটি ত্রিভুজ পরস্পর সর্বসম হওয়ার জন্য নিচের কোন শতটি যথেষ্ট নয়?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "একটির দুই কোণ ও এক বাহু অপরটির দুই বাহু ও অনুরূপ বাহুর সমান",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_30_097",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 97,
+      "question": "একটি মিনারের পাদদেশ হতে ২০ মিটার দূরের একটি স্থান হতে মিনারটির শীর্ষবিন্দুর উন্নতি কোণ",
+      "options": {
+        "ক": "সন্নিহিত কোণ সরলকোণ",
+        "খ": "একটির তিন কোণ অপরটির তিন কোণের সমান",
+        "গ": "20/1 3 মিটার",
+        "ঘ": "একটির দুই বাহু ও অন্তর্ভুক্ত কোণ অপরটির দুই বাহু"
+      },
+      "correctAnswer": "গ",
+      "answerText": "20/1 3 মিটার",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_30_098",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 98,
+      "question": "১৩৩/৪)% এর সমান-",
+      "options": {
+        "ক": "১১৮০ খ ১১ ২০",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১১ ৮০",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_30_099",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 99,
+      "question": "৩, ৯ ও ৪ এর চতুর্থ সমানুপাতিক",
+      "options": {
+        "ক": "৪ ১8",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১২",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_30_100",
+      "exam": "30th BCS Preliminary",
+      "examCode": "bcs_30",
+      "questionNo": 100,
+      "question": "3x 3 2x2 21x 20 রাশিটির একটি উতপাদক হচ্ছে-",
+      "options": {
+        "ক": "$ + 2 খ $ - 2",
+        "খ": "",
+        "গ": "পূরককোণ ঘ সম্পূরক কোণ",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "$ + 1",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "30th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    }
+  ]
+}

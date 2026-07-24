@@ -1,0 +1,1589 @@
+{
+  "examName": "15th BCS Preliminary",
+  "examCode": "bcs_15",
+  "totalQuestions": 64,
+  "validation": {
+    "totalDetected": 64,
+    "highestQuestionNo": 100,
+    "missing": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      9,
+      21,
+      22,
+      27,
+      34,
+      35,
+      36,
+      37,
+      41,
+      42,
+      43,
+      44,
+      47,
+      52,
+      53,
+      56,
+      58,
+      59,
+      64,
+      65,
+      66,
+      67,
+      72,
+      74,
+      75,
+      77,
+      79,
+      84,
+      85,
+      86,
+      87
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 35,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_15_001",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 1,
+      "question": "! সুন্দর হে, দাও দাও সুন্দর জীবন ! হউক দূর অকল্যাণ সকল অশোভন '- চরণ দুটি কার লেখা?",
+      "options": {
+        "ক": "কাজী নজরুল ইসলাম",
+        "খ": "রবীন্দ্রনাথ ঠাকুর",
+        "গ": "গোলাম মোস্তফা",
+        "ঘ": "শেখ ফজলুল করিম"
+      },
+      "correctAnswer": "",
+      "answerText": "জরডান",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_15_003",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 3,
+      "question": "'ক্রুজিরো' কোন দেশের মুদ্রার নাম?",
+      "options": {
+        "ক": "লুক্সেমবার্গ",
+        "খ": "বাজিল",
+        "গ": "কম্বোডিয়া",
+        "ঘ": "মঙ্গোলিয়া"
+      },
+      "correctAnswer": "খ",
+      "answerText": "ব্রাজিল",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_15_008",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 8,
+      "question": "The World Economic Forum' কর্তৃক নির্ধারিত International Competitiveness Ranking-এ ১৯৯৩ সালে কোন দেশ সর্বোচ্চ স্থান অধিকার করেছে? যুক্তরাষ্ট্র",
+      "options": {
+        "ক": "অষ্টম",
+        "খ": "জাপান",
+        "গ": "জামানি",
+        "ঘ": "দক্ষিণ কোরিয়া"
+      },
+      "correctAnswer": "",
+      "answerText": "listen",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_15_010",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 10,
+      "question": "Which of the following ages in literary history is the latest? The Augustan Age ছ The Victorian Age",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "The Georgian Age",
+        "ঘ": "The Restoration Age"
+      },
+      "correctAnswer": "গ",
+      "answerText": "The Georgian Age",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_15_011",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 11,
+      "question": "! Wisdom শব্দের বাংলা অর্থ-",
+      "options": {
+        "ক": "জ্ঞান",
+        "খ": "বুদ্ধ",
+        "গ": "মমধা",
+        "ঘ": "প্রজ্ঞা"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "প্রজ্ঞা",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_15_012",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 12,
+      "question": "The first English dictionary was compiled by-",
+      "options": {
+        "ক": "Iazak Walton",
+        "খ": "Samuel Johnson",
+        "গ": "Samual Butler",
+        "ঘ": "Sir Thomas Browne"
+      },
+      "correctAnswer": "খ",
+      "answerText": "Samuel Johnson",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_15_013",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 13,
+      "question": "স্বাধীনতা যুদ্ধকালে বাংলাদেশকে কয়টি সেক্টরে ভাগ করা হয়েছিল?",
+      "options": {
+        "ক": "৯ টি",
+        "খ": "১০ টি",
+        "গ": "১১ টি",
+        "ঘ": "১২ টি"
+      },
+      "correctAnswer": "গ",
+      "answerText": "১১ টি",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_15_014",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 14,
+      "question": "নিম্নের কোন আন্তর্জাতিক সংস্থার সদর দপ্তর Sido: বাংলাদেশে অবস্থিত?",
+      "options": {
+        "ক": "IJ",
+        "খ": "",
+        "গ": "SAAR",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "IJO",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_15_015",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 15,
+      "question": "ওয়াল স্স্ট্রিট কোথায় অবস্থিত?",
+      "options": {
+        "ক": "ডালাস",
+        "খ": "",
+        "গ": "নিউইয়ক",
+        "ঘ": "হংকং"
+      },
+      "correctAnswer": "গ",
+      "answerText": "নিউইয়ক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_15_016",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 16,
+      "question": "আকাশ নীল দেখায় কেন?",
+      "options": {
+        "ক": "নীল আলোর তরঙ্গ দৈর্ঘ্য বেশি বলে",
+        "খ": "নীল সমুদ্রের প্রতিফলনের ফলে",
+        "গ": "নীল আলোর বিক্ষেপণ অপেক্ষাকৃত বেশি বলে",
+        "ঘ": "নীল আলোর প্রতিফলন বেশি বলে"
+      },
+      "correctAnswer": "গ",
+      "answerText": "নীল আলোর বিক্ষেপণ অপেক্ষাকৃত বেশি বলে",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_15_017",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 17,
+      "question": "! ১ বর্গইঞচি কত বর্গ সেন্টিমিটারের সমান? ক",
+      "options": {
+        "ক": "",
+        "খ": "৭.9>",
+        "গ": "৬.8৫",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৬৪৫",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_15_018",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 18,
+      "question": "যে ভূমিতে ফসল জন্মায় না-",
+      "options": {
+        "ক": "পতিত",
+        "খ": "অনুবর",
+        "গ": "ঊষর",
+        "ঘ": "বন্ধ্যা"
+      },
+      "correctAnswer": "গ",
+      "answerText": "ঊষর",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_15_019",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 19,
+      "question": "'অপমান' শব্দের 'অপ' উপসর্গটি কোন অর্থে ব্যবহৃত?",
+      "options": {
+        "ক": "বিপরীত",
+        "খ": "নিকৃষ্ট",
+        "গ": "বিকৃত",
+        "ঘ": "অভাব"
+      },
+      "correctAnswer": "ক",
+      "answerText": "বিপরীত",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_15_020",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 20,
+      "question": "| 'সোনালী কাবিন' এর রচয়িতা কে?",
+      "options": {
+        "ক": "হাসান হাফিজুর রহমান",
+        "খ": "Who all",
+        "গ": "হুমায়ুন আজাদ",
+        "ঘ": "শক্তি চট্টোপাধ্যায়"
+      },
+      "correctAnswer": "",
+      "answerText": "The patriots are always remembered",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_15_023",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 23,
+      "question": "! রবীন্দ্রনাথ ঠাকুর তাঁর রচিত কোন নাটকটি কাজী নজরুল ইসলামকে উৎসর্গ করেছিলেন?",
+      "options": {
+        "ক": "বিসর্জন",
+        "খ": "ডাকঘর দদ hali",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_15_024",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 24,
+      "question": "বাংলা একাডেমি থেকে প্রকাশিত ত্রৈমাসিক সাহিত্য পত্রিকার না-",
+      "options": {
+        "ক": "সুন্দরম",
+        "খ": "লোকায়ত",
+        "গ": "উত্তরাধিকার",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "উত্তরাধিকার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_15_025",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 25,
+      "question": "ঢাকা মুসলিম সাহিত্য সমাজ' এর প্রধান লেখক ছিলেন-",
+      "options": {
+        "ক": "কাজী আবদুল ওদুদ, আবুল হুসেন প্রমুখ",
+        "খ": "মোহাম্মদ বরকত উল্লাহ আবুল কালাম শামসুদ্দীন প্রমুখ",
+        "গ": "মোহম্মদ আকরাম খাঁ, মুহম্মদ শহীদুল্লাহ প্রমুখ",
+        "ঘ": "কাজী ইমদাদুল হক, মোহম্মদ ওয়াজেদ আলী প্রমুখ"
+      },
+      "correctAnswer": "ক",
+      "answerText": ". কাজী আবদুল ওদুদ, আবুল হুসেন প্রমুখ",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_15_026",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 26,
+      "question": "পরস্পরকে স্পর্শ করে আছে এমন তিনটি বৃত্তের কেন্দ্র P, `, R এবং PO a, OR = b, RP C হলে P কেন্দ্রিক বৃত্তের ব্যাস হবে-",
+      "options": {
+        "ক": "a + ` + `",
+        "খ": "৮ + c - a",
+        "গ": "< + 2 -1",
+        "ঘ": "a -৮ + `"
+      },
+      "correctAnswer": "",
+      "answerText": "সমদ্বিবাহু",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_15_028",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 28,
+      "question": "১ থেকে ৯৯ পর্যন্ত সংখ্যার যোগফল-",
+      "options": {
+        "ক": "৪৮৫",
+        "খ": "৪৯৫০",
+        "গ": "৫৭৫০",
+        "ঘ": "৫৯৫০"
+      },
+      "correctAnswer": "খ",
+      "answerText": "৪৯৫০",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_15_029",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 29,
+      "question": "La = 1, ৮ = - 1, C = 2, d = - 2 হলে; a - (-৮) (_c) - (_ d) এর মান কত?",
+      "options": {
+        "ক": "0",
+        "খ": "1",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_15_030",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 30,
+      "question": "| ইসলামিক উন্নয়়ন ব্যাংককে (IDB) দেয়া বাংলাদেশের চাঁদার হার কত?",
+      "options": {
+        "ক": "২৫০ মিলিয়ন ইসলামিক দিনার",
+        "খ": "১৫৫ মিলিয়ন ইসলামিক দিনার",
+        "গ": "১০০ মিলিয়ন ইসলামিক দিনার",
+        "ঘ": "কোনো চাঁদা দিতে হয় না"
+      },
+      "correctAnswer": "গ",
+      "answerText": "১০০ মিলিয়ন ইসলামিক দিনার",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_15_031",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 31,
+      "question": "! 'ঠক চাচা' চরিত্রটি কোন উপন্যাসে পাওয়া যায়?",
+      "options": {
+        "ক": "আলালের ঘরের দুলাল",
+        "খ": "জোহরা",
+        "গ": "মৃত্যুক্ষুধা",
+        "ঘ": "হাজার বছর ধরে"
+      },
+      "correctAnswer": "ক",
+      "answerText": "আলালের ঘরের দুলাল",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_15_032",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 32,
+      "question": "! 'বঙ্গদর্শন' পত্রিকা কোন সালে প্রথম প্রকাশিত হয়?",
+      "options": {
+        "ক": "১৮৬৫",
+        "খ": "১৮৭২",
+        "গ": "১৮৭৫",
+        "ঘ": "১৮৮১"
+      },
+      "correctAnswer": "খ",
+      "answerText": "১৮৭২",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_15_033",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 33,
+      "question": "What is the meaning of the word 'intrepid'? id0",
+      "options": {
+        "ক": "arrogant",
+        "খ": "beligerent",
+        "গ": "questioning",
+        "ঘ": "fearless"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "fearless",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_15_038",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 38,
+      "question": "What is the meaning of the expression 'bottom line'?",
+      "options": {
+        "ক": "The final step",
+        "খ": "The enl or a roal",
+        "গ": "The last line of a book",
+        "ঘ": "The essential point"
+      },
+      "correctAnswer": "",
+      "answerText": "৫,৪০০ কিমি",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_15_039",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 39,
+      "question": "বাংলাদেশের GDP- তে কৃষিখাতের অবদান কত শতাংশ?",
+      "options": {
+        "ক": "১৭. ৩%",
+        "খ": "১৮০১%",
+        "গ": "১১.%",
+        "ঘ": "১১০ %"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "১১০২%",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_15_040",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 40,
+      "question": "বাংলাদেশ ও মিয়ানমার কোন নদী দবারা বিভক্ত?",
+      "options": {
+        "ক": "থাফ",
+        "খ": "কর্ণফুলী",
+        "গ": "নবগঙ্গা",
+        "ঘ": "নয়াদিল্লি"
+      },
+      "correctAnswer": "",
+      "answerText": "Andre Agassi",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_15_045",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 45,
+      "question": "কোন নেতা ফরায়েজী আন্দোলনের নেতৃত্ব দেন?",
+      "options": {
+        "ক": "তিতুমীর",
+        "খ": "সৈয়দ আহমদ বেরেলভি",
+        "গ": "দুদু মিয়া",
+        "ঘ": ". হাজী শরীয়তউল্লাহ"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": ". হাজী শরীয়তউল্লাহ",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_15_046",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 46,
+      "question": "তেঁতুলিয়া কোন জেলায় অবস্থিত?",
+      "options": {
+        "ক": "দিনাজপুর",
+        "খ": "পঞ্চগড়",
+        "গ": "জয়পুরহাট",
+        "ঘ": "নবাব মুর্শিদকুলি খাঁ"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "নবাব মুর্শিদকুলি খাঁ",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_15_048",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 48,
+      "question": "১৯০৫ সালে নবগঠিত প্রদেশের প্রথম লেফটেন্যান্ট গভর্নর ছিলেন-",
+      "options": {
+        "ক": "ব্যামফিল্ড ফুলার",
+        "খ": "লড মিন্টো",
+        "গ": "লর্ড কার্জন",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ব্যামফিল্ড ফুলার",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_15_049",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 49,
+      "question": "হিমছড়ি কোন শহরের নিকট অবস্থিত? Da11",
+      "options": {
+        "ক": "চট্টগ্রাম",
+        "খ": "খুলনা",
+        "গ": "কক্সবাজার",
+        "ঘ": "রাজশাইী"
+      },
+      "correctAnswer": "গ",
+      "answerText": "কক্সবাজার",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_15_050",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 50,
+      "question": "Are you doing anything special +he weekend? Fill in the gap with appropriate preposition 111",
+      "options": {
+        "ক": "চট্টগ্রাম",
+        "খ": "fo1",
+        "গ": "ঢাকা",
+        "ঘ": "a'"
+      },
+      "correctAnswer": "",
+      "answerText": "সিলেট",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_15_051",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 51,
+      "question": "বাংলাদেশের পানি সম্পদের চাহিদা সবচেয়ে বেশি Sidd: কোন খাতে?",
+      "options": {
+        "ক": "আবাসিক",
+        "খ": "কাষি",
+        "গ": "পরিবহন",
+        "ঘ": "শিল্প"
+      },
+      "correctAnswer": "",
+      "answerText": "১৩ সেপ্টেম্বর, ১৯৯৩",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_15_054",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 54,
+      "question": "রিওডি জেনিরিওতে অনুষ্ঠিত 'ধরিত্রী সম্মেলন'-এ কত দেশের প্রতিনিধি অংশগ্রহণ করেছিল?",
+      "options": {
+        "ক": "১৫০",
+        "খ": "১৫৬",
+        "গ": "১৭৮",
+        "ঘ": "১৭৯"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "১৭৯",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_15_055",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 55,
+      "question": "I Club of Vienna' কি?",
+      "options": {
+        "ক": "অস্স্রিয়ার একটি বিখ্যাত পান্থশালা",
+        "খ": "পশ্চিম ইউরোপের প্রধান বাণিজ্যিক ব্যাংকগুলোর",
+        "গ": "একটি বিশ্ব উন্নয়ন সংক্রান্ত গবেষণা প্রতিষ্ঠান",
+        "ঘ": "পশ্চিম ইউরোপের চিত্রশিল্পীদের একটি সংগঠন"
+      },
+      "correctAnswer": "",
+      "answerText": "১৯৯৩ সাল",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_15_057",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 57,
+      "question": "/ ১৯৯৩ সালে জাতিসংঘের তত্ত্বাবধানে কম্বোডিয়ায় অনুষ্ঠিত নির্বাচনে কোন দল বিজয়ী হয়েছে?",
+      "options": {
+        "ক": "ফুনসিনপেক",
+        "খ": "সিপিপি",
+        "গ": "খেমাররুজ",
+        "ঘ": "ফুসফুস হঠাৎ বিকল হয়ে যাওয়া"
+      },
+      "correctAnswer": "",
+      "answerText": "জারক রস (enzyme) বিতরণ করা",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_15_060",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 60,
+      "question": "ডিজিটাল ঘড়ি বা ক্যালকুলেটরে কালচে অনুজ্জ্বল যে লেখা ফুটে ওঠে তা কিসের ভিত্তিতে তৈরি?",
+      "options": {
+        "ক": "এলইডি",
+        "খ": "সিলিকন চিপ",
+        "গ": "এলসিডি",
+        "ঘ": "আইসি"
+      },
+      "correctAnswer": "গ",
+      "answerText": "এলসিডি",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_15_061",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 61,
+      "question": "Which of the following is a correct sentence? Ie was too clever not to miss the point",
+      "options": {
+        "ক": "",
+        "খ": "He was so clever to niss the point",
+        "গ": "He was too clever to miss the point.",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "He was too clever to miss the point.",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_15_062",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 62,
+      "question": "! The 'Poet Laureate' is- suCcess benchnnaie",
+      "options": {
+        "ক": "the best poet of the country",
+        "খ": "winner of the Noble Prize in poetry",
+        "গ": "the court poet England",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "the court poet England",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_15_063",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 63,
+      "question": "Which of the following school of literary writings is connected with a medical theory? Comedy of Manners",
+      "options": {
+        "ক": "",
+        "খ": "Theater of the Absur]",
+        "গ": "Heroic Tragedy",
+        "ঘ": "Comedy of Humours"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "Comedy of Humours",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_15_068",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 68,
+      "question": "Who of the following was both a poet and painter? Do111e",
+      "options": {
+        "ক": "জীবনানুভূতির গভীরতায়",
+        "খ": "ক্রিয়াপদ ও সর্বনাম পদের রূপে",
+        "গ": "Blake",
+        "ঘ": "বাক্যের সরলতা ও জটিলতায়"
+      },
+      "correctAnswer": "",
+      "answerText": "কালীপ্রসন্ন ঘোষ",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_15_069",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 69,
+      "question": "'সুশিক্ষিত লোক মাত্রই স্বশিক্ষিত' এই উক্তিটি কার?",
+      "options": {
+        "ক": "রবীন্দ্রনাথ ঠাকুর",
+        "খ": "কাজী আবদুল ওদুদ",
+        "গ": "মোহম্মদ লুৎফর রহমান",
+        "ঘ": "প্রমথ চৌধুরী"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "প্রমথ চৌধুরী",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_15_070",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 70,
+      "question": "বাতাসের নাইট্রোজেন কিভাবে মাটির উর্বরতা বৃদ্ধি করে?",
+      "options": {
+        "ক": "সরাসটি মাটিতে মিশ্রিত হয়ে জৈব বস্তু প্রস্তুত করে",
+        "খ": "ব্যাকটেরিয়ার সাহায্যে উদ্ভিদের গ্রহণ ও উপযোগী বস্তু",
+        "গ": "পানিতে মিশে মটিতে শোষিত হওয়ার ফলে",
+        "ঘ": "মাটির অজৈব লবণকে পরিবর্তিত করে"
+      },
+      "correctAnswer": "গ",
+      "answerText": "পানিতে মিশে মাটিতে শোষিত হওয়ার ফলে",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_15_071",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 71,
+      "question": "গিনহাউজ ইফ্েক্টের' পরিণতিতে বাংলাদেশের সবচেয়ে গুরুতর প্রত্যক্ষ ক্ষতি কী হবে?",
+      "options": {
+        "ক": "উত্তাপ অনেক বেড়ে যাবে",
+        "খ": "নিম্নভূমি নিমজ্জিত হবে",
+        "গ": "সাইক্লোনের প্রবণতা বাড়বে )id0",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "নিম্নভূমি নিমজ্জিত হবে",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_15_073",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 73,
+      "question": "নিত্য ব্যবহার্য বহু 'এরোসোলের' কৌটায় এখন লেখা থাকে 'সিএফসি' বিহীন! সিএফসি গ্যাস কেন ক্ষতিকারক?",
+      "options": {
+        "ক": "ফুসফুসে রোগ সষ্টি করে",
+        "খ": "১১০",
+        "গ": "ওজোনস্তরে ফুটো সষ্টি করে",
+        "ঘ": "দাহ্য বলে অগ্নিকান্ডের সম্ভাবনা ঘটায়"
+      },
+      "correctAnswer": "",
+      "answerText": "৩০",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_15_076",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 76,
+      "question": "/ 2 + Y) + 3 = 3 x + 2) হলে x এর মান কত? 1 2 ? 3",
+      "options": {
+        "ক": "0.3",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_15_078",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 78,
+      "question": "! শুদ্ধ বানানটি নির্দেশ করুন-",
+      "options": {
+        "ক": "মুহুমুহু",
+        "খ": "দিব লোক",
+        "গ": "মুহমূহু",
+        "ঘ": "মুহুমূহু"
+      },
+      "correctAnswer": "খ",
+      "answerText": "দিব | লোক",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_15_080",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 80,
+      "question": "| 'তাপ' শব্দের বিপরীতার্থক শব্দ-",
+      "options": {
+        "ক": "শৈত্য",
+        "খ": "",
+        "গ": "",
+        "ঘ": "িম"
+      },
+      "correctAnswer": "ক",
+      "answerText": "শৈত্য",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_15_081",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 81,
+      "question": "আলট্রাসনোগরাফি কী?",
+      "options": {
+        "ক": "নতুন ধরনের এক্সরে",
+        "খ": "ছোট তরঙ্গদৈর্ঘ্যরে শব্দের দ্বারা ইমেজিং",
+        "গ": "শরীরের অভ্যন্তরের শব্দ",
+        "ঘ": "শক্তিশালী শব্দ দিয়ে পিত্তপাথর বিচূর্ণীকরণ"
+      },
+      "correctAnswer": "খ",
+      "answerText": "ছোট তরঙ্গদৈর্ঘ্যরে শব্দের দ্বারা ইমেজিং",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_15_082",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 82,
+      "question": "বাংলাদেশে তড়িং-এর কম্পাঙ্ক (frequency) প্রতি সেকেন্ডে ৫০ সাইকেল-এর তাপর্য কী?",
+      "options": {
+        "ক": "প্রতি সেকেন্ড বিদ্যুৎ প্রবাহ ৫০ বার বন্ধ হয়",
+        "খ": "প্রতি সেকেন্ডে বিদ্যুৎ প্রবাহ ৫০ একক দৈর্ঘ্য অতিক্রম",
+        "গ": "প্রতি সেকেন্ডে বিদ্যুৎ প্রবাহ ৫০ বার দিক বদলায়",
+        "ঘ": "প্রতি সেকেন্ডে বিদ্যুৎ প্রবাহ ৫০ বার উঠানামা করে"
+      },
+      "correctAnswer": "গ",
+      "answerText": "প্রতি সেকেন্ডে বিদ্যুৎ প্রবাহ ৫০ বার দিক বদলায়",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_15_083",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 83,
+      "question": "নদীর একপাশ থেকে গুন টেনে নৌকাকে মাঝ নদীতে রেখেই সামনের দিকে নেয়া সম্ভব হয় কীভাবে? যথাযথভাবে হাল ঘুরিয়ে",
+      "options": {
+        "ক": "যথাযথভাবে হাল ঘুরিয়ে",
+        "খ": "নদী স্রোতের সুকৌশল ব্যবহার",
+        "গ": "গুন টানার সময় টানটি সামনের দিকে রেখে",
+        "ঘ": "পাল ব্যবহার করে"
+      },
+      "correctAnswer": "ক",
+      "answerText": "যথাযথভাবে হাল ঘুরিয়ে",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_15_088",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 88,
+      "question": "! নিচের কোন দেশটি Group of seven (G-7) এর সদস্য নয়? ফidd:",
+      "options": {
+        "ক": "কানাডা",
+        "খ": "ইতালি",
+        "গ": "সুইডেন",
+        "ঘ": "জাপান"
+      },
+      "correctAnswer": "",
+      "answerText": "টোকিও",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_15_089",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 89,
+      "question": "বাংলাদেশের মোট রপ্তানি আয়ে রেডিমেড গা্মেন্টস- এর অংশ কত?",
+      "options": {
+        "ক": "৭৫%",
+        "খ": "৫%",
+        "গ": "৩৫%",
+        "ঘ": "৬০%"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "৬০%",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_15_090",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 90,
+      "question": "বাংলাদেশ জাতীয় সংসদের নির্ধারিত আসনে মহিলা সদস্যের সংখ্যা কত? ক Didd খ` ৩>",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "৩৫",
+        "ঘ": "৫"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "৫০",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_15_091",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 91,
+      "question": "! 'ইচ্ছা' বিশেষ্যের বিশেষণ নির্দেশ করুন !",
+      "options": {
+        "ক": "ইচ্ছাময়",
+        "খ": "",
+        "গ": "ইচ্ছুক",
+        "ঘ": "অনিচ্ছা"
+      },
+      "correctAnswer": "গ",
+      "answerText": "ইচ্ছুক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_15_092",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 92,
+      "question": "! কোন বাক্যটিতে সমধাতুজ কর্ম আছে?",
+      "options": {
+        "ক": "সে বই পড়ছে",
+        "খ": "সে গভীর চিন্তায় মগ্ন",
+        "গ": ",^ ঘুমিয়ে আছে",
+        "ঘ": "যে চাল চেলেছে তাতে তাকে ষড়যন্ত্রকারী ছাড়া"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "যে চাল চেলেছে তাতে তাকে ষড়যন্ত্রকারী ছাড়া",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_15_093",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 93,
+      "question": "What is the synonym of 'incredible'?",
+      "options": {
+        "ক": "Unbelievable",
+        "খ": "Unthinkable",
+        "গ": "Unlikely",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "Unbelievable",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_15_094",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 94,
+      "question": "What is the antonym of 'famous'?",
+      "options": {
+        "ক": "",
+        "খ": "Illiterate",
+        "গ": "Obscure",
+        "ঘ": "Innmnature"
+      },
+      "correctAnswer": "গ",
+      "answerText": "Obscuire",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_15_095",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 95,
+      "question": "'Plebiscite' is a termn related to - ?",
+      "options": {
+        "ক": "Melicine",
+        "খ": "Technology",
+        "গ": "La",
+        "ঘ": "Politics"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "Politics",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_15_096",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 96,
+      "question": "Who wrote 'beauty is truth, truth is beauty'? Shakespeare",
+      "options": {
+        "ক": "",
+        "খ": "Worlsworth",
+        "গ": "Teats",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "[eats",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_15_097",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 97,
+      "question": "Many islands make up an isles idd",
+      "options": {
+        "ক": "",
+        "খ": "a11 archipelago",
+        "গ": "১ peninsula",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "archipelago you1 SUC' বাংলাদেশের জনসংখ্যা",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_15_098",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 98,
+      "question": "বাংলাদেশে সরকারি মেডিকেল কলেজের সংখ্যা কত?",
+      "options": {
+        "ক": "9৭",
+        "খ": "৩৭",
+        "গ": "9৬",
+        "ঘ": "৪১"
+      },
+      "correctAnswer": "খ",
+      "answerText": "৩৭",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_15_099",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 99,
+      "question": "সেন্টমাটিন দীপ-এর অপর নাম কী?",
+      "options": {
+        "ক": "নারিকেল জিঞ্জিরা",
+        "খ": "সোনাদিয়া",
+        "গ": "কুতুবদিয়া",
+        "ঘ": "নিঝুম দ্বীপ"
+      },
+      "correctAnswer": "ক",
+      "answerText": "নারিকেল জিঞ্জিরা",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_15_100",
+      "exam": "15th BCS Preliminary",
+      "examCode": "bcs_15",
+      "questionNo": 100,
+      "question": "ষষ্ঠ জনশুমারি ও গৃহগণনা ২০২২- অনুসারে; বাংলাদেশের বর্তমান জনসংখ্যা কত?",
+      "options": {
+        "ক": "১৬ কোটি ৫১ লাখ",
+        "খ": "১৬ কোটি ৫৪ লাখ",
+        "গ": "১৬ কোটি ৫৯ লাখ",
+        "ঘ": "১৬ কোটি ৫২ লাখ"
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৬ কোটি ৫১ লাখ",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "15th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    }
+  ]
+}

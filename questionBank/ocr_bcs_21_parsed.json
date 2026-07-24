@@ -1,0 +1,315 @@
+{
+  "examName": "21th BCS Preliminary",
+  "examCode": "bcs_21",
+  "totalQuestions": 12,
+  "validation": {
+    "totalDetected": 12,
+    "highestQuestionNo": 22,
+    "missing": [
+      2,
+      3,
+      4,
+      6,
+      8,
+      12,
+      14,
+      15,
+      16,
+      17
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 10,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_21_001",
+      "exam": "21th BCS Preliminary",
+      "examCode": "bcs_21",
+      "questionNo": 1,
+      "question": "! 'বাঙ্গালা ভাষার ইতিবৃত্ত' কার রচনা?",
+      "options": {
+        "ক": "মুহম্মদ শহীদুল্লাহ",
+        "খ": "মোফাজ্জল হায়দার চৌধুরী",
+        "গ": "কৃষ্ণমোহন বন্দ্যোপাধ্যায়",
+        "ঘ": "মুহম্মদ আবদুল হাই"
+      },
+      "correctAnswer": "",
+      "answerText": "বিষের বাঁশী",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "21th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_21_005",
+      "exam": "21th BCS Preliminary",
+      "examCode": "bcs_21",
+      "questionNo": 5,
+      "question": "! 'কবর' নাটক কার রচনা?",
+      "options": {
+        "ক": "শহীদুল্লা কায়সার",
+        "খ": "জহির রায়হান",
+        "গ": "মুনীর চৌধুরী",
+        "ঘ": "গণ্যমান্যদের সমাগম"
+      },
+      "correctAnswer": "",
+      "answerText": "প্রিয়জন সমাগম",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "21th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_21_007",
+      "exam": "21th BCS Preliminary",
+      "examCode": "bcs_21",
+      "questionNo": 7,
+      "question": "ণ-ত্ব বিধি সাধারণত কোন শব্দে প্রযোজ্য?",
+      "options": {
+        "ক": "দেশি",
+        "খ": "বিদেশি",
+        "গ": "তৎসম",
+        "ঘ": "৩দ্ভব"
+      },
+      "correctAnswer": "",
+      "answerText": "শুচিস্মিতা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "21th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_21_009",
+      "exam": "21th BCS Preliminary",
+      "examCode": "bcs_21",
+      "questionNo": 9,
+      "question": "! কর্মে যাহার ক্লান্তি নাই' এই বাক্যাংশের সংক্ষিপ্ত রূপ কী? ক্লান্তিইীন ন enchnark",
+      "options": {
+        "ক": "",
+        "খ": "অক্লান্ত",
+        "গ": "অক্লান্ত কর্মী",
+        "ঘ": "অবিশাম"
+      },
+      "correctAnswer": "খ",
+      "answerText": "অক্লান্ত কর্মী",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "21th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_21_010",
+      "exam": "21th BCS Preliminary",
+      "examCode": "bcs_21",
+      "questionNo": 10,
+      "question": "ক্রিয়াপদ-",
+      "options": {
+        "ক": "সবসময় বাক্যে থাকবে",
+        "খ": "কখনো কখনো বাক্যে উহ্য থাকতে পারে",
+        "গ": "আসলে বিশেষণ থেকে অভিন্ন",
+        "ঘ": "শুধু অতীতকাল বোঝাতে বাক্যে ব্যবহৃত হয়"
+      },
+      "correctAnswer": "খ",
+      "answerText": "কখনো কখনো বাক্যে উহ্য থাকতে পারে",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "21th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_21_011",
+      "exam": "21th BCS Preliminary",
+      "examCode": "bcs_21",
+      "questionNo": 11,
+      "question": "কোনটি অনুজ্ঞা?",
+      "options": {
+        "ক": "তুমি গিয়েছিলে",
+        "খ": "তুমি যাও",
+        "গ": "তুমি যাচ্ছিলে",
+        "ঘ": "তুমি যাচ্ছ"
+      },
+      "correctAnswer": "",
+      "answerText": "শক্তি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "21th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_21_013",
+      "exam": "21th BCS Preliminary",
+      "examCode": "bcs_21",
+      "questionNo": 13,
+      "question": "কোণ বানানটি শুদ্ধ?",
+      "options": {
+        "ক": "মুমুষু",
+        "খ": "মুমূষু",
+        "গ": "মূমুষু",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "মুমূর্ষু",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "21th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_21_018",
+      "exam": "21th BCS Preliminary",
+      "examCode": "bcs_21",
+      "questionNo": 18,
+      "question": "'বিরাগী' শব্দের অর্থ কী?",
+      "options": {
+        "ক": "উদাসীন",
+        "খ": "প্রতিকূল",
+        "গ": "বাগহীন",
+        "ঘ": "বিশেষভাবে রুষ্ট"
+      },
+      "correctAnswer": "",
+      "answerText": "কয়েকটি কবিতা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "21th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_21_019",
+      "exam": "21th BCS Preliminary",
+      "examCode": "bcs_21",
+      "questionNo": 19,
+      "question": "কোনটি নাটক?",
+      "options": {
+        "ক": "কর্তার ইচ্ছায় কম",
+        "খ": "গড্ডলিকা",
+        "গ": "পল্লীসমাজ",
+        "ঘ": "সাজাহান"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "সাজাহান",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "21th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_21_020",
+      "exam": "21th BCS Preliminary",
+      "examCode": "bcs_21",
+      "questionNo": 20,
+      "question": "'আবোল-তাবোল' কার লেখা?",
+      "options": {
+        "ক": "সত্যজিং রায়",
+        "খ": "দক্ষিণারঞ্জন মিত্র মজুমদার",
+        "গ": "উপেন্দ্রকিশোর রায় চৌধুরী",
+        "ঘ": "সুকুমার রায়"
+      },
+      "correctAnswer": "",
+      "answerText": "৮০ কেজি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "21th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_21_021",
+      "exam": "21th BCS Preliminary",
+      "examCode": "bcs_21",
+      "questionNo": 21,
+      "question": "টি",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "21th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_21_022",
+      "exam": "21th BCS Preliminary",
+      "examCode": "bcs_21",
+      "questionNo": 22,
+      "question": "টি",
+      "options": {
+        "ক": "১৫",
+        "খ": "১৮",
+        "গ": "২১টি",
+        "ঘ": "২৫টি"
+      },
+      "correctAnswer": "",
+      "answerText": "সৈয়দ ওয়ালীউল্লাহ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "21th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    }
+  ]
+}

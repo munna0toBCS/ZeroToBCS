@@ -1,0 +1,1612 @@
+{
+  "examName": "29th BCS Preliminary",
+  "examCode": "bcs_29",
+  "totalQuestions": 65,
+  "validation": {
+    "totalDetected": 65,
+    "highestQuestionNo": 100,
+    "missing": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      14,
+      15,
+      16,
+      17,
+      22,
+      24,
+      27,
+      34,
+      35,
+      36,
+      37,
+      41,
+      43,
+      44,
+      47,
+      50,
+      52,
+      53,
+      54,
+      56,
+      59,
+      64,
+      65,
+      66,
+      67,
+      74,
+      77,
+      83,
+      86,
+      88
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 64,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_29_001",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 1,
+      "question": "বাংলা বর্ণমালায় স্বরবর্ণ কয়টি?",
+      "options": {
+        "ক": "১৩টি খ` ১০টি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "লুইপা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_003",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 3,
+      "question": "'তৎসম' শব্দের ব্যবহার কোন রীতিতে বেশি হয়?",
+      "options": {
+        "ক": "চলিত রীতি খ সাধু রীতি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "সাধু রীতি",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_29_008",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 8,
+      "question": "বাংলা ভাষায় প্থম ব্যাকরণ রচনা করেন কে?",
+      "options": {
+        "ক": "অক্ষয় দত্ত ছ মার্শম্যান",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "শামসুন্নাহার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_009",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 9,
+      "question": "'শ্রীকৃষ্ণকীর্তন' এর রচয়িতা কে?",
+      "options": {
+        "ক": "জ্ঞনদাস ছ দীন চণ্ডীদাস",
+        "খ": "",
+        "গ": "লুইপা ঘ ভূসুকুপা",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বড়ু চণ্ডীদাস",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_010",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 10,
+      "question": "বাংলা কথ্য ভাষার আদি গ্রন্থ কোনটি?",
+      "options": {
+        "ক": "প্রভু যিশুর বাণী",
+        "খ": "",
+        "গ": "ফুলমণি ও করুণার বিবরণ",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কৃপার শাস্ত্রের অর্থভেদ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_011",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 11,
+      "question": "কবি আলাওলের জন্মস্থান কোনটি?",
+      "options": {
+        "ক": "ফরিদপুরের সুরেশ্বর খ চট্টগ্রামের জোবরা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "চট্টগ্রামের জোবরা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_29_012",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 12,
+      "question": "'অনল-পবাহ' রচনা করেন-",
+      "options": {
+        "ক": "সৈয়দ ইসমাইল হোসেন সিরাজি",
+        "খ": "",
+        "গ": "এয়াকুব আলী চৌধুরী",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "সৈয়দ ইসমাইল হোসেন সিরাজি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_013",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 13,
+      "question": "'অগ্নিবীণা' কাব্যের প্রথম কবিতা কোনটি?",
+      "options": {
+        "ক": "ধূমকেতু বিদ্রোহী",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "প্রলয়োল্লাস",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_29_018",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 18,
+      "question": "বাংলা সাহিত্যে কথ্যরীতির প্রচলনে কোন পত্রিকার অবদান বেশি?",
+      "options": {
+        "ক": "কল্লোল খ সবুজপত্র",
+        "খ": "",
+        "গ": "যোগ্যতা, উদ্দেশ্য ও বিধেয় OU1' SUCCঘ কোনোটিই",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৯৫৫ খ্রিঃ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_019",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 19,
+      "question": "সনেট কবিতার প্রবর্তক কে? g ক দ্বিজেন্দ্র লাল রায় খ রজনীকান্ত সেন",
+      "options": {
+        "ক": "মাইকেল মধুসূদন দত্ত",
+        "খ": "কৃপার শাস্ত্রের অর্থভেদ",
+        "গ": "বামার আরাকান ঘ চট্টগরামের পটিয়া",
+        "ঘ": "মুনিরুজ্জামান ইসলামাবাদী"
+      },
+      "correctAnswer": "ক",
+      "answerText": "মাইকেল মধুসূদন দত্ত",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_29_020",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 20,
+      "question": "সমাস ভাষাকে কী করে?",
+      "options": {
+        "ক": "সংক্ষেপ করে খ বিস্তৃত কর",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "সংক্ষেপ করে",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_29_021",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 21,
+      "question": "I have not heard from him- since খ for a tinne ২১ Honey is sweet",
+      "options": {
+        "ক": "ver] Loo mnuch",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "very",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_29_023",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 23,
+      "question": "Your conduct admits 110 excuse",
+      "options": {
+        "ক": "+০ খ. Fo1'",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "bad",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_29_025",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 25,
+      "question": "[ shall not the examination this year",
+      "options": {
+        "ক": "give খ appear at",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "appear at",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_29_026",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 26,
+      "question": "They travelled to Savar -",
+      "options": {
+        "ক": "O11 foot by walking",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "would",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_29_028",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 28,
+      "question": "Neither Rini nor Simi qualified for the job",
+      "options": {
+        "ক": "are Is",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "1s",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_29_029",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 29,
+      "question": "He said that he the previous day:",
+      "options": {
+        "ক": "has conne খ had come",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "had come",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_29_030",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 30,
+      "question": "He watched the boat dlown the river",
+      "options": {
+        "ক": "to float Floating",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "floating",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_29_031",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 31,
+      "question": "'sky' is to 'bird' as 'water' is to- g ক feather খ . Fisli",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "অর্থপূর্ণ করে ঘ অর্থের রূপান্তর ঘটায়",
+        "ঘ": "eIcessive"
+      },
+      "correctAnswer": "",
+      "answerText": "fish",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_29_032",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 32,
+      "question": "'Good' is to 'bad' as 'white' is to lark Black",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "black",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_29_033",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 33,
+      "question": "'Botany' is to 'plants' as 'Zoology' is to-_ flowers Trees",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "animals",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_29_038",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 38,
+      "question": "The bad news struck him like a bolt from the-",
+      "options": {
+        "ক": "sky Ieavens",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "dream",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_29_039",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 39,
+      "question": "Who wrote the two famous novels, 'DavidCCopperfield' and Thomas Hardly খ . Jane Austen",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Charles Dickens",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_29_040",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 40,
+      "question": "Ben Johnson খ Cristopher Marlowe 8১. ঢাকা বিশ্ববিদ্যালয় কত সালে প্রতিষ্ঠিত হয়েছে?",
+      "options": {
+        "ক": "১৯১১ সালে খ ১৯২১ সালে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৯২১ সালে",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_29_042",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 42,
+      "question": "বাংলাদেশে কয়টি সরকারি বিশ্ববিদ্যালয় রয়েছে?",
+      "options": {
+        "ক": "৪১ টি খ ২৪ টি",
+        "খ": "সেন্টমাটিন",
+        "গ": "grey দা ebony",
+        "ঘ": "wish"
+      },
+      "correctAnswer": "খ",
+      "answerText": "সেন্টমাটিন",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_29_045",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 45,
+      "question": "আইএলও-র সদর দপ্তর কোথায় অবস্থিত?",
+      "options": {
+        "ক": "লন্ডন খ . জেনেভা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "জেনেভা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_046",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 46,
+      "question": "এসকাপের সদর দপ্তর কোথায় অবস্থিত?",
+      "options": {
+        "ক": "ব্যাংকক খ সিঙ্গাপুর",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ব্রাসেলস",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_048",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 48,
+      "question": "বাংলাদেশকে প্রথম স্বীকৃতিদানকারী দেশ কোনটি?",
+      "options": {
+        "ক": "ভারত খ শীলংকা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ভারত",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_29_049",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 49,
+      "question": "বাংলাদেশের প্রথম রাষ্ট্রপতির নাম কী?",
+      "options": {
+        "ক": "সৈয়দ নজরুল ইসলাম",
+        "খ": "",
+        "গ": "শেখ মুজিবুর রহমান",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সোনারগাঁ",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_29_051",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 51,
+      "question": "বাংলাদেশের মুক্তিযুদ্দের প্রধান সেনাপতি কে ছিলেন?",
+      "options": {
+        "ক": "শেখ মুজিবুর রহমান",
+        "খ": "জেনারেল আতাউল গনি ওসমানি",
+        "গ": "তাজউদ্দিন আহমদ",
+        "ঘ": "ক্যাপটেন মনসুর আলী"
+      },
+      "correctAnswer": "",
+      "answerText": "লর্ড মাউন্টব্যাটেন",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_29_055",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 55,
+      "question": "মুক্তিযুদ্দের সময় বাংলাদেশকে কয়টি সেক্টরে ভাগ করা হয়েছিল?",
+      "options": {
+        "ক": "৪টি ৭টি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১১টি",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_29_057",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 57,
+      "question": "ভারতের বর্তমান প্রধানমন্ত্রীর নাম কী?",
+      "options": {
+        "ক": "সোনিয়া গান্ধী খ ড মনমোহন সিং",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_29_058",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 58,
+      "question": "জাতিসংঘের সদর দপ্তর কোথায় অবস্থিত?",
+      "options": {
+        "ক": "লন্ডন নিউইয়ক",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কাঠমান্ডু",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_060",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 60,
+      "question": "টেকনাফ কোন নদীর তীরে অবস্থিত?",
+      "options": {
+        "ক": "পদ্মা যমুন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নাফ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_061",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 61,
+      "question": "কম্পিউটারের স্থায়ী স্মৃতিশক্তিকে বলে? ROM",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ROM",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_29_062",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 62,
+      "question": "সবচেয়ে শক্তিশালী সৌরচুল্লি তৈরি করা হয়েছে কোন দেশে?",
+      "options": {
+        "ক": "যুক্তরাষ্ট্র ভারত",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "যুক্তরাষ্ট্র",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_063",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 63,
+      "question": "ফটোইলেকট্রিক কোষের উপর আলো পড়লে কি উৎপন্ন হয়?",
+      "options": {
+        "ক": "বিদ্যুৎ খ তাপ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "বিদ্যুৎ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_068",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 68,
+      "question": "যে সকল",
+      "options": {
+        "ক": "আইসোটোপ খ আইসোটোন",
+        "খ": "",
+        "গ": "১১টি চা ১৪টি",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ইলেক্ট্রন বর্জন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_069",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 69,
+      "question": "নিচের কোনটি ক্ষারকীয় অক্সাইড?",
+      "options": {
+        "ক": "P4 10 খ Mg",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Mgo",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_070",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 70,
+      "question": "কোন ধাতু পানি অপেক্ষা হালকা?",
+      "options": {
+        "ক": "ম্যাগনেসিয়াম খ ক্যালসিয়াম",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_071",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 71,
+      "question": "পারমাণবিক চুল্লীতে তাপ পরিবাহক হিসেবে কোন ধাতু ব্যবহৃত হয়?",
+      "options": {
+        "ক": "সোডিয়াম খ পটসিযাম",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "সোডিয়াম",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_072",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 72,
+      "question": "কোন বিজ্ঞানী রোগজীবাণু তত্ত্ব উদ্ভাবন করেন?",
+      "options": {
+        "ক": "ডারউইন খ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "লুইপাস্তুর",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_073",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 73,
+      "question": "সুষম খাদ্যের উপাদান কয়টি?",
+      "options": {
+        "ক": "৪টি খ`",
+        "খ": "",
+        "গ": "আলোর থেকে রক্ষার জন্য",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "অত্যধিক ঠাণ্ডা থেকে রক্ষার জন্য",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_075",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 75,
+      "question": "পৃথিবীর প্রথম বাণিজ্যিক যোগাযোগ কৃত্রিম উপগ্রহ কোনটি?",
+      "options": {
+        "ক": "আলিবার্ড হল খ এস্ট্রোলার হল",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "আলিবারড হল",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_076",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 76,
+      "question": "সূর্য পৃষ্ঠের উত্তাপ কত?",
+      "options": {
+        "ক": "৬০০০ ডিগ্রি সেন্টিগ্রেড",
+        "খ": "অত্যধিক ঠাণ্ডা থেঁকে রক্ষার জন্য",
+        "গ": "১০০০০ ডিগ্রি সেন্টিগ্রেড",
+        "ঘ": "১২০০০ ডিগ্রি সেন্টিগ্রেড"
+      },
+      "correctAnswer": "",
+      "answerText": "৬ ঘণ্টা ১৩ মি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_078",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 78,
+      "question": "কোনটি বায়ুর উপাদান নহে?",
+      "options": {
+        "ক": "নাইট্রোজেন খ` হাইড্রোজেন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ফসফরাস",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_079",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 79,
+      "question": "অ্যালিউমিনিয়াম সালফেটকে চলতি বাংলায় কী বলে?",
+      "options": {
+        "ক": "চুন খ . সভং সোপ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ফিটকিরি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_080",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 80,
+      "question": "কোন কোন স্থানে সলিড ফিনাইল ব্যবহার করা হয়?",
+      "options": {
+        "ক": "পায়খানা, প্রস্রাবখানায় খ গোসলখানায়",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "পায়খানা, প্রস্রাবখানায়",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_081",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 81,
+      "question": "",
+      "options": {
+        "ক": "১8৬ খ ১৯",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১০৭",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_082",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 82,
+      "question": "৪০ সংখ্যাটি a হতে ১১ কম গণিতিক আকারে প্রকাশ করলে কী হবে?",
+      "options": {
+        "ক": "a + ১১ 80 খ / ৪0 ১১",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": ".",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_29_084",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 84,
+      "question": "১১, ০১ ০০১১ এর সমষ্টি",
+      "options": {
+        "ক": "১০১১১১ ১১১১১",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১১১১১",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_29_085",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 85,
+      "question": "১১৬ এর সাধারণ ভগ্নাংশ কোনটি?",
+      "options": {
+        "ক": "১(১/৬) খ ১t৮/৪৫)",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১ ২",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_29_087",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 87,
+      "question": "পরপর তিনটি সংখ্যার গুণফল ১২০ হলে তাদের যোগফল হবে-",
+      "options": {
+        "ক": "খ ১>",
+        "খ": "",
+        "গ": "১ ঘণ্টা ঘ. ১৩ ঘণ্টা ১৫ মি",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "88",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_29_089",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 89,
+      "question": "",
+      "options": {
+        "ক": "30% 32%",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "32%",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_090",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 90,
+      "question": "City B 1s 5 miles east of city L City following is the closest to the distance from city A",
+      "options": {
+        "ক": "11 nniles 12 nniles",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "14 miles",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_29_091",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 91,
+      "question": "'আবদুল্লাহ' উপন্যাসের রচয়িতা কে?",
+      "options": {
+        "ক": "মোহাম্মদ নজীবর রহমান",
+        "খ": "",
+        "গ": "শেখ ফজলুল করিম",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কাজী ইমদাদুল হক",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_29_092",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 92,
+      "question": "বঙ্কিমচন্দ্রের প্রথম উপন্যাসের নাম-",
+      "options": {
+        "ক": "দুর্গেশনন্দিনী খ কপালকুণ্ডলা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "দুর্গেশনন্দিনী",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_29_093",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 93,
+      "question": "দক্ষিণ তালপট্টি কোন নদীর মোহনায় অবস্থিত? গাফ খ তেতুলিয়া",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "হাড়িয়াভাঙ্গা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_094",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 94,
+      "question": "খাদ্য ও কৃষি সংস্থার প্রধান কার্যালয় কোথায় অবস্থিত?",
+      "options": {
+        "ক": "নিউইয়কে খ ররমে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "রোমে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_095",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 95,
+      "question": "গৌড়ের সোনা মসজিদ কার আমলে নির্মিত হয়?",
+      "options": {
+        "ক": "হোসেন শাহ ফখরুদ্দিন মোবারক শাহ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "হোসেন শাহ্",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_096",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 96,
+      "question": "ডেভিস কাপ কোন খেলায় দেখা",
+      "options": {
+        "ক": "ব্যাডমিন্টন খ লন টেনিস",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "লন টেনিস you1 success",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_097",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 97,
+      "question": "পৃথিবীতে সবচেয়ে বেশি ধাতু কোনটি?",
+      "options": {
+        "ক": "লোহা খ সিলিকন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "লোহা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_098",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 98,
+      "question": "অন্ধদের জন্য লিখনরীতির উদ্ভাবন করেন-",
+      "options": {
+        "ক": "বইল কপানিকাস",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ব্রেইল",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_099",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 99,
+      "question": "পারমাণবিক চুল্লীতে কোন মৌল জ্বালানি হিসাবে ব্যবহৃত হয়?",
+      "options": {
+        "ক": "পেট্রোলিয়াম ইউরেনিয়াম-২৩৫",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ইউরেনিয়াম-২৩৫",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_29_100",
+      "exam": "29th BCS Preliminary",
+      "examCode": "bcs_29",
+      "questionNo": 100,
+      "question": "বৈদ্যুতিক হিটার ও ইস্ত্রিতে কোন ধাতুর তার ব্যবহার করা হয়?",
+      "options": {
+        "ক": "তাম খ নাইক্রোম",
+        "খ": "কাজী ইমদাদুল হক",
+        "গ": "34% দা 35%",
+        "ঘ": "মমতাজ উদ্দিন আহম্মেদ"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "29th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    }
+  ]
+}

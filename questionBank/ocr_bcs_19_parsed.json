@@ -1,0 +1,1125 @@
+{
+  "examName": "19th BCS Preliminary",
+  "examCode": "bcs_19",
+  "totalQuestions": 46,
+  "validation": {
+    "totalDetected": 46,
+    "highestQuestionNo": 50,
+    "missing": [
+      18,
+      20,
+      44,
+      47
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 46,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_19_001",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 1,
+      "question": "ওজোন স্তরের ফাটলের জন্য মূখ্যত দায়ী কোন গ্যাস? ক্লোরোফ্লোরো কার্বন (খ) কার্বন মনোক্সাইড (গ) কার্বন ডাই-অক্সাইড (ঘ) মিথেন উ: ক্লোরোফ্লোরো কার্বন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_19_002",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 2,
+      "question": "কোন দেশের পরিবেশের ভারসাম্য রক্ষার জন্য বনাঞ্চল প্রয়োজন মোট ভূমির- ১৬ শতাংশ ২০ শতাংশ (গ) ২৫ শতাংশ ৩০ শতাংশ ২৫ শতাংশ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_19_003",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 3,
+      "question": "বাংলাদেশে 'শহীদ বুদ্ধিজীবী দিবস' ১৪ ডিসেম্বর",
+      "options": {
+        "ক": "",
+        "খ": "১৬ ডিসেম্বর",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_19_004",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 4,
+      "question": "মানুষের ক্রোমোজোমের সংখ্যা কত? ২০ জোড়া (খ) ২২ জোড়া (গ) ২৩ জোড়া ২৫ জোড়া ২৩ জোড়া",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_19_005",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 5,
+      "question": "রাজশাহী (খ) নওগাঁ (গ) বগুড়া নাটোর উ: নাটোর",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "া গণভবন কোথায় অবস্থিত?",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_19_006",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 6,
+      "question": "'বিদ্রোহী' কবিতাটি কবি নজরুল ইসলামের কোন কাব্যগ্রন্থের অন্তর্গত? (ক) অগ্নিবীণা বিষের বাঁশি (গ) দোলনচাঁপা বাঁধনহারা উ: অগ্নিবীণা",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_19_007",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 7,
+      "question": "কোন জারক রস পাকস্থলীতে দুগ্ধ জমাট বাঁধায়? পেপসিন এমাইলেজ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "রেনিন",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_19_008",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 8,
+      "question": "২০১৮ ফুটবল বিশ্বকাপে গোল্ডেন বুট কে পান? রোনাল্ডো (খ) মেসি (গ) সুয়ারেজ you1 SULC CC (ঘ) হ্যারি কেন ^Lchnaurk উ: হ্যারি কেন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_19_009",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 9,
+      "question": "বিশ্ব খাদ্য ও কৃষি সংস্থার (FAO) সদর দপ্তর কোথায় অবস্থিত? জেনেভা",
+      "options": {
+        "ক": "",
+        "খ": "প্যারিস",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_19_010",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 10,
+      "question": "'আমার ভাইয়ের রক্তে রাঙানো ২১শশে ফেব্রুয়ারি' গানের রচয়িতা কে? আব্দুল গাফফার চৌধুরী (খ) আলতাফ মাহমুদ (গ) আব্দুল লতিফ (ঘ) আব্দুল আলীম উ: আব্দুল গাফফার চৌধুরী",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_19_011",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 11,
+      "question": "রবীন্দ্রনাথ ঠাকুরের ছদমনাম হল- পরশুরাম (খ) নীললোহিত (গ) ভানুসিংহ ঠাকুর গাজী মিয়া উ: ভানুসিংহ ঠাকুর",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_19_012",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 12,
+      "question": "'দ্য লিবারেশন অফ বাংলাদেশ' গ্রন্থের রচয়িতা- রফিকুল ইসলাম (খ) রশীদ করিম (গ) মেজর জেনারেল সুখওয়ান্ত সিং কর্নেল সিদ্দিক মালিক উ মেজর জেনারেল সুখওয়ান্ত সিং",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_19_013",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 13,
+      "question": "বাগেরহাট খানজাহান আলীর প্রতিষ্ঠিত মসজিদটি কত গম্বুজবিশিষ্ট? আশি (খ) সাতাশি (গ) ষাট",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": "একাশি"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_19_014",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 14,
+      "question": "স্বাধীনতা যুদ্ধের সময় বাংলাদেশ কতগুলো সেক্টরে বিভক্ত ছিল? (ক) ১৯ টি (খ) ৯ টি (গ) ৮ টি (ঘ) ১১ টি উ: ১১ টি",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_19_015",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 15,
+      "question": "বাংলাদেশের জাতীয় পাখি- ময়ন",
+      "options": {
+        "ক": "",
+        "খ": "কাক",
+        "গ": "",
+        "ঘ": "দোয়েল"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_19_016",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 16,
+      "question": "রাজশাহীর উত্তরাংশ, বগুড়ার পশ্চিমাংশ, রংপুর ও দিনাজপুরের কিছু অংশ নিয়ে গঠিত- পলল গঠিত সমভূমি (খ) বরেন্দ্রভূমি (গ) উত্তরবঙ্গ (ঘ) মহাস্থানগড় উ: বরেন্দ্রভূমি",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_19_017",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 17,
+      "question": "বাংলাদেশের বনাঞ্চলের পরিমাণ মোট ভূমির কত শতাংশ?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_19_019",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 19,
+      "question": "শতাংশ ১ শতাংশ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "১৬ শতাংশ",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_19_021",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 21,
+      "question": "কসোভো কোথায় অবস্থিত? আলবেনিয়ায়",
+      "options": {
+        "ক": "",
+        "খ": "সার্বিয়ায়",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_19_022",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 22,
+      "question": "'গিল্ডার' কোন দেশের মুদ্রার নাম ছিল? পরওয়",
+      "options": {
+        "ক": "",
+        "খ": "নেদারল্যান্ড",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_19_023",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 23,
+      "question": "নেপালের পার্লামেন্টের নাম কী? সিনেট",
+      "options": {
+        "ক": "",
+        "খ": "পঞ্চায়েত",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_19_024",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 24,
+      "question": "ইতিহাস বিখ্যাত ট্রয় নগরী কোথায়? গ্রিসে",
+      "options": {
+        "ক": "",
+        "খ": "ইতালিতে",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_19_025",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 25,
+      "question": "'নাসা' কোন দেশের সংস্থা? (ক) জা্মানি",
+      "options": {
+        "ক": "",
+        "খ": "রাশিয়া",
+        "গ": "",
+        "ঘ": "যুক্তরাষ্ট্র"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_19_026",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 26,
+      "question": "জনসংখ্যার ভিত্তিতে বিশ্বের দেশ কোনটি? বাংলাদেশ",
+      "options": {
+        "ক": "",
+        "খ": "পাকিস্তান",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_19_027",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 27,
+      "question": "ভায়াগা কী? একটি জলপ্রপাত g নতুন একটি ওষুধ (গ) সাড়া জাগানো চলচ্চিত্রের নাম (ঘ) নতুন জাহাজের নাম উ: নতুন একটি ওষুধ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_19_028",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 28,
+      "question": "এশীয় উন্নয়়ন ব্যাংকের প্রধান কার্যালয় কোথায়? ব্যাংকক (খ) সিঙ্গাপুর (গ) টোকিও ম্যানিলা উ: ম্যানিলা",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_19_029",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 29,
+      "question": "কম্পিউটার সফটওয়্যার জগতে নামকরা প্রতিষ্ঠান কোনটি? গিগাবাইট ইনটেল (গ) এ্যাপল ম্যাকিনটশ মাইক্রোসফট উ: মাইক্রোসফট",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_19_030",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 30,
+      "question": "যুক্তরাষ্ট্ চায় ইসরাইল কত শতাংশ জায়গা ফিলিস্তিনিদের কাছে হস্তান্তর করবে? ১১ শতাংশ",
+      "options": {
+        "ক": "",
+        "খ": "১০ শতাংশ",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_19_031",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 31,
+      "question": "অর্থনৈতিক সমীক্ষা ২০২১ মতে, ২০১৯-২০ অর্থবছরে বাংলাদেশের জিডিপিতে পশুসম্পদের 'CII অবদান কত ছিল?",
+      "options": {
+        "ক": "১.২%",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_19_032",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 32,
+      "question": "বর্তমানে বিদেশ থেকে কত টাকার গুঁ়া দুধ আমদানি করা হয়? ৫৬০০ কোটি টাকা (খ) ৪,৬০০ কোটি টাকা (গ) ৩,৬০০ কোটি টাকা ১২,৫০০ কোটি টাকা নোট: এই তথ্যগুলো প্রতিনিয়ত পরিবরতিত হয়, আপডেট তথ্য সম্পর্কে জানতে বিদ্যাবাড়ি ফেসবুক পেজের 'আজকের পাতা থেকে' পোষ্টগুলো নিয়মিত দেখুন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_19_033",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 33,
+      "question": "বাংলাদেশের কেন্দ্রীয় গো-প্রজনন খামার কোথায় অবস্থিত? রাজশাহী",
+      "options": {
+        "ক": "",
+        "খ": "চট্টগ্রাম",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_19_034",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 34,
+      "question": "বাংলাদেশের জাতীয় পশু কোনটি? গরঢ",
+      "options": {
+        "ক": "",
+        "খ": "ছাগল",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_19_035",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 35,
+      "question": "রপ্তানি আয়ে বর্তমানে পশুসম্পদের অবদান কত? ৮৮৯ ভাগ ১০৫৭ ভাগ (গ) ৭.8৯ ভাগ ৪.৭৯ ভাগ গোট: বর্তমানে ৪.৩১%; এই তথ্যগুলো প্রতিনিয়ত পরিবর্তিত হয়) আপডেট তথ্য সম্পরকে জানতে বিদ্যাবাড়ি ফেসবুক পেজের 'আজকের পাতা থেকে' পোষ্টগুলো নিয়মিত দেখুন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_19_036",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 36,
+      "question": "অর্থনৈতিক সমীক্ষা ২০২১ মতে, অর্থবছরে দেশের রপ্তানি আয়ের মধ্যে চামড়ার অবস্থান কত? চতুথ (খ) (গ) অষ্টম",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": "পঞচম"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_19_037",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 37,
+      "question": "ক্লোনিং পদ্ধতিতে জন্মগ্রহণকারী ভেড়ার নাম কী? (ক) নেনী (খ) টর্মি (গ) শেলী (ঘ) ডলি উ: ডলি",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_19_038",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 38,
+      "question": "প্রাণীর মলমূত্র থেকে ব্যাকটেরিয়ার সাহায্যে ফারমেন্টেশন প্রক্রিয়ায় উৎপন্ন হয় - ইথেন 'খ) এমোনিয়া (গ) মিথেন বিউটেন উ: মিথেন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_19_039",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 39,
+      "question": "কৃষি বিশ্ববিদ্যালয়ের সর্বপ্রথম উপাচার্য কে ছিলেন? (ক) ড এস ডি চৌধুরী (খ) ড কাজী ফজলুর রহিম (গ) ড ওসমান গণি অধ্যাপক মোসলেহ উদ্দিন আহমেদ উ: ড ওসমান গণ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_19_040",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 40,
+      "question": "১৯৯৯ সালে নোবেল পুরস্কারপ্রাপ্ত কোন কৃষি বিজ্ঞানী বাংলাদেশ সফর করেন? প্রফেসর ড আব্দুস সালাম",
+      "options": {
+        "ক": "",
+        "খ": "প্রফেসর নরম্যান বোরলগ",
+        "গ": "",
+        "ঘ": "ড. স্বামীনাথন"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_19_041",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 41,
+      "question": "গবাদিপশুর জাত উন্নয়নে পাক ভারত উপমহাদেশে কোন ব্রিটিশ প্রথম অগ্রণী ভূমিকা পালন করেন? (ক) মি জে এইচ বি হেলেন (খ) লর্ড লিনলিথগো (গ) লর্ড ক্লাইভ ওয়ারেন হেস্টিংস উ: লড লিনলিথগো",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_19_042",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 42,
+      "question": "বাংলাদেশের কোন অঞ্চলে গোচারণের জন্য বাথান আছে? সিরাজগঞ্জ (খ) দিনাজপুর (গ) বরিশাল ফরিদপুর উ: সিরাজগঞ্জ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_19_043",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 43,
+      "question": "২০২১-২১ অর্থবছরের বাজেট অনুযায়ী মাথাপিছু আয় (প্রক্ষেপন) মার্কিন ডলার ! ১8৬>",
+      "options": {
+        "ক": "",
+        "খ": "২১৫৩",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_19_045",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 45,
+      "question": "জাতিসংঘের সদর দপ্তর কোথায় অবস্থিত? id৫ জেনেভা (খ) নিউইয়ক (গ) হেগ",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": "প্যারিস you1 SUCC eসবচেয়ে গুরুতর ক্ষতি"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_19_046",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 46,
+      "question": "বাংলাদেশের সবচেয়ে গুরুত্বপূর্ণ খনিজ সম্পদ কোনটি? কয়ল (খ) চুনাপাথর g (গ) সাদামাটি উ: গ্যাস 89. যুক্তরাষ্টে ক্রীতদাস প্রথা বিলোপকারী প্রেসিডেন্টের নাম কী? জজ ওয়াশিংটন (খ) আব্রাহাম লিংকন (গ) রুজভেল্ট (ঘ) কেনেডী উ: আব্রাহাম লিংকন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_19_048",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 48,
+      "question": "বহুমূত্র রোগে কোন হরমোনের দরকার? ইনসুলিন থাইরক্সিন (গ) এনড্রোজেন এস্ট্রোজেন উ: ইনসুলিন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_19_049",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 49,
+      "question": "বাংলাদেশের একজন ভোটারের সর্বনিম্ন বয়স কত? (ক) ১৬ বছর (খ) ১৮ বছর (গ) ২০ বছর ১১ বছর উ: ১৮ বছর",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_19_050",
+      "exam": "19th BCS Preliminary",
+      "examCode": "bcs_19",
+      "questionNo": 50,
+      "question": "গ্রীন হাউজ এফেক্টের পরিণতিতে বাংলাদেশের হবে& T R উত্তাপ অনেক বেড়ে যাবে",
+      "options": {
+        "ক": "",
+        "খ": "বৃষ্টিপাত কমে যাবে",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "19th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    }
+  ]
+}

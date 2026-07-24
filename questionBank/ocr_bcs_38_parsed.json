@@ -1,0 +1,3276 @@
+{
+  "examName": "38th BCS Preliminary",
+  "examCode": "bcs_38",
+  "totalQuestions": 133,
+  "validation": {
+    "totalDetected": 133,
+    "highestQuestionNo": 200,
+    "missing": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      9,
+      22,
+      25,
+      27,
+      34,
+      35,
+      36,
+      37,
+      43,
+      44,
+      47,
+      50,
+      53,
+      54,
+      56,
+      58,
+      59,
+      64,
+      65,
+      66,
+      67,
+      72,
+      74,
+      77,
+      84,
+      85,
+      86,
+      87,
+      89,
+      90,
+      91,
+      92,
+      102,
+      104,
+      105,
+      109,
+      114,
+      117,
+      118,
+      119,
+      127,
+      128,
+      129,
+      131,
+      144,
+      153,
+      158,
+      160,
+      161,
+      162,
+      164,
+      166,
+      173,
+      174,
+      176,
+      178,
+      181,
+      182,
+      187,
+      188,
+      189,
+      195
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 126,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_38_001",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 1,
+      "question": "কোন শব্দটি শুদ্ধ বানানে লেখা হয়েছে?",
+      "options": {
+        "ক": "শূণ্য ত্রিভুজ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "একত্রিত",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_38_003",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 3,
+      "question": "বাংলা ভাষায় ব্যবহৃত মৌলিক স্বরধ্বনি কয়টি?",
+      "options": {
+        "ক": "৭টি খ ৮টি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "৭টি",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_38_008",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 8,
+      "question": "'বাবা' কোন ভাষা থেকে আগত শব্দ?",
+      "options": {
+        "ক": "সংস্কৃত খ হিন্দি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "তৎপুরুষ",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_38_010",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 10,
+      "question": "'সূর্য' শব্দের সমার্থক শব্দ কোনটি?",
+      "options": {
+        "ক": "অণব খ অক",
+        "খ": "",
+        "গ": "পূন্য চ ভূবণ",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "অক",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_38_011",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 11,
+      "question": "'্ষ যুক্তবর্ণটি কিভাবে গঠিত হয়েছে?",
+      "options": {
+        "ক": "হ-ম খ . ক-ব",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "হ+ম",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_012",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 12,
+      "question": "'সদ্যোজাত' শব্দের শুদ্ধ সন্ৃিবিচ্ছেদ কোনটি?",
+      "options": {
+        "ক": "সং-জাত খ সদ্যো-জাত",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সদ্যঃ-জাত",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_38_013",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 13,
+      "question": "'ব্যক্ত' শব্দের বিপরীতার্থক শব্দ কোনটি?",
+      "options": {
+        "ক": "তজ খ গ্রাহ্য",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "গূঢ়",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_38_014",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 14,
+      "question": "বাংলা কৃৎ-প্রত্যয় সাধিত শব্দ কোনটি?",
+      "options": {
+        "ক": "চমার খ ধারালো",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মোড়ক",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_38_015",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 15,
+      "question": "কোনটি সার্থক বাক্যের গুণ নয়?",
+      "options": {
+        "ক": "আকাক্কষা খ যোগ্যতা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "আসক্তি",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_38_016",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 16,
+      "question": "গঠনরীতিতে 'শ্রীকৃষ্ণকীর্তন' কাব্য মূলত-",
+      "options": {
+        "ক": "পদাবলি খ ধামালি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নাট্যগীতি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_017",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 17,
+      "question": "'সন্ধ্যাভাষা' কোন সাহিত্যকর্মের সঙ্গে যুক্ত?",
+      "options": {
+        "ক": "চর্যাপদ ছ পদাবলি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "চর্যাপদ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_018",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 18,
+      "question": "দৌলত উজির বাহরাম খান কোন অঞ্চলের অধিবাসী ছিলেন?",
+      "options": {
+        "ক": "ফরিদপুর খ সিলেট",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "চট্টগ্রাম",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_019",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 19,
+      "question": "'চন্দ্রাবতী' কী?",
+      "options": {
+        "ক": "নাটক খ কাব্য",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "কাব্য",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_020",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 20,
+      "question": "'বিদ্যাপতি' কোন রাজসভার কবি ছিলেন?",
+      "options": {
+        "ক": "রোসাঙ্গ খ কৃষ্ণনগর",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মিথিলা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_38_021",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 21,
+      "question": "",
+      "options": {
+        "ক": "আত্মচরিত খ আত্মকথা",
+        "খ": "",
+        "গ": "ম+ম ম-হ",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "প্রবন্ধ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_023",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 23,
+      "question": "কোনটি জসীমউদৃদীনের রচনা?",
+      "options": {
+        "ক": "গাজী মিয়াঁর বস্তানী",
+        "খ": "",
+        "গ": "ভাওয়াল গড়ের উপাখ্যান",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ঠাকুরবাড়ির আঙিনা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_024",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 24,
+      "question": "আমার ঘরের চাবি পরের হাতে'- গানটির রচয়িতা কে?",
+      "options": {
+        "ক": "লালন শাহ্ খ হাসন রাজা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বন্দী শিবির থেকে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_026",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 26,
+      "question": "কাজী নজরুল ইসলামের 'অগ্নি-বীণা' কাব্যের প্রথম কবিতা কোনটি?",
+      "options": {
+        "ক": "আগমনী খ . কোরবানী",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ঢাকা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_38_028",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 28,
+      "question": "কোনটি রবীন্দ্রনাথ ঠাকুরের কাব্যগ্রন্থ?",
+      "options": {
+        "ক": "শেষলেখা খ . শেষপশ্ন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "শেষলেখা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_38_029",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 29,
+      "question": "'নদী ও নারী' উপন্যাসের রচয়িতা কে?",
+      "options": {
+        "ক": "কাজী আবদুল ওদুদখ আবুল",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "হুমায়ুন কবির",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_38_030",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 30,
+      "question": "'বীরবল' কোন লেখকের ছদ্মনাম?",
+      "options": {
+        "ক": "আবু ইসহাক ছ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "প্রমথ চৌধুরী",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_031",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 31,
+      "question": "মুনীর চৌধুরীর 'মুখরা রমণী বশীকরণ একটি-",
+      "options": {
+        "ক": "উপন্যাস ছোটগল্প",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "অনুবাদ নাটক",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_032",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 32,
+      "question": "'চন্দরা' চরিত্রের স্রষ্টা কে?",
+      "options": {
+        "ক": "বুদ্ধদেব বসু",
+        "খ": "",
+        "গ": "মীর মশাররফ হোসেন",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "রবীন্দ্রনাথ ঠাকুর",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_033",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 33,
+      "question": "'পূর্বাশা' পত্রিকার সম্পাদক কে ছিলেন?",
+      "options": {
+        "ক": "কাজী নজরুল ইসলাম",
+        "খ": "হাঁসুলী বাঁকের উপকথা",
+        "গ": "পাগলা কানাই ঘ রাধারমণ দত্ত",
+        "ঘ": "সঞ্জয় ভট্টাচার্য"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "সঞ্জয় ভট্টাচার্য",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_038",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 38,
+      "question": "ফো্ট উইলিয়াম কলেজের শিক্ষক ছিলেন?",
+      "options": {
+        "ক": "হরপ্রসাদ শাস্ত্রী খ . রামরাম বসু",
+        "খ": "",
+        "গ": "Ernest Hemingway",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "lice",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_039",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 39,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "ক": "He refrained to take any drastic action",
+        "খ": "He refraine] 011 taking any drastic action",
+        "গ": "He refrainel in taking any drastic action",
+        "ঘ": "Charles Dickens"
+      },
+      "correctAnswer": "গ",
+      "answerText": "He refrained from raking any drastic action",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_040",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 40,
+      "question": "Which word is closest in meaning to 'Franchise'?",
+      "options": {
+        "ক": "utility ছ frankness",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "privilege",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_041",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 41,
+      "question": "Once in a blue moon' means-",
+      "options": {
+        "ক": "always very rarely",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "very rarely",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_042",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 42,
+      "question": "'Jacobean Period' of English literature refers to-",
+      "options": {
+        "ক": "1558-1603 ছ 1625-1649",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "111",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_045",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 45,
+      "question": "Fill in the gap with the right tense: When water will freeze freezes",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "freezes",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_046",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 46,
+      "question": "Which one is the correct antonym of 'frugal'? ( Extraordinary Spendthrift 89.",
+      "options": {
+        "ক": "challenge the enemy with courage",
+        "খ": "",
+        "গ": "Out of one's wit",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "To challenge the enemy with courage",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_048",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 48,
+      "question": "Fill in the blank with the correct quantifier. I still have",
+      "options": {
+        "ক": "few few",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "a little",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_049",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 49,
+      "question": "He is poor and honest He is poor but honest Other Job's Preparation",
+      "options": {
+        "ক": "The Rine of the Ancient Mariner",
+        "খ": "Force the enemy to submit",
+        "গ": "privilege চা superficial",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "The Rine of -he Ancient Mariner",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_051",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 51,
+      "question": "'For",
+      "options": {
+        "ক": "Emily Dickinson",
+        "খ": "",
+        "গ": "Mathew Arnoll",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "John Donne",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_052",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 52,
+      "question": "Fill in the blank: Tourists Cox's Bazar",
+      "options": {
+        "ক": "better to had get",
+        "খ": "",
+        "গ": "hal better ৪ot",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "radius",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_055",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 55,
+      "question": "",
+      "options": {
+        "ক": "Doing this is impossible",
+        "খ": "Iubla Ihan",
+        "গ": "This is mnust be lone",
+        "ঘ": "John Milton"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "John Milton",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_057",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 57,
+      "question": "The literary term 'euphemism' means-",
+      "options": {
+        "ক": "vague idea",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Gerund",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_060",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 60,
+      "question": "",
+      "options": {
+        "ক": "such খ either",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "either",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_061",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 61,
+      "question": "A speech of too many words is called-",
+      "options": {
+        "ক": "[ big speech",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "verbose speech",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_062",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 62,
+      "question": "'Strike while the iron is hot' is an example of-",
+      "options": {
+        "ক": "Noun11 clause",
+        "খ": "",
+        "গ": "Adlverbial clause",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "Alverbial _lause",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_063",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 63,
+      "question": "Who is not a Victorian poet?",
+      "options": {
+        "ক": "Matthew Arnol]",
+        "খ": "",
+        "গ": "Robert Browning",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "Alerander Poূe",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_068",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 68,
+      "question": "The play The Spanish Tragedy' is written by-",
+      "options": {
+        "ক": "Thonnas Iyd",
+        "খ": "in1 Offensive expression",
+        "গ": "Nissim Ezekiel",
+        "ঘ": "L verbose speech"
+      },
+      "correctAnswer": "",
+      "answerText": "more than two",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_069",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 69,
+      "question": "Which period 1s known as The",
+      "options": {
+        "ক": "The Victorian age",
+        "খ": "",
+        "গ": "The Restoration age",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "The Elizabethan age",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_070",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 70,
+      "question": "to me",
+      "options": {
+        "ক": "He demanded me why had beaten lis",
+        "খ": "",
+        "গ": "He enquired me had had beaten his",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "He demanded of me why I had beaten his",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_071",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 71,
+      "question": "প্রাচীন বাংলার হরিকেল জনপদ অঞ্চলভুক্ত এাকা C",
+      "options": {
+        "ক": "রাজশাই খ দিনাজপুর",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বাবর",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_073",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 73,
+      "question": "ঐতিহাসিক ছয় দফা ঘোষণা করা হয় ১৯৬৬ সালের-",
+      "options": {
+        "ক": "ফবয়ারিতে খ মাসে",
+        "খ": "",
+        "গ": "এএইচ এম কামারুজ্জামান",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "এ এইচ এম কামারুজ্জামান",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_38_075",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 75,
+      "question": "কিসের ভিত্তিতে পূর্ব বাংলায় ভাষা আন্দোলন হয়েছিল? g ক দ্বি-জাতি ত খ সামাজিক চেতনা",
+      "options": {
+        "ক": "বাঙালি জাতীয়তাবাদ",
+        "খ": "The Elizabethan age",
+        "গ": "cu1se দা high sou11]",
+        "ঘ": "The Eighteenth Century"
+      },
+      "correctAnswer": "ক",
+      "answerText": "বাঙালি জাতীয়তাবাদ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_076",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 76,
+      "question": "১৯৫৪ সালের পূর্ববাংলা প্রাদেশিক পরিষদ নির্বাচনে যুক্ত ছিলেন না-",
+      "options": {
+        "ক": "শেরে বাংলা ৭ কে ফজলুল হক",
+        "খ": "",
+        "গ": "মাওলানা আবদুল হামিদ খান ভাসানী",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "খাগড়াছড়িতে",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_38_078",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 78,
+      "question": "চাকমা জনগোষ্ঠার লোকসংখ্যা সর্বাধিক-",
+      "options": {
+        "ক": "রাঙ্গামাটি জেলায় খ খাগড়াছড়ি জেলায়",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "রাঙ্গামাটি জেলায়",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_38_079",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 79,
+      "question": "বাংলাদেশের প্রথম আদমশুমারি হয়-",
+      "options": {
+        "ক": "১৯৭৯ সালে খ ১৯৭২ সালে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৯৭৪ সালে",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_38_080",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 80,
+      "question": "বাংলাদেশে মোট দেশজ উতপাদনে কৃষি খাতের অবদান-",
+      "options": {
+        "ক": "নিয়মিতভাবে বৃদ্ধি পাচ্ছে",
+        "খ": "",
+        "গ": "ক্রমহাসমান",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "ক্রমহ্রাসমান",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_38_081",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 81,
+      "question": "বাংলাদেশের অন্যতম বিশেষায়িত ব্যাংক-",
+      "options": {
+        "ক": "বাংলাদেশ কৃষি ব্যাংক খ সোনালী ব্যাংক",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "বাংলাদেশ কৃষি ব্যাংক",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_38_082",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 82,
+      "question": "",
+      "options": {
+        "ক": "ধারা ২৬ খ` ধারা ২৭",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ধারা ২৭",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_083",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 83,
+      "question": "",
+      "options": {
+        "ক": "১৫ খ` .1{01[1 SUCCeSগ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_088",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 88,
+      "question": "৭ম",
+      "options": {
+        "ক": "৭,00% ছ` ৭.১>%",
+        "খ": "হোসেন শহীদ সোহরাওয়ার্দী",
+        "গ": "খাগড়াছড়িতে দ দিনাজপুরে",
+        "ঘ": "নবব স্যার সলিমুল্লাহ"
+      },
+      "correctAnswer": "",
+      "answerText": "প্রাকৃতিক গ্যাস",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_38_093",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 93,
+      "question": "বাংলাদেশের জাতীয় আয় গণনায় দেশের অর্থনীতিকে ক'টি খাতে ভাগ করা হয়? ৮৭.",
+      "options": {
+        "ক": "৩ বছর খ ৪ বছর",
+        "খ": "আইন মন্ত্রণালয়ের অনুমতিক্রমে প্রার্থী হতে পারবেন",
+        "গ": "সংশ্লিষ্ট দলীয় কর্তৃপক্ষের অনুমতিক্রমে প্রার্থী হতে পারবেন",
+        "ঘ": "কোনোক্রমেই প্রার্থী হতে পারবেন না"
+      },
+      "correctAnswer": "",
+      "answerText": "১৫",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_38_094",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 94,
+      "question": "টেস্ট ক্রিকেটে বাংলাদেশের পক্ষে কে প্রথম ডাবল সেঞ্চুরি করেন?",
+      "options": {
+        "ক": "মুশফিক খ তামিম",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "মুশফিক",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_38_095",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 95,
+      "question": "নিচের কোনটি নাগরিকের দায়িত্ব?",
+      "options": {
+        "ক": "রাস্তায় ট্রাফিক আইন মেনে চলা",
+        "খ": "",
+        "গ": "সিটি কর্পোরেশন ঘ উপজেলা পরিষদ",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "রাস্তায় ট্রাফিক আইন মেনে চলা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_096",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 96,
+      "question": "মায়ানমারের সাথে বাংলাদেশের ক'টি জেলার সীমান্ত রয়েছে?",
+      "options": {
+        "ক": "১ি খ ৩টি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "৩টি",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_38_097",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 97,
+      "question": "পার্বত্য চট্টগ্রাম শান্তিচুক্তি কত সালে স্বাক্ষরিত হয়?",
+      "options": {
+        "ক": "১৯৯৩ খ ১৯৯৭",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৯৯৭",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_098",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 98,
+      "question": "বাংলাদেশের তৈরি প্রথম ন্যানো স্যাটেলাইটের নাম কী?",
+      "options": {
+        "ক": "বিকন অহ্বেষা খ ব্যাক অহ্বেয",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ব্র্যাক অন্বেষা",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_38_099",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 99,
+      "question": "Permanent Court of Justice",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "International Court of justice",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "International Tribunal for -le law of the sea",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_100",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 100,
+      "question": "বাংলাদেশ বর্তমানে সর্বাধিক পরিমাণ অর্থের বিভিন্ন পণ্য আমদানি করে-",
+      "options": {
+        "ক": "ভারত থকে খ চীন থেকে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "চীন থেকে",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_38_101",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 101,
+      "question": "২০২২ সালের ফিফা বিশ্বকাপ অনুষ্ঠিত হবে:",
+      "options": {
+        "ক": "দুবাই সিউল",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৩",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_38_103",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 103,
+      "question": "নৈরাজ্য যে তত্ত্বের মূল উপাদান সেটি হচ্ছে:",
+      "options": {
+        "ক": "ণয় উদারতাবাদ গঠনবাদ",
+        "খ": "International Tribunal for -he law of -he sea",
+        "গ": "৪টি ঘ ৫েটি",
+        "ঘ": "Permanent Court of Arbitration"
+      },
+      "correctAnswer": "",
+      "answerText": "১৯৬",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_38_106",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 106,
+      "question": "মিয়ানমারে রোহিঙ্গারা তাদের নাগরিকত্ব হারায়:",
+      "options": {
+        "ক": "১৯৬২ সনে খ ১৯৮৬ সনে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৯৮২ সনে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_107",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 107,
+      "question": "গুয়াম-এর গভর্নরের নাম হচ্ছে:",
+      "options": {
+        "ক": "এ্যডি ক্যালভো খ ডোনাল্ড ডাক",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_108",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 108,
+      "question": "অক্টোবর বিপ্লবের নেতৃত্ব দিয়েছেন:",
+      "options": {
+        "ক": "কাল মাকস খ ফ্রেডরিক এঙ্গেলস",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বাফার রাষ্ট্র",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_110",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 110,
+      "question": "পিং পং এর অর্থ হচ্ছে-",
+      "options": {
+        "ক": "ভলিবল খ` টেবিল টেনিস",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "টেবিল টেনিস",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_111",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 111,
+      "question": "বেল্ট ও রোড ইনিসিয়েটিভ (বিআরআই) প্রস্তাব করেছে:",
+      "options": {
+        "ক": "চন খ জাপান",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "চীন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_112",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 112,
+      "question": "কোনটি জাতিসংঘের সহযোগী নয়?",
+      "options": {
+        "ক": "আইএলও ভ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ASEAN (আশিয়ান)",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_113",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 113,
+      "question": "সার্কের সদর দপ্তর কোথায়?",
+      "options": {
+        "ক": "ঢাক খ` নয়াদিল্লী ]",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "UNTO",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_115",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 115,
+      "question": "নিম্নের কোন কার্যক্রমের সাথে অ্যামনেস্টি ইন্টারন্যাশনাল যুক্ত?",
+      "options": {
+        "ক": "প্রাণীদের প্রতি নিষ্ঠুরতা রোধ",
+        "খ": "",
+        "গ": "মানবাধিকার সংরক্ষণ",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "মানবাধিকার সংরক্ষণ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_116",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 116,
+      "question": "UNHCR এর সদর দপ্তর কোথায়?",
+      "options": {
+        "ক": "নিউইয়ক খ . ররম",
+        "খ": "পরিবেশ সংরক্ষণ",
+        "গ": "১৯৭৮ সনে ঘ ১৯৮১ সনে",
+        "ঘ": "জেনেভা"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "জেনেভা",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_120",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 120,
+      "question": "ক্রমহ্রাসমান হারে ওজোনস্তর ক্ষয়কারী উপাদান বিলীনের বিষয়টি কোন চুক্তিতে বলা হয়েছে? ১১৭. ভারতের সবচেয়ে প্াচীন রাজনৈতিক দল কোনটি?",
+      "options": {
+        "ক": "ভারতীয় জনতা পারটি",
+        "খ": "ম্যাগনা কাটা থেকে",
+        "গ": "ইন্ডিয়ান ন্যাশনাল কংগ্রেস",
+        "ঘ": "মন্ট্রিল প্রটোকল"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "মন্ট্রিল প্রটোকল",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_38_121",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 121,
+      "question": "ভূতাত্তবিকভাবে বাংলাদেশের সবচেয়ে পুরাতন ভূমিরূপ গঠিত হয়:",
+      "options": {
+        "ক": "টারশিয়ারী যুগে খ প্লাইস্টোসিন যুগে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "টারশিয়ারী যুগে",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_38_122",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 122,
+      "question": "বাংলাদেশের এফসিডিআই প্রকল্পের উদ্দেশ্য:",
+      "options": {
+        "ক": "বন্যা নিয়ন্ত্রণ খ পানি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "উপরের তিনটি (ক,খ, গ)",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_38_123",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 123,
+      "question": "বাংলাদেশের জলবায়ু কী ধরনের?",
+      "options": {
+        "ক": "ক্রান্তীয় ও উপক্রান্তীয়়",
+        "খ": "",
+        "গ": "উপক্রান্তীয় জলবায়ু",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "ক্রান্তীয় মৌসুমী জলবায়ু",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_38_124",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 124,
+      "question": "নিচের কোন জেলাতে প্লাইস্টোসিন চত্বরভূমি রয়েছে?",
+      "options": {
+        "ক": "চাঁদপুর খ পিরোজপুর",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "গাজীপুর",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_125",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 125,
+      "question": "আফ্রিকার সাব-সাহারা অঞ্চলকে কী নামে অভিহিত করা হয়?",
+      "options": {
+        "ক": "সাভানা খ তুন্দ্রা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সাহেল",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_126",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 126,
+      "question": "কোনটি জলবায়ুর উপাদান নয়? উষ্ণতা আদ্রতা",
+      "options": {
+        "ক": "সমুদ্রস্রোত",
+        "খ": "কমুনিস্ট পাটি",
+        "গ": "কাল মার্কস ঘ এন্টিনিও গ্রামসি",
+        "ঘ": "আর্দ্র ক্রান্তীয় জলবায়ু"
+      },
+      "correctAnswer": "ক",
+      "answerText": "সমুদ্রস্রোত",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_130",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 130,
+      "question": "কোনটি জলজ আবহাওয়াজনিত (hydro-meteorological) দুর্যোগ নয়?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_132",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 132,
+      "question": "বর্তমানে পরিবেশ-বান্ধব কোন গ্যাসটি রেফ্রিজারেটরের কম্প্রেসরে ব্যবহার করা হয়? ১২৭ নিচের কোন ভৌগোলিক এলাকাটি 'রামসার সাইট' হিসেবে",
+      "options": {
+        "ক": "রামসাগর খ বগা লেইক",
+        "খ": "",
+        "গ": "নদীর উৎপত্তিস্থলে",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "টেট্রাফ্লুরো ইথেন",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_38_133",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 133,
+      "question": "ক্যান্সার চিকিংসায় যে বিকিরণ ব্যবহার করা তা হলো",
+      "options": {
+        "ক": "আলফা রেস (Alpha",
+        "খ": "",
+        "গ": "গামা রেস (Gama rays)",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "গামা রেস Gama rays)",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_134",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 134,
+      "question": "ব্যাকটেরিয়ার কোষে নিচের কোনটি উপস্থিত?",
+      "options": {
+        "ক": "প্লাসটিড খ` মাইটোকন্রিয়া",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ক্রোমাটিন বস্তু",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_135",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 135,
+      "question": "মসতিষ্কের ডোপামিন তৈরির কোষগুলো নষ্ট হলে কি রোগ হয়?",
+      "options": {
+        "ক": "এপিলেপসি খ পারকিনসন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "পারকিনসন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_136",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 136,
+      "question": "নিচের কোন উদ্ভিদ কেবল ম্যানগ্রোভ বনাঞ্চলে দেখা যায়? খেজুর পাম খ সগু পম স্বীকৃত?",
+      "options": {
+        "ক": "নিপা পাম",
+        "খ": "নদীর নিম্ন অববাহিকায়",
+        "গ": "টাঙ্গুয়ার হাও ঘ কাপ্তাই হ্রদ",
+        "ঘ": "নাইট্রোজেন ডাই-অক্সাইড"
+      },
+      "correctAnswer": "ক",
+      "answerText": "নিপা পাম",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_137",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 137,
+      "question": "বায়ুমন্ডলের কোন স্তরে বজ্রপাত ঘটে?",
+      "options": {
+        "ক": "ট্রপোমন্ডল খ স্ট্রাটোমন্ডল",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ট্রপোমন্ডল",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_138",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 138,
+      "question": "পৃথিবীর বারিমন্ডলের জলরাশির শতকরা কতভাগ জল",
+      "options": {
+        "ক": "<0৫% খ. 0.৬>%",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "০ ৬৮%",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_139",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 139,
+      "question": "বাণিজ্যিকভাবে মৌমাছি পালনকে বলা হয়-",
+      "options": {
+        "ক": "পিসিকালচার খ এপিকালচার",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "এপিকালচার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_140",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 140,
+      "question": "উচিত?",
+      "options": {
+        "ক": "90 দিনের মধ্যে ভ্যাকসিন দিতে হবে",
+        "খ": "৭ দিন ইনকিউবেটরে রাখতে হবে",
+        "গ": "জন্মের ১১ ঘন্টার মধ্যে ভ্যাকসিন",
+        "ঘ": "জন্মের ১ মাস পর কেবলমাত্র (HBIG) শট দিতে হবে"
+      },
+      "correctAnswer": "গ",
+      "answerText": "জন্মের ১২ ঘন্টার মধ্যে ভ্যাকসিন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_141",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 141,
+      "question": "ডেঙ্গু রোগ ছড়ায়-",
+      "options": {
+        "ক": "Aedes aegypti মশা",
+        "খ": "",
+        "গ": "Anopheles মশা",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "Aedes aegypti মশা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_142",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 142,
+      "question": "বায়ুমন্ডলের যে স্তরে বেতার তরঙ্গ প্রতিফলিত স্ট্রাটোস্কফিয়া ট্রপোস্কফিয়ার",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "আয়োনোস্কিয়ার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_143",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 143,
+      "question": "স্টিফেন হকিং একজন-",
+      "options": {
+        "ক": "দারশনিক পদার্থবিদ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মিথেন গ্যাস",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_145",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 145,
+      "question": "কোনটি নবায়নযোগ্য শক্তির উৎস?",
+      "options": {
+        "ক": "খ সমুদ্রের ঢেউ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "সমুদ্রের ঢেউ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_146",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 146,
+      "question": "10101111 এর 1's complement কোনটি? ! 1111 1111 খ 0000 0000",
+      "options": {
+        "ক": "",
+        "খ": "House flies",
+        "গ": "মেসোমন্ডল ঘ তাপমন্ডল",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "0101 0000",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_147",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 147,
+      "question": "কোন মাধ্যমে আলোর পালস ব্যবহৃত হয়?",
+      "options": {
+        "ক": "তামার তার",
+        "খ": "",
+        "গ": "অপটিক্যাল ফাইবার",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "অপটিক্যাল ফাইবার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_148",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 148,
+      "question": "ই-মেইল গ্রহণ করার অধিক ব্যবহৃত প্রোটকল কোনটি?",
+      "options": {
+        "ক": "P0P3 খ P0P9",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "POP3",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_149",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 149,
+      "question": "কোনটি সঠিক নয়?",
+      "options": {
+        "ক": "1+0 ] খ 11 = !",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "L 1 = 1",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_150",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 150,
+      "question": "এক Word কত বিট বিশিষ্ট হয়?",
+      "options": {
+        "ক": "8 ছ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "16",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_151",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 151,
+      "question": "কোন ধরনের bus ব্যবহৃত হয় না?",
+      "options": {
+        "ক": "adlilress bus input-reader bus",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "input-reader bus",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_152",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 152,
+      "question": "ROM ভিত্তিক প্রোগ্রামের নাম কি?",
+      "options": {
+        "ক": "mnalware খ firmware",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_154",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 154,
+      "question": "কোনটি মাইক্রোসফটের প্রথম প্রোগাম- Windows Winlows YP",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "MS D0s",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_155",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 155,
+      "question": "ডিস্ক ডিফ্রাগমেন্টেশন ব্যবহৃত হয়-",
+      "options": {
+        "ক": "ভাইরাস ধ্বংসের জন্য",
+        "খ": "",
+        "গ": "ডিস্কের ফাইলগুলোকে পুনর্বিন্যস্ত করতে",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "ডিস্কের ফাইলগুলোকে পুনর্বিন্যস্ত করতে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_156",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 156,
+      "question": "কোন সাইটটি কেনা-বেচার জন্য নয়?",
+      "options": {
+        "ক": "ekhanei con খ Olxconn",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "googlecom",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_157",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 157,
+      "question": "কম্পিউটার নেটওয়াকে OST মডেমের স্তর কয়টি?",
+      "options": {
+        "ক": "৭ ছ",
+        "খ": "কো-এক্সিয়াল ক্যাবল",
+        "গ": "HTML দা SMTP",
+        "ঘ": "ওয়়্যারলেস মিডিয়া"
+      },
+      "correctAnswer": "ক",
+      "answerText": "৭",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_159",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 159,
+      "question": "কোন প্রটোকলটি ইন্টারনেট সংযোগের ক্ষেত্রে সর্বাধিক ব্যবহৃত হয়?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_163",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 163,
+      "question": "30 থেকে 40 পর্যন্ত সংখ্যা থেকে যেকোনো একটিকে ইচ্ছেমত নিলে সে সংখ্যাটি মৌলিক অথবা 5 এর গুণিতক",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_38_165",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 165,
+      "question": "দুটি সংখ্যার অনুপাত 2 : 3 এবং গসাগু 4 হলে বৃহত্তর সংখ্যাটি কত?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_38_167",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 167,
+      "question": "মি রেজা তাঁর সম্পদের ১২% স্ত্রীকে; ৫৮% ছেলেকে এবং অবশিষ্ট ৭২০০০০/- টাকা মেয়েকে দিলেন ! তার ১৫৮. কোন চিহ্নটি ই-মেইল ঠিকানায় অবশ্যই থাকবে?",
+      "options": {
+        "ক": "$ ছ #",
+        "খ": "",
+        "গ": "& চা",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "২৪০০০০০ টাকা",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_38_168",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 168,
+      "question": "Y 13 +1 2 হলে; x3 + 1 এর মান কত?",
+      "options": {
+        "ক": "31 2 খ 181 3",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "181 3",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_38_169",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 169,
+      "question": "-2 হলে) Y = কত?",
+      "options": {
+        "ক": "খ ^ 2",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "21 2",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_38_170",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 170,
+      "question": "2' + 21x = 3 হলে; Y = কত?",
+      "options": {
+        "ক": "(1,2) খ (0,2)",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "(0,1)",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_38_171",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 171,
+      "question": "বাস্তব সংখ্যায 2x-3 | <_ অসমতাটির সমাধান-",
+      "options": {
+        "ক": "11< 2 খ I 1 1 অথবা L > 2",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_38_172",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 172,
+      "question": "নিচের সমান্তর অনুক্রমে 5ম পদটি 18",
+      "options": {
+        "ক": "2 10",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "30",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_38_175",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 175,
+      "question": "AABC ৫ ZB 90' যদ AC 2AB হয় তবে; ZC এর মান",
+      "options": {
+        "ক": "25 22.5",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "একটি শহর",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_177",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 177,
+      "question": "অম্বর এর প্রতিশব্দ কোনটি?",
+      "options": {
+        "ক": "পৃথিবী খ জল",
+        "খ": "",
+        "গ": "121 3 ঘা 8",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "আকাশ",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_38_179",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 179,
+      "question": "আগামী পরশুর পরের দিন যদি রবিবার হয় তবে; গতকালের আগের দিন কি বার ছিল?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_180",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 180,
+      "question": "১৯৯৪ সালের ১ ডিসেম্বর বৃহস্পতিবার হলে ১৯৯৫ সালের একই তারিখ কি বার হবে? ১৭৮ ১ থেকে ১০০ পর্যন্ত সংখ্যাসমূহের যোগফল কত?",
+      "options": {
+        "ক": "৪৯৯৯ খ ৫৫০১",
+        "খ": "RHIIn",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৬৪",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_38_183",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 183,
+      "question": "The novelist has a hold of in writing man1ne1",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "style",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_184",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 184,
+      "question": "কোন সংখ্যাটি নিম্নোক্ত ধারায় আন্তর্ভুক্ত নয়? ১ - ১ - ৫ - ১০ ১৩ ২৬ ২৯ ৪৮",
+      "options": {
+        "ক": "১ খ ১০",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৪৮",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_38_185",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 185,
+      "question": "নিচের চারটির মধ্যে কোনটি ভিন্ন?",
+      "options": {
+        "ক": "পতল খ তাম",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "পিতল",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_186",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 186,
+      "question": "নিচের কোনটি প্রশ্নবোধক স্থানে বসবে? JD-KF-? PM-TR !",
+      "options": {
+        "ক": "1J MI",
+        "খ": "",
+        "গ": "৫৫০ চা ৫০০১",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "MI",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_190",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 190,
+      "question": "একজন লোক একটি নির্দিষ্ট স্থান A থেকে যাত্রা শুরু করে ১২ কিলোমিটার উত্তর দিকে গেল এবং সেখান থেকে ১৮৭. দুই ব্যক্তি একটি কাজ একত্রে ৮ দিনে করতে পারে ব্যক্তি একা ঐ কাজটি কত দিনে করতে পারবে?",
+      "options": {
+        "ক": "২০ দিনে খ ২৫ দিনে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৩ কিমি",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_38_191",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 191,
+      "question": "গোল্ডেন মিন (Golden mean) হলো-",
+      "options": {
+        "ক": "সমস্ত সম্ভাব্য কর্মের",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "দুটি চরম পন্থার মধ্যবর্তী অবস্থা",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_192",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 192,
+      "question": "কোন বছর ইউএনডিপি (UNDP) সুশাসনের সংজ্ঞা প্রবর্তন করে?",
+      "options": {
+        "ক": "১৯৯৫ খ. ১৯৯৭",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৯৯৭",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_38_193",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 193,
+      "question": "শূন্যবাদ যে ল্যাটিন শব্দ থেকে উদ্ভূত তার অর্থ-",
+      "options": {
+        "ক": "সব খ কিছুই না",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "কিছুই না",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_38_194",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 194,
+      "question": "ব্যাক্ত সহনশীলতার শিক্ষা লাভ করে-",
+      "options": {
+        "ক": "সুশাসনের শিক্ষা থেকে",
+        "খ": "আইনের শিক্ষা থেকে",
+        "গ": "মূল্যবোধের শিক্ষা থেকে",
+        "ঘ": "কতব্যবোধ থেকে"
+      },
+      "correctAnswer": "গ",
+      "answerText": "মূল্যবোধের শিক্ষা থেকে",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_196",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 196,
+      "question": "নিচের কোন রিপোর্টে বিশ্ব ব্যাংক সুশাসনের সংজ্ঞা প্রদান করেছেন? ১৯৫ সুশাসনের কোন নীতি সংগঠনের স্বাধীনতাকে নিশ্চিত করে?",
+      "options": {
+        "ক": "অংশগরহণ জবাবদিহিতা",
+        "খ": "",
+        "গ": "শাসন প্রক্রিয়া এবং নৈতিক শাসন প্রক্রিয়া",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "শাসন প্রক্রিয়া এবং উন্নয়ন",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_38_197",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 197,
+      "question": "নিচের কোনটি সুশাসনের উপাদান নয়?",
+      "options": {
+        "ক": "অংশগ্রহণ খ সচ্ছত",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নৈতিক শাসন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_198",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 198,
+      "question": "নিচের কোনটি সংস্কৃতির উপাদান নয়? আইন খ প্রতীক",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "আইন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_199",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 199,
+      "question": "জেরেমি বেন্থাম কোন দেশের অধিবাসী ছিলেন?",
+      "options": {
+        "ক": "জামানি খ ফরান্স",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "যুক্তরাজ্য",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_38_200",
+      "exam": "38th BCS Preliminary",
+      "examCode": "bcs_38",
+      "questionNo": 200,
+      "question": "মূল্যবোধ পরীক্ষা করে-",
+      "options": {
+        "ক": "ভাল ও মন্দ",
+        "খ": "শাসন প্রক্রিয়া এবং সুশাসন",
+        "গ": "নৈতিকতা ও অনৈতিকতা",
+        "ঘ": "শাসন প্রক্রিয়া এবং উন্নয়ন"
+      },
+      "correctAnswer": "",
+      "answerText": "উপরের সবগুলো",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "38th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1658 @@
+{
+  "examName": "12th BCS Preliminary",
+  "examCode": "bcs_12",
+  "totalQuestions": 67,
+  "validation": {
+    "totalDetected": 67,
+    "highestQuestionNo": 100,
+    "missing": [
+      2,
+      4,
+      5,
+      22,
+      23,
+      24,
+      25,
+      32,
+      34,
+      35,
+      36,
+      37,
+      43,
+      44,
+      47,
+      52,
+      53,
+      54,
+      56,
+      57,
+      59,
+      64,
+      65,
+      66,
+      67,
+      74,
+      75,
+      77,
+      84,
+      85,
+      86,
+      87,
+      89
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 54,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_12_001",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 1,
+      "question": "! ক্রিয়া শব্দের মূল অংশকে বলা হয়-",
+      "options": {
+        "ক": "বিভক্কতি খ ধাতু",
+        "খ": "মধুসূদন দত্ত",
+        "গ": "প্রত্যয় ঘ কৃৎ",
+        "ঘ": "রঙ্গলাল বন্দ্যোপাধ্যায়"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "রঙ্গলাল বন্দ্যোপাধ্যায়",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_12_003",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 3,
+      "question": "শুদ্ধ বাক্যটি চিহ্নিত করুণ-",
+      "options": {
+        "ক": "বিদ্যান ব্যকতিগণ দরিদ্রের শিকার হন",
+        "খ": "বিদ্যান ব্যক্তিগণ দারিদ্রতার শিকার হন",
+        "গ": "বিদ্বান ব্যক্তিগণ দারিদ্র্যের শিকার হন ম]0|",
+        "ঘ": "বিদ্যান ব্যক্তিগণ দরিদ্রতার শিকার হন"
+      },
+      "correctAnswer": "",
+      "answerText": "চা, চিনি",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_12_006",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 6,
+      "question": "বাংলা সাহিত্যের ইতিহাসে প্রাচীনতম মুসলমান কবি-",
+      "options": {
+        "ক": "শাহ মুহম্মদ সগীর খ সাবিরিদ খান",
+        "খ": "",
+        "গ": "শেখ ফয়জুল্লাহ ঘ মুহম্মদ কবির",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "শাহ মুহম্মদ সগীর",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_12_007",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 7,
+      "question": "/ মুসলমান কবি রচিত প্রাচীনতম বাংলা কাব্য-",
+      "options": {
+        "ক": "ইউসুফ জোলেখা খ রসুল বিজয়",
+        "খ": "",
+        "গ": "নূরনামা ঘ শবে মেরাজ",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ইউসুফ জোলেখা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_12_008",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 8,
+      "question": "' এখানে যারা প্রাণ দিয়েছে রমনার উর্ধ্বমুখী কৃষ্ণচূড়ার নীচে সেখানে আমি কাঁদতে আসিনি \" এর রচয়িতা-",
+      "options": {
+        "ক": "জহির রায়হান",
+        "খ": "গাফ্ফার চৌধুরী",
+        "গ": "শামসুর রাহমান",
+        "ঘ": "মাহবুব উল আলম চৌধুরী"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "মাহবুব উল আলম চৌধুরী",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_12_009",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 9,
+      "question": "মধুসূদন দত্ত রচিত 'বীরাঙ্গনা'-",
+      "options": {
+        "ক": "মহাকাব্য খ পত্রকাব্য",
+        "খ": "",
+        "গ": "গীতিকাব্য ঘ আখ্যনকাব্য",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "পত্রকাব্য",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_12_010",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 10,
+      "question": "! 'রোহিণী' কোন উপন্যাসের নায়িকা?",
+      "options": {
+        "ক": "কৃষ্ণকান্তের উইল খ . চোখের বালি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "কৃষ্ণকান্তের",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_12_011",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 11,
+      "question": "! নিম্নরেখ কোন শব্দে করণ কারকে শূন্য বিভক্তি ব্যবহৃত হয়েছে?",
+      "options": {
+        "ক": "ঘোড়াকে 'চাবুক' সর",
+        "খ": "'ডাক্তার' ডাক",
+        "গ": "গাড়ি 'স্্টেশন' ছেড়েছে",
+        "ঘ": "'মাসুলধারে' বৃষ্টি পড়ছে \""
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "'মাসুলধারে' বৃষ্টি পড়ছে \"",
+      "status": "parsed_clean",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_12_012",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 12,
+      "question": "রূপসী বাংলার কবি-",
+      "options": {
+        "ক": "জসীমউদদীন . জীবনানন্দ দাশ",
+        "খ": "",
+        "গ": "কালিদাস রায় ঘ সত্যেন্দ্রনাথ দত্ত",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "জীবনানন্দ দাশ",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_12_013",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 13,
+      "question": "! এক কথায় প্রকাশ করুন: 'যা বলা হয়নি'-",
+      "options": {
+        "ক": "উক্ত খ অব্যক্ত",
+        "খ": "",
+        "গ": "অণু",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "অনুক্ত",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_12_014",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 14,
+      "question": "কবিগান রচয়িতা এবং গায়ক হিসেবে এরা উভয়েই পরিচিত-",
+      "options": {
+        "ক": "রাম বসু এবং ভোলা ময়রা",
+        "খ": "",
+        "গ": "সাবিরিদ খান এবং দাশরথী রায়",
+        "ঘ": "আলাওল এবং ভারতচন্দ্র"
+      },
+      "correctAnswer": "ক",
+      "answerText": "রাম বসু এবং ভোলা ময়রা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_12_015",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 15,
+      "question": "বাংলা সাহিত্যের সর্বাধিক সমৃদ্ধ ধারা-",
+      "options": {
+        "ক": "নাটক খ ছোটগল্প",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "গীতিকবিতা",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_12_016",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 16,
+      "question": "কোন শব্দে ধাতুর সঙ্গে প্রত্যয় যুক্ত হয়েছে?",
+      "options": {
+        "ক": "ঠগী খ পনসা",
+        "খ": "",
+        "গ": "পাঠক চা সেলামী",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "পাঠক",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_12_017",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 17,
+      "question": "/ কোন বানানটি শুদ্ধ? idd",
+      "options": {
+        "ক": "পাষাণ খ. পামান",
+        "খ": "",
+        "গ": "পাসান ঘ পাশান",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "পাষাণ",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_12_018",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 18,
+      "question": "বটতলার পুঁথি বলতে বুঝায়- 10u1 SUCCeSক: The matter",
+      "options": {
+        "ক": "মধ্যযুগীয় কাব্যের হস্তলিখিত পাণ্ডুলিপি",
+        "খ": "বটতলা নামক স্থানে রচিত কাব্য",
+        "গ": "দোভাবী বাংলায় রচিত পুঁথি সাহিত্য",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "দোভাষী বাংলায় রচিত পুঁথি সাহিত্য",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_12_019",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 19,
+      "question": "বাগধারা যুগলদের মধ্যে কোন জোড়া সর্বাধিক সমার্থবাচক?",
+      "options": {
+        "ক": "অমাবস্যার চাঁদ; আকাশ কুসুম",
+        "খ": "",
+        "গ": "রুই-কাতলা; কেউ কেটা",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বক ধার্মিক; বিড়াল তপস্বী",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_12_020",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 20,
+      "question": "! ড মুহম্মদ শহীদুল্লাহ ছিলেন প্রধানত-",
+      "options": {
+        "ক": "ভাষাতত্ত্ববিদ",
+        "খ": "সাহিত্যের ইতিহাস রচয়িতা",
+        "গ": "ইসলাম প্রচারক",
+        "ঘ": "সমজ সংককারক"
+      },
+      "correctAnswer": "ক",
+      "answerText": "ভাষাতত্ত্ববিদ",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_12_021",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 21,
+      "question": "মাদের গরব, মোদের আশা আ মরি বাংলা ভাষা' রচয়িতা-",
+      "options": {
+        "ক": "রামনিধি গুপ্ত খ রবীন্দ্রনাথ ঠাকুর",
+        "খ": "Let you and him be witnesses",
+        "গ": "অতুল প্রসাদ সেন ঘ সত্যেন্দরনাথ দত্ত",
+        "ঘ": "The police were informed of -he matter"
+      },
+      "correctAnswer": "",
+      "answerText": "Relative pronoun",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_12_026",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 26,
+      "question": "Choose the correct one-",
+      "options": {
+        "ক": "Mispel Misspell",
+        "খ": "",
+        "গ": "Mispell চ Misspel",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "Misspell",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_12_027",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 27,
+      "question": "/ Fill in the blank 'What is the time. your watch?'",
+      "options": {
+        "ক": "by খ 111",
+        "খ": "",
+        "গ": "at ঘ with",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "by",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_12_028",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 28,
+      "question": "Fill in the blanks 'Give my to him '",
+      "options": {
+        "ক": "Warm compliment",
+        "খ": "Compliments",
+        "গ": "Best compliment",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "Compliments",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_12_029",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 29,
+      "question": "'Caesar and Cleopatra' 1s-",
+      "options": {
+        "ক": "tragedy by Shakespeare",
+        "খ": "play by G.B.",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "a play by G.B. Shaw",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_12_030",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 30,
+      "question": "Who is the greatest modern English dramatist?",
+      "options": {
+        "ক": "Virginia Woolf",
+        "খ": "George Bernardl Shaw",
+        "গ": "P.B. Shelley",
+        "ঘ": "$.T. Coleridge"
+      },
+      "correctAnswer": "খ",
+      "answerText": "George Bernard Shaw",
+      "status": "parsed_clean",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_12_031",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 31,
+      "question": "! Who is the author of A Farewell to Arms'?",
+      "options": {
+        "ক": "T. $ Eliot",
+        "খ": "John Milton",
+        "গ": "Wiliam Wordsworth ঘ Bulter",
+        "ঘ": "Ernest Hemingway"
+      },
+      "correctAnswer": "",
+      "answerText": "Jonathan Swift",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_12_033",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 33,
+      "question": "What is the synonym of 'Delude'?",
+      "options": {
+        "ক": "Dennan] Pernnit",
+        "খ": "",
+        "গ": "Aggravate ঘ Deceive",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "Deceive",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_12_038",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 38,
+      "question": "What is the noun of the word 'Waste'?",
+      "options": {
+        "ক": "Waste খ Wasting",
+        "খ": "পারাবাত এক্সপ্রেস",
+        "গ": "Wastage ঘ Wasteful",
+        "ঘ": "সৈকত এক্সপ্রেস"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "উপকূল এক্সপ্েস",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_12_039",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 39,
+      "question": "বাংলাদেশের বৃহত্তম হাওড়-",
+      "options": {
+        "ক": "পাথরচাওলি খ . হাইল",
+        "খ": "",
+        "গ": "চলনবিল চা হাকালুকি",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "হাকালুকি",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_12_040",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 40,
+      "question": "'কিওক্রাডং' এর উচ্চতা প্রায়-",
+      "options": {
+        "ক": "১০১০ মিটার খ ১৩৫০ মিটার",
+        "খ": "",
+        "গ": "১২৩০ মিটার ঘ ১৩৬৪ মিটার",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "১২৩০ মিটার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_12_041",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 41,
+      "question": "বাংলাদেশে বার্ষিক চা উতপাদনের পরিমাণ হচ্ছে প্রায়-",
+      "options": {
+        "ক": "১৪ কোটি কেজি খ ১৩ কোটি কেজি",
+        "খ": "",
+        "গ": "১০৫ কোটি কেজি ঘ ১৩৮ কোটি কেজি",
+        "ঘ": "১৩৮ কোটি কেজি"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_12_042",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 42,
+      "question": "ঢাকা মেট্রোপলিটন এলাকার আয়়তন কত?",
+      "options": {
+        "ক": "১৫৩০ বর্গমাইল খ ৯০ বর্গমাইল",
+        "খ": "গঙ্গা-ব্রহ্মপুত্রের মধ্যে সংযোগ খাল খনন",
+        "গ": "১৬০ বর্গমাইল ঘ বর্গমাইল",
+        "ঘ": "গঙ্গা শাখা নদী সমূহের পানি প্রবাহ বৃদ্ধি"
+      },
+      "correctAnswer": "",
+      "answerText": "মহাস্থানগড়ে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_12_045",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 45,
+      "question": "ভারত-বাংলাদেশ যৌথ নদী কমিশনের অন্যতম প্রধান লক্ষ্য-",
+      "options": {
+        "ক": "দু'দেশের নদীগুলোর নাব্যতা বৃদ্ধি",
+        "খ": "",
+        "গ": "বন্যা নিয়ন্ত্রণে দু'দেশের মধ্যে সহযোগিতা",
+        "ঘ": "দু'দেশের নৌ-পরিবহন ব্যবস্থার উন্নয়ন"
+      },
+      "correctAnswer": "ক",
+      "answerText": "দু'দেশের নদীগুলোর নাব্যতা",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_12_046",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 46,
+      "question": "বাংলাদেশের পতাকা প্রথম উত্তোলন করা হয় কবে?",
+      "options": {
+        "ক": "৭ মাচ, ১৯৭১ খ ২ মাচ, ১৯৭১",
+        "খ": "২ মাচ, ১৯৭১",
+        "গ": "২৬ মাচ, ১৯৭১ ঘ ১৭ এপ্রিল, ১৯৭১",
+        "ঘ": "রাজশাহী"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "রাজশাহী",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_12_048",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 48,
+      "question": "ঢাকার বিখ্যাত তারা মসজিদ তৈরি করেছিল-",
+      "options": {
+        "ক": "শায়েস্তা খান খ নবাব সলিমুল্লাহ",
+        "খ": "",
+        "গ": "মিজা আহমদ জান ঘ মিজা গোলাম গীর",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_12_049",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 49,
+      "question": "কোন শাসকের সময় থেকে সমগ্র বাংলা ভাষাভাষী অঞ্চল পরিচিত হয়ে ওঠে 'বাঙ্গালাহ' নামে?",
+      "options": {
+        "ক": "ফকরুদ্দিন মোবারক শাহ",
+        "খ": "শামসুদ্দিন ইলিয়াস শাহ",
+        "গ": "আকবর",
+        "ঘ": "ঈশাঁ খান"
+      },
+      "correctAnswer": "খ",
+      "answerText": "শামসুদ্দিন ইলিয়াস শাহ",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_12_050",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 50,
+      "question": "বাংলাদেশে উন্নত মানের কয়লার সন্ধান পাওয়া গিয়েছে-",
+      "options": {
+        "ক": "জামালগঞ্জে খ জকিগঞ্জে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "জামালগঞ্জে",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_12_051",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 51,
+      "question": "বাংলাদেশে চীনা মাটির সঙ্ধান পাওয়া গেছে-",
+      "options": {
+        "ক": "বিজয়পুরে খ রানীগঞ্জে",
+        "খ": "বেইজিং স্পোর্টস স্টেডিয়াম",
+        "গ": "টেকেরহাটে ঘ বিয়ানী বাজারে",
+        "ঘ": "চায়না স্পোটস স্টেডিয়াম"
+      },
+      "correctAnswer": "",
+      "answerText": "ওয়ার্কাস স্টেডিয়াম; বেইজিং",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_12_055",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 55,
+      "question": "I শাত-ইল আরবকে কেন্দ্র করে ইরাক ও ইরানের মধ্যে স্বাক্ষরিত চুক্তির নাম-",
+      "options": {
+        "ক": "দামেস্ক চুক্তি খ আলজিয়াস চুক্তি",
+        "খ": "রুমানিয়াতে গণতান্ত্রিক প্রথা প্রচলন সম্পন্ন করা",
+        "গ": "কায়রো চুক্ত ঘ বৈরুত চুক্তি",
+        "ঘ": "পূর্ব জার্মানি হতে সোভিয়েত সৈন্য প্রত্যাহার সম্পন্ন করা"
+      },
+      "correctAnswer": "",
+      "answerText": "৪০,০০০",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_12_058",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 58,
+      "question": "কোন দেশকে হাজার হদের দেশ বলা হয়?",
+      "options": {
+        "ক": "নরওযযয় খ সুইডেন",
+        "খ": "",
+        "গ": "ফিনল্যান্ড চা সুইজারল্যান্ড",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "GCC",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_12_060",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 60,
+      "question": "বাসসতিল দুর্গের পতন ঘটেছিল-",
+      "options": {
+        "ক": "১৪ জুলাই, ১৭৮৯ খ ৭ জুন, ১৭৮৮",
+        "খ": "",
+        "গ": "৫ অক্টোবর, ১৭৮৮ ঘ ২৬ আগস্ট, ১৭৮৮",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১৪ জুলাই, ১৭৮৯",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_12_061",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 61,
+      "question": "কঙ্গো প্রজাতন্ত্রের বর্তমান নাম-",
+      "options": {
+        "ক": "লিওপোন্ডভিল খ জিম্বাবুয়ে",
+        "খ": "",
+        "গ": "জিবুতি ঘ জায়ারে",
+        "ঘ": "জায়ারে"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_12_062",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 62,
+      "question": "ট্রাফালগার স্কয়ার' কোন শহরে অবস্থিত?",
+      "options": {
+        "ক": "ওয়াশিংটন খ প্যারিস",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "লন্ডন",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_12_063",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 63,
+      "question": "! মিশর সুয়েজখাল জাতীয়করণ করেছিল-",
+      "options": {
+        "ক": "১৯৫৬ খ ১৯৫৫",
+        "খ": "",
+        "গ": "১৯৫৪ ঘ ১৮৯৫",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_12_068",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 68,
+      "question": "জাপান পার্ল হারবার আক্রমণ করে-",
+      "options": {
+        "ক": "৭ ডিসেম্বর, ১৯৪১ খ ২৩ জুন, ১৯৪২",
+        "খ": "ইরাকের কুযেত দখলের অবসান করা",
+        "গ": "স্বল্পমূল্যে জ্বালানি তেলের সরবরাহ নিশ্চিত করা",
+        "ঘ": "উপরের সবকটি"
+      },
+      "correctAnswer": "",
+      "answerText": "পোলারয়েড ফটোগ্রাফি পদ্ধতিতে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_12_069",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 69,
+      "question": "! যে সর্বোচ্চ শ্রুতি সীমার উপরে মানুষ বধির হতে পারে তা ঢিব: ৫0 হচ্ছে",
+      "options": {
+        "ক": "৭৫ ডিবি খ ১০",
+        "খ": "",
+        "গ": "১০৫ ডিবি ঘ ১২০ ডিবি",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১০৫ ডিবি you1 SUC",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_12_070",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 70,
+      "question": "| কোনো বস্তুকে পানিতে সম্পূর্ণভাবে ডুবালে পানিতে যেখানে এটি রাখা যায় সেখানেই এটি থাকে কারণ-",
+      "options": {
+        "ক": "ঘনত্ব পানির চেয়ে বেশি",
+        "খ": "বস্তুর ঘনত্ব পানির ঘনত্বের চেযে",
+        "গ": "বস্তুর ঘনত্ব পানির ঘনত্বের সমান",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "বস্তুর ঘনত্ব পানির ঘনত্বের সমান",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_12_071",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 71,
+      "question": "পানিতে নৌকার বৈঠা বাঁকা দেখা যাওয়ার কারণ, আলোর- g ক প্রতিসরণ খ পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "বিচ্ছুরণ ঘ পোলারায়ন",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "প্রতিসরণ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_12_072",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 72,
+      "question": "! রান্না করার হাড়ি-পাতিল সাধারণত অ্যালুমিনিয়ামের তৈরি হয় এর প্রধান কারণ-",
+      "options": {
+        "ক": "এটি হাল্কা ও দামে সস্তা",
+        "খ": "এটি সব দেশেই পাওয়া যায়",
+        "গ": "এতে দ্রুত তাপ সঞ্চরিত হয়ে খাদ্যদ্রব্য তাড়াতাড়ি সিদ্ধ হয়",
+        "ঘ": "এটি সহজে ভেঙ্গে যায় না এবং বেশি গরম সহ্য করতে পারে"
+      },
+      "correctAnswer": "গ",
+      "answerText": "এতে দ্রুত তাপ সঞ্চরিত হয়ে খাদ্যদ্রব্য তাড়াতাড়ি সিদ্ধ হয়",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_12_073",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 73,
+      "question": "রিমোট সেন্সিং বা দূর অনুধাবন বলতে বিশেষভাবে বোঝায়-",
+      "options": {
+        "ক": "রেডিও ট্রান্সমিটার সহযোগে দূর থেকে তথ্য সংগ্রহ",
+        "খ": "রাডারের সাহায্যে চারদিকের পরিবেশের অবলোকন",
+        "গ": "কোয়াসার প্রভৃতি মহাজাগতিক উৎস থেকে সংকেত অনুধাবন",
+        "ঘ": "উপগ্রহের সাহায্যে দূর থেকে ভূমণ্ডলের অবলোকন"
+      },
+      "correctAnswer": "",
+      "answerText": "সালফিউরিক এসিড",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_12_076",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 76,
+      "question": "ফুলানো বেলুনের মুখ ছেডে দিলে বাতাস বেরিয়ে যাবার সঙ্গে সঙ্গে বেলুনটি ছুটে যায় কোন ইঞ্জিনের নীতির সঙ্গে এর মিল আছে?",
+      "options": {
+        "ক": "বাষ্পীয় ইঞ্জিন খ অন্তদর্হন ইঞ্জিন",
+        "খ": "একাধিক পরমাণু যুক্ত করে নতুন পরমাণু গঠন করে",
+        "গ": "স্টারলিং ইঞ্জিন রকেট ইঞ্জিন",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "একাধিক পরমাণু যুক্ত করে নতুন পরমাণু গঠন করে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_12_078",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 78,
+      "question": "প্রবল জোয়়ারের কারণ, এ সময়",
+      "options": {
+        "ক": "চন্দ পৃথিবীর সবচেয়ে কাছে থাকে",
+        "খ": "সূর্য ও চন্দ্র পৃথিবীর সঙ্গে সমকোণ করে থাকে",
+        "গ": "পৃথিবী সূর্যের সবচয়ে কাছে থাকে",
+        "ঘ": "সূ্য, চন্দ্র ও পৃথিবী এক সরলরেখায় থাকে"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "সূর্য, চন্দ্র ও পৃথিবী এক সরলরেখায় থাকে",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_12_079",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 79,
+      "question": "নিচের কোন উক্তিটি সঠিক?",
+      "options": {
+        "ক": "বায়ু একটি যৌগিক পদার্থ",
+        "খ": "বায়ু একটি মৌলিক পদার্থ",
+        "গ": "বায়ু একটি মিশ্র পদার্থ",
+        "ঘ": "বায়ু বলতে অক্সিজেন ও নাইট্রোজেনকে বোঝায়"
+      },
+      "correctAnswer": "গ",
+      "answerText": "বায়ু একটি মিশ্র পদার্থ",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_12_080",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 80,
+      "question": "ভৌগোলিকভাবে গুরুত্বপূর্ণ একটি কাল্পনিক রেখা বাংলাদেশের উপর দিয়ে গিয়েছে; সেটি হচ্ছে- 0",
+      "options": {
+        "ক": "মূল মধ্যরেখা খ কর্কটক্রান্তি রেখা",
+        "খ": "",
+        "গ": "মকরক্রান্তি রেখা আন্তজাতিক তারিখ রেখা",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "কর্কটক্রান্তি রেখা",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_12_081",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 81,
+      "question": "! যে বায়ু সর্বদাই উচ্চচাপ অঞ্চল থেকে প্রবাহিত হয় তাকে বলা হয়-",
+      "options": {
+        "ক": "আয়ন বায়ু খ প্রত্যয়ন বায়ু",
+        "খ": "",
+        "গ": "মৌসুমী বায়ু ঘ নিয়ত বায়ু",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "নিয়ত বায়ু",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_12_082",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 82,
+      "question": "! গ্রিন হাউজ ইফেক্ট বলতে বোঝায়-",
+      "options": {
+        "ক": "সূর্যালোকের অভাবে সালোক সংশ্লেষণে ঘাটতি",
+        "খ": "তাপ আটকে পড়ে সার্বিক তাপমাত্রা বৃদ্ধি",
+        "গ": "প্রাকৃতিক চাষের বদলে ক্রমবধমানভাবে কৃত্রিম চাষের প্রয়োজনীয়তা",
+        "ঘ": "উপগ্রহের সাহায্যে দূর থেকে ভূমণ্ডলের অবলোকন"
+      },
+      "correctAnswer": "খ",
+      "answerText": "তাপ আটকে পড়ে সার্বিক তাপমাত্রা বৃদ্ধি",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_12_083",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 83,
+      "question": "! জাতিসংঘে রাষ্ট্পতির ভাষণ অনুযায়ী; বাংলাদেশে শিশুমৃত্যুর হার কমিয়ে আনা হয়েছে প্রতি হাজারে-",
+      "options": {
+        "ক": "১99 খ ১২১",
+        "খ": "",
+        "গ": "১১৭ চা ৩৯",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "৩৯",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_12_088",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 88,
+      "question": "! চিনির মূল্য ২৫% বৃদ্দধি পাওয়াতে একটি পরিবার চিনি খাওয়া এমনভাবে কমাল যে, চিনি বাবদ ব্যয় বৃদ্দধি পেল নাL ঐ পরিবার চিনি খাওয়ার খরচ শতকরা কত কমিয়েছিল?",
+      "options": {
+        "ক": "99% খ ২৫%",
+        "খ": "Z1]",
+        "গ": "১৫% চা ২০%",
+        "ঘ": "২০৫৭৩৪০"
+      },
+      "correctAnswer": "খ",
+      "answerText": "Z1]",
+      "status": "parsed_clean",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_12_090",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 90,
+      "question": "! 2x2 Y - 15 এর উতপাদক হবে-",
+      "options": {
+        "ক": "Zx + 3) 1 + 1) খ 21 3)1 - 1)",
+        "খ": "",
+        "গ": "2x + 3)1 - 1) ঘ 21 3)1 + 1)",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "3)1 + 1)",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_12_091",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 91,
+      "question": "! a' + 4 এর উতপাদক কী কী?",
+      "options": {
+        "ক": "(a' + 2a + 2)(a' + 2)",
+        "খ": "(a' + | 2)(a'_ Za + 2)",
+        "গ": "(a' | 2)(a' + 22 2)",
+        "ঘ": "(a' 2)a' 2a + 2)"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "(a' / / 2)a' 2a + 2)",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_12_092",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 92,
+      "question": "L p এর মান কত হলে, 4r' _ px + 9 একটি পূর্ণবর্গ হবে?",
+      "options": {
+        "ক": "১০ খ ৯",
+        "খ": "",
+        "গ": "১৭ দ. ১>",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১২",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_12_093",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 93,
+      "question": "! ৮, ১১, ১৭, ২৯, ৫ে, পরবর্তী",
+      "options": {
+        "ক": "১০১ খ ১০>",
+        "খ": "",
+        "গ": "৭৫ ৫",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১০১ you1 SUCCes",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_12_094",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 94,
+      "question": "! চারটি সমান বাহু দারা সীমাবদ্ধ একটি ক্ষেত্র যার একটি কোণও সমকোণ নয়, এরূপ চিত্রকে বলা হয়-",
+      "options": {
+        "ক": "বর্গক্ষেত্র খ চতুভুজ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "রম্স",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_12_095",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 95,
+      "question": "| একটি সুষম বহুভুজের একটি অন্তঃকোণের পরিমাণ ১৩৫' হলে বহুভুজটির বাহুর সংখ্যা হবে-",
+      "options": {
+        "ক": "৬ খ` ৭",
+        "খ": "",
+        "গ": "",
+        "ঘ": "১9"
+      },
+      "correctAnswer": "",
+      "answerText": "৮",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_12_096",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 96,
+      "question": "একটি সমবাহু ত্রিভুজের একটি বাহু ১৬ মিটার, ত্রিভুজটির ক্ষেত্রফল কত?",
+      "options": {
+        "ক": "192 খ 321 3",
+        "খ": "",
+        "গ": "641 3 দ. 64",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "641/ 3",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_12_097",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 97,
+      "question": "ABD বৃত্তে AB এবং CD দুটি সমান জ্যা পরস্পর p বিন্দুতে ছেদ করলে কোনটি সত্য?",
+      "options": {
+        "ক": "P=P] খ. PA-PB",
+        "খ": "",
+        "গ": "PB-PA PB=P]",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "PB=P]",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_12_098",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 98,
+      "question": "নিচের কোন সংখ্যাটি ! 2 এবং ! 3 এর মধ্যবর্তী মূলদ সংখ্যা? 1 2+1 3 খ 12.3 ক 2 2",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "1.5 চা 1.8",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "1.5",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_12_099",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 99,
+      "question": "! একটি স্কুলে ছাত্রদের ড্রিল করার সময় ৮, ১০ এবং ১২ সারিতে সাজানো যায় [ আবার বর্গাকারেও সাজানো যায় ! ঐ স্কুলে কমপক্ষে কতজন ছাত্র আছে?",
+      "options": {
+        "ক": "৩৬09 খ` ১৪০9",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৩৬০০",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_12_100",
+      "exam": "12th BCS Preliminary",
+      "examCode": "bcs_12",
+      "questionNo": 100,
+      "question": "শহরের রাস্থায় ট্রাফিক লাইট যে ক্রম অনুসারে জ্বলে তা হলো-",
+      "options": {
+        "ক": "লাল-সবুজ-হলুদ-লাল-সবুজ",
+        "খ": "লাল-হলুদ-সবুজ-লাল-হলুদ",
+        "গ": "লাল-হলুদ-সবুজ-হলুদ-লাল",
+        "ঘ": "লাল-হলুদ-লাল-সবুজ-হলুদ"
+      },
+      "correctAnswer": "গ",
+      "answerText": "লাল-হলুদ-সবুজ-হলুদ-লাল",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "12th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    }
+  ]
+}

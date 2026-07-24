@@ -1,0 +1,1589 @@
+{
+  "examName": "32th BCS Preliminary",
+  "examCode": "bcs_32",
+  "totalQuestions": 64,
+  "validation": {
+    "totalDetected": 64,
+    "highestQuestionNo": 100,
+    "missing": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      21,
+      22,
+      23,
+      24,
+      28,
+      29,
+      30,
+      31,
+      34,
+      35,
+      36,
+      37,
+      42,
+      43,
+      44,
+      47,
+      52,
+      53,
+      54,
+      56,
+      59,
+      64,
+      65,
+      66,
+      67,
+      74,
+      77,
+      84,
+      85,
+      86
+    ],
+    "hasDuplicateNumbers": false,
+    "needsReviewCount": 62,
+    "isClean": false
+  },
+  "status": "parsed_needs_review",
+  "questions": [
+    {
+      "id": "bcs_32_003",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 3,
+      "question": "কোনটি ইংরেজি শব্দ?",
+      "options": {
+        "ক": "ম্যাজেন্টা খ পিস্তল",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "কমা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_32_008",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 8,
+      "question": "/ 'শূন্যপুরাণ রচনা করেছেন -",
+      "options": {
+        "ক": "রামাই পণ্ডিত খ শ্রীকর নন্দী",
+        "খ": "",
+        "গ": "সঞ্জীবচন্দ্র চট্টোপাধ্যায়",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "গোলাপ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_32_009",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 9,
+      "question": "দিবারাত্রির কাব্য' কার লেখা উপন্যাস?",
+      "options": {
+        "ক": "শ্রীকুমার বন্দ্যোপাধ্যায়",
+        "খ": "তারাশঙ্কর বন্দ্যোপাধ্যায়",
+        "গ": "ঈশানচন্দ্র বন্দ্যোপাধ্যায়",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "মানিক বন্দ্যোপাধ্যায়",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_32_010",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 10,
+      "question": "কাজী নজরুল ইসলাম রচিত গল্প কোনটি?",
+      "options": {
+        "ক": "পদ্মরাগ খ পদ্মগোখরা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "পদ্মগোখরা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_32_011",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 11,
+      "question": "'আনোয়ারা' গ্রন্থটি কার রচনা?",
+      "options": {
+        "ক": "কাজী এমদাদুল হক",
+        "খ": "",
+        "গ": "মোহাম্মদ নজিবর রহমান",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "মোহাম্মদ নজিবর রহমান",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_32_012",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 12,
+      "question": "'বীরবল' ছদ্মনামে কে লিখতেন? রবীন্দ্রনাথ ঠাকুর খ` মুনীর চৌধুরী",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "প্রমথ চৌধুরী",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_32_013",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 13,
+      "question": "/ কোনটি শুদ্ধ বানান?",
+      "options": {
+        "ক": "আকাংখা খ আকাঙ্কষা",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "আকাঙ্ক্ষা",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_32_014",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 14,
+      "question": "কোনটি 'বাতাস' শব্দের সমার্থক নয়?",
+      "options": {
+        "ক": "পাবক মরুত",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "পাবক",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_32_015",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 15,
+      "question": "ভাষার ক্ষুদ্রতম একক কোনটি?",
+      "options": {
+        "ক": "বণ খ শব্দ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ধ্বনি",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_32_016",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 16,
+      "question": "'মা ছিল না বলে কেউ তার চুল বেঁধে দেয়নি !' এটি একটি-",
+      "options": {
+        "ক": "জটিল বাক্য খ`",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সরল বাক্য",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_32_017",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 17,
+      "question": "গাছপাথর'বাগধারাটির অর্থ",
+      "options": {
+        "ক": "ভূমিকা করা খ`",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "হিসাব-নিকাশ",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_32_018",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 18,
+      "question": "",
+      "options": {
+        "ক": "মীর মশাররফ হোসেন",
+        "খ": "",
+        "গ": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+        "ঘ": ""
+      },
+      "correctAnswer": "গ",
+      "answerText": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_32_019",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 19,
+      "question": "ভাষা আন্দোলন বিষয়ক উপন্যাস কোনটি?",
+      "options": {
+        "ক": "আরেক ফাল্গুন খ জীবন ঘষে আগুন",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "আরেক ফাল্গুন",
+      "status": "needs_manual_review",
+      "subject": "Bangla",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Bangla"
+      ]
+    },
+    {
+      "id": "bcs_32_020",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 20,
+      "question": "মুক্তিযুদ্ধনির্ভর রচনা কোনটি? g ক এইসব দিন রাত্রি ছ নূরলদীনের সারা জীবন",
+      "options": {
+        "ক": "একাত্তরের দিনগুলি",
+        "খ": "কাজী নজরুল ইসলাম",
+        "গ": "পদ্মাপুরাণ পদ্মাবতী",
+        "ঘ": "ইসমাইল হোসেন সিরাজী"
+      },
+      "correctAnswer": "ক",
+      "answerText": "একাত্তরের দিনগুলি",
+      "status": "parsed_clean",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_32_025",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 25,
+      "question": "Select the alternative which best express the meaning Of the given sentence \"We were ২১ Choose the correct synonym for 'Extempore' Planne] খ . Improvise ২২ Choose the correct synonym for 'Menacing'. Encouraging > Alarming ২৩. Choose the correct antonym for 'Oblige'. Bin] Require ২৪. Choose the correct antonym for 'Cynical' . Pessinnistic খ ভullible TIRICKS T0 Englishb 8toiies MAYEDULISLAM PRODHAN ফট9ই 444 333 03 ডিুডিট কiনom 10 more surprised than Rahman",
+      "options": {
+        "ক": "We were less surprised than Rahman",
+        "খ": "",
+        "গ": "Rahmnan was less surprised than 11$.",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "We were as surprised as Rahman",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_32_026",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 26,
+      "question": "'Not once has our neighbor invited us into his house\"",
+      "options": {
+        "ক": "Ou1 neighbor has invited us into his house not once",
+        "খ": "0111' neighbor has invited us into his house",
+        "গ": "Impronptu চ Immediate",
+        "ঘ": ""
+      },
+      "correctAnswer": "খ",
+      "answerText": "Our neighbour has invited us into his house",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_32_027",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 27,
+      "question": "Choose a suitable wordlphrase to fill in the blanks of the given sentence Travellers of words that best retains the meaning of the underlined worldlphrase in the given sentence 'Despite being a brilliant scientist, he does What may be considered courteous in one culture may be arrogant in another. man or woman Should vote for the candidate of their choice'.",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_32_032",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 32,
+      "question": "Identify the incorrect wordlphrase indicated by (1), (2), (3) or their reservation well in advance if -hey",
+      "options": {
+        "ক": "had better to get",
+        "খ": "",
+        "গ": "had better get",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "perfect (2)",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_32_033",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 33,
+      "question": "Identify the incorrect wordlphrase indicated by (1), (2), (3) According to experts g০01 specially news and documentaries",
+      "options": {
+        "ক": "to {1) improve (2)",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "wat h",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_32_038",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 38,
+      "question": "Choose the pair words that expresses Wordswriter Laws policeman gঁ গ Chall black boar] Other Job's Preparation want to visit the St Martins island",
+      "options": {
+        "ক": "Wall brik chil]",
+        "খ": "hadl to better get",
+        "গ": "racious দা friendly",
+        "ঘ": "It 1s unlikely that nothing bad has happened"
+      },
+      "correctAnswer": "ঘ",
+      "answerText": "It 1s likely that nothing bad has happened:",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_32_039",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 39,
+      "question": "iterogtio Qerfi",
+      "options": {
+        "ক": "Hyperbole",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "wonler",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_32_040",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 40,
+      "question": "To 'raise ones brows' indicate Disapproval SuCcesগ Annoyance খ` CLISSRIUIL এম আই প্রখান মুকুল স্যানের এক বইয়ে ? GRANIMAR LITERATURE $ ADIISSION 096 444 333 03 চটলাং ক Other Job's Preparation relationship similar to that of the given pair:",
+      "options": {
+        "ক": "",
+        "খ": "Artist innitation",
+        "গ": "Iitchen house ঘ Engine ca1'",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "surprise",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_32_041",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 41,
+      "question": "২০০য খ ২০১১ তামাবিল সীমান্তের সাথে ভারতের কোন শহরটি অবস্থিত?",
+      "options": {
+        "ক": "করিমগঞ্জ খ খোয়াই",
+        "খ": "",
+        "গ": "Bangladesh Telephone and Telegraph Regulatory Commission",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "সৈয়দপুর",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_32_045",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 45,
+      "question": "বাংলাদেশের White gol1 কোনটি?",
+      "options": {
+        "ক": "ইলিশ খ পাট",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "চিংড়ি",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_32_046",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 46,
+      "question": "বাংলাদেশের কোন জেলাটি বাংলাদেশ-ভারত সীমান্তের মধ্যে নয়?",
+      "options": {
+        "ক": "পঞ্চগড় ` সাতক্ষীরা",
+        "খ": "",
+        "গ": "দুটি কৃষি বিষয়ক বেসরকারি",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "উন্নত জাতের গমের নাম",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_32_048",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 48,
+      "question": "আলোকিত মানুষ চাই' এটি কোন প্রতিষ্ঠানের শ্লোগান?",
+      "options": {
+        "ক": "জাতীয় গ্রন্থ কেন্দ্র",
+        "খ": "",
+        "গ": "সুশাসনের জন্য নাগরিক",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বিশ্বসাহিত্য কেন্দ্র",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_32_049",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 49,
+      "question": "বাংলাদেশের জাতীয় পতাকার দৈর্ঘ্য-প্রস্থের অনুপাত কোনটি?",
+      "options": {
+        "ক": "৮ : ৫ খ ১০ : ৬",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১০",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_32_050",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 50,
+      "question": "! কোন জেলায় চা-বাগান বেশি? gঁ ক সিলেট খ . হবিগঞ্জ",
+      "options": {
+        "ক": "",
+        "খ": "বিশ্বসাহিত্য কেন্দ্র",
+        "গ": "২০৯ ঘ ২০১০",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "মৌলভীবাজার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_32_051",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 51,
+      "question": "জনসংখ্যার ভিত্তিতে বৃহত্তর মুসলিম রাষ্ট্র কোনটি?",
+      "options": {
+        "ক": "পাকিস্তান খ সৌদি আরব",
+        "খ": "",
+        "গ": "ব্রিটেনের রাজা হিসেবে",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "দিলি",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_32_055",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 55,
+      "question": "নোবেল পুরস্কার বিজয়ী তাওয়াক্কুল কারমান' কোন দেশের নাগরিক?",
+      "options": {
+        "ক": "ইরান খ ইন্দোনেশিয়া",
+        "খ": "",
+        "গ": "হেলিকপ্টার চালিত",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "বোমারু বিমান চালিত",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_32_057",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 57,
+      "question": "আটলান্টিক ও প্রশান্ত মহাসাগরকে যুক্ত করেছে",
+      "options": {
+        "ক": "সুয়েজ খাল",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "পানামা খাল",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_32_058",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 58,
+      "question": "'গ্রিনল্যান্ড'-এর মালিকানা কোন দেশের? success",
+      "options": {
+        "ক": "সুইডেন খ . নেদারল্যান্ডস",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "চীন",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_32_060",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 60,
+      "question": "'তাস' কোন দেশের সংবাদ সংস্থা? রাশিয়া খ চীন",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "রাশিয়া",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_32_061",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 61,
+      "question": "মডেম এর মধ্যে যা থাকে তা হলো",
+      "options": {
+        "ক": "একটি মডুলেটর",
+        "খ": "মিগ চালিত",
+        "গ": "একটি কোডেক",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "একটি মডুলেটর ও একটি ডিমডুলেটর",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_32_062",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 62,
+      "question": "ডায়োড সবচেয়ে বেশি ব্যবহৃত হয় -",
+      "options": {
+        "ক": "ক্যাপাসিটর হিসেবে খ ট্রান্সফরমার হিসেবে",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "রেক্টিফায়ার হিসেবে",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_32_063",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 63,
+      "question": "বাসা বাড়িতে সরবরাহকৃত বিদ্যুতের ফ্রিকোয়েন্সি হলো -",
+      "options": {
+        "ক": "৫০ হাজ খ ২২০ হাজ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "৫০ হাজ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_32_068",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 68,
+      "question": "বাংলাদেশের কৃষিতে 'দোয়েল'-",
+      "options": {
+        "ক": "জাতীয় পাখির নাম খ উন্নত জাতের গমের নাম",
+        "খ": "",
+        "গ": "একটি ক্ষতিকারক চৌম্বক ফ্লাক্স",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "একটি ক্ষতিকারক প্রোগ্রাম",
+      "status": "needs_manual_review",
+      "subject": "Bangladesh Affairs",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Bangladesh Affairs"
+      ]
+    },
+    {
+      "id": "bcs_32_069",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 69,
+      "question": "জন্য . সি-মস `T",
+      "options": {
+        "ক": "ওয়াইম্যাক্স খ`",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "ওয়াইম্যাক্স",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_32_070",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 70,
+      "question": "এন্টিবায়োটিকের কাজ",
+      "options": {
+        "ক": "জীবাণু ধ্বংস করা",
+        "খ": "",
+        "গ": "ভাইরাস ধ্বংস করা",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "জীবাণু ধংস করা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_32_071",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 71,
+      "question": "মাশরুম এক ধরনের -",
+      "options": {
+        "ক": "অপুষ্পক উদ্ভিদ খ. পরজীবী উদ্ভিদ",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ফাঙ্গাস",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_32_072",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 72,
+      "question": "! অপটিক্যাল ফাইবারে আলোর কোন ঘটনাটি ঘটে? g ক প্রতিসরণ ছ বিচ্ছুরণ",
+      "options": {
+        "ক": "অভ্যন্তরীণ প্রতিফলন",
+        "খ": "রোগ প্রতিরোধের ক্ষমতা করা",
+        "গ": "রেজিস্টর হিসেবে ঘ রেক্টিফায়ার হিসেবে",
+        "ঘ": "দ্রুত রোগ নিরাময় করা"
+      },
+      "correctAnswer": "ক",
+      "answerText": "অভ্যন্তরীণ প্রতিফলন",
+      "status": "parsed_clean",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_32_073",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 73,
+      "question": "যকৃতের রোগ কোনটি?",
+      "options": {
+        "ক": "জন্ডস খ টাইফয়েড",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "নিয়ত বায়ু",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_32_075",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 75,
+      "question": "! পিতলের উপাদান হলো-",
+      "options": {
+        "ক": "তামা ও টিন ছ ৩ম ও নিকেল",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "তামা দস্তা",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_32_076",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 76,
+      "question": "! বৈদ্যুতিক মিটারে এক ইউনিট বিদ্যুৎ খরচে বলতে বুঝায় -",
+      "options": {
+        "ক": "এক কিলোওয়াট-ঘণ্টা",
+        "খ": "",
+        "গ": "এক কিলোওয়াট",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ট্রান্সফরমার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_32_078",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 78,
+      "question": "উদ্ভিদের বৃদ্দধি নির্ণায়ক যন্ত্র",
+      "options": {
+        "ক": "ওডোমিটার ক্রনোমিটার",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ক্রেসকোগ্রাফ",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_32_079",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 79,
+      "question": "স্বরণের খাদ বের করতে ব্যবহার করা হয়| 0&",
+      "options": {
+        "ক": "সালফিউরিক এসিড খ নাইট্রিক এসিড",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "নাইট্রিক এসিড",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_32_080",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 80,
+      "question": "ভূপৃষ্ঠের সৌরদীপ্ত ও অন্ধকারাচ্ছন্ন অংশের সংযোগস্থলকে",
+      "options": {
+        "ক": "ঊষা ছ গোধূলি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "ছায়াবৃত্ত",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_32_081",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 81,
+      "question": "L Y এবং y উভয়ই বিজোড় সংখ্যা হলে কোনটি জোড় সংখ্যা হবে?",
+      "options": {
+        "ক": "& + J + 1 খ Zj",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "x + J",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_32_082",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 82,
+      "question": "| ৭ সেমি ব্যাসার্ধ বিশিষ্ট বৃত্তের অন্তর্লিখিত বর্গক্ষেত্রের ক্ষেত্রফল কত?",
+      "options": {
+        "ক": "৯৮ ব সেমি খ ৪৯ ব সেমি",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "৯৮ ব সেমি",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_32_083",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 83,
+      "question": "",
+      "options": {
+        "ক": "১৮০ খ ১৫০০",
+        "খ": "এক ওয়াট-ঘণ্ডা",
+        "গ": "হাম ঘা কলেরা",
+        "ঘ": "এক ওয়াট"
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_32_087",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 87,
+      "question": "! টাকায ৩টি করে লেবু কিনে টাকায় ২টি করে বিক্রি করলে শতকরা কত লাভ হবে?",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_32_088",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 88,
+      "question": "! ১, ৩, ৬, ১০, ১৫, ২১ ধারাটির দশম পদ কত? 9000000",
+      "options": {
+        "ক": "৪৫ খ ৫৫",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৯ গুণ",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_32_089",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 89,
+      "question": "একটি গাড়ির চাকা প্রতি মিনিটে ৯০ বার ঘোরে",
+      "options": {
+        "ক": "১০ খ ২৭০০",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৫৪০",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_32_090",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 90,
+      "question": "ABCD চতুভুজে AB | CD, AC =",
+      "options": {
+        "ক": "সামান্তরিক রম্বস",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "আয়তক্ষেত্র",
+      "status": "needs_manual_review",
+      "subject": "English",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "English"
+      ]
+    },
+    {
+      "id": "bcs_32_091",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 91,
+      "question": "কোন ভগ্নাংশটি ক্ষুদ্রতম?",
+      "options": {
+        "ক": "৫ ৬ খ ১২ ১৫",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১১/ ১৪",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_32_092",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 92,
+      "question": "পরপর তিনটি সংখ্যার গুণফল ১২০ হলে, তাদের যোগফল কত?",
+      "options": {
+        "ক": "@ খ ১<",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "১৫",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_32_093",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 93,
+      "question": "! 0.89 কে সাধারণ ভগ্নাংশে পরিণত করলে কত হবে? 8৭/৯০ 8৩/৯০",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৪৩/৯০",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_32_094",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 94,
+      "question": "/ : খ Y - J",
+      "options": {
+        "ক": "",
+        "খ": "",
+        "গ": "৬> দা ৬৫",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "x + y - 1",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_32_095",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 95,
+      "question": "কত?",
+      "options": {
+        "ক": "খ 3",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "3",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_32_096",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 96,
+      "question": "! x3 +1], Ty +xy' এর লসাগু কোনটি?",
+      "options": {
+        "ক": "&y খ x + J",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "x2y x + y)",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_32_097",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 97,
+      "question": "একটি আয়তাকার ঘরের দৈর্ঘ্য প্রস্থ অপেক্ষা ৪ মিটার বেশি",
+      "options": {
+        "ক": "৬ মিটার খ ১০ মিটার",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "ক",
+      "answerText": "১০ মিটার",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_32_098",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 98,
+      "question": "সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য কত?",
+      "options": {
+        "ক": "মিটার খ 2 মিটার",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": ") মিটার",
+      "status": "needs_manual_review",
+      "subject": "General Knowledge",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "General Knowledge"
+      ]
+    },
+    {
+      "id": "bcs_32_099",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 99,
+      "question": "! Y + 1 হলে, x3 1 এর মান কত?",
+      "options": {
+        "ক": "334 154",
+        "খ": "",
+        "গ": "",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "364",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    },
+    {
+      "id": "bcs_32_100",
+      "exam": "32th BCS Preliminary",
+      "examCode": "bcs_32",
+      "questionNo": 100,
+      "question": "সেট A= {x = N : x' > 8, Y 3 30} হলে Y এর মান কোনটি? 0",
+      "options": {
+        "ক": "$ >",
+        "খ": "",
+        "গ": "2 চ 1",
+        "ঘ": ""
+      },
+      "correctAnswer": "",
+      "answerText": "৩",
+      "status": "needs_manual_review",
+      "subject": "Mathematics",
+      "examType": "Preliminary",
+      "tags": [
+        "BCS",
+        "32th BCS Preliminary",
+        "Preliminary",
+        "Mathematics"
+      ]
+    }
+  ]
+}
