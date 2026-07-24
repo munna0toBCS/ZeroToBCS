@@ -10,35 +10,8 @@ export default function MockExam() {
       time: "200 Minutes",
       description: "Complete BCS Preliminary Simulation",
       button: "Start Full Mock",
-     action: () => navigate("/mock-session"),
+      action: () => navigate("/mock-session"),
       color: "#2563eb",
-    },
-    {
-      title: "📚 Subject Mock",
-      questions: "Custom",
-      time: "Flexible",
-      description: "Practice one subject under exam conditions.",
-      button: "Coming Soon",
-      disabled: true,
-      color: "#334155",
-    },
-    {
-      title: "📜 Previous BCS Mock",
-      questions: "Previous",
-      time: "Real Exam",
-      description: "Solve previous BCS Preliminary papers.",
-      button: "Coming Soon",
-      disabled: true,
-      color: "#334155",
-    },
-    {
-      title: "🏦 Bank Job Mock",
-      questions: "Custom",
-      time: "Real Exam",
-      description: "Bank recruitment examination simulation.",
-      button: "Coming Soon",
-      disabled: true,
-      color: "#334155",
     },
   ];
 
@@ -95,7 +68,6 @@ export default function MockExam() {
             </p>
 
             <button
-              disabled={exam.disabled}
               onClick={exam.action}
               style={{
                 marginTop: "25px",
@@ -106,43 +78,13 @@ export default function MockExam() {
                 background: exam.color,
                 color: "#fff",
                 fontSize: "16px",
-                cursor: exam.disabled
-                  ? "not-allowed"
-                  : "pointer",
-                opacity: exam.disabled ? 0.6 : 1,
+                cursor: "pointer",
               }}
             >
               {exam.button}
             </button>
           </div>
         ))}
-      </div>
-
-      <div
-        className="card"
-        style={{
-          marginTop: "35px",
-        }}
-      >
-        <h2>🔥 Upcoming Features</h2>
-
-        <ul
-          style={{
-            lineHeight: "35px",
-            marginTop: "20px",
-          }}
-        >
-          <li>✅ Full BCS Mock (200 Questions)</li>
-          <li>✅ Previous BCS Papers</li>
-          <li>✅ Subject-wise Mock</li>
-          <li>✅ Smart Performance Analysis</li>
-          <li>✅ Weak Topic Detection</li>
-          <li>✅ AI Mentor Recommendation</li>
-          <li>✅ National Leaderboard</li>
-          <li>✅ Negative Marking</li>
-          <li>✅ Auto Submit</li>
-          <li>✅ Resume Interrupted Exam</li>
-        </ul>
       </div>
     </div>
   );

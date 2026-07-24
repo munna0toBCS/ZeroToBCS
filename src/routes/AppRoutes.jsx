@@ -15,7 +15,6 @@ import MockSession from "../pages/MockSession";
 import PracticeSession from "../pages/PracticeSession";
 import MistakeNotebook from "../pages/MistakeNotebook";
 import Curriculum from "../pages/Curriculum";
-import Admin from "../pages/Admin";
 import QuestionManager from "../pages/QuestionManager";
 import QuestionImporter from "../pages/QuestionImporter";
 import KnowledgeHub from "../knowledge/pages/KnowledgeHub";
@@ -162,16 +161,6 @@ export default function AppRoutes() {
   element={
     <ProtectedRoute>
       <MistakeNotebook />
-    </ProtectedRoute>
-  }
-/>
-<Route
-  path="/admin"
-  element={
-    <ProtectedRoute>
-      <AdminRoute>
-        <Admin />
-      </AdminRoute>
     </ProtectedRoute>
   }
 />
