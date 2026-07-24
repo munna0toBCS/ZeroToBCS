@@ -83,6 +83,28 @@ export default function MockSession() {
           <button onClick={() => window.location.reload()} style={{ marginTop: "20px" }}>
             Start Again
           </button>
+
+          <hr style={{ margin: "20px 0" }} />
+
+          {session.questions.map((question, index) => {
+            const userAnswer = session.answers[question.id];
+
+            return (
+              <div key={question.id} className="card" style={{ marginTop: "15px" }}>
+                <h3>Question {index + 1}</h3>
+                <p><strong>{question.question}</strong></p>
+
+                <p>
+                  Your Answer:{" "}
+                  {userAnswer === undefined ? "Skipped" : question.options[userAnswer]}
+                </p>
+
+                <p>Correct Answer: {question.options[question.answer]}</p>
+
+                <p><strong>Explanation:</strong> {question.explanation || "No explanation added yet."}</p>
+              </div>
+            );
+          })}
         </div>
       </div>
     );
