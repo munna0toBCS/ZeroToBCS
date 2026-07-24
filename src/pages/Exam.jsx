@@ -465,8 +465,8 @@ examQuestions.forEach((question) => {
               🔁 Practice Retake
             </button>
 
-            <button onClick={() => navigate("/dashboard")} style={{ width: "100%", marginTop: "10px" }}>
-              🏠 Back to Dashboard
+            <button onClick={() => navigate("/today")} style={{ width: "100%", marginTop: "10px" }}>
+              🏠 Back to Today
             </button>
           </div>
         )}

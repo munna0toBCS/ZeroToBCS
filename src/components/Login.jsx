@@ -17,7 +17,7 @@ await getOrCreateSupabaseUserProfile(userCredential.user);
 
       alert("✅ Login Successful!");
 
-      navigate("/dashboard");
+      navigate("/today");
     } catch (error) {
       alert(error.message);
     }

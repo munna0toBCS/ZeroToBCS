@@ -38,7 +38,7 @@ export default function Register() {
       setEmail("");
       setPassword("");
 
-      navigate("/dashboard");
+      navigate("/today");
     } catch (error) {
       alert(error.message);
     }
