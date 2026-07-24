@@ -3,9 +3,10 @@ import { useAuth } from "../context/AuthContext";
 
 export default function AdminRoute({ children }) {
   const { currentUser } = useAuth();
-const adminEmails = [
-  "asifabdullahmunnao@gmail.com",
-];
+const adminEmails = (import.meta.env.VITE_ADMIN_EMAILS || "")
+  .split(",")
+  .map((email) => email.trim())
+  .filter(Boolean);
 
   if (!currentUser) {
     return <Navigate to="/auth" replace />;

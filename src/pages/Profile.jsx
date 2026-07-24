@@ -1,14 +1,41 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { doc, setDoc } from "firebase/firestore";
 import { auth, db } from "../firebase";
+import { getUserProfile } from "../services/userService";
 import Button from "../components/ui/Button";
 
 export default function Profile() {
-  const [university, setUniversity] = useState("BUP");
+  const [university, setUniversity] = useState("");
   const [examTarget, setExamTarget] = useState("BCS");
-  const [targetCadre, setTargetCadre] = useState("Administration");
-  const [graduationYear, setGraduationYear] = useState("2027");
+  const [targetCadre, setTargetCadre] = useState("");
+  const [graduationYear, setGraduationYear] = useState("");
   const [dailyGoal, setDailyGoal] = useState("2 Hours");
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const loadProfile = async () => {
+      const user = auth.currentUser;
+
+      if (!user) {
+        setLoading(false);
+        return;
+      }
+
+      const profile = await getUserProfile(user.uid);
+
+      if (profile) {
+        setUniversity(profile.university || "");
+        setExamTarget(profile.examTarget || "BCS");
+        setTargetCadre(profile.targetCadre || "");
+        setGraduationYear(profile.graduationYear || "");
+        setDailyGoal(profile.dailyGoal || "2 Hours");
+      }
+
+      setLoading(false);
+    };
+
+    loadProfile();
+  }, []);
 
   const saveProfile = async () => {
     const user = auth.currentUser;
@@ -47,12 +74,21 @@ export default function Profile() {
     borderRadius: "10px",
   };
 
+  if (loading) {
+    return (
+      <div className="card" style={{ maxWidth: "650px", margin: "40px auto" }}>
+        <h2>Loading profile...</h2>
+      </div>
+    );
+  }
+
   return (
     <div className="card" style={{ maxWidth: "650px", margin: "40px auto" }}>
       <h1>👤 Profile Setup</h1>
 
       <label style={labelStyle}>🏫 Select Your University</label>
       <select value={university} onChange={(e) => setUniversity(e.target.value)} style={inputStyle}>
+        <option value="">Select University</option>
         <option>BUP</option>
         <option>DU</option>
         <option>JU</option>
@@ -80,6 +116,7 @@ export default function Profile() {
 
       <label style={labelStyle}>🏛️ Select Target Cadre</label>
       <select value={targetCadre} onChange={(e) => setTargetCadre(e.target.value)} style={inputStyle}>
+        <option value="">Select Cadre</option>
         <option>Administration</option>
         <option>Police</option>
         <option>Foreign Affairs</option>
@@ -96,6 +133,7 @@ export default function Profile() {
 
       <label style={labelStyle}>🎓 Select Graduation Year</label>
       <select value={graduationYear} onChange={(e) => setGraduationYear(e.target.value)} style={inputStyle}>
+        <option value="">Select Graduation Year</option>
         <option>2026</option>
         <option>2027</option>
         <option>2028</option>

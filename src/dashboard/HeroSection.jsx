@@ -27,7 +27,7 @@ export default function HeroSection({ profile, displayName }) {
 
       <p>
         🎯 Target: {profile?.examTarget || "BCS"} —{" "}
-        {profile?.targetCadre || "Administration"}
+        {profile?.targetCadre || "Not set"}
       </p>
 
       <p>
