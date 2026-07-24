@@ -24,6 +24,19 @@ export const startPractice = async ({
       difficulty,
       limit: count,
     });
+
+    // Bulk-imported questions don't always carry a granular topic tag, so
+    // an exact topic match can come back empty even when the subject has
+    // plenty of real questions. Widen to subject-only on Supabase before
+    // giving up and falling back to the local sample bank below.
+    if (questions.length === 0 && topic) {
+      questions = await getSupabaseQuestions({
+        exam,
+        subject,
+        difficulty,
+        limit: count,
+      });
+    }
   } catch (error) {
     console.warn("Supabase unavailable. Using local database.");
   }

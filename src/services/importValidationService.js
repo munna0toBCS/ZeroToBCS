@@ -1,3 +1,22 @@
+// Columns stored as a numeric type in Supabase. The importer reads blank
+// spreadsheet cells as "" (see QuestionImporter.jsx's sheet_to_json defval),
+// and Postgres rejects "" for an integer column ("invalid input syntax for
+// type integer: ''") — normalize to null before these rows ever reach the
+// insert call, since a missing year is valid data, not a bad row.
+const NUMERIC_FIELDS = ["year"];
+
+function nullifyBlankNumericFields(row) {
+  const cleaned = { ...row };
+
+  for (const field of NUMERIC_FIELDS) {
+    if (cleaned[field] !== undefined && String(cleaned[field]).trim() === "") {
+      cleaned[field] = null;
+    }
+  }
+
+  return cleaned;
+}
+
 export function validateQuestions(rows) {
   const errors = [];
   const validRows = [];
@@ -62,10 +81,10 @@ export function validateQuestions(rows) {
 
     questionSet.add(key);
 
-    const cleanedRow = {
+    const cleanedRow = nullifyBlankNumericFields({
   ...row,
   answer,
-};
+});
 
 if (cleanedRow.tags) {
   cleanedRow.tags = String(cleanedRow.tags)
