@@ -2,7 +2,6 @@ import { Routes, Route, Navigate } from "react-router-dom";
 
 import Auth from "../pages/Auth";
 import Today from "../pages/Today";
-import Dashboard from "../pages/Dashboard";
 import Syllabus from "../pages/Syllabus";
 import StudyPlanner from "../pages/StudyPlanner";
 
@@ -36,15 +35,6 @@ export default function AppRoutes() {
         element={
           <ProtectedRoute>
             <Today />
-          </ProtectedRoute>
-        }
-      />
-
-      <Route
-        path="/dashboard"
-        element={
-          <ProtectedRoute>
-            <Dashboard />
           </ProtectedRoute>
         }
       />
